@@ -284,4 +284,4 @@ dbCAN:
 https://pro.unl.edu/dbCAN2/browse_download.php
 
 - Zhang et al., 2023
-https://academic.oup.com/nar/article/51/D1/D1347/6775304
+https://academic.oup.com/nar/article/51/W1/W115/7147496
