@@ -1,0 +1,32 @@
+species_query,proteome_id,selected_organism,protein_count,file,status
+Trichoderma reesei,UP000008984,Hypocrea jecorina (strain QM6a),9115,trichoderma_reesei.fasta,OK
+Trichoderma virens,UP000007115,Hypocrea virens (strain Gv29-8 / FGSC 10586),12389,trichoderma_virens.fasta,OK
+Trichoderma atroviride,UP000005426,Hypocrea atroviridis (strain ATCC 20476 / IMI 206040),11815,trichoderma_atroviride.fasta,OK
+Trichoderma harzianum,UP000241690,Trichoderma harzianum CBS 226.95,14049,trichoderma_harzianum.fasta,OK
+Aspergillus niger,UP000006706,Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513),14069,aspergillus_niger.fasta,OK
+Aspergillus oryzae,UP001165189,Aspergillus oryzae var. brunneus,13597,aspergillus_oryzae.fasta,OK
+Aspergillus nidulans,UP000000560,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),10542,aspergillus_nidulans.fasta,OK
+Aspergillus brasiliensis,UP000184499,Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946),12982,aspergillus_brasiliensis.fasta,OK
+Aspergillus japonicus,UP000249497,Aspergillus japonicus CBS 114.51,12019,aspergillus_japonicus.fasta,OK
+Aspergillus fumigatus,UP000001699,Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10),9942,aspergillus_fumigatus.fasta,OK
+Aspergillus terreus,UP000452235,Aspergillus terreus,10118,aspergillus_terreus.fasta,OK
+Aspergillus clavatus,UP000006701,Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107),9140,aspergillus_clavatus.fasta,OK
+Penicillium chrysogenum,UP000000724,Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255),12788,penicillium_chrysogenum.fasta,OK
+Penicillium digitatum,UP000009882,Penicillium digitatum (strain PHI26 / CECT 20796),9101,penicillium_digitatum.fasta,OK
+Penicillium oxalicum,UP000019376,Penicillium oxalicum (strain 114-2 / CGMCC 5302),9977,penicillium_oxalicum.fasta,OK
+Penicillium roqueforti,UP000030686,Penicillium roqueforti (strain FM164),12315,penicillium_roqueforti.fasta,OK
+Penicillium funiculosum,NA,NA,11075,penicillium_funiculosum.fasta,FALLBACK_OK
+Penicillium echinulatum,NA,NA,NA,NA,FALLBACK_FAILED
+Neurospora crassa,UP000001805,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),10255,neurospora_crassa.fasta,OK
+Fusarium graminearum,UP000070720,Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1),14147,fusarium_graminearum.fasta,OK
+Fusarium oxysporum,UP000016929,Fusarium oxysporum f. sp. cubense (strain race 4),14157,fusarium_oxysporum.fasta,OK
+Pleurotus ostreatus,UP000623687,Pleurotus ostreatus,11624,pleurotus_ostreatus.fasta,OK
+Talaromyces pinophilus,UP000053095,Talaromyces pinophilus,10883,talaromyces_pinophilus.fasta,OK
+Talaromyces amestolkiae,UP000249363,Talaromyces amestolkiae,10407,talaromyces_amestolkiae.fasta,OK
+Yarrowia lipolytica,UP000001300,Yarrowia lipolytica (strain CLIB 122 / E 150),6454,yarrowia_lipolytica.fasta,OK
+Rhizopus oryzae,UP000716291,Rhizopus oryzae,15531,rhizopus_oryzae.fasta,OK
+Chaetomium globosum,UP000001056,Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970),11038,chaetomium_globosum.fasta,OK
+Podospora anserina,UP000001197,Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383),10657,podospora_anserina.fasta,OK
+Chaetomium thermophilum,UP000008066,Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719),7186,chaetomium_thermophilum.fasta,OK
+Myceliophthora thermophila,NA,NA,9081,myceliophthora_thermophila.fasta,FALLBACK_OK
+Thielavia terrestris,UP000008181,Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126),9760,thielavia_terrestris.fasta,OK

@@ -1,0 +1,474 @@
+## gff-version 3
+tr|K9F9X3|K9F9X3_PEND2 Aspartic endopeptidase PEP2 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_81260 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998402	.	.	.
+tr|K9FFI2|K9FFI2_PEND2 Crh-like protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_70150 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99977535	.	.	.
+tr|K9FHL7|K9FHL7_PEND2 glucan 1,3-beta-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63850 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998235	.	.	.
+tr|K9FI66|K9FI66_PEND2 tripeptidyl-peptidase II OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67780 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998517	.	.	.
+tr|K9FIE8|K9FIE8_PEND2 Crh-like protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_62500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998219	.	.	.
+tr|K9FPY5|K9FPY5_PEND2 alpha-1,2-Mannosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_56860 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99974734	.	.	.
+tr|K9FTQ1|K9FTQ1_PEND2 Alpha-L-arabinofuranosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_79360 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982214	.	.	.
+tr|K9FYL7|K9FYL7_PEND2 Crh-like protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_79140 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99980783	.	.	.
+tr|K9FZX7|K9FZX7_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34340 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984485	.	.	.
+tr|K9G1A4|K9G1A4_PEND2 galacturonan 1,4-alpha-galacturonidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998151	.	.	.
+tr|K9G219|K9G219_PEND2 DSC E3 ubiquitin ligase complex subunit A OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99983895	.	.	.
+tr|K9G431|K9G431_PEND2 Arabinan endo-1,5-alpha-L-arabinosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_70770 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99977785	.	.	.
+tr|K9G5J7|K9G5J7_PEND2 Catalase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99981564	.	.	.
+tr|K9G659|K9G659_PEND2 Endopolyphosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_15140 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998271	.	.	.
+tr|K9GCH2|K9GCH2_PEND2 Crh-like protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_06820 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999842	.	.	.
+tr|K9GD53|K9GD53_PEND2 Probable glucan endo-1,3-beta-glucosidase eglC OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_06190 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997947	.	.	.
+tr|K9GF84|K9GF84_PEND2 Protein disulfide-isomerase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99966335	.	.	.
+tr|K9GFA6|K9GFA6_PEND2 penicillopepsin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01760 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998418	.	.	.
+tr|K9GFE1|K9GFE1_PEND2 Peptidyl-prolyl cis-trans isomerase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00950 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99984825	.	.	.
+tr|K9H132|K9H132_PEND2 xylan 1,4-beta-xylosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_07090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999849	.	.	.
+tr|K9F4E2|K9F4E2_PEND2 ZIP Zinc transporter, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_90440 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99940634	.	.	.
+tr|K9F5J8|K9F5J8_PEND2 GPI anchor transamidase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_88470 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998398	.	.	.
+tr|K9F698|K9F698_PEND2 ML-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86460 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982435	.	.	.
+tr|K9F859|K9F859_PEND2 1,3-beta-glucanosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_82710 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997611	.	.	.
+tr|K9F863|K9F863_PEND2 Purple acid phosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_82650 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985594	.	.	.
+tr|K9F8N4|K9F8N4_PEND2 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_83360 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983567	.	.	.
+tr|K9F970|K9F970_PEND2 Pectate lyase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_88040 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99984956	.	.	.
+tr|K9FAI0|K9FAI0_PEND2 Protein ROT1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_85230 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99934155	.	.	.
+tr|K9FAS2|K9FAS2_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77170 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983585	.	.	.
+tr|K9FBE1|K9FBE1_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77160 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998011	.	.	.
+tr|K9FCI4|K9FCI4_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75860 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998242	.	.	.
+tr|K9FCN0|K9FCN0_PEND2 Pheromone processing endoprotease KexB OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_74090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998576	.	.	.
+tr|K9FEP4|K9FEP4_PEND2 Translocon-associated protein, alpha subunit, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_71190 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99981624	.	.	.
+tr|K9FER4|K9FER4_PEND2 Glucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76480 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.99983704	.	.	.
+tr|K9FFL8|K9FFL8_PEND2 Endoplasmic reticulum chaperone BiP OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_70700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	39	0.87938416	.	.	.
+tr|K9FFS8|K9FFS8_PEND2 Mannan endo-1,6-alpha-mannosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68750 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998157	.	.	.
+tr|K9FGJ4|K9FGJ4_PEND2 endo-1,3(4)-beta-glucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68890 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998562	.	.	.
+tr|K9FGZ3|K9FGZ3_PEND2 ribonuclease T1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67970 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998346	.	.	.
+tr|K9FH19|K9FH19_PEND2 UDP-glucose:glycoprotein glucosyltransferase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_66490 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99975026	.	.	.
+tr|K9FHM2|K9FHM2_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63950 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998474	.	.	.
+tr|K9FIA6|K9FIA6_PEND2 Carboxypeptidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_62200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99978954	.	.	.
+tr|K9FII6|K9FII6_PEND2 Amine oxidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_64640 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.8331407	.	.	.
+tr|K9FK08|K9FK08_PEND2 Arabinogalactan endo-beta-1,4-galactanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59450 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999842	.	.	.
+tr|K9FK88|K9FK88_PEND2 CFEM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59070 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999829	.	.	.
+tr|K9FLL8|K9FLL8_PEND2 Rhamnogalacturonate lyase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99986285	.	.	.
+tr|K9FLU7|K9FLU7_PEND2 J domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997992	.	.	.
+tr|K9FM83|K9FM83_PEND2 SUN domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54760 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99976665	.	.	.
+tr|K9FMI3|K9FMI3_PEND2 Glucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_61570 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99986255	.	.	.
+tr|K9FMX5|K9FMX5_PEND2 asparaginase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_91100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99978596	.	.	.
+tr|K9FN11|K9FN11_PEND2 Vacuolar serine protease OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54480 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998062	.	.	.
+tr|K9FNL7|K9FNL7_PEND2 xyloglucan-specific endo-beta-1,4-glucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_51800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.99980456	.	.	.
+tr|K9FNU8|K9FNU8_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_53520 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981934	.	.	.
+tr|K9FNY0|K9FNY0_PEND2 Probable beta-glucosidase btgE OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_89390 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998285	.	.	.
+tr|K9FNZ8|K9FNZ8_PEND2 endo-polygalacturonase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50670 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998204	.	.	.
+tr|K9FP00|K9FP00_PEND2 alpha,alpha-trehalase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58080 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998512	.	.	.
+tr|K9FP04|K9FP04_PEND2 Conidial pigment biosynthesis oxidase Abr1/brown 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54070 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998179	.	.	.
+tr|K9FP40|K9FP40_PEND2 alpha-1,3-glucan synthase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54570 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.999547	.	.	.
+tr|K9FPG7|K9FPG7_PEND2 1,3-beta-glucanosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49830 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983555	.	.	.
+tr|K9FPM0|K9FPM0_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49610 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998122	.	.	.
+tr|K9FPV3|K9FPV3_PEND2 alkaline phosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_87550 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984264	.	.	.
+tr|K9FQ22|K9FQ22_PEND2 Mannan endo-1,6-alpha-mannosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_51150 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998532	.	.	.
+tr|K9FQ79|K9FQ79_PEND2 Glucan endo-1,3-beta-D-glucosidase 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_51610 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.999765	.	.	.
+tr|K9FQC9|K9FQC9_PEND2 tripeptidyl-peptidase II OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_85970 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998107	.	.	.
+tr|K9FQD1|K9FQD1_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47620 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99977297	.	.	.
+tr|K9FQD7|K9FQD7_PEND2 Lipase/esterase family protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86120 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99986017	.	.	.
+tr|K9FQZ1|K9FQZ1_PEND2 galacturonan 1,4-alpha-galacturonidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49550 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998217	.	.	.
+tr|K9FRT1|K9FRT1_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44930 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998608	.	.	.
+tr|K9FS08|K9FS08_PEND2 Oligosaccharyl transferase subunit (Gamma), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47380 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997981	.	.	.
+tr|K9FS28|K9FS28_PEND2 agmatinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_82970 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999819	.	.	.
+tr|K9FT05|K9FT05_PEND2 Cellobiose dehydrogenase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_90800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997636	.	.	.
+tr|K9FT59|K9FT59_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_40850 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99982554	.	.	.
+tr|K9FTJ5|K9FTJ5_PEND2 pectin lyase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48410 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997876	.	.	.
+tr|K9FTV6|K9FTV6_PEND2 Extracellular metalloprotease OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_43170 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983084	.	.	.
+tr|K9FU50|K9FU50_PEND2 alpha-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_39690 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981123	.	.	.
+tr|K9FUH1|K9FUH1_PEND2 Polygalacturonase-2 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_45070 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998333	.	.	.
+tr|K9FUP7|K9FUP7_PEND2 Store-operated calcium entry-associated regulatory factor OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_45870 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982315	.	.	.
+tr|K9FUQ6|K9FUQ6_PEND2 Extracellular dihydrogeodin oxidase/laccase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86170 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99980915	.	.	.
+tr|K9FUS0|K9FUS0_PEND2 Oxidoreductin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76850 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998495	.	.	.
+tr|K9FUS6|K9FUS6_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86320 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998177	.	.	.
+tr|K9FV60|K9FV60_PEND2 SSD domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86050 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998016	.	.	.
+tr|K9FVB2|K9FVB2_PEND2 cellulase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76490 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99984634	.	.	.
+tr|K9FVB8|K9FVB8_PEND2 Dipeptidyl-peptidase V OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_37590 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997984	.	.	.
+tr|K9FVH1|K9FVH1_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_38140 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998338	.	.	.
+tr|K9FVH6|K9FVH6_PEND2 Nuclear membrane fusion protein Kar5, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44460 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998168	.	.	.
+tr|K9FVT5|K9FVT5_PEND2 pectate lyase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36510 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.99983853	.	.	.
+tr|K9FVY4|K9FVY4_PEND2 Probable beta-galactosidase B OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985254	.	.	.
+tr|K9FW66|K9FW66_PEND2 Transmembrane 9 superfamily member OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76050 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998246	.	.	.
+tr|K9FWB9|K9FWB9_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75420 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983656	.	.	.
+tr|K9FWC4|K9FWC4_PEND2 Transmembrane 9 superfamily member OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75470 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998403	.	.	.
+tr|K9FWI7|K9FWI7_PEND2 SUN domain protein (Uth1) OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34980 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981713	.	.	.
+tr|K9FWK3|K9FWK3_PEND2 Lectin family integral membrane protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_83950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979997	.	.	.
+tr|K9FWN4|K9FWN4_PEND2 protein disulfide-isomerase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_37480 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996977	.	.	.
+tr|K9FWV2|K9FWV2_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34320 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997449	.	.	.
+tr|K9FXE1|K9FXE1_PEND2 beta-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_33560 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998417	.	.	.
+tr|K9FY71|K9FY71_PEND2 DnaJ domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_38490 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99964637	.	.	.
+tr|K9FYD3|K9FYD3_PEND2 endo-1,3(4)-beta-glucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_37510 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998475	.	.	.
+tr|K9FYR5|K9FYR5_PEND2 beta-N-acetylhexosaminidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36430 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.9998284	.	.	.
+tr|K9FYY5|K9FYY5_PEND2 Hsp70 family chaperone Lhs1/Orp150, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36020 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997821	.	.	.
+tr|K9FZU0|K9FZU0_PEND2 Glycoside hydrolase family 92 protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77280 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985814	.	.	.
+tr|K9G074|K9G074_PEND2 Mannan endo-1,6-alpha-mannosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68680 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998209	.	.	.
+tr|K9G092|K9G092_PEND2 RING-type domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30710 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998761	.	.	.
+tr|K9G0N7|K9G0N7_PEND2 endo-polygalacturonase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30080 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998124	.	.	.
+tr|K9G0U0|K9G0U0_PEND2 Integral membrane protein (Ptm1), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_24800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981534	.	.	.
+tr|K9G0Z3|K9G0Z3_PEND2 Protein kinase domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_32410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998733	.	.	.
+tr|K9G0Z9|K9G0Z9_PEND2 CFEM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75880 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983126	.	.	.
+tr|K9G1A3|K9G1A3_PEND2 Carboxypeptidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998184	.	.	.
+tr|K9G1I7|K9G1I7_PEND2 Calnexin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_74200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9987807	.	.	.
+tr|K9G1X9|K9G1X9_PEND2 ML-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_73660 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983406	.	.	.
+tr|K9G1Y5|K9G1Y5_PEND2 WSC domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_73340 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998208	.	.	.
+tr|K9G290|K9G290_PEND2 acid phosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.999631	.	.	.
+tr|K9G2C6|K9G2C6_PEND2 beta-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_64330 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998157	.	.	.
+tr|K9G2Q3|K9G2Q3_PEND2 Integral membrane protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28430 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.999816	.	.	.
+tr|K9G3T2|K9G3T2_PEND2 cellulase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_61080 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998219	.	.	.
+tr|K9G3V8|K9G3V8_PEND2 ABC transporter (Adp1), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_61380 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998291	.	.	.
+tr|K9G3X2|K9G3X2_PEND2 protein disulfide-isomerase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_24920 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999698	.	.	.
+tr|K9G415|K9G415_PEND2 peptidylprolyl isomerase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_61930 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99981713	.	.	.
+tr|K9G422|K9G422_PEND2 hydroxyacid-oxoacid transhydrogenase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_70670 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998329	.	.	.
+tr|K9G458|K9G458_PEND2 Rhamnogalacturonase A/B/Epimerase-like pectate lyase domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_21430 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998387	.	.	.
+tr|K9G4G7|K9G4G7_PEND2 CFEM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_21030 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998119	.	.	.
+tr|K9G554|K9G554_PEND2 beta-galactosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997512	.	.	.
+tr|K9G5B8|K9G5B8_PEND2 Palmitoyl-protein thioesterase 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_21980 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.999604	.	.	.
+tr|K9G5S1|K9G5S1_PEND2 1,3-beta-glucanosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_21060 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99976	.	.	.
+tr|K9G633|K9G633_PEND2 Beta-galactosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57360 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983394	.	.	.
+tr|K9G6Y8|K9G6Y8_PEND2 Tetratricopeptide repeat and J domain-containing co-chaperone DNJ1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_19060 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997212	.	.	.
+tr|K9G7F2|K9G7F2_PEND2 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54990 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983025	.	.	.
+tr|K9G7G4|K9G7G4_PEND2 CFEM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_12580 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998226	.	.	.
+tr|K9G7H4|K9G7H4_PEND2 Alpha-galactosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_12630 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.60580206	.	.	.
+tr|K9G7K4|K9G7K4_PEND2 Lysophospholipase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63640 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99980867	.	.	.
+tr|K9G7R0|K9G7R0_PEND2 Antigen 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_62260 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997647	.	.	.
+tr|K9G7V4|K9G7V4_PEND2 Chitin deacetylase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_12160 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997892	.	.	.
+tr|K9G841|K9G841_PEND2 alpha-amylase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54560 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998501	.	.	.
+tr|K9G859|K9G859_PEND2 cutinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_16690 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998046	.	.	.
+tr|K9G872|K9G872_PEND2 Protein BIG1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_10980 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998265	.	.	.
+tr|K9G8Y8|K9G8Y8_PEND2 galacturonan 1,4-alpha-galacturonidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_60440 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998145	.	.	.
+tr|K9G940|K9G940_PEND2 1,3-beta-glucanosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_14140 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983174	.	.	.
+tr|K9G9H2|K9G9H2_PEND2 Arylsulfatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49660 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997474	.	.	.
+tr|K9GAT4|K9GAT4_PEND2 1,3-beta-glucanosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05620 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99981725	.	.	.
+tr|K9GAX5|K9GAX5_PEND2 penicillopepsin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_10550 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.99977905	.	.	.
+tr|K9GB19|K9GB19_PEND2 trypsin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_09970 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.999835	.	.	.
+tr|K9GB84|K9GB84_PEND2 alpha-1,3-glucan synthase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_10090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99979043	.	.	.
+tr|K9GCB5|K9GCB5_PEND2 alpha-galactosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44220 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9997574	.	.	.
+tr|K9GCH4|K9GCH4_PEND2 ER membrane protein complex subunit 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54390 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99986887	.	.	.
+tr|K9GCW2|K9GCW2_PEND2 Histidine acid phosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_52540 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99981755	.	.	.
+tr|K9GCW6|K9GCW6_PEND2 pH-response regulator protein palI/RIM9 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05190 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9997696	.	.	.
+tr|K9GD45|K9GD45_PEND2 alpha-1,3-glucan synthase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_06090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998107	.	.	.
+tr|K9GD75|K9GD75_PEND2 Beta-hexosaminidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00420 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998499	.	.	.
+tr|K9GE63|K9GE63_PEND2 Vacuolar protein sorting/targeting protein 10 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49320 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99984914	.	.	.
+tr|K9GES0|K9GES0_PEND2 glucose oxidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99965084	.	.	.
+tr|K9GF42|K9GF42_PEND2 1,3-beta-glucanosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01260 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9999261	.	.	.
+tr|K9GFB3|K9GFB3_PEND2 Carboxypeptidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00340 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998147	.	.	.
+tr|K9GFD5|K9GFD5_PEND2 Protease S8 tripeptidyl peptidase I, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997852	.	.	.
+tr|K9GFN0|K9GFN0_PEND2 Oxalate decarboxylase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00770 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998333	.	.	.
+tr|K9GFX5|K9GFX5_PEND2 Pectinesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_45060 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997958	.	.	.
+tr|K9GG34|K9GG34_PEND2 Endo-1,4-beta-xylanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00660 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997755	.	.	.
+tr|K9GGY7|K9GGY7_PEND2 Endo-chitosanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44250 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998132	.	.	.
+tr|K9GIE2|K9GIE2_PEND2 Probable beta-glucosidase G OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_33090 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998293	.	.	.
+tr|K9GKA9|K9GKA9_PEND2 Mannan endo-1,6-alpha-mannosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28390 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998324	.	.	.
+tr|K9GKN2|K9GKN2_PEND2 ribonuclease T2 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36170 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998682	.	.	.
+tr|K9GLL0|K9GLL0_PEND2 glucan endo-1,6-beta-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34560 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998285	.	.	.
+tr|K9GLR6|K9GLR6_PEND2 Ferrooxidoreductase Fet3 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_24520 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998165	.	.	.
+tr|K9GML6|K9GML6_PEND2 Protein MSB2 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_22930 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99984723	.	.	.
+tr|K9GMM6|K9GMM6_PEND2 Peptide hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23080 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997669	.	.	.
+tr|K9GMS9|K9GMS9_PEND2 non-reducing end alpha-L-arabinofuranosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23680 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99987143	.	.	.
+tr|K9GNA4|K9GNA4_PEND2 Alpha-glucuronidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=aguA PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.833204	.	.	.
+tr|K9GNS7|K9GNS7_PEND2 cellulase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30830 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983186	.	.	.
+tr|K9GPN7|K9GPN7_PEND2 Copper acquisition factor BIM1-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28020 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998396	.	.	.
+tr|K9GQZ3|K9GQZ3_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_25240 PE=3 SV=1	SignalP-6.0	signal_peptide	1	37	0.6633183	.	.	.
+tr|K9GS01|K9GS01_PEND2 glucan 1,3-beta-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_15020 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984384	.	.	.
+tr|K9GS62|K9GS62_PEND2 pectinesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_14830 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.9993652	.	.	.
+tr|K9GS82|K9GS82_PEND2 Carboxylic ester hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_22810 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996479	.	.	.
+tr|K9GSU4|K9GSU4_PEND2 Extracellular endoglucanase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_13580 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99975693	.	.	.
+tr|K9GTS1|K9GTS1_PEND2 L-type lectin-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_11740 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983585	.	.	.
+tr|K9GVR2|K9GVR2_PEND2 Peptide hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_16630 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998395	.	.	.
+tr|K9GW23|K9GW23_PEND2 RTA1 domain protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_16120 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998334	.	.	.
+tr|K9GWL3|K9GWL3_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_04900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998255	.	.	.
+tr|K9GWP8|K9GWP8_PEND2 pectinesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05350 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99981403	.	.	.
+tr|K9GWX8|K9GWX8_PEND2 Phosphatidylglycerol/phosphatidylinositol transfer protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_06150 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998698	.	.	.
+tr|K9GXH3|K9GXH3_PEND2 pectin lyase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_03380 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998271	.	.	.
+tr|K9GXJ5|K9GXJ5_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_03530 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998483	.	.	.
+tr|K9GY46|K9GY46_PEND2 Sphingomyelin phosphodiesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_02170 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.96340173	.	.	.
+tr|K9GZ21|K9GZ21_PEND2 Probable beta-glucosidase L OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998504	.	.	.
+tr|K9H175|K9H175_PEND2 rhamnogalacturonan endolyase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_07340 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998275	.	.	.
+tr|K9H1K3|K9H1K3_PEND2 chitinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_04980 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998321	.	.	.
+tr|K9H493|K9H493_PEND2 glucose oxidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00580 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99901295	.	.	.
+tr|K9F407|K9F407_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_91370 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997375	.	.	.
+tr|K9F594|K9F594_PEND2 ThiJ/PfpI family protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_89610 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998218	.	.	.
+tr|K9F5B8|K9F5B8_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_88850 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999589	.	.	.
+tr|K9F5P9|K9F5P9_PEND2 Cell wall protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_89690 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998175	.	.	.
+tr|K9F5W2|K9F5W2_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_87520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998124	.	.	.
+tr|K9F5Z0|K9F5Z0_PEND2 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_89450 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998185	.	.	.
+tr|K9F6F8|K9F6F8_PEND2 Asl1-like glycosyl hydrolase catalytic domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86860 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998276	.	.	.
+tr|K9F888|K9F888_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_90290 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998492	.	.	.
+tr|K9F8J3|K9F8J3_PEND2 Allergen Asp f 15 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_83500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	35	0.9998469	.	.	.
+tr|K9F8M2|K9F8M2_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_83210 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99979717	.	.	.
+tr|K9F8Q1|K9F8Q1_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_89180 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999816	.	.	.
+tr|K9F8S6|K9F8S6_PEND2 Small secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_80170 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998246	.	.	.
+tr|K9F8X6|K9F8X6_PEND2 Meiotic sister chromatid recombination protein Ish1/Msc1, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_80520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998037	.	.	.
+tr|K9F939|K9F939_PEND2 Vacuolar sorting protein Vps3844 C-terminal domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_82060 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998302	.	.	.
+tr|K9F9J2|K9F9J2_PEND2 Protein PRY2 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_78880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99981165	.	.	.
+tr|K9F9P7|K9F9P7_PEND2 Extracellular proline-rich protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_80410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99975526	.	.	.
+tr|K9F9S6|K9F9S6_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_80660 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.9997975	.	.	.
+tr|K9F9U0|K9F9U0_PEND2 Lipocalin-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86180 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998446	.	.	.
+tr|K9F9Z8|K9F9Z8_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_81760 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997179	.	.	.
+tr|K9FA70|K9FA70_PEND2 Endoglucanase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_78620 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99991125	.	.	.
+tr|K9FAQ5|K9FAQ5_PEND2 Endo-arabinase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76970 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998206	.	.	.
+tr|K9FAQ8|K9FAQ8_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_78300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99987155	.	.	.
+tr|K9FC08|K9FC08_PEND2 6-phosphogluconolactonase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_82590 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999815	.	.	.
+tr|K9FCA2|K9FCA2_PEND2 Integral membrane protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75090 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997719	.	.	.
+tr|K9FCH0|K9FCH0_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_79990 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998107	.	.	.
+tr|K9FCU1|K9FCU1_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_74690 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982023	.	.	.
+tr|K9FD36|K9FD36_PEND2 Extracellular alpha-1,3-glucanase/mutanase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_78450 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998328	.	.	.
+tr|K9FDZ1|K9FDZ1_PEND2 PEBP-like protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_71860 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985856	.	.	.
+tr|K9FEE5|K9FEE5_PEND2 Cyanovirin-N domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77440 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998328	.	.	.
+tr|K9FEJ8|K9FEJ8_PEND2 SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76620 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99951035	.	.	.
+tr|K9FER7|K9FER7_PEND2 HET-C domain protein HetC OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_71440 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983764	.	.	.
+tr|K9FEY3|K9FEY3_PEND2 Initiation-specific alpha-1,6-mannosyltransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_70560 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998223	.	.	.
+tr|K9FFF6|K9FFF6_PEND2 Secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_69650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998213	.	.	.
+tr|K9FGF3|K9FGF3_PEND2 NPP1 domain protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68540 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998498	.	.	.
+tr|K9FGG4|K9FGG4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68640 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981815	.	.	.
+tr|K9FGH0|K9FGH0_PEND2 Glycosyl hydrolase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68690 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.9999652	.	.	.
+tr|K9FGI0|K9FGI0_PEND2 GPI anchored protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68790 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99982166	.	.	.
+tr|K9FGI7|K9FGI7_PEND2 Antifungal protein Afp OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_68840 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.99979955	.	.	.
+tr|K9FGN0|K9FGN0_PEND2 Mid2 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_65290 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981177	.	.	.
+tr|K9FH73|K9FH73_PEND2 Extracellular thaumatin domain protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_66890 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998288	.	.	.
+tr|K9FHB7|K9FHB7_PEND2 TNT domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67240 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983	.	.	.
+tr|K9FHL3|K9FHL3_PEND2 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99969023	.	.	.
+tr|K9FHS5|K9FHS5_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_66430 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99977946	.	.	.
+tr|K9FI74|K9FI74_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985194	.	.	.
+tr|K9FIF6|K9FIF6_PEND2 Exo-arabinanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_64290 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99976677	.	.	.
+tr|K9FII2|K9FII2_PEND2 Glycosyl hydrolase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_62750 PE=4 SV=1	SignalP-6.0	signal_peptide	1	13	0.833114	.	.	.
+tr|K9FIV5|K9FIV5_PEND2 GPI anchored cell wall protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63370 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998409	.	.	.
+tr|K9FJG7|K9FJG7_PEND2 Alpha-L-rhamnosidase B, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_60430 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998051	.	.	.
+tr|K9FJX8|K9FJX8_PEND2 DUF7492 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_61740 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998679	.	.	.
+tr|K9FKI9|K9FKI9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99982655	.	.	.
+tr|K9FKL8|K9FKL8_PEND2 Prenylcysteine lyase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_66660 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.8332316	.	.	.
+tr|K9FKM0|K9FKM0_PEND2 Extracellular invertase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58160 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.999807	.	.	.
+tr|K9FKX0|K9FKX0_PEND2 Phosphate-repressible acid phosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67660 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981314	.	.	.
+tr|K9FKX5|K9FKX5_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67710 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998511	.	.	.
+tr|K9FL79|K9FL79_PEND2 Vacuolar sorting receptor (Mrl1), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_64370 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998353	.	.	.
+tr|K9FLJ1|K9FLJ1_PEND2 SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99982685	.	.	.
+tr|K9FLM3|K9FLM3_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58250 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999833	.	.	.
+tr|K9FLP7|K9FLP7_PEND2 SacI domain protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_56050 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.8349028	.	.	.
+tr|K9FLR4|K9FLR4_PEND2 Pheromone OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981576	.	.	.
+tr|K9FLS4|K9FLS4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_56000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999819	.	.	.
+tr|K9FMA0|K9FMA0_PEND2 Antigenic thaumatin domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54960 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99970955	.	.	.
+tr|K9FME6|K9FME6_PEND2 Cellulose-binding GDSL lipase/acylhydrolase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_61070 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997523	.	.	.
+tr|K9FML8|K9FML8_PEND2 MFS quinate transporter, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_56250 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998951	.	.	.
+tr|K9FMT1|K9FMT1_PEND2 Non-hemolytic phospholipase C OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_55990 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999799	.	.	.
+tr|K9FMY8|K9FMY8_PEND2 LysM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_60350 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998124	.	.	.
+tr|K9FN14|K9FN14_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54530 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983096	.	.	.
+tr|K9FN17|K9FN17_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54580 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998658	.	.	.
+tr|K9FNE3|K9FNE3_PEND2 Sphingomyelin phosphodiesterase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_90300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998369	.	.	.
+tr|K9FNI1|K9FNI1_PEND2 ER membrane protein Wsc4, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_55050 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998396	.	.	.
+tr|K9FNR6|K9FNR6_PEND2 6-phosphogluconolactonase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_51160 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.9998133	.	.	.
+tr|K9FNW1|K9FNW1_PEND2 Leucine carboxyl methyltransferase superfamily OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57680 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99982285	.	.	.
+tr|K9FNZ3|K9FNZ3_PEND2 Hydrophobin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_53870 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997687	.	.	.
+tr|K9FP72|K9FP72_PEND2 Extracellular triacylglycerol lipase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58830 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998729	.	.	.
+tr|K9FP74|K9FP74_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_88690 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998269	.	.	.
+tr|K9FPC4|K9FPC4_PEND2 Allergen Asp f 4 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50080 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984765	.	.	.
+tr|K9FPF3|K9FPF3_PEND2 JmjC domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_88500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.90089285	.	.	.
+tr|K9FPK5|K9FPK5_PEND2 O-methyltransferase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.6063206	.	.	.
+tr|K9FPV9|K9FPV9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998441	.	.	.
+tr|K9FPX4|K9FPX4_PEND2 Alpha-1,2-mannosidase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48720 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99987084	.	.	.
+tr|K9FPX6|K9FPX6_PEND2 Ubiquitin-protein ligase Sel1/Ubx2, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_56710 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981016	.	.	.
+tr|K9FPZ8|K9FPZ8_PEND2 Exo-1,3-beta-D-glucanase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57060 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998082	.	.	.
+tr|K9FQ09|K9FQ09_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47890 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99976206	.	.	.
+tr|K9FQ75|K9FQ75_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86640 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.92387456	.	.	.
+tr|K9FQJ2|K9FQJ2_PEND2 Esterase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_85800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99984473	.	.	.
+tr|K9FQN0|K9FQN0_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50070 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998235	.	.	.
+tr|K9FRE8|K9FRE8_PEND2 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54550 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997786	.	.	.
+tr|K9FRJ3|K9FRJ3_PEND2 ABC-type Fe3+ transport system OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47980 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998295	.	.	.
+tr|K9FRY0|K9FRY0_PEND2 Proteinase inhibitor, propeptide OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_43440 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99980754	.	.	.
+tr|K9FRZ0|K9FRZ0_PEND2 FAD-binding PCMH-type domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_83060 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99984366	.	.	.
+tr|K9FSJ0|K9FSJ0_PEND2 Rhamnogalacturonase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50340 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998541	.	.	.
+tr|K9FSN2|K9FSN2_PEND2 Transmembrane glycoprotein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42710 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998495	.	.	.
+tr|K9FSQ2|K9FSQ2_PEND2 Isoamyl alcohol oxidase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44990 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99984133	.	.	.
+tr|K9FSW6|K9FSW6_PEND2 Secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_41710 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998275	.	.	.
+tr|K9FSX6|K9FSX6_PEND2 Lipase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49580 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.99985087	.	.	.
+tr|K9FT11|K9FT11_PEND2 Fungal specific transcription factor, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42110 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998533	.	.	.
+tr|K9FT84|K9FT84_PEND2 Glycosyl hydrolase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48640 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.8330427	.	.	.
+tr|K9FTS2|K9FTS2_PEND2 Secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_88980 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983096	.	.	.
+tr|K9FTT0|K9FTT0_PEND2 Secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47590 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99985623	.	.	.
+tr|K9FU30|K9FU30_PEND2 GPI anchored serine-threonine rich protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998501	.	.	.
+tr|K9FU35|K9FU35_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42450 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997691	.	.	.
+tr|K9FUJ4|K9FUJ4_PEND2 Cyanovirin-N domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_87530 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99981993	.	.	.
+tr|K9FUN7|K9FUN7_PEND2 Endonuclease/exonuclease/phosphatase family OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_39000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998594	.	.	.
+tr|K9FUS9|K9FUS9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982154	.	.	.
+tr|K9FUU7|K9FUU7_PEND2 Alpha-glucosidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996533	.	.	.
+tr|K9FV07|K9FV07_PEND2 SGNH hydrolase-type esterase domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_38220 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981165	.	.	.
+tr|K9FV25|K9FV25_PEND2 Small secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_86920 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99973017	.	.	.
+tr|K9FV48|K9FV48_PEND2 ER membrane protein complex subunit 7 beta-sandwich domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_40580 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997011	.	.	.
+tr|K9FVK7|K9FVK7_PEND2 Extracellular GDSL-like lipase/acylhydrolase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36550 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982476	.	.	.
+tr|K9FVN0|K9FVN0_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983406	.	.	.
+tr|K9FVQ5|K9FVQ5_PEND2 Calcium channel subunit Mid1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_84840 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99980855	.	.	.
+tr|K9FVQ9|K9FVQ9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_84890 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998112	.	.	.
+tr|K9FVR2|K9FVR2_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36260 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998013	.	.	.
+tr|K9FVR8|K9FVR8_PEND2 Hydroxyneurosporene synthase (CrtC) OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42380 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981916	.	.	.
+tr|K9FVZ3|K9FVZ3_PEND2 Cell wall protein PhiA OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_76210 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981344	.	.	.
+tr|K9FW30|K9FW30_PEND2 Aspergillopepsin, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42030 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982435	.	.	.
+tr|K9FW59|K9FW59_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_41310 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.999473	.	.	.
+tr|K9FWI0|K9FWI0_PEND2 Phosphatidate phosphatase APP1 catalytic domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981713	.	.	.
+tr|K9FWU4|K9FWU4_PEND2 Trafficking protein particle complex subunit 2/Sedlin, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_37880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998404	.	.	.
+tr|K9FX11|K9FX11_PEND2 Purine nucleoside permease, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36540 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99983835	.	.	.
+tr|K9FX15|K9FX15_PEND2 Hydrophobin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_33760 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998242	.	.	.
+tr|K9FX76|K9FX76_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36250 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99997395	.	.	.
+tr|K9FXQ3|K9FXQ3_PEND2 FAD/FMN-containing isoamyl alcohol oxidase MreA OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_32140 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998178	.	.	.
+tr|K9FXT4|K9FXT4_PEND2 FUN14 family protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_32640 PE=3 SV=1	SignalP-6.0	signal_peptide	1	37	0.83167416	.	.	.
+tr|K9FXT7|K9FXT7_PEND2 Expansin-like protein 1 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_32690 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997262	.	.	.
+tr|K9FY45|K9FY45_PEND2 Isoamyl alcohol oxidase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_71690 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985063	.	.	.
+tr|K9FYE3|K9FYE3_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34550 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981153	.	.	.
+tr|K9FYH1|K9FYH1_PEND2 DUF7907 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34360 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997816	.	.	.
+tr|K9FYL9|K9FYL9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_71110 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997851	.	.	.
+tr|K9FYN3|K9FYN3_PEND2 Extracellular serine-threonine rich protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_33750 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99982584	.	.	.
+tr|K9FZJ8|K9FZJ8_PEND2 FAD/NAD(P)-binding domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28110 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99973917	.	.	.
+tr|K9FZK5|K9FZK5_PEND2 Aldose 1-epimerase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_77680 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998295	.	.	.
+tr|K9FZX3|K9FZX3_PEND2 Peptidase A1 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_34290 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982166	.	.	.
+tr|K9FZZ9|K9FZZ9_PEND2 Chorismate mutase domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_31520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998377	.	.	.
+tr|K9G053|K9G053_PEND2 Peptidase S41 family protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_27380 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.83327895	.	.	.
+tr|K9G063|K9G063_PEND2 Long chronological lifespan protein 2 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_33980 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998384	.	.	.
+tr|K9G0D8|K9G0D8_PEND2 DUF7728 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_33330 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9883169	.	.	.
+tr|K9G0E3|K9G0E3_PEND2 Phosphoglycerate mutase family protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26830 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99982095	.	.	.
+tr|K9G0E7|K9G0E7_PEND2 GPI anchored cell wall protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998148	.	.	.
+tr|K9G0N0|K9G0N0_PEND2 DUF7136 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_25230 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9992257	.	.	.
+tr|K9G130|K9G130_PEND2 Copper acquisition factor BIM1-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_31920 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99985385	.	.	.
+tr|K9G162|K9G162_PEND2 Cell wall protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_75150 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998443	.	.	.
+tr|K9G1G1|K9G1G1_PEND2 Endosomal cargo receptor (Erv25), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_73900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998445	.	.	.
+tr|K9G1N4|K9G1N4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_27790 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99981433	.	.	.
+tr|K9G1Y0|K9G1Y0_PEND2 LysM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99987745	.	.	.
+tr|K9G222|K9G222_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26670 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998448	.	.	.
+tr|K9G226|K9G226_PEND2 AA1-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67620 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998048	.	.	.
+tr|K9G239|K9G239_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_67820 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99980605	.	.	.
+tr|K9G265|K9G265_PEND2 Hydroxyneurosporene synthase (CrtC) OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26920 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99985623	.	.	.
+tr|K9G2B9|K9G2B9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_64230 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997573	.	.	.
+tr|K9G2H8|K9G2H8_PEND2 LysM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_25220 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998167	.	.	.
+tr|K9G2P2|K9G2P2_PEND2 Aldose 1-epimerase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_21170 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997978	.	.	.
+tr|K9G2W2|K9G2W2_PEND2 Endo-1,3(4)-beta-glucanase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_72240 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99987835	.	.	.
+tr|K9G2Y1|K9G2Y1_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63610 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998345	.	.	.
+tr|K9G2Z3|K9G2Z3_PEND2 Oligosaccharyltransferase subunit ribophorin II, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63710 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997615	.	.	.
+tr|K9G341|K9G341_PEND2 Enamelin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_62280 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99980855	.	.	.
+tr|K9G3D3|K9G3D3_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_63030 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998297	.	.	.
+tr|K9G3N1|K9G3N1_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26280 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998304	.	.	.
+tr|K9G3R8|K9G3R8_PEND2 DUF7907 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23590 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99981576	.	.	.
+tr|K9G439|K9G439_PEND2 Lipase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_70870 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.99979985	.	.	.
+tr|K9G4K3|K9G4K3_PEND2 Malate dehydrogenase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_69610 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998269	.	.	.
+tr|K9G4S8|K9G4S8_PEND2 Secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59770 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998326	.	.	.
+tr|K9G4U9|K9G4U9_PEND2 C6 transcription factor Ctf1A, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_22870 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.6664247	.	.	.
+tr|K9G4Z3|K9G4Z3_PEND2 FAD dependent oxidoreductase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_17590 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99985826	.	.	.
+tr|K9G4Z7|K9G4Z7_PEND2 Small secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998354	.	.	.
+tr|K9G529|K9G529_PEND2 6-hydroxy-D-nicotine oxidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_69010 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998536	.	.	.
+tr|K9G584|K9G584_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_20470 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998323	.	.	.
+tr|K9G5H9|K9G5H9_PEND2 Allergen, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57940 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99981076	.	.	.
+tr|K9G5N0|K9G5N0_PEND2 5'-nucleotidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58390 PE=4 SV=1	SignalP-6.0	signal_peptide	1	13	0.9996789	.	.	.
+tr|K9G5T7|K9G5T7_PEND2 GPI anchored protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_15790 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998291	.	.	.
+tr|K9G5Z1|K9G5Z1_PEND2 Glutaminase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_65350 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.83312476	.	.	.
+tr|K9G630|K9G630_PEND2 Putative fungal protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57310 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998189	.	.	.
+tr|K9G641|K9G641_PEND2 Apple domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_66050 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99977887	.	.	.
+tr|K9G663|K9G663_PEND2 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_20880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99983126	.	.	.
+tr|K9G6A6|K9G6A6_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_20600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99978125	.	.	.
+tr|K9G6G2|K9G6G2_PEND2 Aspergillopepsin, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_17180 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998272	.	.	.
+tr|K9G6K3|K9G6K3_PEND2 Putative secreted cellulose-binding protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57120 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998221	.	.	.
+tr|K9G6Z0|K9G6Z0_PEND2 Tat pathway signal sequence domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_16510 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99978894	.	.	.
+tr|K9G754|K9G754_PEND2 GPI anchored protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_13460 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99981683	.	.	.
+tr|K9G757|K9G757_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_18790 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996117	.	.	.
+tr|K9G763|K9G763_PEND2 NIMA-interacting protein TinC OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_18840 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99982905	.	.	.
+tr|K9G7Q6|K9G7Q6_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_14980 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997622	.	.	.
+tr|K9G7U5|K9G7U5_PEND2 Alpha-1,2-mannosidase family protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_15480 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998501	.	.	.
+tr|K9G812|K9G812_PEND2 Endoglucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_54160 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984056	.	.	.
+tr|K9G8T4|K9G8T4_PEND2 PLC-like phosphodiesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_13350 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99975944	.	.	.
+tr|K9G8T9|K9G8T9_PEND2 Endosomal cargo receptor (P24), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_15060 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99987143	.	.	.
+tr|K9G938|K9G938_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_60120 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997224	.	.	.
+tr|K9G947|K9G947_PEND2 Arylsulfotransferase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50750 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998439	.	.	.
+tr|K9G9D5|K9G9D5_PEND2 C6 transcription factor OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_49910 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998655	.	.	.
+tr|K9G9E0|K9G9E0_PEND2 Phospholipase C PLC-B OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_08540 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99977756	.	.	.
+tr|K9G9G5|K9G9G5_PEND2 Galactose oxidase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99974537	.	.	.
+tr|K9G9N7|K9G9N7_PEND2 Peptidase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_59180 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998168	.	.	.
+tr|K9G9V0|K9G9V0_PEND2 SUN family protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_57670 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99986225	.	.	.
+tr|K9G9Y7|K9G9Y7_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_58320 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99981093	.	.	.
+tr|K9GA10|K9GA10_PEND2 Extracellular protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_13000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99982995	.	.	.
+tr|K9GA81|K9GA81_PEND2 Hydrophobin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_07330 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998185	.	.	.
+tr|K9GAC3|K9GAC3_PEND2 Sexual development protein (LsdA), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48420 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983597	.	.	.
+tr|K9GAH8|K9GAH8_PEND2 Putative membrane protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_47730 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9141623	.	.	.
+tr|K9GAJ1|K9GAJ1_PEND2 Glucosidase 2 subunit beta OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_11100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998421	.	.	.
+tr|K9GAK8|K9GAK8_PEND2 DUF7707 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_11300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99985427	.	.	.
+tr|K9GAL3|K9GAL3_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_04820 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983114	.	.	.
+tr|K9GAR0|K9GAR0_PEND2 Acetylxylan esterase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_11270 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99980825	.	.	.
+tr|K9GAZ6|K9GAZ6_PEND2 Hydrophobin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_56270 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998241	.	.	.
+tr|K9GB36|K9GB36_PEND2 GPI-anchored membrane protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_10120 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99972504	.	.	.
+tr|K9GB66|K9GB66_PEND2 FAD-binding PCMH-type domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_09940 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99984396	.	.	.
+tr|K9GBP0|K9GBP0_PEND2 Alpha-L-rhamnosidase A, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_08230 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99981827	.	.	.
+tr|K9GBS5|K9GBS5_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_46430 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998387	.	.	.
+tr|K9GBT1|K9GBT1_PEND2 GPI-anchored membrane protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_08830 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99971074	.	.	.
+tr|K9GBW5|K9GBW5_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44760 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998089	.	.	.
+tr|K9GBY4|K9GBY4_PEND2 IgE binding protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_44860 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9997332	.	.	.
+tr|K9GC16|K9GC16_PEND2 GPI transamidase component Gpi16, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_07730 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997523	.	.	.
+tr|K9GC92|K9GC92_PEND2 Allergen Asp f 7 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_02140 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99924034	.	.	.
+tr|K9GCE3|K9GCE3_PEND2 Endosomal cargo receptor (Erp3), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_53890 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985284	.	.	.
+tr|K9GCK2|K9GCK2_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_07350 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998599	.	.	.
+tr|K9GCN5|K9GCN5_PEND2 FRE family ferric-chelate reductase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_07320 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998327	.	.	.
+tr|K9GCT3|K9GCT3_PEND2 GOLD domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01210 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.99982226	.	.	.
+tr|K9GCU3|K9GCU3_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_06770 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.69316655	.	.	.
+tr|K9GCV6|K9GCV6_PEND2 Polysaccharide deacetylase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05040 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99963576	.	.	.
+tr|K9GCW9|K9GCW9_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_52590 PE=4 SV=1	SignalP-6.0	signal_peptide	1	36	0.99763155	.	.	.
+tr|K9GCX7|K9GCX7_PEND2 Lipase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_52690 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99984884	.	.	.
+tr|K9GD11|K9GD11_PEND2 Tyrosinase copper-binding domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05640 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99986553	.	.	.
+tr|K9GD17|K9GD17_PEND2 FAD-binding PCMH-type domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_04960 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99978125	.	.	.
+tr|K9GD90|K9GD90_PEND2 6-phosphogluconolactonase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00570 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979424	.	.	.
+tr|K9GD99|K9GD99_PEND2 DUF7707 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00170 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998448	.	.	.
+tr|K9GDW5|K9GDW5_PEND2 PLC-like phosphodiesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_40020 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998344	.	.	.
+tr|K9GDX7|K9GDX7_PEND2 AB hydrolase-1 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50040 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998273	.	.	.
+tr|K9GDX9|K9GDX9_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_50090 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998578	.	.	.
+tr|K9GEG4|K9GEG4_PEND2 Histidine acid phosphatase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_03040 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99983543	.	.	.
+tr|K9GEK6|K9GEK6_PEND2 RlpA-like protein double-psi beta-barrel domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48480 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99982834	.	.	.
+tr|K9GF02|K9GF02_PEND2 Amidase family protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_48400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982035	.	.	.
+tr|K9GF33|K9GF33_PEND2 Hydrophobin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00750 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998057	.	.	.
+tr|K9GF69|K9GF69_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01560 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99983287	.	.	.
+tr|K9GFD7|K9GFD7_PEND2 Phosphoesterase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_38650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981767	.	.	.
+tr|K9GFS4|K9GFS4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_37020 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998294	.	.	.
+tr|K9GFZ0|K9GFZ0_PEND2 GPI anchored serine-threonine rich protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36940 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998119	.	.	.
+tr|K9GG32|K9GG32_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00610 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981123	.	.	.
+tr|K9GG97|K9GG97_PEND2 GPI anchored serine-threonine rich protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36190 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983245	.	.	.
+tr|K9GGD7|K9GGD7_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_46210 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998187	.	.	.
+tr|K9GGE1|K9GGE1_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36030 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99975866	.	.	.
+tr|K9GGZ7|K9GGZ7_PEND2 Cellular morphogenesis protein (Rax2), putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_35110 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998095	.	.	.
+tr|K9GHM4|K9GHM4_PEND2 WD-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_41570 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99986625	.	.	.
+tr|K9GHS6|K9GHS6_PEND2 LysM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42020 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983495	.	.	.
+tr|K9GHT3|K9GHT3_PEND2 Concanavalin A-like lectin/glucanase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_42070 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998344	.	.	.
+tr|K9GHW3|K9GHW3_PEND2 Zygote-specific protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_41350 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982435	.	.	.
+tr|K9GIM7|K9GIM7_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_32570 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998353	.	.	.
+tr|K9GIQ7|K9GIQ7_PEND2 GPI anchored cell wall protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_39740 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998168	.	.	.
+tr|K9GJA3|K9GJA3_PEND2 GPI anchored cell wall protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99977964	.	.	.
+tr|K9GJE2|K9GJE2_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_38960 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997402	.	.	.
+tr|K9GJK6|K9GJK6_PEND2 Disulfide isomerase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_29620 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983984	.	.	.
+tr|K9GKC9|K9GKC9_PEND2 SCP-like extracellular protein, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28590 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9997634	.	.	.
+tr|K9GKG3|K9GKG3_PEND2 Aspergillopepsin, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36270 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998281	.	.	.
+tr|K9GKQ4|K9GKQ4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_27310 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998505	.	.	.
+tr|K9GKT4|K9GKT4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_36010 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99995625	.	.	.
+tr|K9GKV5|K9GKV5_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998459	.	.	.
+tr|K9GKZ2|K9GKZ2_PEND2 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_26660 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998116	.	.	.
+tr|K9GL98|K9GL98_PEND2 Histidine acid phosphatase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_25890 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983716	.	.	.
+tr|K9GMI4|K9GMI4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_22480 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998066	.	.	.
+tr|K9GMR8|K9GMR8_PEND2 DUF7137 domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23580 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99979264	.	.	.
+tr|K9GN93|K9GN93_PEND2 SnoaL-like domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30990 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981576	.	.	.
+tr|K9GNB5|K9GNB5_PEND2 Hydrophobin OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_31290 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983644	.	.	.
+tr|K9GP88|K9GP88_PEND2 Adhesin, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30150 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99982333	.	.	.
+tr|K9GP92|K9GP92_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_30200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99984425	.	.	.
+tr|K9GPG4|K9GPG4_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_29070 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998207	.	.	.
+tr|K9GPT6|K9GPT6_PEND2 IgE-binding protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_28520 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99973655	.	.	.
+tr|K9GQ26|K9GQ26_PEND2 Putative glycine-rich protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_18800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997936	.	.	.
+tr|K9GQ64|K9GQ64_PEND2 CREG-like beta-barrel domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_27040 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99982226	.	.	.
+tr|K9GQR5|K9GQR5_PEND2 Phytase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_17220 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998359	.	.	.
+tr|K9GQT3|K9GQT3_PEND2 EF-hand domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_25670 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997618	.	.	.
+tr|K9GR88|K9GR88_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_16800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981666	.	.	.
+tr|K9GSC5|K9GSC5_PEND2 Cyclin-D1-binding protein 1-like N-terminal domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_23410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99981	.	.	.
+tr|K9GSL2|K9GSL2_PEND2 Rhamnogalacturonan acetylesterase RgaE OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_22070 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99975306	.	.	.
+tr|K9GT12|K9GT12_PEND2 Alpha-1,3-glucanase/mutanase, putative OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_13290 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998569	.	.	.
+tr|K9GTR0|K9GTR0_PEND2 Laccase TilA OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_20640 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998587	.	.	.
+tr|K9GTS9|K9GTS9_PEND2 LysM domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_20490 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99985254	.	.	.
+tr|K9GVS2|K9GVS2_PEND2 Transmembrane protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_16730 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.9998251	.	.	.
+tr|K9GWP4|K9GWP4_PEND2 Phospholipase C PLC-C OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996842	.	.	.
+tr|K9GWS7|K9GWS7_PEND2 GPI anchored protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998038	.	.	.
+tr|K9GXC1|K9GXC1_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_04130 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.6665658	.	.	.
+tr|K9GXX4|K9GXX4_PEND2 Secreted protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_02650 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997795	.	.	.
+tr|K9GXY1|K9GXY1_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_02800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997999	.	.	.
+tr|K9GY41|K9GY41_PEND2 GPI anchored cell wall protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_02120 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998562	.	.	.
+tr|K9GYJ9|K9GYJ9_PEND2 Aspartyl proteinase OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99985266	.	.	.
+tr|K9GYU6|K9GYU6_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_10990 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.9997717	.	.	.
+tr|K9H1J7|K9H1J7_PEND2 WSC domain-containing protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_04880 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997937	.	.	.
+tr|K9H1L5|K9H1L5_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_05130 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998605	.	.	.
+tr|K9H223|K9H223_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_03710 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99973613	.	.	.
+tr|K9H369|K9H369_PEND2 Protein ecm33 OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01970 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998476	.	.	.
+tr|K9H3G0|K9H3G0_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_01380 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9997953	.	.	.
+tr|K9H459|K9H459_PEND2 Uncharacterized protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00330 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99975336	.	.	.
+tr|K9H4A7|K9H4A7_PEND2 GPI anchored cell wall protein OS=Penicillium digitatum (strain PHI26 / CECT 20796) OX=1170229 GN=PDIG_00100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998369	.	.	.

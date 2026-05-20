@@ -1,0 +1,613 @@
+## gff-version 3
+tr|A0A9P6WZ70|A0A9P6WZ70_RHIOR glucan endo-1,3-beta-D-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_011698 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983364	.	.	.
+tr|A0A9P6X0W9|A0A9P6X0W9_RHIOR DNA repair protein RAD51 homolog 3 OS=Rhizopus oryzae OX=64495 GN=G6F64_010567 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998194	.	.	.
+tr|A0A9P6X3C6|A0A9P6X3C6_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_009236 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998308	.	.	.
+tr|A0A9P6X8T3|A0A9P6X8T3_RHIOR Glutathione hydrolase OS=Rhizopus oryzae OX=64495 GN=G6F64_006394 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.83751637	.	.	.
+tr|A0A9P6X9P6|A0A9P6X9P6_RHIOR Catalase OS=Rhizopus oryzae OX=64495 GN=G6F64_006227 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998916	.	.	.
+tr|A0A9P6XAU5|A0A9P6XAU5_RHIOR glucan endo-1,3-beta-D-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_005631 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998531	.	.	.
+tr|A0A9P6XBB3|A0A9P6XBB3_RHIOR Pheromone-processing carboxypeptidase KEX1 OS=Rhizopus oryzae OX=64495 GN=G6F64_005052 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998309	.	.	.
+tr|A0A9P6XC60|A0A9P6XC60_RHIOR glucan endo-1,3-beta-D-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_004742 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981576	.	.	.
+tr|A0A9P6XCH6|A0A9P6XCH6_RHIOR alpha-1,2-Mannosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_004439 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99969023	.	.	.
+tr|A0A9P6XGE2|A0A9P6XGE2_RHIOR Pheromone-processing carboxypeptidase KEX1 OS=Rhizopus oryzae OX=64495 GN=G6F64_002339 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998656	.	.	.
+tr|A0A9P6XGX4|A0A9P6XGX4_RHIOR Multiple inositol polyphosphate phosphatase 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_002056 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998672	.	.	.
+tr|A0A9P6XHV4|A0A9P6XHV4_RHIOR alpha-1,2-Mannosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_002011 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998555	.	.	.
+tr|A0A9P7BPV3|A0A9P7BPV3_RHIOR Ribokinase OS=Rhizopus oryzae OX=64495 GN=G6F64_009165 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998501	.	.	.
+tr|A0A9P7BTB1|A0A9P7BTB1_RHIOR Eukaryotic translation initiation factor 2 subunit gamma OS=Rhizopus oryzae OX=64495 GN=G6F64_004872 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99983776	.	.	.
+tr|A0A9P7BXT9|A0A9P7BXT9_RHIOR alpha-1,2-Mannosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_000228 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983245	.	.	.
+tr|A0A9P6WXA7|A0A9P6WXA7_RHIOR Peptidase S8/S53 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012397 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998617	.	.	.
+tr|A0A9P6WY90|A0A9P6WY90_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_012203 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998408	.	.	.
+tr|A0A9P6WYE1|A0A9P6WYE1_RHIOR beta-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_012029 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998514	.	.	.
+tr|A0A9P6WZ24|A0A9P6WZ24_RHIOR Chitinase domain-containing protein 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_011609 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998294	.	.	.
+tr|A0A9P6WZW5|A0A9P6WZW5_RHIOR Cellulase OS=Rhizopus oryzae OX=64495 GN=G6F64_011189 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998607	.	.	.
+tr|A0A9P6X054|A0A9P6X054_RHIOR non-chaperonin molecular chaperone ATPase OS=Rhizopus oryzae OX=64495 GN=G6F64_011113 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997435	.	.	.
+tr|A0A9P6X068|A0A9P6X068_RHIOR Malonyl-CoA decarboxylase C-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011171 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985474	.	.	.
+tr|A0A9P6X0D1|A0A9P6X0D1_RHIOR Sodium/calcium exchanger membrane region domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011081 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998382	.	.	.
+tr|A0A9P6X0I9|A0A9P6X0I9_RHIOR P/Homo B domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010718 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.999862	.	.	.
+tr|A0A9P6X0K1|A0A9P6X0K1_RHIOR alkaline phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_010795 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998305	.	.	.
+tr|A0A9P6X0P4|A0A9P6X0P4_RHIOR Minor extracellular protease vpr OS=Rhizopus oryzae OX=64495 GN=G6F64_010625 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99987227	.	.	.
+tr|A0A9P6X0U5|A0A9P6X0U5_RHIOR Thioredoxin domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010753 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981093	.	.	.
+tr|A0A9P6X1D5|A0A9P6X1D5_RHIOR Serine protease OS=Rhizopus oryzae OX=64495 GN=G6F64_010299 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998875	.	.	.
+tr|A0A9P6X1I5|A0A9P6X1I5_RHIOR peptidylprolyl isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_010394 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998445	.	.	.
+tr|A0A9P6X2V8|A0A9P6X2V8_RHIOR Mannosyl-oligosaccharide glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_009609 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9995121	.	.	.
+tr|A0A9P6X367|A0A9P6X367_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009321 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997909	.	.	.
+tr|A0A9P6X3U7|A0A9P6X3U7_RHIOR GOLD domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F51_000331 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998509	.	.	.
+tr|A0A9P6X3W2|A0A9P6X3W2_RHIOR ER membrane protein complex subunit 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_009277 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99984765	.	.	.
+tr|A0A9P6X476|A0A9P6X476_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008799 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998435	.	.	.
+tr|A0A9P6X4I1|A0A9P6X4I1_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_008723 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998465	.	.	.
+tr|A0A9P6X4I7|A0A9P6X4I7_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_008619 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985003	.	.	.
+tr|A0A9P6X4J6|A0A9P6X4J6_RHIOR alkaline phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_008696 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982727	.	.	.
+tr|A0A9P6X4N6|A0A9P6X4N6_RHIOR GOLD domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008571 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99986714	.	.	.
+tr|A0A9P6X4X8|A0A9P6X4X8_RHIOR Protein disulfide-isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_008713 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997316	.	.	.
+tr|A0A9P6X583|A0A9P6X583_RHIOR Peptidase S8/S53 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008226 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999842	.	.	.
+tr|A0A9P6X5J3|A0A9P6X5J3_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008382 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999839	.	.	.
+tr|A0A9P6X5Q5|A0A9P6X5Q5_RHIOR Carboxypeptidase OS=Rhizopus oryzae OX=64495 GN=G6F64_007956 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998497	.	.	.
+tr|A0A9P6X5Y5|A0A9P6X5Y5_RHIOR Dipeptidase OS=Rhizopus oryzae OX=64495 GN=G6F64_007883 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998293	.	.	.
+tr|A0A9P6X694|A0A9P6X694_RHIOR Sulfatase N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007787 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997638	.	.	.
+tr|A0A9P6X6B5|A0A9P6X6B5_RHIOR ribonuclease T2 OS=Rhizopus oryzae OX=64495 GN=G6F64_007976 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997755	.	.	.
+tr|A0A9P6X6T3|A0A9P6X6T3_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_007430 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998187	.	.	.
+tr|A0A9P6X729|A0A9P6X729_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_007377 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.999876	.	.	.
+tr|A0A9P6X752|A0A9P6X752_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_007404 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998311	.	.	.
+tr|A0A9P6X753|A0A9P6X753_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007339 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99979985	.	.	.
+tr|A0A9P6X755|A0A9P6X755_RHIOR Probable beta-glucosidase G OS=Rhizopus oryzae OX=64495 GN=G6F64_007240 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9999535	.	.	.
+tr|A0A9P6X786|A0A9P6X786_RHIOR protein disulfide-isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_007204 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9994666	.	.	.
+tr|A0A9P6X7C2|A0A9P6X7C2_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_007216 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982756	.	.	.
+tr|A0A9P6X7K0|A0A9P6X7K0_RHIOR Peptidase A1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007116 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999847	.	.	.
+tr|A0A9P6X7K3|A0A9P6X7K3_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007078 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998443	.	.	.
+tr|A0A9P6X7N3|A0A9P6X7N3_RHIOR GPI-anchor transamidase OS=Rhizopus oryzae OX=64495 GN=G6F64_007135 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998386	.	.	.
+tr|A0A9P6X7R1|A0A9P6X7R1_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006947 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996786	.	.	.
+tr|A0A9P6X7R2|A0A9P6X7R2_RHIOR 1,3-beta-glucanosyltransferase OS=Rhizopus oryzae OX=64495 GN=G6F64_006932 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983114	.	.	.
+tr|A0A9P6X7R6|A0A9P6X7R6_RHIOR Endoglucanase OS=Rhizopus oryzae OX=64495 GN=G6F64_006925 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982226	.	.	.
+tr|A0A9P6X7V5|A0A9P6X7V5_RHIOR Peptidase A1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006876 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997	.	.	.
+tr|A0A9P6X8B5|A0A9P6X8B5_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_006982 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997938	.	.	.
+tr|A0A9P6X8C2|A0A9P6X8C2_RHIOR SH3 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006624 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997251	.	.	.
+tr|A0A9P6X8G6|A0A9P6X8G6_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006566 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998154	.	.	.
+tr|A0A9P6X8I0|A0A9P6X8I0_RHIOR Pectinesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_006531 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99974835	.	.	.
+tr|A0A9P6X8I2|A0A9P6X8I2_RHIOR pectinesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_006533 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99980325	.	.	.
+tr|A0A9P6X8K0|A0A9P6X8K0_RHIOR SH3 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006655 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997296	.	.	.
+tr|A0A9P6X8N3|A0A9P6X8N3_RHIOR Minor extracellular protease vpr OS=Rhizopus oryzae OX=64495 GN=G6F64_006450 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998115	.	.	.
+tr|A0A9P6X8N5|A0A9P6X8N5_RHIOR chitinase OS=Rhizopus oryzae OX=64495 GN=G6F64_006530 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998451	.	.	.
+tr|A0A9P6X8R1|A0A9P6X8R1_RHIOR glucan 1,3-beta-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_006410 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998364	.	.	.
+tr|A0A9P6X8Z9|A0A9P6X8Z9_RHIOR Disintegrin and metalloproteinase domain-containing protein B OS=Rhizopus oryzae OX=64495 GN=G6F64_006276 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998842	.	.	.
+tr|A0A9P6X907|A0A9P6X907_RHIOR Endoplasmic oxidoreductin-1 OS=Rhizopus oryzae OX=64495 GN=G6F64_006257 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99978393	.	.	.
+tr|A0A9P6X983|A0A9P6X983_RHIOR 40S ribosomal protein S8 OS=Rhizopus oryzae OX=64495 GN=G6F64_006173 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984497	.	.	.
+tr|A0A9P6X9A9|A0A9P6X9A9_RHIOR Palmitoyl-protein thioesterase 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_006188 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998175	.	.	.
+tr|A0A9P6X9I3|A0A9P6X9I3_RHIOR Endoglucanase OS=Rhizopus oryzae OX=64495 GN=G6F64_006024 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998161	.	.	.
+tr|A0A9P6XA76|A0A9P6XA76_RHIOR Mannosyltransferase OS=Rhizopus oryzae OX=64495 GN=G6F64_005656 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9994973	.	.	.
+tr|A0A9P6XAH2|A0A9P6XAH2_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005509 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997822	.	.	.
+tr|A0A9P6XAI6|A0A9P6XAI6_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005603 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981767	.	.	.
+tr|A0A9P6XAK2|A0A9P6XAK2_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005750 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99980927	.	.	.
+tr|A0A9P6XAQ3|A0A9P6XAQ3_RHIOR T-complex protein 1 subunit zeta OS=Rhizopus oryzae OX=64495 GN=G6F64_005693 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998494	.	.	.
+tr|A0A9P6XAS5|A0A9P6XAS5_RHIOR Transmembrane 9 superfamily member OS=Rhizopus oryzae OX=64495 GN=G6F64_005411 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984455	.	.	.
+tr|A0A9P6XB21|A0A9P6XB21_RHIOR Calreticulin OS=Rhizopus oryzae OX=64495 GN=G6F64_005183 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998403	.	.	.
+tr|A0A9P6XB66|A0A9P6XB66_RHIOR GOLD domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005450 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999842	.	.	.
+tr|A0A9P6XBB8|A0A9P6XBB8_RHIOR pectinesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_005092 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998052	.	.	.
+tr|A0A9P6XBE3|A0A9P6XBE3_RHIOR Agmatinase OS=Rhizopus oryzae OX=64495 GN=G6F64_005287 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99979556	.	.	.
+tr|A0A9P6XBL7|A0A9P6XBL7_RHIOR L-type lectin-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004945 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981695	.	.	.
+tr|A0A9P6XBW9|A0A9P6XBW9_RHIOR MICOS complex subunit OS=Rhizopus oryzae OX=64495 GN=G6F64_004787 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99971706	.	.	.
+tr|A0A9P6XCA0|A0A9P6XCA0_RHIOR protein disulfide-isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_004683 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99975055	.	.	.
+tr|A0A9P6XCG4|A0A9P6XCG4_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_004765 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998619	.	.	.
+tr|A0A9P6XCS7|A0A9P6XCS7_RHIOR Sodium/calcium exchanger membrane region domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004341 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998521	.	.	.
+tr|A0A9P6XCZ4|A0A9P6XCZ4_RHIOR P/Homo B domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004130 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998577	.	.	.
+tr|A0A9P6XD45|A0A9P6XD45_RHIOR Beta-hexosaminidase OS=Rhizopus oryzae OX=64495 GN=G6F64_004115 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997973	.	.	.
+tr|A0A9P6XDU9|A0A9P6XDU9_RHIOR Arabinan endo-1,5-alpha-L-arabinosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_003741 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99979573	.	.	.
+tr|A0A9P6XDW8|A0A9P6XDW8_RHIOR Superoxide dismutase [Cu-Zn] OS=Rhizopus oryzae OX=64495 GN=G6F64_003842 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997989	.	.	.
+tr|A0A9P6XE40|A0A9P6XE40_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003552 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998236	.	.	.
+tr|A0A9P6XEZ1|A0A9P6XEZ1_RHIOR Mitochondrial import inner membrane translocase subunit TIM16 OS=Rhizopus oryzae OX=64495 GN=G6F64_003142 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998285	.	.	.
+tr|A0A9P6XEZ6|A0A9P6XEZ6_RHIOR P-type ATPase A domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003501 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984974	.	.	.
+tr|A0A9P6XG22|A0A9P6XG22_RHIOR ER membrane protein complex subunit 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_002687 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998256	.	.	.
+tr|A0A9P6XG25|A0A9P6XG25_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_002492 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999824	.	.	.
+tr|A0A9P6XGA7|A0A9P6XGA7_RHIOR pectinesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_002427 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998098	.	.	.
+tr|A0A9P6XGC9|A0A9P6XGC9_RHIOR Vacuolar calcium ion transporter OS=Rhizopus oryzae OX=64495 GN=G6F64_002377 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99986374	.	.	.
+tr|A0A9P6XGD3|A0A9P6XGD3_RHIOR DnaJ-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002714 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997405	.	.	.
+tr|A0A9P6XGE0|A0A9P6XGE0_RHIOR Cellulase OS=Rhizopus oryzae OX=64495 GN=G6F64_002372 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99979913	.	.	.
+tr|A0A9P6XGH6|A0A9P6XGH6_RHIOR carboxypeptidase C OS=Rhizopus oryzae OX=64495 GN=G6F64_002455 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998263	.	.	.
+tr|A0A9P6XGI1|A0A9P6XGI1_RHIOR J domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002274 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9991144	.	.	.
+tr|A0A9P6XGP3|A0A9P6XGP3_RHIOR Minor extracellular protease vpr OS=Rhizopus oryzae OX=64495 GN=G6F64_002544 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998183	.	.	.
+tr|A0A9P6XH52|A0A9P6XH52_RHIOR Protein disulfide-isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_002300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996881	.	.	.
+tr|A0A9P6XHH7|A0A9P6XHH7_RHIOR Calreticulin OS=Rhizopus oryzae OX=64495 GN=G6F64_001812 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998573	.	.	.
+tr|A0A9P6XHI3|A0A9P6XHI3_RHIOR Polygalacturonase OS=Rhizopus oryzae OX=64495 GN=G6F64_002087 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99985075	.	.	.
+tr|A0A9P6XHI5|A0A9P6XHI5_RHIOR VPS10 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001905 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.99980664	.	.	.
+tr|A0A9P6XHJ5|A0A9P6XHJ5_RHIOR Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 OS=Rhizopus oryzae OX=64495 GN=G6F64_001903 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998497	.	.	.
+tr|A0A9P6XHR2|A0A9P6XHR2_RHIOR glucan 1,3-beta-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_001954 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985284	.	.	.
+tr|A0A9P6XHU2|A0A9P6XHU2_RHIOR Pectinesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_001809 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99979115	.	.	.
+tr|A0A9P6XI09|A0A9P6XI09_RHIOR pectinesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_001810 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997842	.	.	.
+tr|A0A9P6XI94|A0A9P6XI94_RHIOR Endoglucanase OS=Rhizopus oryzae OX=64495 GN=G6F64_001353 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982625	.	.	.
+tr|A0A9P6XIE9|A0A9P6XIE9_RHIOR GOLD domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001461 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99984485	.	.	.
+tr|A0A9P6XII9|A0A9P6XII9_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001298 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997984	.	.	.
+tr|A0A9P6XIM1|A0A9P6XIM1_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_001141 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99935985	.	.	.
+tr|A0A9P6XIN3|A0A9P6XIN3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001211 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983805	.	.	.
+tr|A0A9P6XIW1|A0A9P6XIW1_RHIOR Trehalase OS=Rhizopus oryzae OX=64495 GN=G6F64_001470 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997996	.	.	.
+tr|A0A9P6XIY7|A0A9P6XIY7_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_001168 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998609	.	.	.
+tr|A0A9P6XIZ8|A0A9P6XIZ8_RHIOR Peptide hydrolase OS=Rhizopus oryzae OX=64495 GN=G6F64_000966 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998506	.	.	.
+tr|A0A9P6XJ25|A0A9P6XJ25_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000886 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99955386	.	.	.
+tr|A0A9P6XJ74|A0A9P6XJ74_RHIOR Protein BIG1 OS=Rhizopus oryzae OX=64495 GN=G6F64_001064 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985915	.	.	.
+tr|A0A9P6XJD8|A0A9P6XJD8_RHIOR Extracellular metalloproteinase OS=Rhizopus oryzae OX=64495 GN=G6F64_001222 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998197	.	.	.
+tr|A0A9P6XJI6|A0A9P6XJI6_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_001133 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998619	.	.	.
+tr|A0A9P6XJJ2|A0A9P6XJJ2_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_000632 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984723	.	.	.
+tr|A0A9P6XJU7|A0A9P6XJU7_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000509 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998352	.	.	.
+tr|A0A9P6XJV6|A0A9P6XJV6_RHIOR Peptidase S8/S53 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000735 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998297	.	.	.
+tr|A0A9P6XK56|A0A9P6XK56_RHIOR Purple acid phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_000440 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998015	.	.	.
+tr|A0A9P6XKG2|A0A9P6XKG2_RHIOR GATA-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000502 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99980515	.	.	.
+tr|A0A9P6XKM2|A0A9P6XKM2_RHIOR Endoglucanase OS=Rhizopus oryzae OX=64495 GN=G6F64_000322 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99973834	.	.	.
+tr|A0A9P6XKQ5|A0A9P6XKQ5_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000524 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998255	.	.	.
+tr|A0A9P6XKR0|A0A9P6XKR0_RHIOR Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 OS=Rhizopus oryzae OX=64495 GN=G6F64_000260 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982315	.	.	.
+tr|A0A9P6XKZ6|A0A9P6XKZ6_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_000168 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998058	.	.	.
+tr|A0A9P7BLA6|A0A9P7BLA6_RHIOR ribonuclease T2 OS=Rhizopus oryzae OX=64495 GN=G6F64_012364 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99980867	.	.	.
+tr|A0A9P7BLX5|A0A9P7BLX5_RHIOR Polygalacturonase OS=Rhizopus oryzae OX=64495 GN=G6F64_011298 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982613	.	.	.
+tr|A0A9P7BM38|A0A9P7BM38_RHIOR peptidylprolyl isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_011524 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998654	.	.	.
+tr|A0A9P7BMC9|A0A9P7BMC9_RHIOR beta-glucosidase OS=Rhizopus oryzae OX=64495 GN=G6F64_011748 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982315	.	.	.
+tr|A0A9P7BMP1|A0A9P7BMP1_RHIOR L-ascorbate oxidase OS=Rhizopus oryzae OX=64495 GN=G6F64_010489 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983	.	.	.
+tr|A0A9P7BMU8|A0A9P7BMU8_RHIOR ZIP zinc/iron transport family OS=Rhizopus oryzae OX=64495 GN=G6F64_010322 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.82494396	.	.	.
+tr|A0A9P7BMW7|A0A9P7BMW7_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_010250 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.999833	.	.	.
+tr|A0A9P7BN64|A0A9P7BN64_RHIOR Carboxypeptidase OS=Rhizopus oryzae OX=64495 GN=G6F64_009947 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983686	.	.	.
+tr|A0A9P7BNB4|A0A9P7BNB4_RHIOR Protein kinase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010533 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985254	.	.	.
+tr|A0A9P7BNC2|A0A9P7BNC2_RHIOR Calcineurin-like phosphoesterase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010205 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998179	.	.	.
+tr|A0A9P7BNF9|A0A9P7BNF9_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_010379 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983	.	.	.
+tr|A0A9P7BNP3|A0A9P7BNP3_RHIOR GH16 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010139 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998494	.	.	.
+tr|A0A9P7BNQ0|A0A9P7BNQ0_RHIOR J domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009393 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9989692	.	.	.
+tr|A0A9P7BNY0|A0A9P7BNY0_RHIOR Transmembrane 9 superfamily member OS=Rhizopus oryzae OX=64495 GN=G6F64_009872 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998483	.	.	.
+tr|A0A9P7BPF9|A0A9P7BPF9_RHIOR Signal sequence receptor subunit alpha OS=Rhizopus oryzae OX=64495 GN=G6F64_009046 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981874	.	.	.
+tr|A0A9P7BR35|A0A9P7BR35_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_007306 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998406	.	.	.
+tr|A0A9P7BR65|A0A9P7BR65_RHIOR 1,3-beta-glucanosyltransferase OS=Rhizopus oryzae OX=64495 GN=G6F64_007484 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985147	.	.	.
+tr|A0A9P7BRE7|A0A9P7BRE7_RHIOR Peptide hydrolase OS=Rhizopus oryzae OX=64495 GN=G6F64_006582 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998208	.	.	.
+tr|A0A9P7BRJ5|A0A9P7BRJ5_RHIOR chitinase OS=Rhizopus oryzae OX=64495 GN=G6F64_007409 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998126	.	.	.
+tr|A0A9P7BRS7|A0A9P7BRS7_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_006557 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998229	.	.	.
+tr|A0A9P7BRX9|A0A9P7BRX9_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006669 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998464	.	.	.
+tr|A0A9P7BRZ5|A0A9P7BRZ5_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_006611 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99986655	.	.	.
+tr|A0A9P7BS34|A0A9P7BS34_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005854 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99987704	.	.	.
+tr|A0A9P7BS63|A0A9P7BS63_RHIOR Peptidase S8/S53 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006387 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998285	.	.	.
+tr|A0A9P7BSD5|A0A9P7BSD5_RHIOR Peptidyl-prolyl cis-trans isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_006413 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997934	.	.	.
+tr|A0A9P7BSN1|A0A9P7BSN1_RHIOR Peptidyl-prolyl cis-trans isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_006207 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998185	.	.	.
+tr|A0A9P7BSN5|A0A9P7BSN5_RHIOR Amine oxidase OS=Rhizopus oryzae OX=64495 GN=G6F64_005244 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996959	.	.	.
+tr|A0A9P7BSZ6|A0A9P7BSZ6_RHIOR Superoxide dismutase [Cu-Zn] OS=Rhizopus oryzae OX=64495 GN=G6F64_005771 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99978757	.	.	.
+tr|A0A9P7BT63|A0A9P7BT63_RHIOR Peptide hydrolase OS=Rhizopus oryzae OX=64495 GN=G6F64_005021 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998274	.	.	.
+tr|A0A9P7BT73|A0A9P7BT73_RHIOR Tafazzin family protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005634 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.59742343	.	.	.
+tr|A0A9P7BTC2|A0A9P7BTC2_RHIOR EGF-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005394 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998261	.	.	.
+tr|A0A9P7BTN4|A0A9P7BTN4_RHIOR Endoplasmic oxidoreductin-1 OS=Rhizopus oryzae OX=64495 GN=G6F64_004847 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99981254	.	.	.
+tr|A0A9P7BUG5|A0A9P7BUG5_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_003959 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998283	.	.	.
+tr|A0A9P7BUK2|A0A9P7BUK2_RHIOR peptidylprolyl isomerase OS=Rhizopus oryzae OX=64495 GN=G6F64_004178 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999856	.	.	.
+tr|A0A9P7BUM7|A0A9P7BUM7_RHIOR Serine protease OS=Rhizopus oryzae OX=64495 GN=G6F64_004107 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998557	.	.	.
+tr|A0A9P7BV16|A0A9P7BV16_RHIOR UDP-glucose:glycoprotein glucosyltransferase OS=Rhizopus oryzae OX=64495 GN=G6F64_003581 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983025	.	.	.
+tr|A0A9P7BV89|A0A9P7BV89_RHIOR Cellulase OS=Rhizopus oryzae OX=64495 GN=G6F64_002890 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99981606	.	.	.
+tr|A0A9P7BVE1|A0A9P7BVE1_RHIOR Cellulase OS=Rhizopus oryzae OX=64495 GN=G6F64_002726 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998574	.	.	.
+tr|A0A9P7BVP1|A0A9P7BVP1_RHIOR non-chaperonin molecular chaperone ATPase OS=Rhizopus oryzae OX=64495 GN=G6F64_002656 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.999734	.	.	.
+tr|A0A9P7BVY2|A0A9P7BVY2_RHIOR chitin deacetylase OS=Rhizopus oryzae OX=64495 GN=G6F64_002733 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998254	.	.	.
+tr|A0A9P7BW14|A0A9P7BW14_RHIOR rhizopuspepsin OS=Rhizopus oryzae OX=64495 GN=G6F64_002554 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998316	.	.	.
+tr|A0A9P7BWL6|A0A9P7BWL6_RHIOR Actin interacting protein 3 C-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001176 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99987435	.	.	.
+tr|A0A9P7BWP7|A0A9P7BWP7_RHIOR Peptidase S8/S53 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001404 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984455	.	.	.
+tr|A0A9P7BWQ6|A0A9P7BWQ6_RHIOR proteasome endopeptidase complex OS=Rhizopus oryzae OX=64495 GN=G6F64_001369 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998113	.	.	.
+tr|A0A9P7BWX5|A0A9P7BWX5_RHIOR P-type ATPase A domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001312 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998106	.	.	.
+tr|A0A9P7BX39|A0A9P7BX39_RHIOR Protein BIG1 OS=Rhizopus oryzae OX=64495 GN=G6F64_000951 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998376	.	.	.
+tr|A0A9P7BX53|A0A9P7BX53_RHIOR cellulase OS=Rhizopus oryzae OX=64495 GN=G6F64_000558 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998089	.	.	.
+tr|A0A9P7BXV6|A0A9P7BXV6_RHIOR Endopolyphosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_000176 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99985456	.	.	.
+tr|A0A9P7BXZ3|A0A9P7BXZ3_RHIOR Beta-hexosaminidase OS=Rhizopus oryzae OX=64495 GN=G6F64_000516 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985254	.	.	.
+tr|A0A9P7BYI5|A0A9P7BYI5_RHIOR Coiled-coil domain-containing protein 47 OS=Rhizopus oryzae OX=64495 GN=G6F64_000125 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.78275675	.	.	.
+tr|E2G4G0|E2G4G0_RHIOR alpha-amylase OS=Rhizopus oryzae OX=64495 GN=G6F64_007040 PE=2 SV=1	SignalP-6.0	signal_peptide	1	26	0.99984324	.	.	.
+tr|Q5W9U0|Q5W9U0_RHIOR Polygalacturonase OS=Rhizopus oryzae OX=64495 GN=pg PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997997	.	.	.
+tr|A0A9P6WRE3|A0A9P6WRE3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015456 PE=4 SV=1	SignalP-6.0	signal_peptide	1	48	1.0	.	.	.
+tr|A0A9P6WS42|A0A9P6WS42_RHIOR TonB C-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015159 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	1.0	.	.	.
+tr|A0A9P6WS49|A0A9P6WS49_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015131 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99978644	.	.	.
+tr|A0A9P6WS51|A0A9P6WS51_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015144 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99978834	.	.	.
+tr|A0A9P6WT01|A0A9P6WT01_RHIOR Tripartite tricarboxylate transporter substrate binding protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014666 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997199	.	.	.
+tr|A0A9P6WT22|A0A9P6WT22_RHIOR Polypeptide-transport-associated ShlB-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014631 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.99971026	.	.	.
+tr|A0A9P6WT88|A0A9P6WT88_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014938 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.6663118	.	.	.
+tr|A0A9P6WTE0|A0A9P6WTE0_RHIOR TonB-dependent receptor plug domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014451 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997047	.	.	.
+tr|A0A9P6WTS6|A0A9P6WTS6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014247 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.66651404	.	.	.
+tr|A0A9P6WU33|A0A9P6WU33_RHIOR N-acetyltransferase YedL OS=Rhizopus oryzae OX=64495 GN=G6F64_014157 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99977684	.	.	.
+tr|A0A9P6WUA3|A0A9P6WUA3_RHIOR DUF4148 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014004 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99973786	.	.	.
+tr|A0A9P6WUB8|A0A9P6WUB8_RHIOR Extracellular membrane protein CFEM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014037 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998534	.	.	.
+tr|A0A9P6WUZ8|A0A9P6WUZ8_RHIOR P-type DNA transfer protein VirB5 OS=Rhizopus oryzae OX=64495 GN=G6F64_013616 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.999792	.	.	.
+tr|A0A9P6WVU8|A0A9P6WVU8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013147 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.8443313	.	.	.
+tr|A0A9P6WW03|A0A9P6WW03_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013072 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99985725	.	.	.
+tr|A0A9P6WWD8|A0A9P6WWD8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012910 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998363	.	.	.
+tr|A0A9P6WX16|A0A9P6WX16_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012551 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99986005	.	.	.
+tr|A0A9P6WXC1|A0A9P6WXC1_RHIOR UDP-glycosyltransferases domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012688 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998107	.	.	.
+tr|A0A9P6WXG1|A0A9P6WXG1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012341 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99986124	.	.	.
+tr|A0A9P6WXP7|A0A9P6WXP7_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012264 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998515	.	.	.
+tr|A0A9P6WXT0|A0A9P6WXT0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012161 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.5049315	.	.	.
+tr|A0A9P6WXU9|A0A9P6WXU9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012188 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99986863	.	.	.
+tr|A0A9P6WXV4|A0A9P6WXV4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012329 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99986154	.	.	.
+tr|A0A9P6WXX9|A0A9P6WXX9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012086 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984336	.	.	.
+tr|A0A9P6WY07|A0A9P6WY07_RHIOR GH16 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012099 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998461	.	.	.
+tr|A0A9P6WY53|A0A9P6WY53_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012263 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998769	.	.	.
+tr|A0A9P6WY91|A0A9P6WY91_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011935 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.9998436	.	.	.
+tr|A0A9P6WYA9|A0A9P6WYA9_RHIOR GPI anchored protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012030 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981666	.	.	.
+tr|A0A9P6WYC8|A0A9P6WYC8_RHIOR GPI anchored serine-threonine rich protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011861 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998396	.	.	.
+tr|A0A9P6WYD9|A0A9P6WYD9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011860 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998243	.	.	.
+tr|A0A9P6WYF2|A0A9P6WYF2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012015 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.83257955	.	.	.
+tr|A0A9P6WYS0|A0A9P6WYS0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011948 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998584	.	.	.
+tr|A0A9P6WYU5|A0A9P6WYU5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011591 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99985236	.	.	.
+tr|A0A9P6WZ18|A0A9P6WZ18_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011813 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9997968	.	.	.
+tr|A0A9P6WZ58|A0A9P6WZ58_RHIOR ER membrane protein complex subunit 7 beta-sandwich domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011411 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998376	.	.	.
+tr|A0A9P6WZC4|A0A9P6WZC4_RHIOR CBM21 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011648 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998615	.	.	.
+tr|A0A9P6WZD3|A0A9P6WZD3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011365 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.6664246	.	.	.
+tr|A0A9P6WZE8|A0A9P6WZE8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011302 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99975586	.	.	.
+tr|A0A9P6WZF1|A0A9P6WZF1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011285 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998606	.	.	.
+tr|A0A9P6WZG0|A0A9P6WZG0_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011269 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999798	.	.	.
+tr|A0A9P6WZU8|A0A9P6WZU8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011093 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997571	.	.	.
+tr|A0A9P6WZW7|A0A9P6WZW7_RHIOR 3D domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011036 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998738	.	.	.
+tr|A0A9P6X033|A0A9P6X033_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011004 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998556	.	.	.
+tr|A0A9P6X064|A0A9P6X064_RHIOR Peptidase A1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011099 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99987006	.	.	.
+tr|A0A9P6X0C9|A0A9P6X0C9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011106 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998635	.	.	.
+tr|A0A9P6X0F2|A0A9P6X0F2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011075 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998363	.	.	.
+tr|A0A9P6X0G8|A0A9P6X0G8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011037 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998611	.	.	.
+tr|A0A9P6X0H4|A0A9P6X0H4_RHIOR Hydrophobic surface binding protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010729 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981594	.	.	.
+tr|A0A9P6X0I6|A0A9P6X0I6_RHIOR DUF7137 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011006 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997722	.	.	.
+tr|A0A9P6X0K6|A0A9P6X0K6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010692 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99980235	.	.	.
+tr|A0A9P6X0N6|A0A9P6X0N6_RHIOR Phosphatidylglycerol/phosphatidylinositol transfer protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010644 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998327	.	.	.
+tr|A0A9P6X0P9|A0A9P6X0P9_RHIOR Coth-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010925 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99986786	.	.	.
+tr|A0A9P6X0S2|A0A9P6X0S2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010585 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998352	.	.	.
+tr|A0A9P6X0T9|A0A9P6X0T9_RHIOR Thioredoxin domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010867 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998372	.	.	.
+tr|A0A9P6X0U4|A0A9P6X0U4_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010679 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997547	.	.	.
+tr|A0A9P6X112|A0A9P6X112_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010449 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983746	.	.	.
+tr|A0A9P6X133|A0A9P6X133_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010415 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.999832	.	.	.
+tr|A0A9P6X140|A0A9P6X140_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010416 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982154	.	.	.
+tr|A0A9P6X171|A0A9P6X171_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010404 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998588	.	.	.
+tr|A0A9P6X1F3|A0A9P6X1F3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010349 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984056	.	.	.
+tr|A0A9P6X1G2|A0A9P6X1G2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010331 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998407	.	.	.
+tr|A0A9P6X1L5|A0A9P6X1L5_RHIOR GPI transamidase component PIG-T OS=Rhizopus oryzae OX=64495 GN=G6F64_010460 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985516	.	.	.
+tr|A0A9P6X1U6|A0A9P6X1U6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010340 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99988115	.	.	.
+tr|A0A9P6X1V1|A0A9P6X1V1_RHIOR Peptidase A1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010041 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99980044	.	.	.
+tr|A0A9P6X235|A0A9P6X235_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009972 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99977857	.	.	.
+tr|A0A9P6X281|A0A9P6X281_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009863 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99985915	.	.	.
+tr|A0A9P6X2C5|A0A9P6X2C5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009771 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998272	.	.	.
+tr|A0A9P6X2D0|A0A9P6X2D0_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009741 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.83316	.	.	.
+tr|A0A9P6X2H2|A0A9P6X2H2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010031 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998289	.	.	.
+tr|A0A9P6X2J9|A0A9P6X2J9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009749 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979806	.	.	.
+tr|A0A9P6X2P0|A0A9P6X2P0_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009547 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.99981916	.	.	.
+tr|A0A9P6X2Q0|A0A9P6X2Q0_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009576 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998022	.	.	.
+tr|A0A9P6X2Q9|A0A9P6X2Q9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009573 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999841	.	.	.
+tr|A0A9P6X2S9|A0A9P6X2S9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009655 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998299	.	.	.
+tr|A0A9P6X2V5|A0A9P6X2V5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009456 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99980575	.	.	.
+tr|A0A9P6X2V6|A0A9P6X2V6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009477 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99984324	.	.	.
+tr|A0A9P6X2W7|A0A9P6X2W7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009462 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982655	.	.	.
+tr|A0A9P6X318|A0A9P6X318_RHIOR Thaumatin-like protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009506 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99980724	.	.	.
+tr|A0A9P6X320|A0A9P6X320_RHIOR Plastocyanin-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009580 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983644	.	.	.
+tr|A0A9P6X361|A0A9P6X361_RHIOR Polysaccharide lyase 14 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009351 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99985594	.	.	.
+tr|A0A9P6X394|A0A9P6X394_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009489 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998432	.	.	.
+tr|A0A9P6X3B5|A0A9P6X3B5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009459 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99984264	.	.	.
+tr|A0A9P6X3D1|A0A9P6X3D1_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009361 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.999861	.	.	.
+tr|A0A9P6X3F6|A0A9P6X3F6_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009513 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998635	.	.	.
+tr|A0A9P6X3H0|A0A9P6X3H0_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99982315	.	.	.
+tr|A0A9P6X3I0|A0A9P6X3I0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009460 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998421	.	.	.
+tr|A0A9P6X3I3|A0A9P6X3I3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009142 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998413	.	.	.
+tr|A0A9P6X3J3|A0A9P6X3J3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009129 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.99976754	.	.	.
+tr|A0A9P6X3R6|A0A9P6X3R6_RHIOR GH16 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009150 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998365	.	.	.
+tr|A0A9P6X3V4|A0A9P6X3V4_RHIOR Acid phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_009208 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998197	.	.	.
+tr|A0A9P6X3X8|A0A9P6X3X8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009161 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99978137	.	.	.
+tr|A0A9P6X3Z9|A0A9P6X3Z9_RHIOR Lipocalin/cytosolic fatty-acid binding domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008912 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999843	.	.	.
+tr|A0A9P6X478|A0A9P6X478_RHIOR Extracellular membrane protein CFEM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008792 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998384	.	.	.
+tr|A0A9P6X4D0|A0A9P6X4D0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008798 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997661	.	.	.
+tr|A0A9P6X4F4|A0A9P6X4F4_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008692 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99952185	.	.	.
+tr|A0A9P6X4F9|A0A9P6X4F9_RHIOR Intradiol ring-cleavage dioxygenases domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008648 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99986017	.	.	.
+tr|A0A9P6X4H7|A0A9P6X4H7_RHIOR Cysteine-rich protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008638 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985415	.	.	.
+tr|A0A9P6X4P9|A0A9P6X4P9_RHIOR Carbohydrate esterase family 16 protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008844 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998401	.	.	.
+tr|A0A9P6X4U9|A0A9P6X4U9_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008465 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99976903	.	.	.
+tr|A0A9P6X4X3|A0A9P6X4X3_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985373	.	.	.
+tr|A0A9P6X4Y9|A0A9P6X4Y9_RHIOR Phospholipase B1, membrane-associated OS=Rhizopus oryzae OX=64495 GN=G6F64_008605 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99977595	.	.	.
+tr|A0A9P6X4Z7|A0A9P6X4Z7_RHIOR MIR domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008589 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997954	.	.	.
+tr|A0A9P6X550|A0A9P6X550_RHIOR Putative 5'-nucleotidase C-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008602 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983066	.	.	.
+tr|A0A9P6X578|A0A9P6X578_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008284 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985135	.	.	.
+tr|A0A9P6X598|A0A9P6X598_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008257 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998338	.	.	.
+tr|A0A9P6X5A4|A0A9P6X5A4_RHIOR CMP/dCMP-type deaminase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998004	.	.	.
+tr|A0A9P6X5G1|A0A9P6X5G1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008107 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998052	.	.	.
+tr|A0A9P6X5H0|A0A9P6X5H0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008230 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99980396	.	.	.
+tr|A0A9P6X5H3|A0A9P6X5H3_RHIOR Copper acquisition factor BIM1-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008111 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998335	.	.	.
+tr|A0A9P6X5H8|A0A9P6X5H8_RHIOR Coth protein-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008151 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999827	.	.	.
+tr|A0A9P6X5K5|A0A9P6X5K5_RHIOR Phosphate-induced protein 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_008141 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.999818	.	.	.
+tr|A0A9P6X5Q8|A0A9P6X5Q8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008294 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998238	.	.	.
+tr|A0A9P6X616|A0A9P6X616_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007929 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982107	.	.	.
+tr|A0A9P6X619|A0A9P6X619_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007820 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998511	.	.	.
+tr|A0A9P6X6G7|A0A9P6X6G7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007656 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998315	.	.	.
+tr|A0A9P6X6L5|A0A9P6X6L5_RHIOR DUF7137 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007534 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998385	.	.	.
+tr|A0A9P6X6N2|A0A9P6X6N2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007504 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998147	.	.	.
+tr|A0A9P6X6R5|A0A9P6X6R5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007793 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998201	.	.	.
+tr|A0A9P6X6R8|A0A9P6X6R8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007618 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998426	.	.	.
+tr|A0A9P6X6R9|A0A9P6X6R9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007449 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998461	.	.	.
+tr|A0A9P6X6U4|A0A9P6X6U4_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007413 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998164	.	.	.
+tr|A0A9P6X6X0|A0A9P6X6X0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007703 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984074	.	.	.
+tr|A0A9P6X719|A0A9P6X719_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007298 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99986875	.	.	.
+tr|A0A9P6X725|A0A9P6X725_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007278 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998684	.	.	.
+tr|A0A9P6X734|A0A9P6X734_RHIOR Osmotin, thaumatin-like protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007612 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997903	.	.	.
+tr|A0A9P6X764|A0A9P6X764_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007562 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997993	.	.	.
+tr|A0A9P6X777|A0A9P6X777_RHIOR Transmembrane protein 198 OS=Rhizopus oryzae OX=64495 GN=G6F64_007203 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99980587	.	.	.
+tr|A0A9P6X7E2|A0A9P6X7E2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007209 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998372	.	.	.
+tr|A0A9P6X7I0|A0A9P6X7I0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007148 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9957182	.	.	.
+tr|A0A9P6X7P6|A0A9P6X7P6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006950 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998339	.	.	.
+tr|A0A9P6X7T0|A0A9P6X7T0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007266 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998227	.	.	.
+tr|A0A9P6X7W0|A0A9P6X7W0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006857 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985677	.	.	.
+tr|A0A9P6X807|A0A9P6X807_RHIOR Coth-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006786 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983186	.	.	.
+tr|A0A9P6X879|A0A9P6X879_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006678 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999842	.	.	.
+tr|A0A9P6X885|A0A9P6X885_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007025 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998204	.	.	.
+tr|A0A9P6X8A1|A0A9P6X8A1_RHIOR SH3 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006701 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99980646	.	.	.
+tr|A0A9P6X8C3|A0A9P6X8C3_RHIOR SCP domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006618 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998054	.	.	.
+tr|A0A9P6X8D6|A0A9P6X8D6_RHIOR Lipocalin/cytosolic fatty-acid binding domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006952 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99979824	.	.	.
+tr|A0A9P6X8H6|A0A9P6X8H6_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006545 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99973357	.	.	.
+tr|A0A9P6X8H8|A0A9P6X8H8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006684 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.89751416	.	.	.
+tr|A0A9P6X8M1|A0A9P6X8M1_RHIOR Acid phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_006510 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998123	.	.	.
+tr|A0A9P6X8N2|A0A9P6X8N2_RHIOR Lipocalin-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006451 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99980783	.	.	.
+tr|A0A9P6X8R4|A0A9P6X8R4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006490 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99979603	.	.	.
+tr|A0A9P6X8R5|A0A9P6X8R5_RHIOR Triacylglycerol lipase OS=Rhizopus oryzae OX=64495 GN=G6F64_006754 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998342	.	.	.
+tr|A0A9P6X8T8|A0A9P6X8T8_RHIOR Mannose-P-dolichol utilization defect 1 protein homolog OS=Rhizopus oryzae OX=64495 GN=G6F64_006415 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998463	.	.	.
+tr|A0A9P6X8Y5|A0A9P6X8Y5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006607 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998126	.	.	.
+tr|A0A9P6X922|A0A9P6X922_RHIOR ER membrane protein complex subunit 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_006252 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.66959697	.	.	.
+tr|A0A9P6X935|A0A9P6X935_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006560 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999856	.	.	.
+tr|A0A9P6X936|A0A9P6X936_RHIOR GH16 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006212 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981135	.	.	.
+tr|A0A9P6X9C2|A0A9P6X9C2_RHIOR PLC-like phosphodiesterase OS=Rhizopus oryzae OX=64495 GN=G6F64_006417 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984527	.	.	.
+tr|A0A9P6X9D4|A0A9P6X9D4_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006091 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998264	.	.	.
+tr|A0A9P6X9E5|A0A9P6X9E5_RHIOR Polysaccharide lyase 14 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006077 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99980813	.	.	.
+tr|A0A9P6X9H4|A0A9P6X9H4_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006034 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998103	.	.	.
+tr|A0A9P6X9N5|A0A9P6X9N5_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005941 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998327	.	.	.
+tr|A0A9P6X9T8|A0A9P6X9T8_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005881 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998326	.	.	.
+tr|A0A9P6X9U6|A0A9P6X9U6_RHIOR SCP domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005851 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998262	.	.	.
+tr|A0A9P6X9V5|A0A9P6X9V5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005844 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984	.	.	.
+tr|A0A9P6X9W6|A0A9P6X9W6_RHIOR Coth protein-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006130 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998519	.	.	.
+tr|A0A9P6X9X7|A0A9P6X9X7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005798 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983454	.	.	.
+tr|A0A9P6X9Y6|A0A9P6X9Y6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006093 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998634	.	.	.
+tr|A0A9P6XA18|A0A9P6XA18_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005751 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998223	.	.	.
+tr|A0A9P6XA82|A0A9P6XA82_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005654 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999849	.	.	.
+tr|A0A9P6XAC2|A0A9P6XAC2_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005571 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99972504	.	.	.
+tr|A0A9P6XAF6|A0A9P6XAF6_RHIOR Tail specific protease domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005668 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998183	.	.	.
+tr|A0A9P6XAI9|A0A9P6XAI9_RHIOR GOLD domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005464 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998703	.	.	.
+tr|A0A9P6XAM2|A0A9P6XAM2_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005544 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996612	.	.	.
+tr|A0A9P6XAM4|A0A9P6XAM4_RHIOR SH3 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005408 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998494	.	.	.
+tr|A0A9P6XAN2|A0A9P6XAN2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005725 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998196	.	.	.
+tr|A0A9P6XAQ2|A0A9P6XAQ2_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005504 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.9998362	.	.	.
+tr|A0A9P6XAQ9|A0A9P6XAQ9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005419 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998274	.	.	.
+tr|A0A9P6XAR8|A0A9P6XAR8_RHIOR SH3 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005423 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998511	.	.	.
+tr|A0A9P6XAX3|A0A9P6XAX3_RHIOR Fungal lipase-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005588 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99975884	.	.	.
+tr|A0A9P6XB19|A0A9P6XB19_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005174 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99919415	.	.	.
+tr|A0A9P6XB78|A0A9P6XB78_RHIOR Galactose oxidase OS=Rhizopus oryzae OX=64495 GN=G6F64_005231 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997858	.	.	.
+tr|A0A9P6XBD0|A0A9P6XBD0_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005004 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983746	.	.	.
+tr|A0A9P6XBE6|A0A9P6XBE6_RHIOR CotH protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005049 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998092	.	.	.
+tr|A0A9P6XBF2|A0A9P6XBF2_RHIOR Galactose oxidase OS=Rhizopus oryzae OX=64495 GN=G6F64_005089 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.999835	.	.	.
+tr|A0A9P6XBI0|A0A9P6XBI0_RHIOR UDP-glycosyltransferases domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005283 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982774	.	.	.
+tr|A0A9P6XBJ2|A0A9P6XBJ2_RHIOR Invertebrate defensins family profile domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004935 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998666	.	.	.
+tr|A0A9P6XBK7|A0A9P6XBK7_RHIOR Fungal lipase-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004959 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.999757	.	.	.
+tr|A0A9P6XBL6|A0A9P6XBL6_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005016 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99970746	.	.	.
+tr|A0A9P6XBR7|A0A9P6XBR7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004808 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998512	.	.	.
+tr|A0A9P6XBT3|A0A9P6XBT3_RHIOR Meiotic sister chromatid recombination protein 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_004784 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998453	.	.	.
+tr|A0A9P6XBV5|A0A9P6XBV5_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004812 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998325	.	.	.
+tr|A0A9P6XBV9|A0A9P6XBV9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004749 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998293	.	.	.
+tr|A0A9P6XBX6|A0A9P6XBX6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004855 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998379	.	.	.
+tr|A0A9P6XBX9|A0A9P6XBX9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004764 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998354	.	.	.
+tr|A0A9P6XC12|A0A9P6XC12_RHIOR L domain-like protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004657 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999797	.	.	.
+tr|A0A9P6XC50|A0A9P6XC50_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004661 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981827	.	.	.
+tr|A0A9P6XC62|A0A9P6XC62_RHIOR Phosphatidylinositol-specific phospholipase C X domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004704 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985623	.	.	.
+tr|A0A9P6XC89|A0A9P6XC89_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004542 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997916	.	.	.
+tr|A0A9P6XCB6|A0A9P6XCB6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004553 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9992561	.	.	.
+tr|A0A9P6XCC5|A0A9P6XCC5_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004813 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997901	.	.	.
+tr|A0A9P6XCG8|A0A9P6XCG8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004461 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99983615	.	.	.
+tr|A0A9P6XCG9|A0A9P6XCG9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004491 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998285	.	.	.
+tr|A0A9P6XCI3|A0A9P6XCI3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004703 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985486	.	.	.
+tr|A0A9P6XCN2|A0A9P6XCN2_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004346 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998472	.	.	.
+tr|A0A9P6XCN3|A0A9P6XCN3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004653 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998477	.	.	.
+tr|A0A9P6XCN5|A0A9P6XCN5_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004626 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998057	.	.	.
+tr|A0A9P6XCP5|A0A9P6XCP5_RHIOR GOLD domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004295 PE=3 SV=1	SignalP-6.0	signal_peptide	1	48	0.9997784	.	.	.
+tr|A0A9P6XCQ5|A0A9P6XCQ5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004597 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998493	.	.	.
+tr|A0A9P6XCT3|A0A9P6XCT3_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004586 PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.9998289	.	.	.
+tr|A0A9P6XCV8|A0A9P6XCV8_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004544 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99978065	.	.	.
+tr|A0A9P6XCY3|A0A9P6XCY3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004187 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99978095	.	.	.
+tr|A0A9P6XD06|A0A9P6XD06_RHIOR Autophagy-related protein 18 OS=Rhizopus oryzae OX=64495 GN=G6F64_004471 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9086653	.	.	.
+tr|A0A9P6XD37|A0A9P6XD37_RHIOR Coth protein-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004158 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998002	.	.	.
+tr|A0A9P6XD69|A0A9P6XD69_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004201 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.999768	.	.	.
+tr|A0A9P6XD80|A0A9P6XD80_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004376 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.99979174	.	.	.
+tr|A0A9P6XDA0|A0A9P6XDA0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004008 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99974865	.	.	.
+tr|A0A9P6XDJ8|A0A9P6XDJ8_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004014 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983215	.	.	.
+tr|A0A9P6XDL0|A0A9P6XDL0_RHIOR Glucosidase 2 subunit beta OS=Rhizopus oryzae OX=64495 GN=G6F64_004183 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997475	.	.	.
+tr|A0A9P6XDL6|A0A9P6XDL6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003979 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997712	.	.	.
+tr|A0A9P6XE34|A0A9P6XE34_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003576 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99984664	.	.	.
+tr|A0A9P6XE84|A0A9P6XE84_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003648 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998687	.	.	.
+tr|A0A9P6XEE5|A0A9P6XEE5_RHIOR Swiss Army Knife 2H phosphoesterase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003398 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985504	.	.	.
+tr|A0A9P6XEF0|A0A9P6XEF0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003434 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.6662402	.	.	.
+tr|A0A9P6XEG1|A0A9P6XEG1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003750 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982524	.	.	.
+tr|A0A9P6XEI6|A0A9P6XEI6_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003337 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997232	.	.	.
+tr|A0A9P6XEJ7|A0A9P6XEJ7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003662 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998672	.	.	.
+tr|A0A9P6XEP9|A0A9P6XEP9_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003266 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997344	.	.	.
+tr|A0A9P6XEQ9|A0A9P6XEQ9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003208 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99979144	.	.	.
+tr|A0A9P6XEZ2|A0A9P6XEZ2_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003248 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999861	.	.	.
+tr|A0A9P6XF45|A0A9P6XF45_RHIOR Polysaccharide lyase 14 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003052 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998564	.	.	.
+tr|A0A9P6XFA0|A0A9P6XFA0_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002983 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982655	.	.	.
+tr|A0A9P6XFI7|A0A9P6XFI7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003162 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998308	.	.	.
+tr|A0A9P6XFQ5|A0A9P6XFQ5_RHIOR Phosphatidylglycerol/phosphatidylinositol transfer protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985313	.	.	.
+tr|A0A9P6XG33|A0A9P6XG33_RHIOR Pyrroloquinoline quinone-dependent pyranose dehydrogenase beta-propeller domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002671 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999826	.	.	.
+tr|A0A9P6XG48|A0A9P6XG48_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002570 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998301	.	.	.
+tr|A0A9P6XG60|A0A9P6XG60_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002516 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99975836	.	.	.
+tr|A0A9P6XG72|A0A9P6XG72_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002481 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983186	.	.	.
+tr|A0A9P6XG90|A0A9P6XG90_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.99983644	.	.	.
+tr|A0A9P6XGA2|A0A9P6XGA2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002815 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99979883	.	.	.
+tr|A0A9P6XGN8|A0A9P6XGN8_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002174 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997813	.	.	.
+tr|A0A9P6XGP9|A0A9P6XGP9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002351 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998383	.	.	.
+tr|A0A9P6XGT6|A0A9P6XGT6_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002210 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998191	.	.	.
+tr|A0A9P6XGV7|A0A9P6XGV7_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002177 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997448	.	.	.
+tr|A0A9P6XGW0|A0A9P6XGW0_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002299 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998117	.	.	.
+tr|A0A9P6XGW6|A0A9P6XGW6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002447 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998945	.	.	.
+tr|A0A9P6XGX9|A0A9P6XGX9_RHIOR Acid phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_002235 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99979216	.	.	.
+tr|A0A9P6XH06|A0A9P6XH06_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002060 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998378	.	.	.
+tr|A0A9P6XH23|A0A9P6XH23_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002167 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99988866	.	.	.
+tr|A0A9P6XH26|A0A9P6XH26_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002401 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99981886	.	.	.
+tr|A0A9P6XH51|A0A9P6XH51_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997837	.	.	.
+tr|A0A9P6XH92|A0A9P6XH92_RHIOR TM7S3/TM198-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001874 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.68384564	.	.	.
+tr|A0A9P6XH94|A0A9P6XH94_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001941 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998594	.	.	.
+tr|A0A9P6XHA0|A0A9P6XHA0_RHIOR Phosphoesterase-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002234 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998162	.	.	.
+tr|A0A9P6XHB1|A0A9P6XHB1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002033 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.83304566	.	.	.
+tr|A0A9P6XHC5|A0A9P6XHC5_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002001 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998182	.	.	.
+tr|A0A9P6XHK6|A0A9P6XHK6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001797 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997981	.	.	.
+tr|A0A9P6XHM7|A0A9P6XHM7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001679 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99985945	.	.	.
+tr|A0A9P6XHN4|A0A9P6XHN4_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001666 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99976796	.	.	.
+tr|A0A9P6XHP9|A0A9P6XHP9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001863 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99979365	.	.	.
+tr|A0A9P6XHV2|A0A9P6XHV2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001567 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997835	.	.	.
+tr|A0A9P6XHW2|A0A9P6XHW2_RHIOR Fungal lipase-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001561 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998062	.	.	.
+tr|A0A9P6XHW6|A0A9P6XHW6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001864 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983263	.	.	.
+tr|A0A9P6XHZ3|A0A9P6XHZ3_RHIOR Fungal lipase-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001554 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998059	.	.	.
+tr|A0A9P6XI24|A0A9P6XI24_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001516 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985534	.	.	.
+tr|A0A9P6XI72|A0A9P6XI72_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001572 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997686	.	.	.
+tr|A0A9P6XIA6|A0A9P6XIA6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001325 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998163	.	.	.
+tr|A0A9P6XIE8|A0A9P6XIE8_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001585 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999861	.	.	.
+tr|A0A9P6XIF3|A0A9P6XIF3_RHIOR Midasin OS=Rhizopus oryzae OX=64495 GN=G6F64_001247 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997392	.	.	.
+tr|A0A9P6XIN7|A0A9P6XIN7_RHIOR L-ascorbate oxidase OS=Rhizopus oryzae OX=64495 GN=G6F64_001591 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985033	.	.	.
+tr|A0A9P6XIR4|A0A9P6XIR4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001326 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998228	.	.	.
+tr|A0A9P6XIU9|A0A9P6XIU9_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001046 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999798	.	.	.
+tr|A0A9P6XJ28|A0A9P6XJ28_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000906 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985623	.	.	.
+tr|A0A9P6XJD2|A0A9P6XJD2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000836 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998143	.	.	.
+tr|A0A9P6XJE0|A0A9P6XJE0_RHIOR SGNH hydrolase-type esterase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001063 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983555	.	.	.
+tr|A0A9P6XJE8|A0A9P6XJE8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000963 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974334	.	.	.
+tr|A0A9P6XJM4|A0A9P6XJM4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000855 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998405	.	.	.
+tr|A0A9P6XJQ5|A0A9P6XJQ5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000664 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984133	.	.	.
+tr|A0A9P6XJZ0|A0A9P6XJZ0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000425 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999811	.	.	.
+tr|A0A9P6XJZ1|A0A9P6XJZ1_RHIOR L-2-hydroxyglutarate dehydrogenase, mitochondrial OS=Rhizopus oryzae OX=64495 GN=G6F64_000512 PE=3 SV=1	SignalP-6.0	signal_peptide	1	37	0.6666769	.	.	.
+tr|A0A9P6XK27|A0A9P6XK27_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000481 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99974746	.	.	.
+tr|A0A9P6XK39|A0A9P6XK39_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000367 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99987555	.	.	.
+tr|A0A9P6XK65|A0A9P6XK65_RHIOR Non-hemolytic phospholipase C OS=Rhizopus oryzae OX=64495 GN=G6F64_000397 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99977964	.	.	.
+tr|A0A9P6XKD1|A0A9P6XKD1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000287 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997982	.	.	.
+tr|A0A9P6XKD9|A0A9P6XKD9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000684 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997841	.	.	.
+tr|A0A9P6XKG8|A0A9P6XKG8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000284 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998482	.	.	.
+tr|A0A9P6XKQ3|A0A9P6XKQ3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000040 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.83313435	.	.	.
+tr|A0A9P6XKQ8|A0A9P6XKQ8_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000010 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999796	.	.	.
+tr|A0A9P6XKR1|A0A9P6XKR1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000110 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983096	.	.	.
+tr|A0A9P6XKW0|A0A9P6XKW0_RHIOR UDP-glycosyltransferases domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000220 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997006	.	.	.
+tr|A0A9P6XKX7|A0A9P6XKX7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000167 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981767	.	.	.
+tr|A0A9P6XKY1|A0A9P6XKY1_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000023 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.83317477	.	.	.
+tr|A0A9P6XL36|A0A9P6XL36_RHIOR Phosphatidylethanolamine-binding protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000118 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9999024	.	.	.
+tr|A0A9P6XL63|A0A9P6XL63_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000039 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982977	.	.	.
+tr|A0A9P6XLG4|A0A9P6XLG4_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000135 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982697	.	.	.
+tr|A0A9P7BHZ4|A0A9P7BHZ4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015545 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99980277	.	.	.
+tr|A0A9P7BII9|A0A9P7BII9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015406 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998285	.	.	.
+tr|A0A9P7BIR9|A0A9P7BIR9_RHIOR Extracellular membrane protein CFEM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015065 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981195	.	.	.
+tr|A0A9P7BIT3|A0A9P7BIT3_RHIOR Transglycosylase SLT domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015005 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.999778	.	.	.
+tr|A0A9P7BIW8|A0A9P7BIW8_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_015182 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998198	.	.	.
+tr|A0A9P7BJ36|A0A9P7BJ36_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014299 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99977416	.	.	.
+tr|A0A9P7BJN6|A0A9P7BJN6_RHIOR Spore coat protein U/FanG domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013699 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997731	.	.	.
+tr|A0A9P7BJT1|A0A9P7BJT1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013564 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.8527781	.	.	.
+tr|A0A9P7BJV1|A0A9P7BJV1_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013504 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997993	.	.	.
+tr|A0A9P7BJX2|A0A9P7BJX2_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_014011 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998308	.	.	.
+tr|A0A9P7BK38|A0A9P7BK38_RHIOR GH18 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013892 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998294	.	.	.
+tr|A0A9P7BKH7|A0A9P7BKH7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012814 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998228	.	.	.
+tr|A0A9P7BKL8|A0A9P7BKL8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012694 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.83584976	.	.	.
+tr|A0A9P7BKN1|A0A9P7BKN1_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012649 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998678	.	.	.
+tr|A0A9P7BKR5|A0A9P7BKR5_RHIOR Leucine-rich repeat-containing N-terminal plant-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_013458 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996765	.	.	.
+tr|A0A9P7BKW1|A0A9P7BKW1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012409 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996859	.	.	.
+tr|A0A9P7BL51|A0A9P7BL51_RHIOR TRP C-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012154 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.8830947	.	.	.
+tr|A0A9P7BLA0|A0A9P7BLA0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012380 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999826	.	.	.
+tr|A0A9P7BLF3|A0A9P7BLF3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012230 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997619	.	.	.
+tr|A0A9P7BLI2|A0A9P7BLI2_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012346 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99982065	.	.	.
+tr|A0A9P7BLK4|A0A9P7BLK4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012573 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985695	.	.	.
+tr|A0A9P7BLR0|A0A9P7BLR0_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_012214 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.6632096	.	.	.
+tr|A0A9P7BLS3|A0A9P7BLS3_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011886 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998764	.	.	.
+tr|A0A9P7BLU8|A0A9P7BLU8_RHIOR Lysozyme-like protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011375 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998662	.	.	.
+tr|A0A9P7BLW9|A0A9P7BLW9_RHIOR YncI copper-binding domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011313 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998405	.	.	.
+tr|A0A9P7BLZ8|A0A9P7BLZ8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011942 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998294	.	.	.
+tr|A0A9P7BM31|A0A9P7BM31_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011761 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99984133	.	.	.
+tr|A0A9P7BM64|A0A9P7BM64_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011747 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998254	.	.	.
+tr|A0A9P7BMA0|A0A9P7BMA0_RHIOR RxLR effector protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010907 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983287	.	.	.
+tr|A0A9P7BMD2|A0A9P7BMD2_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010817 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997585	.	.	.
+tr|A0A9P7BMH3|A0A9P7BMH3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011371 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99982107	.	.	.
+tr|A0A9P7BMI2|A0A9P7BMI2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011087 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998295	.	.	.
+tr|A0A9P7BMM4|A0A9P7BMM4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_011251 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.96010435	.	.	.
+tr|A0A9P7BMR5|A0A9P7BMR5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010414 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985516	.	.	.
+tr|A0A9P7BNA2|A0A9P7BNA2_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_010559 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99983656	.	.	.
+tr|A0A9P7BNL0|A0A9P7BNL0_RHIOR Stretch-activated cation channel Mid1 OS=Rhizopus oryzae OX=64495 GN=G6F64_010501 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996817	.	.	.
+tr|A0A9P7BNR1|A0A9P7BNR1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009345 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998413	.	.	.
+tr|A0A9P7BP61|A0A9P7BP61_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009331 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983054	.	.	.
+tr|A0A9P7BPB7|A0A9P7BPB7_RHIOR SH3 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009738 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997891	.	.	.
+tr|A0A9P7BPG2|A0A9P7BPG2_RHIOR GH16 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009603 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998099	.	.	.
+tr|A0A9P7BPL4|A0A9P7BPL4_RHIOR Transmembrane protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009166 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.71171385	.	.	.
+tr|A0A9P7BPL6|A0A9P7BPL6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009137 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998282	.	.	.
+tr|A0A9P7BPP2|A0A9P7BPP2_RHIOR Right handed beta helix domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009346 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998175	.	.	.
+tr|A0A9P7BPQ7|A0A9P7BPQ7_RHIOR Calcineurin-like phosphoesterase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_009011 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998408	.	.	.
+tr|A0A9P7BPS5|A0A9P7BPS5_RHIOR Polysaccharide lyase 14 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008984 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998611	.	.	.
+tr|A0A9P7BPV5|A0A9P7BPV5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008614 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998462	.	.	.
+tr|A0A9P7BPW7|A0A9P7BPW7_RHIOR Metallo-beta-lactamase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008129 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998281	.	.	.
+tr|A0A9P7BPY6|A0A9P7BPY6_RHIOR Pacifastin domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008777 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998462	.	.	.
+tr|A0A9P7BQA6|A0A9P7BQA6_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008431 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985105	.	.	.
+tr|A0A9P7BQG4|A0A9P7BQG4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007589 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99984246	.	.	.
+tr|A0A9P7BQH5|A0A9P7BQH5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008205 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998077	.	.	.
+tr|A0A9P7BQI5|A0A9P7BQI5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_008171 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998509	.	.	.
+tr|A0A9P7BQN7|A0A9P7BQN7_RHIOR Meiotic sister chromatid recombination protein 1 OS=Rhizopus oryzae OX=64495 GN=G6F64_008309 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998133	.	.	.
+tr|A0A9P7BQP2|A0A9P7BQP2_RHIOR Lysophospholipase OS=Rhizopus oryzae OX=64495 GN=G6F64_008295 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.9997632	.	.	.
+tr|A0A9P7BQU8|A0A9P7BQU8_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007824 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99964154	.	.	.
+tr|A0A9P7BQY4|A0A9P7BQY4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007721 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.999833	.	.	.
+tr|A0A9P7BR08|A0A9P7BR08_RHIOR Chitosanase OS=Rhizopus oryzae OX=64495 GN=G6F64_007007 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99982935	.	.	.
+tr|A0A9P7BR12|A0A9P7BR12_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006993 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999822	.	.	.
+tr|A0A9P7BR58|A0A9P7BR58_RHIOR Dipeptidyl-peptidase V OS=Rhizopus oryzae OX=64495 GN=G6F64_007529 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99980104	.	.	.
+tr|A0A9P7BR79|A0A9P7BR79_RHIOR Copper acquisition factor BIM1-like domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007744 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985987	.	.	.
+tr|A0A9P7BR88|A0A9P7BR88_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007435 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998259	.	.	.
+tr|A0A9P7BR94|A0A9P7BR94_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007394 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.9997597	.	.	.
+tr|A0A9P7BRC9|A0A9P7BRC9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007006 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99983597	.	.	.
+tr|A0A9P7BRD9|A0A9P7BRD9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006977 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984056	.	.	.
+tr|A0A9P7BRF8|A0A9P7BRF8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006920 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997967	.	.	.
+tr|A0A9P7BRJ9|A0A9P7BRJ9_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007077 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99978495	.	.	.
+tr|A0A9P7BRP6|A0A9P7BRP6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007263 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998012	.	.	.
+tr|A0A9P7BRS0|A0A9P7BRS0_RHIOR Integral membrane protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006866 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.87145984	.	.	.
+tr|A0A9P7BRS3|A0A9P7BRS3_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006567 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998117	.	.	.
+tr|A0A9P7BRW9|A0A9P7BRW9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_007020 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998011	.	.	.
+tr|A0A9P7BRZ9|A0A9P7BRZ9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006596 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983615	.	.	.
+tr|A0A9P7BS17|A0A9P7BS17_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006253 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99981904	.	.	.
+tr|A0A9P7BS36|A0A9P7BS36_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006191 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998183	.	.	.
+tr|A0A9P7BS67|A0A9P7BS67_RHIOR Coth-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006372 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984556	.	.	.
+tr|A0A9P7BS79|A0A9P7BS79_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006584 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998748	.	.	.
+tr|A0A9P7BSA3|A0A9P7BSA3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006267 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99967194	.	.	.
+tr|A0A9P7BSB8|A0A9P7BSB8_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005943 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998359	.	.	.
+tr|A0A9P7BSC0|A0A9P7BSC0_RHIOR Periplasmic binding protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006209 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998274	.	.	.
+tr|A0A9P7BSC8|A0A9P7BSC8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005583 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983627	.	.	.
+tr|A0A9P7BSE4|A0A9P7BSE4_RHIOR PH domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_006132 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998121	.	.	.
+tr|A0A9P7BSH0|A0A9P7BSH0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005779 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997875	.	.	.
+tr|A0A9P7BSM1|A0A9P7BSM1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005292 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.99971426	.	.	.
+tr|A0A9P7BSS8|A0A9P7BSS8_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005988 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998501	.	.	.
+tr|A0A9P7BSW4|A0A9P7BSW4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005007 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998082	.	.	.
+tr|A0A9P7BSX7|A0A9P7BSX7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005275 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997453	.	.	.
+tr|A0A9P7BSY1|A0A9P7BSY1_RHIOR Fungal lipase-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005830 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985605	.	.	.
+tr|A0A9P7BT16|A0A9P7BT16_RHIOR Osmotin, thaumatin-like protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005819 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99979675	.	.	.
+tr|A0A9P7BT27|A0A9P7BT27_RHIOR Fungal lipase-type domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005462 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99976116	.	.	.
+tr|A0A9P7BT81|A0A9P7BT81_RHIOR GPI anchored serine-threonine rich protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005295 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998243	.	.	.
+tr|A0A9P7BTC0|A0A9P7BTC0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004548 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998397	.	.	.
+tr|A0A9P7BTC5|A0A9P7BTC5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005476 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998159	.	.	.
+tr|A0A9P7BTK3|A0A9P7BTK3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005130 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99984825	.	.	.
+tr|A0A9P7BTT3|A0A9P7BTT3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_005023 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998709	.	.	.
+tr|A0A9P7BU03|A0A9P7BU03_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_004818 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99980116	.	.	.
+tr|A0A9P7BUT1|A0A9P7BUT1_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003594 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998143	.	.	.
+tr|A0A9P7BUX7|A0A9P7BUX7_RHIOR Hyaluronan/mRNA-binding protein domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003810 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998204	.	.	.
+tr|A0A9P7BV13|A0A9P7BV13_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003343 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99976087	.	.	.
+tr|A0A9P7BV79|A0A9P7BV79_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002912 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998379	.	.	.
+tr|A0A9P7BV83|A0A9P7BV83_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002606 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998312	.	.	.
+tr|A0A9P7BVB3|A0A9P7BVB3_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003406 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99980384	.	.	.
+tr|A0A9P7BVC7|A0A9P7BVC7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002782 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998523	.	.	.
+tr|A0A9P7BVF0|A0A9P7BVF0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002937 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.68814707	.	.	.
+tr|A0A9P7BVG5|A0A9P7BVG5_RHIOR Acid phosphatase OS=Rhizopus oryzae OX=64495 GN=G6F64_003156 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998273	.	.	.
+tr|A0A9P7BVH2|A0A9P7BVH2_RHIOR EF-hand domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002335 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99985987	.	.	.
+tr|A0A9P7BVH8|A0A9P7BVH8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F51_002685 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998383	.	.	.
+tr|A0A9P7BVI5|A0A9P7BVI5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002605 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998158	.	.	.
+tr|A0A9P7BVJ8|A0A9P7BVJ8_RHIOR GH16 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003155 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998554	.	.	.
+tr|A0A9P7BVM5|A0A9P7BVM5_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_003067 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999778	.	.	.
+tr|A0A9P7BVS8|A0A9P7BVS8_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002541 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99984014	.	.	.
+tr|A0A9P7BVU9|A0A9P7BVU9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002265 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99976325	.	.	.
+tr|A0A9P7BVV7|A0A9P7BVV7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002729 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998166	.	.	.
+tr|A0A9P7BVX0|A0A9P7BVX0_RHIOR FAS1 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002411 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998302	.	.	.
+tr|A0A9P7BVX1|A0A9P7BVX1_RHIOR RlpA-like protein double-psi beta-barrel domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001892 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998004	.	.	.
+tr|A0A9P7BVZ2|A0A9P7BVZ2_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002345 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998669	.	.	.
+tr|A0A9P7BW44|A0A9P7BW44_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002472 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99961114	.	.	.
+tr|A0A9P7BWA4|A0A9P7BWA4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001997 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998311	.	.	.
+tr|A0A9P7BWB2|A0A9P7BWB2_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002336 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998381	.	.	.
+tr|A0A9P7BWB7|A0A9P7BWB7_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002324 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997755	.	.	.
+tr|A0A9P7BWJ4|A0A9P7BWJ4_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_002077 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998169	.	.	.
+tr|A0A9P7BWJ7|A0A9P7BWJ7_RHIOR LysM domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001729 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982196	.	.	.
+tr|A0A9P7BWL0|A0A9P7BWL0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001499 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984145	.	.	.
+tr|A0A9P7BWR5|A0A9P7BWR5_RHIOR Nudix hydrolase domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001320 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997004	.	.	.
+tr|A0A9P7BWT5|A0A9P7BWT5_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001445 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99982345	.	.	.
+tr|A0A9P7BWW6|A0A9P7BWW6_RHIOR Secreted protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001844 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.94348437	.	.	.
+tr|A0A9P7BX23|A0A9P7BX23_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001424 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998446	.	.	.
+tr|A0A9P7BX80|A0A9P7BX80_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000987 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998322	.	.	.
+tr|A0A9P7BX95|A0A9P7BX95_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000461 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998065	.	.	.
+tr|A0A9P7BX98|A0A9P7BX98_RHIOR Mid2 domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_001195 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99981284	.	.	.
+tr|A0A9P7BXC7|A0A9P7BXC7_RHIOR Coth protein-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000853 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985117	.	.	.
+tr|A0A9P7BXE4|A0A9P7BXE4_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000289 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997181	.	.	.
+tr|A0A9P7BXG7|A0A9P7BXG7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000575 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998207	.	.	.
+tr|A0A9P7BXI9|A0A9P7BXI9_RHIOR CotH protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000645 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982417	.	.	.
+tr|A0A9P7BXL2|A0A9P7BXL2_RHIOR Coth-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000852 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998572	.	.	.
+tr|A0A9P7BXL9|A0A9P7BXL9_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000081 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998017	.	.	.
+tr|A0A9P7BXT6|A0A9P7BXT6_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000883 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99977154	.	.	.
+tr|A0A9P7BXW7|A0A9P7BXW7_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000138 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998251	.	.	.
+tr|A0A9P7BXZ0|A0A9P7BXZ0_RHIOR Uncharacterized protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000709 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998537	.	.	.
+tr|A0A9P7BY34|A0A9P7BY34_RHIOR Coth-domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000391 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99978924	.	.	.
+tr|A0A9P7BYD7|A0A9P7BYD7_RHIOR NodB homology domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000083 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984854	.	.	.
+tr|A0A9P7BYF6|A0A9P7BYF6_RHIOR Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Rhizopus oryzae OX=64495 GN=G6F64_000008 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982655	.	.	.

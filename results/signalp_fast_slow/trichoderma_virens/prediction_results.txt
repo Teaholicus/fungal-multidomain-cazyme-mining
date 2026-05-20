@@ -1,0 +1,927 @@
+# SignalP-6.0	Organism: Eukarya	Timestamp: 20260513232346
+# ID	Prediction	OTHER	SP(Sec/SPI)	CS Position
+tr|G9MEP5|G9MEP5_HYPVG Catalase-peroxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=katG PE=3 SV=1	SP	0.000201	0.999804	CS pos: 18-19. Pr: 0.9583
+sp|G9MJD8|SM1_HYPVG Eliciting plant response-like protein 1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=Sm1 PE=1 SV=1	SP	0.000214	0.999765	CS pos: 18-19. Pr: 0.9826
+tr|G9MDI5|G9MDI5_HYPVG Pheromone-processing carboxypeptidase KEX1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_207692 PE=3 SV=1	SP	0.000287	0.999710	CS pos: 28-29. Pr: 0.9592
+tr|G9ME15|G9ME15_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC10 PE=3 SV=1	SP	0.167328	0.832687	CS pos: 21-22. Pr: 0.7967
+tr|G9ME26|G9ME26_HYPVG DSC E3 ubiquitin ligase complex subunit A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_176061 PE=4 SV=1	SP	0.333474	0.666535	CS pos: 25-26. Pr: 0.6545
+tr|G9MG44|G9MG44_HYPVG Endopolyphosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_211744 PE=3 SV=1	SP	0.000163	0.999847	CS pos: 29-30. Pr: 0.8450
+tr|G9MGG9|G9MGG9_HYPVG Glutathione hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_50329 PE=3 SV=1	SP	0.000183	0.999811	CS pos: 31-32. Pr: 0.9776
+tr|G9MH42|G9MH42_HYPVG alpha-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_86135 PE=3 SV=1	SP	0.000151	0.999848	CS pos: 30-31. Pr: 0.9815
+tr|G9MH78|G9MH78_HYPVG Mannosyl-oligosaccharide glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35537 PE=3 SV=1	SP	0.000163	0.999839	CS pos: 20-21. Pr: 0.9832
+tr|G9MI10|G9MI10_HYPVG Protein disulfide-isomerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=pdi1 PE=3 SV=1	SP	0.000253	0.999776	CS pos: 20-21. Pr: 0.9843
+tr|G9MI52|G9MI52_HYPVG alpha-1,2-Mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31872 PE=3 SV=1	SP	0.000238	0.999756	CS pos: 21-22. Pr: 0.9830
+tr|G9ML80|G9ML80_HYPVG Crh-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110754 PE=3 SV=1	SP	0.000164	0.999837	CS pos: 21-22. Pr: 0.9801
+tr|G9MLJ1|G9MLJ1_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61772 PE=3 SV=1	SP	0.000158	0.999824	CS pos: 22-23. Pr: 0.9821
+tr|G9MM76|G9MM76_HYPVG Glucoamylase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_54436 PE=3 SV=1	SP	0.000174	0.999814	CS pos: 20-21. Pr: 0.9965
+tr|G9MP13|G9MP13_HYPVG Neutral protease 2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_63956 PE=3 SV=1	SP	0.000156	0.999864	CS pos: 19-20. Pr: 0.7018
+sp|G9MQD3|SSCP_HYPVG Effector TSP1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TSP1 PE=1 SV=1	SP	0.000175	0.999819	CS pos: 24-25. Pr: 0.6748
+sp|G9MQW8|SRH1_HYPVG Class II hydrophobin Srh1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=Srh1 PE=2 SV=1	SP	0.000169	0.999857	CS pos: 18-19. Pr: 0.5313
+tr|G9MSH9|G9MSH9_HYPVG xylan 1,4-beta-xylosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29366 PE=3 SV=1	SP	0.000166	0.999817	CS pos: 20-21. Pr: 0.9772
+tr|G9MSU4|G9MSU4_HYPVG tripeptidyl-peptidase II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_150453 PE=4 SV=1	SP	0.000195	0.999812	CS pos: 20-21. Pr: 0.9851
+tr|G9MU71|G9MU71_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC7 PE=3 SV=1	SP	0.000162	0.999828	CS pos: 20-21. Pr: 0.9800
+tr|G9MUI9|G9MUI9_HYPVG 1,3-beta-glucanosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230786 PE=3 SV=1	SP	0.000163	0.999846	CS pos: 19-20. Pr: 0.9814
+tr|G9MUU2|G9MUU2_HYPVG Beta-glucosidase cel3A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222727 PE=3 SV=1	SP	0.000147	0.999858	CS pos: 21-22. Pr: 0.9830
+tr|G9MUY4|G9MUY4_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC4 PE=3 SV=1	SP	0.000222	0.999806	CS pos: 35-36. Pr: 0.9724
+tr|G9MVK7|G9MVK7_HYPVG alpha-1,2-Mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78530 PE=3 SV=1	SP	0.000190	0.999813	CS pos: 28-29. Pr: 0.6792
+tr|G9MVN4|G9MVN4_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=ECH3 PE=3 SV=1	SP	0.000176	0.999841	CS pos: 26-27. Pr: 0.9932
+sp|G9MXR6|SM2_HYPVG Eliciting plant response-like protein 2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=Sm2 PE=2 SV=1	SP	0.000157	0.999858	CS pos: 18-19. Pr: 0.9734
+tr|G9MY16|G9MY16_HYPVG tripeptidyl-peptidase II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_180959 PE=4 SV=1	SP	0.000227	0.999757	CS pos: 24-25. Pr: 0.9566
+tr|G9MYG2|G9MYG2_HYPVG Crh-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77608 PE=3 SV=1	SP	0.000182	0.999822	CS pos: 18-19. Pr: 0.9607
+tr|G9MYU4|G9MYU4_HYPVG Phytase A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48755 PE=3 SV=1	SP	0.000157	0.999868	CS pos: 21-22. Pr: 0.9814
+tr|G9MZ09|G9MZ09_HYPVG Probable glucan endo-1,3-beta-glucosidase eglC OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_181202 PE=3 SV=1	SP	0.000159	0.999844	CS pos: 19-20. Pr: 0.9804
+tr|G9N0G0|G9N0G0_HYPVG Feruloyl esterase C OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77043 PE=3 SV=1	SP	0.000152	0.999849	CS pos: 21-22. Pr: 0.9784
+tr|G9N3E0|G9N3E0_HYPVG DNA-directed DNA polymerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_43834 PE=3 SV=1	SP	0.000159	0.999841	CS pos: 19-20. Pr: 0.9736
+sp|G9N4A4|VIRI_HYPVG FAD-linked oxidoreductase virI OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=virI PE=3 SV=1	SP	0.000182	0.999847	CS pos: 22-23. Pr: 0.9882
+tr|G9N514|G9N514_HYPVG non-specific serine/threonine protein kinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=ire1 PE=4 SV=1	SP	0.000183	0.999833	CS pos: 35-36. Pr: 0.9746
+tr|G9N6E6|G9N6E6_HYPVG triacylglycerol lipase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_183117 PE=3 SV=1	SP	0.000189	0.999823	CS pos: 31-32. Pr: 0.9738
+tr|G9N6F3|G9N6F3_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC14 PE=3 SV=1	SP	0.000173	0.999818	CS pos: 22-23. Pr: 0.9785
+tr|G9N8M5|G9N8M5_HYPVG glucan endo-1,3-beta-D-glucosidase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_16072 PE=3 SV=1	SP	0.000169	0.999828	CS pos: 24-25. Pr: 0.9489
+tr|G9N8N9|G9N8N9_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_183603 PE=3 SV=1	SP	0.000165	0.999836	CS pos: 19-20. Pr: 0.9787
+tr|G9N8R7|G9N8R7_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=CHT1.2 PE=3 SV=1	SP	0.000159	0.999851	CS pos: 21-22. Pr: 0.9815
+tr|G9NAU7|G9NAU7_HYPVG 1,3-beta-glucanosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_40106 PE=3 SV=1	SP	0.000190	0.999801	CS pos: 19-20. Pr: 0.9286
+tr|G9MDK5|G9MDK5_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_175914 PE=3 SV=1	SP	0.000218	0.999785	CS pos: 21-22. Pr: 0.9839
+tr|G9ME24|G9ME24_HYPVG protein disulfide-isomerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_73230 PE=3 SV=1	SP	0.000255	0.999761	CS pos: 18-19. Pr: 0.9837
+tr|G9ME52|G9ME52_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_73257 PE=3 SV=1	SP	0.000164	0.999816	CS pos: 19-20. Pr: 0.9715
+tr|G9MEB4|G9MEB4_HYPVG alkaline phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_33909 PE=3 SV=1	SP	0.000193	0.999796	CS pos: 20-21. Pr: 0.9809
+tr|G9MEF6|G9MEF6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34923 PE=3 SV=1	SP	0.000194	0.999829	CS pos: 20-21. Pr: 0.9777
+tr|G9MEH6|G9MEH6_HYPVG Alpha-glucuronidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=aguA PE=3 SV=1	SP	0.000151	0.999845	CS pos: 19-20. Pr: 0.9836
+tr|G9MEK4|G9MEK4_HYPVG Peptidyl-prolyl cis-trans isomerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110996 PE=3 SV=1	SP	0.000250	0.999775	CS pos: 27-28. Pr: 0.9815
+tr|G9MEK5|G9MEK5_HYPVG Peptidyl-prolyl cis-trans isomerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110996 PE=3 SV=1	SP	0.000250	0.999779	CS pos: 27-28. Pr: 0.9815
+tr|G9MEK7|G9MEK7_HYPVG Protein BIG1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_86017 PE=3 SV=1	SP	0.000153	0.999855	CS pos: 18-19. Pr: 0.9824
+tr|G9MEQ7|G9MEQ7_HYPVG Asparaginase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34088 PE=3 SV=1	SP	0.000175	0.999843	CS pos: 27-28. Pr: 0.9817
+tr|G9MES4|G9MES4_HYPVG Extracellular metalloproteinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_85599 PE=3 SV=1	SP	0.000183	0.999795	CS pos: 18-19. Pr: 0.9996
+tr|G9MF01|G9MF01_HYPVG Endo-chitosanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72986 PE=3 SV=1	SP	0.000175	0.999842	CS pos: 18-19. Pr: 0.9810
+tr|G9MF07|G9MF07_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72996 PE=3 SV=1	SP	0.000166	0.999836	CS pos: 16-17. Pr: 0.9804
+tr|G9MF49|G9MF49_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34671 PE=3 SV=1	SP	0.000157	0.999841	CS pos: 20-21. Pr: 0.9889
+tr|G9MF78|G9MF78_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_140013 PE=3 SV=1	SP	0.000174	0.999818	CS pos: 18-19. Pr: 0.9785
+tr|G9MFA6|G9MFA6_HYPVG Peptidase S8/S53 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_33902 PE=3 SV=1	SP	0.000149	0.999856	CS pos: 20-21. Pr: 0.9847
+tr|G9MFG8|G9MFG8_HYPVG Mmc protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_19097 PE=4 SV=1	SP	0.000201	0.999799	CS pos: 16-17. Pr: 0.9793
+tr|G9MFJ5|G9MFJ5_HYPVG galacturonan 1,4-alpha-galacturonidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_33554 PE=3 SV=1	SP	0.000177	0.999842	CS pos: 21-22. Pr: 0.9788
+tr|G9MFK5|G9MFK5_HYPVG alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_33738 PE=3 SV=1	SP	0.000161	0.999834	CS pos: 24-25. Pr: 0.9800
+tr|G9MFN2|G9MFN2_HYPVG Glycoside hydrolase family 18 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_85551 PE=3 SV=1	SP	0.000168	0.999847	CS pos: 27-28. Pr: 0.9208
+tr|G9MFS8|G9MFS8_HYPVG Endoglucanase EG-II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35701 PE=3 SV=1	SP	0.000205	0.999797	CS pos: 23-24. Pr: 0.9780
+tr|G9MG09|G9MG09_HYPVG Nucleotide exchange factor SIL1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35206 PE=3 SV=1	SP	0.000301	0.999721	CS pos: 33-34. Pr: 0.8557
+tr|G9MG13|G9MG13_HYPVG ML-like domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_132451 PE=3 SV=1	SP	0.000151	0.999851	CS pos: 17-18. Pr: 0.9778
+tr|G9MG76|G9MG76_HYPVG Post-GPI attachment to proteins factor 3 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_142407 PE=3 SV=1	SP	0.000180	0.999812	CS pos: 30-31. Pr: 0.9788
+tr|G9MGP3|G9MGP3_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=ECH1 PE=3 SV=1	SP	0.000189	0.999815	CS pos: 35-36. Pr: 0.6326
+tr|G9MGS4|G9MGS4_HYPVG Cutinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111005 PE=3 SV=1	SP	0.000179	0.999799	CS pos: 29-30. Pr: 0.3371
+tr|G9MGT4|G9MGT4_HYPVG Long chronological lifespan protein 2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35142 PE=3 SV=1	SP	0.000154	0.999812	CS pos: 16-17. Pr: 0.9829
+tr|G9MGU7|G9MGU7_HYPVG Peptidase S53 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36006 PE=4 SV=1	SP	0.000148	0.999866	CS pos: 24-25. Pr: 0.9849
+tr|G9MH09|G9MH09_HYPVG Sphingomyelin phosphodiesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35658 PE=3 SV=1	SP	0.000202	0.999770	CS pos: 18-19. Pr: 0.9836
+tr|G9MHD2|G9MHD2_HYPVG Peptidase A1 domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36107 PE=3 SV=1	SP	0.000182	0.999812	CS pos: 17-18. Pr: 0.9743
+tr|G9MHG9|G9MHG9_HYPVG GOLD domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35707 PE=3 SV=1	SP	0.000168	0.999828	CS pos: 20-21. Pr: 0.9845
+tr|G9MHI4|G9MHI4_HYPVG Mannan endo-1,6-alpha-mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35378 PE=3 SV=1	SP	0.000249	0.999750	CS pos: 23-24. Pr: 0.4904
+tr|G9MHQ8|G9MHQ8_HYPVG Glycoside hydrolase family 61 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_63571 PE=3 SV=1	SP	0.000151	0.999845	CS pos: 24-25. Pr: 0.9814
+tr|G9MHR9|G9MHR9_HYPVG Cytochrome b561 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_73617 PE=4 SV=1	SP	0.000204	0.999798	CS pos: 23-24. Pr: 0.9771
+tr|G9MHT8|G9MHT8_HYPVG ML-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_73642 PE=3 SV=1	SP	0.000164	0.999832	CS pos: 24-25. Pr: 0.9804
+tr|G9MI16|G9MI16_HYPVG Probable beta-glucosidase btgE (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_2321 PE=3 SV=1	SP	0.000230	0.999799	CS pos: 19-20. Pr: 0.9767
+tr|G9MI65|G9MI65_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_84995 PE=3 SV=1	SP	0.333472	0.666550	CS pos: 23-24. Pr: 0.6511
+tr|G9MIQ9|G9MIQ9_HYPVG Peptidase S8/S53 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_143434 PE=3 SV=1	SP	0.000157	0.999854	CS pos: 21-22. Pr: 0.9872
+tr|G9MIR4|G9MIR4_HYPVG GPI mannosyltransferase 1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72492 PE=3 SV=1	OTHER	0.714019	0.286032	
+tr|G9MIS6|G9MIS6_HYPVG Peptide hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72510 PE=3 SV=1	SP	0.000168	0.999797	CS pos: 18-19. Pr: 0.9837
+tr|G9MIW8|G9MIW8_HYPVG Endoplasmic oxidoreductin-1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72547 PE=3 SV=1	SP	0.000204	0.999835	CS pos: 24-25. Pr: 0.7231
+tr|G9MJ01|G9MJ01_HYPVG Subtilisin like protease (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_11141 PE=3 SV=1	SP	0.000156	0.999839	CS pos: 18-19. Pr: 0.9903
+tr|G9MJ35|G9MJ35_HYPVG GPI-anchored cell wall organization protein Ecm33 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72615 PE=4 SV=1	SP	0.000168	0.999827	CS pos: 21-22. Pr: 0.9785
+tr|G9MJ46|G9MJ46_HYPVG 1,3-beta-glucanosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_85296 PE=3 SV=1	SP	0.000187	0.999816	CS pos: 31-32. Pr: 0.7383
+tr|G9MJ64|G9MJ64_HYPVG Dystroglycan-type cadherin-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_212005 PE=4 SV=1	SP	0.000172	0.999816	CS pos: 19-20. Pr: 0.9806
+tr|G9MJ83|G9MJ83_HYPVG Mannan endo-1,6-alpha-mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72671 PE=3 SV=1	SP	0.000172	0.999804	CS pos: 16-17. Pr: 0.9677
+tr|G9MJE9|G9MJE9_HYPVG CFEM domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_19266 PE=3 SV=1	SP	0.000156	0.999828	CS pos: 21-22. Pr: 0.9797
+tr|G9MJL0|G9MJL0_HYPVG tripeptidyl-peptidase II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31861 PE=4 SV=1	SP	0.000161	0.999828	CS pos: 16-17. Pr: 0.9841
+tr|G9MJS5|G9MJS5_HYPVG Mannan endo-1,6-alpha-mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_177741 PE=3 SV=1	SP	0.000192	0.999805	CS pos: 22-23. Pr: 0.9783
+tr|G9MJT6|G9MJT6_HYPVG Purple acid phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_55087 PE=3 SV=1	SP	0.000159	0.999855	CS pos: 16-17. Pr: 0.9868
+tr|G9MJV9|G9MJV9_HYPVG Alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62436 PE=3 SV=1	SP	0.000333	0.999654	CS pos: 17-18. Pr: 0.9814
+tr|G9MJY8|G9MJY8_HYPVG Endo-1,4-beta-xylanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72838 PE=3 SV=1	SP	0.000199	0.999814	CS pos: 30-31. Pr: 0.7147
+sp|G9MK14|SM3_HYPVG Eliciting plant response-like protein 3 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=Sm3 PE=2 SV=1	SP	0.000178	0.999850	CS pos: 18-19. Pr: 0.9790
+tr|G9MK44|G9MK44_HYPVG (4-O-methyl)-D-glucuronate--lignin esterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32357 PE=3 SV=1	SP	0.000385	0.999600	CS pos: 17-18. Pr: 0.9790
+tr|G9MK68|G9MK68_HYPVG Peptidase S8/S53 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_189569 PE=3 SV=1	SP	0.000156	0.999842	CS pos: 18-19. Pr: 0.5864
+sp|G9MKB2|HFB3_HYPVG Class I hydrophobin Hfb3 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=Hfb3 PE=2 SV=1	SP	0.000182	0.999813	CS pos: 29-30. Pr: 0.8238
+tr|G9MKD8|G9MKD8_HYPVG Peptidase M14 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_84937 PE=3 SV=1	SP	0.000181	0.999810	CS pos: 18-19. Pr: 0.8584
+tr|G9MKE7|G9MKE7_HYPVG Vacuolar sorting protein Vps3844 C-terminal domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_112547 PE=4 SV=1	SP	0.000231	0.999788	CS pos: 17-18. Pr: 0.9827
+tr|G9MKH9|G9MKH9_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81869 PE=3 SV=1	SP	0.000188	0.999815	CS pos: 17-18. Pr: 0.9799
+tr|G9MKL2|G9MKL2_HYPVG Calnexin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72041 PE=3 SV=1	SP	0.000186	0.999818	CS pos: 19-20. Pr: 0.9816
+tr|G9MKM0|G9MKM0_HYPVG Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_79118 PE=3 SV=1	SP	0.000169	0.999852	CS pos: 21-22. Pr: 0.9795
+tr|G9ML11|G9ML11_HYPVG Endoplasmic reticulum chaperone BIP OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=bip1 PE=3 SV=1	SP	0.000588	0.999437	CS pos: 33-34. Pr: 0.9764
+tr|G9ML25|G9ML25_HYPVG superoxide dismutase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_7774 PE=3 SV=1	SP	0.000048	0.999953	CS pos: 16-17. Pr: 0.8382
+tr|G9MLE4|G9MLE4_HYPVG Cupin type-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78959 PE=4 SV=1	SP	0.000172	0.999823	CS pos: 25-26. Pr: 0.9506
+tr|G9MLM6|G9MLM6_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81777 PE=3 SV=1	SP	0.000184	0.999773	CS pos: 20-21. Pr: 0.8798
+tr|G9MLQ9|G9MLQ9_HYPVG protein disulfide-isomerase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_134787 PE=4 SV=1	SP	0.000306	0.999707	CS pos: 22-23. Pr: 0.9829
+tr|G9MM29|G9MM29_HYPVG RING-type domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_115816 PE=4 SV=1	SP	0.000153	0.999856	CS pos: 16-17. Pr: 0.9821
+tr|G9MM35|G9MM35_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_178019 PE=3 SV=1	SP	0.000158	0.999852	CS pos: 19-20. Pr: 0.9787
+tr|G9MM52|G9MM52_HYPVG Disintegrin and metalloproteinase domain-containing protein B OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_219879 PE=4 SV=1	SP	0.000185	0.999827	CS pos: 23-24. Pr: 0.8408
+tr|G9MMF0|G9MMF0_HYPVG Multicopper oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_30456 PE=3 SV=1	SP	0.000169	0.999793	CS pos: 20-21. Pr: 0.9821
+tr|G9MMN6|G9MMN6_HYPVG Store-operated calcium entry-associated regulatory factor OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215632 PE=3 SV=1	SP	0.000195	0.999815	CS pos: 18-19. Pr: 0.9763
+tr|G9MMP9|G9MMP9_HYPVG Pectinesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31131 PE=3 SV=1	SP	0.000194	0.999786	CS pos: 19-20. Pr: 0.9872
+tr|G9MMQ0|G9MMQ0_HYPVG Mannan endo-1,4-beta-mannosidase A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61403 PE=3 SV=1	SP	0.000204	0.999815	CS pos: 27-28. Pr: 0.7264
+tr|G9MMS1|G9MMS1_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_84609 PE=3 SV=1	SP	0.000198	0.999831	CS pos: 21-22. Pr: 0.9824
+tr|G9MMX9|G9MMX9_HYPVG Mannosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_30947 PE=3 SV=1	SP	0.000178	0.999826	CS pos: 17-18. Pr: 0.9657
+tr|G9MN58|G9MN58_HYPVG galacturonan 1,4-alpha-galacturonidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_14392 PE=3 SV=1	SP	0.000153	0.999828	CS pos: 22-23. Pr: 0.9802
+tr|G9MNF3|G9MNF3_HYPVG Peptidase M14 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_86763 PE=3 SV=1	SP	0.000160	0.999866	CS pos: 16-17. Pr: 0.9837
+sp|G9MNI0|SM4_HYPVG Eliciting plant response-like protein 4 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=Sm4 PE=2 SV=1	SP	0.000150	0.999859	CS pos: 18-19. Pr: 0.9828
+tr|G9MNJ2|G9MNJ2_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215801 PE=3 SV=1	SP	0.000174	0.999837	CS pos: 17-18. Pr: 0.9837
+tr|G9MNM7|G9MNM7_HYPVG Glycoside hydrolase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_112093 PE=4 SV=1	SP	0.000150	0.999839	CS pos: 18-19. Pr: 0.9821
+tr|G9MPG5|G9MPG5_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215886 PE=4 SV=1	SP	0.000193	0.999796	CS pos: 18-19. Pr: 0.9888
+tr|G9MPP2|G9MPP2_HYPVG Neutral ceramidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_179276 PE=3 SV=1	SP	0.070053	0.929979	CS pos: 33-34. Pr: 0.9481
+tr|G9MQ15|G9MQ15_HYPVG Nuclease S1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89446 PE=3 SV=1	SP	0.000161	0.999860	CS pos: 19-20. Pr: 0.9798
+tr|G9MQ59|G9MQ59_HYPVG 3-phytase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_190888 PE=3 SV=1	SP	0.000184	0.999794	CS pos: 21-22. Pr: 0.9839
+tr|G9MQB4|G9MQB4_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58102 PE=3 SV=1	SP	0.000182	0.999845	CS pos: 24-25. Pr: 0.9324
+tr|G9MQB5|G9MQB5_HYPVG xylan 1,4-beta-xylosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_200353 PE=3 SV=1	SP	0.000192	0.999822	CS pos: 22-23. Pr: 0.9823
+tr|G9MQD1|G9MQD1_HYPVG Mannan endo-1,6-alpha-mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58111 PE=3 SV=1	SP	0.000170	0.999852	CS pos: 19-20. Pr: 0.9806
+tr|G9MQD4|G9MQD4_HYPVG Lysozyme OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_45518 PE=3 SV=1	SP	0.000188	0.999805	CS pos: 20-21. Pr: 0.9826
+tr|G9MQH2|G9MQH2_HYPVG Tetratricopeptide repeat and J domain-containing co-chaperone DNJ1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36610 PE=4 SV=1	SP	0.000500	0.999530	CS pos: 22-23. Pr: 0.9792
+tr|G9MQS0|G9MQS0_HYPVG Glycoside hydrolase family 31 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_45446 PE=3 SV=1	SP	0.000195	0.999820	CS pos: 26-27. Pr: 0.4578
+tr|G9MR24|G9MR24_HYPVG GDT1 family protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_134792 PE=3 SV=1	SP	0.000245	0.999768	CS pos: 23-24. Pr: 0.8549
+tr|G9MR60|G9MR60_HYPVG glucan endo-1,3-alpha-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_27940 PE=3 SV=1	SP	0.000180	0.999831	CS pos: 23-24. Pr: 0.9781
+tr|G9MR63|G9MR63_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_212924 PE=3 SV=1	SP	0.000170	0.999842	CS pos: 19-20. Pr: 0.8539
+tr|G9MR65|G9MR65_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71270 PE=3 SV=1	SP	0.000281	0.999738	CS pos: 18-19. Pr: 0.9801
+tr|G9MRA9|G9MRA9_HYPVG IMP-specific 5'-nucleotidase 1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83912 PE=3 SV=1	SP	0.166887	0.833112	CS pos: 24-25. Pr: 0.8090
+tr|G9MRC5|G9MRC5_HYPVG lytic cellulose monooxygenase (C4-dehydrogenating) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_27891 PE=3 SV=1	SP	0.000185	0.999825	CS pos: 19-20. Pr: 0.9793
+tr|G9MRL4|G9MRL4_HYPVG ribonuclease T1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60427 PE=3 SV=1	SP	0.000179	0.999811	CS pos: 19-20. Pr: 0.8329
+tr|G9MRP4|G9MRP4_HYPVG Alpha-amylase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53952 PE=3 SV=1	SP	0.000155	0.999853	CS pos: 19-20. Pr: 0.9842
+tr|G9MRS0|G9MRS0_HYPVG beta-N-acetylhexosaminidase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_180069 PE=3 SV=1	SP	0.000145	0.999847	CS pos: 16-17. Pr: 0.9831
+tr|G9MS02|G9MS02_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222128 PE=3 SV=1	SP	0.000226	0.999789	CS pos: 21-22. Pr: 0.5572
+tr|G9MS32|G9MS32_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60282 PE=3 SV=1	SP	0.000244	0.999761	CS pos: 27-28. Pr: 0.5504
+tr|G9MS57|G9MS57_HYPVG Sphingomyelin phosphodiesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222181 PE=3 SV=1	SP	0.000158	0.999840	CS pos: 18-19. Pr: 0.9837
+tr|G9MS88|G9MS88_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230713 PE=4 SV=1	SP	0.000152	0.999860	CS pos: 19-20. Pr: 0.9836
+tr|G9MS91|G9MS91_HYPVG Beta-mannosidase A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28953 PE=3 SV=1	SP	0.000161	0.999838	CS pos: 17-18. Pr: 0.9824
+tr|G9MS92|G9MS92_HYPVG alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_27922 PE=3 SV=1	SP	0.000156	0.999843	CS pos: 20-21. Pr: 0.9550
+tr|G9MSH8|G9MSH8_HYPVG Beta-glucosidase cel3A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83777 PE=3 SV=1	SP	0.000185	0.999810	CS pos: 19-20. Pr: 0.9732
+tr|G9MSW3|G9MSW3_HYPVG S1/P1 nuclease OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60120 PE=3 SV=1	SP	0.000154	0.999839	CS pos: 20-21. Pr: 0.9833
+tr|G9MTG8|G9MTG8_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC2 PE=3 SV=1	SP	0.000154	0.999847	CS pos: 20-21. Pr: 0.9817
+tr|G9MTG9|G9MTG9_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28703 PE=3 SV=1	SP	0.000112	0.999883	CS pos: 20-21. Pr: 0.8080
+tr|G9MTH0|G9MTH0_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222410 PE=3 SV=1	SP	0.000166	0.999873	CS pos: 27-28. Pr: 0.6728
+tr|G9MTQ0|G9MTQ0_HYPVG Thioredoxin domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28102 PE=4 SV=1	SP	0.000182	0.999810	CS pos: 24-25. Pr: 0.9567
+tr|G9MTQ8|G9MTQ8_HYPVG ribonuclease T2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_54160 PE=3 SV=1	SP	0.000164	0.999842	CS pos: 17-18. Pr: 0.9771
+tr|G9MU59|G9MU59_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC6 PE=3 SV=1	SP	0.208839	0.791168	CS pos: 34-35. Pr: 0.7312
+tr|G9MUA6|G9MUA6_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC12 PE=3 SV=1	SP	0.000171	0.999848	CS pos: 22-23. Pr: 0.9780
+tr|G9MUE5|G9MUE5_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53481 PE=3 SV=1	SP	0.000175	0.999816	CS pos: 29-30. Pr: 0.4993
+tr|G9MUM1|G9MUM1_HYPVG beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_151663 PE=3 SV=1	SP	0.000156	0.999854	CS pos: 19-20. Pr: 0.9810
+tr|G9MUN0|G9MUN0_HYPVG Glucanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78675 PE=3 SV=1	SP	0.000209	0.999793	CS pos: 24-25. Pr: 0.9383
+tr|G9MUR3|G9MUR3_HYPVG Beta-xylanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53264 PE=3 SV=1	SP	0.000175	0.999815	CS pos: 16-17. Pr: 0.9673
+tr|G9MUR6|G9MUR6_HYPVG Agmatinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_151736 PE=3 SV=1	SP	0.000150	0.999852	CS pos: 18-19. Pr: 0.9842
+tr|G9MUY5|G9MUY5_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_201746 PE=3 SV=1	SP	0.000156	0.999833	CS pos: 21-22. Pr: 0.8149
+tr|G9MUZ8|G9MUZ8_HYPVG Aminotransferase class I/classII large domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_151885 PE=3 SV=1	SP	0.000181	0.999812	CS pos: 19-20. Pr: 0.9830
+tr|G9MV09|G9MV09_HYPVG non-reducing end alpha-L-arabinofuranosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53036 PE=3 SV=1	SP	0.000181	0.999785	CS pos: 20-21. Pr: 0.9738
+tr|G9MV10|G9MV10_HYPVG Peptidase M20 dimerisation domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_191967 PE=3 SV=1	SP	0.000319	0.999687	CS pos: 27-28. Pr: 0.5037
+tr|G9MV13|G9MV13_HYPVG Endo-1,4-beta-xylanase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_8282 PE=3 SV=1	SP	0.000200	0.999826	CS pos: 32-33. Pr: 0.5497
+tr|G9MV58|G9MV58_HYPVG Cytochrome P450 (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_13758 PE=3 SV=1	OTHER	0.500320	0.499692	
+tr|G9MV83|G9MV83_HYPVG Alpha-L-arabinofuranosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_152027 PE=3 SV=1	SP	0.000157	0.999861	CS pos: 27-28. Pr: 0.9812
+tr|G9MV93|G9MV93_HYPVG Endo-chitosanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70659 PE=3 SV=1	SP	0.000171	0.999839	CS pos: 18-19. Pr: 0.9737
+tr|G9MVA9|G9MVA9_HYPVG Peptidase M14 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52825 PE=3 SV=1	SP	0.000173	0.999849	CS pos: 16-17. Pr: 0.9889
+tr|G9MVB3|G9MVB3_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC13 PE=3 SV=1	SP	0.000169	0.999817	CS pos: 22-23. Pr: 0.8829
+tr|G9MVJ0|G9MVJ0_HYPVG Oligosaccharyl transferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111960 PE=3 SV=1	SP	0.000194	0.999816	CS pos: 24-25. Pr: 0.9616
+tr|G9MVK1|G9MVK1_HYPVG SSD domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52300 PE=3 SV=1	SP	0.000195	0.999805	CS pos: 21-22. Pr: 0.9786
+tr|G9MW72|G9MW72_HYPVG GPI-anchor transamidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_91053 PE=3 SV=1	SP	0.000170	0.999840	CS pos: 23-24. Pr: 0.9845
+tr|G9MWB3|G9MWB3_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_213202 PE=3 SV=1	SP	0.000182	0.999827	CS pos: 28-29. Pr: 0.8636
+tr|G9MWH3|G9MWH3_HYPVG Carbohydrate esterase family 4 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51784 PE=4 SV=1	SP	0.000181	0.999813	CS pos: 28-29. Pr: 0.6275
+tr|G9MWH6|G9MWH6_HYPVG Peptide hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83658 PE=3 SV=1	SP	0.000169	0.999826	CS pos: 19-20. Pr: 0.9869
+tr|G9MWQ1|G9MWQ1_HYPVG PTH11-type G-protein coupled receptor protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51635 PE=3 SV=1	SP	0.000179	0.999804	CS pos: 19-20. Pr: 0.9660
+tr|G9MWQ7|G9MWQ7_HYPVG mannan endo-1,4-beta-mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_202252 PE=3 SV=1	SP	0.000220	0.999803	CS pos: 23-24. Pr: 0.9703
+tr|G9MWX4|G9MWX4_HYPVG Peptide hydrolase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_3195 PE=3 SV=1	SP	0.000181	0.999824	CS pos: 23-24. Pr: 0.9656
+tr|G9MWX5|G9MWX5_HYPVG feruloyl esterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51690 PE=4 SV=1	SP	0.000260	0.999740	CS pos: 19-20. Pr: 0.7589
+tr|G9MX23|G9MX23_HYPVG endo-polygalacturonase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51095 PE=3 SV=1	SP	0.000182	0.999848	CS pos: 37-38. Pr: 0.4370
+tr|G9MX24|G9MX24_HYPVG Endo-1,4-beta-xylanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59409 PE=3 SV=1	SP	0.000192	0.999791	CS pos: 19-20. Pr: 0.9912
+tr|G9MX70|G9MX70_HYPVG Lung seven transmembrane receptor domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_90826 PE=3 SV=1	SP	0.000157	0.999851	CS pos: 19-20. Pr: 0.9842
+tr|G9MXF0|G9MXF0_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83539 PE=3 SV=1	SP	0.000177	0.999838	CS pos: 27-28. Pr: 0.7325
+tr|G9MXH6|G9MXH6_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78007 PE=4 SV=1	SP	0.000148	0.999873	CS pos: 27-28. Pr: 0.9815
+tr|G9MXV0|G9MXV0_HYPVG Carboxypeptidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69407 PE=3 SV=1	SP	0.000159	0.999846	CS pos: 17-18. Pr: 0.9745
+tr|G9MXY1|G9MXY1_HYPVG Carbohydrate esterase family 4 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49798 PE=4 SV=1	SP	0.000214	0.999793	CS pos: 22-23. Pr: 0.9892
+tr|G9MXY4|G9MXY4_HYPVG Endo-chitosanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59043 PE=3 SV=1	SP	0.000160	0.999831	CS pos: 18-19. Pr: 0.9626
+tr|G9MXZ5|G9MXZ5_HYPVG Beta-hexosaminidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=NAG2 PE=3 SV=1	SP	0.000167	0.999817	CS pos: 18-19. Pr: 0.8922
+tr|G9MY03|G9MY03_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49694 PE=4 SV=1	SP	0.000153	0.999864	CS pos: 16-17. Pr: 0.9944
+tr|G9MY26|G9MY26_HYPVG Glucanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_90504 PE=3 SV=1	SP	0.000166	0.999845	CS pos: 17-18. Pr: 0.9732
+tr|G9MY65|G9MY65_HYPVG Alpha-L-arabinofuranosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48966 PE=3 SV=1	SP	0.000152	0.999862	CS pos: 20-21. Pr: 0.9740
+tr|G9MY72|G9MY72_HYPVG Glycoside hydrolase family 61 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_192732 PE=3 SV=1	SP	0.000162	0.999845	CS pos: 17-18. Pr: 0.9779
+tr|G9MY96|G9MY96_HYPVG Beta-glucosidase cel3A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_90223 PE=3 SV=1	SP	0.000195	0.999812	CS pos: 26-27. Pr: 0.9684
+tr|G9MYA2|G9MYA2_HYPVG Cupin type-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69053 PE=4 SV=1	SP	0.000197	0.999790	CS pos: 20-21. Pr: 0.9901
+tr|G9MYA8|G9MYA8_HYPVG Peptide hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_231073 PE=3 SV=1	SP	0.000179	0.999819	CS pos: 25-26. Pr: 0.5514
+tr|G9MYL0|G9MYL0_HYPVG FAD-binding FR-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69153 PE=4 SV=1	SP	0.000202	0.999795	CS pos: 17-18. Pr: 0.9860
+tr|G9MYN2|G9MYN2_HYPVG galacturonan 1,4-alpha-galacturonidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48906 PE=3 SV=1	SP	0.000161	0.999804	CS pos: 27-28. Pr: 0.9707
+tr|G9MYN3|G9MYN3_HYPVG pectinesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49025 PE=3 SV=1	SP	0.000360	0.999652	CS pos: 25-26. Pr: 0.9759
+tr|G9MYP0|G9MYP0_HYPVG laccase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48916 PE=3 SV=1	SP	0.000173	0.999822	CS pos: 18-19. Pr: 0.9582
+tr|G9MYV8|G9MYV8_HYPVG Transmembrane 9 superfamily member OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_192879 PE=3 SV=1	SP	0.000149	0.999845	CS pos: 23-24. Pr: 0.9825
+tr|G9MYZ3|G9MYZ3_HYPVG ribonuclease T2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_154635 PE=3 SV=1	SP	0.000178	0.999828	CS pos: 19-20. Pr: 0.9789
+tr|G9MZ04|G9MZ04_HYPVG Zinc transporter OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209709 PE=4 SV=1	SP	0.000165	0.999843	CS pos: 24-25. Pr: 0.9815
+tr|G9MZ18|G9MZ18_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_192926 PE=3 SV=1	SP	0.000149	0.999831	CS pos: 17-18. Pr: 0.9825
+tr|G9MZ41|G9MZ41_HYPVG Phosphatidylglycerol/phosphatidylinositol transfer protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83352 PE=3 SV=1	SP	0.000186	0.999793	CS pos: 20-21. Pr: 0.9247
+tr|G9MZ60|G9MZ60_HYPVG beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58670 PE=3 SV=1	SP	0.000160	0.999846	CS pos: 20-21. Pr: 0.9588
+tr|G9MZ65|G9MZ65_HYPVG non-reducing end alpha-L-arabinofuranosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48400 PE=3 SV=1	SP	0.000167	0.999852	CS pos: 26-27. Pr: 0.9680
+tr|G9MZE3|G9MZE3_HYPVG glucan endo-1,3-beta-D-glucosidase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_11067 PE=3 SV=1	SP	0.000198	0.999798	CS pos: 18-19. Pr: 0.9898
+tr|G9MZV2|G9MZV2_HYPVG Exo-beta-D-glucosaminidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48076 PE=3 SV=1	SP	0.000167	0.999835	CS pos: 18-19. Pr: 0.9890
+tr|G9MZX8|G9MZX8_HYPVG Alkaline proteinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77334 PE=3 SV=1	SP	0.000249	0.999749	CS pos: 20-21. Pr: 0.9855
+tr|G9MZY7|G9MZY7_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89999 PE=3 SV=1	SP	0.000159	0.999831	CS pos: 25-26. Pr: 0.9786
+tr|G9MZZ8|G9MZZ8_HYPVG Peptidase S1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_90003 PE=4 SV=1	SP	0.000215	0.999796	CS pos: 20-21. Pr: 0.9869
+tr|G9N023|G9N023_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89752 PE=3 SV=1	SP	0.000184	0.999813	CS pos: 27-28. Pr: 0.5212
+tr|G9N047|G9N047_HYPVG glucan endo-1,6-beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46824 PE=3 SV=1	SP	0.000204	0.999833	CS pos: 28-29. Pr: 0.8765
+tr|G9N0F8|G9N0F8_HYPVG Alpha-L-arabinofuranosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_193266 PE=3 SV=1	SP	0.000157	0.999854	CS pos: 25-26. Pr: 0.9811
+tr|G9N0G3|G9N0G3_HYPVG Radical SAM core domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46896 PE=1 SV=1	OTHER	0.999264	0.000786	
+tr|G9N0G9|G9N0G9_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47118 PE=3 SV=1	SP	0.000147	0.999864	CS pos: 26-27. Pr: 0.9820
+tr|G9N0Q3|G9N0Q3_HYPVG lytic cellulose monooxygenase (C4-dehydrogenating) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111696 PE=3 SV=1	SP	0.000157	0.999847	CS pos: 21-22. Pr: 0.9858
+tr|G9N0T3|G9N0T3_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46447 PE=3 SV=1	SP	0.000159	0.999834	CS pos: 35-36. Pr: 0.9728
+tr|G9N0T9|G9N0T9_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=CHT1.1 PE=3 SV=1	SP	0.000171	0.999816	CS pos: 20-21. Pr: 0.9830
+tr|G9N0U1|G9N0U1_HYPVG lytic cellulose monooxygenase (C4-dehydrogenating) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76869 PE=3 SV=1	SP	0.000160	0.999866	CS pos: 21-22. Pr: 0.9840
+tr|G9N0W8|G9N0W8_HYPVG 1,3-beta-glucanosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76879 PE=3 SV=1	SP	0.000149	0.999855	CS pos: 19-20. Pr: 0.9839
+tr|G9N0Z3|G9N0Z3_HYPVG alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46494 PE=3 SV=1	SP	0.000153	0.999866	CS pos: 23-24. Pr: 0.9810
+tr|G9N118|G9N118_HYPVG glucan endo-1,6-beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76895 PE=3 SV=1	SP	0.000176	0.999836	CS pos: 18-19. Pr: 0.9789
+tr|G9N147|G9N147_HYPVG Alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46577 PE=3 SV=1	SP	0.000271	0.999750	CS pos: 32-33. Pr: 0.4798
+tr|G9N160|G9N160_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58249 PE=4 SV=1	SP	0.000171	0.999828	CS pos: 16-17. Pr: 0.9715
+tr|G9N168|G9N168_HYPVG Beta-mannosidase A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_181642 PE=3 SV=1	SP	0.000182	0.999836	CS pos: 17-18. Pr: 0.9880
+tr|G9N180|G9N180_HYPVG glucan 1,3-beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58257 PE=3 SV=1	SP	0.000162	0.999851	CS pos: 16-17. Pr: 0.9823
+tr|G9N184|G9N184_HYPVG Lysophospholipase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89587 PE=3 SV=1	SP	0.000193	0.999787	CS pos: 21-22. Pr: 0.9736
+tr|G9N192|G9N192_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_92810 PE=3 SV=1	SP	0.000187	0.999817	CS pos: 16-17. Pr: 0.9842
+tr|G9N1B5|G9N1B5_HYPVG 5'-nucleotidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_213606 PE=3 SV=1	SP	0.000167	0.999826	CS pos: 16-17. Pr: 0.9840
+tr|G9N1C2|G9N1C2_HYPVG Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46709 PE=3 SV=1	SP	0.000446	0.999579	CS pos: 27-28. Pr: 0.6909
+tr|G9N1C8|G9N1C8_HYPVG 1,3-beta-glucanosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_80941 PE=3 SV=1	SP	0.000166	0.999856	CS pos: 19-20. Pr: 0.9788
+tr|G9N1T3|G9N1T3_HYPVG Glycosyltransferase family 24 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_50660 PE=3 SV=1	SP	0.000205	0.999788	CS pos: 23-24. Pr: 0.9754
+tr|G9N1W4|G9N1W4_HYPVG Cupin type-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_50666 PE=4 SV=1	SP	0.000190	0.999820	CS pos: 28-29. Pr: 0.5715
+tr|G9N1X6|G9N1X6_HYPVG Copper acquisition factor BIM1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_50670 PE=4 SV=1	SP	0.000179	0.999826	CS pos: 18-19. Pr: 0.9828
+tr|G9N209|G9N209_HYPVG Major facilitator superfamily (MFS) profile domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69813 PE=3 SV=1	OTHER	0.840979	0.159047	
+tr|G9N2A4|G9N2A4_HYPVG peptidylprolyl isomerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81212 PE=4 SV=1	SP	0.000182	0.999817	CS pos: 20-21. Pr: 0.9747
+tr|G9N2C5|G9N2C5_HYPVG Probable aspartic-type endopeptidase OPSB OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_213726 PE=3 SV=1	SP	0.000175	0.999831	CS pos: 19-20. Pr: 0.9795
+tr|G9N2C8|G9N2C8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49497 PE=3 SV=1	SP	0.000145	0.999866	CS pos: 23-24. Pr: 0.9830
+tr|G9N2G5|G9N2G5_HYPVG FAD-binding FR-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_193722 PE=3 SV=1	SP	0.000148	0.999869	CS pos: 24-25. Pr: 0.9819
+tr|G9N2J9|G9N2J9_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58971 PE=3 SV=1	OTHER	1.000000	0.000003	
+tr|G9N2K0|G9N2K0_HYPVG glycerophosphodiester phosphodiesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216605 PE=3 SV=1	SP	0.000161	0.999815	CS pos: 21-22. Pr: 0.9849
+tr|G9N2Q2|G9N2Q2_HYPVG Glycosyltransferase family 32 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66986 PE=3 SV=1	OTHER	0.711558	0.288465	
+tr|G9N2R1|G9N2R1_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC9 PE=3 SV=1	SP	0.000231	0.999784	CS pos: 24-25. Pr: 0.9764
+tr|G9N2V7|G9N2V7_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_231626 PE=3 SV=1	SP	0.000185	0.999821	CS pos: 26-27. Pr: 0.9382
+tr|G9N310|G9N310_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_182125 PE=3 SV=1	SP	0.000160	0.999833	CS pos: 23-24. Pr: 0.9842
+tr|G9N351|G9N351_HYPVG Glucanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_182161 PE=3 SV=1	SP	0.000151	0.999849	CS pos: 24-25. Pr: 0.9740
+tr|G9N3J0|G9N3J0_HYPVG Mannan endo-1,6-alpha-mannosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_213831 PE=3 SV=1	SP	0.000079	0.999922	CS pos: 27-28. Pr: 0.9637
+tr|G9N404|G9N404_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_159038 PE=3 SV=1	SP	0.306392	0.693595	CS pos: 20-21. Pr: 0.5967
+tr|G9N451|G9N451_HYPVG Endoglucanase EG-II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89797 PE=3 SV=1	SP	0.000164	0.999856	CS pos: 19-20. Pr: 0.9829
+tr|G9N452|G9N452_HYPVG ribonuclease T1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47489 PE=3 SV=1	SP	0.000174	0.999801	CS pos: 24-25. Pr: 0.9181
+tr|G9N4G1|G9N4G1_HYPVG Major facilitator superfamily (MFS) profile domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47385 PE=3 SV=1	OTHER	0.833377	0.166645	
+tr|G9N4J5|G9N4J5_HYPVG inorganic diphosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47197 PE=3 SV=1	SP	0.000194	0.999816	CS pos: 19-20. Pr: 0.9809
+tr|G9N4L8|G9N4L8_HYPVG Peptidase S8/S53 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69939 PE=3 SV=1	SP	0.000131	0.999856	CS pos: 18-19. Pr: 0.8202
+tr|G9N4S9|G9N4S9_HYPVG Glycoside hydrolase family 74 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59360 PE=3 SV=1	SP	0.000308	0.999706	CS pos: 19-20. Pr: 0.9802
+tr|G9N4V2|G9N4V2_HYPVG alpha,alpha-trehalase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51014 PE=3 SV=1	SP	0.000158	0.999847	CS pos: 18-19. Pr: 0.9911
+tr|G9N4X2|G9N4X2_HYPVG glucan endo-1,6-beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=BGN3 PE=3 SV=1	SP	0.166277	0.833726	CS pos: 17-18. Pr: 0.7868
+tr|G9N4X9|G9N4X9_HYPVG Endoglucanase EG-II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76400 PE=3 SV=1	SP	0.000221	0.999756	CS pos: 21-22. Pr: 0.9768
+tr|G9N552|G9N552_HYPVG PTH11-type G-protein coupled receptor protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_44825 PE=3 SV=1	SP	0.000165	0.999866	CS pos: 20-21. Pr: 0.9835
+tr|G9N563|G9N563_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_44863 PE=4 SV=1	SP	0.166996	0.833000	CS pos: 27-28. Pr: 0.8219
+tr|G9N5I4|G9N5I4_HYPVG Transmembrane 9 superfamily member OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_45125 PE=3 SV=1	SP	0.000161	0.999850	CS pos: 21-22. Pr: 0.9816
+tr|G9N5Z0|G9N5Z0_HYPVG Peptide hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89230 PE=3 SV=1	SP	0.000163	0.999857	CS pos: 19-20. Pr: 0.9864
+tr|G9N626|G9N626_HYPVG Alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76590 PE=3 SV=1	SP	0.166897	0.833122	CS pos: 27-28. Pr: 0.7928
+tr|G9N6B9|G9N6B9_HYPVG L-type lectin-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_57481 PE=4 SV=1	SP	0.000177	0.999831	CS pos: 18-19. Pr: 0.9810
+tr|G9N6D3|G9N6D3_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TVC1 PE=3 SV=1	SP	0.000236	0.999770	CS pos: 22-23. Pr: 0.9609
+tr|G9N6D5|G9N6D5_HYPVG LysM domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_160204 PE=3 SV=1	SP	0.000170	0.999839	CS pos: 19-20. Pr: 0.9896
+tr|G9N6M9|G9N6M9_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66683 PE=3 SV=1	SP	0.000175	0.999836	CS pos: 21-22. Pr: 0.9766
+tr|G9N6S1|G9N6S1_HYPVG ML-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42845 PE=3 SV=1	SP	0.000245	0.999792	CS pos: 26-27. Pr: 0.8202
+tr|G9N6S7|G9N6S7_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111486 PE=3 SV=1	SP	0.000178	0.999804	CS pos: 17-18. Pr: 0.9802
+tr|G9N6W3|G9N6W3_HYPVG Vacuolar protein sorting/targeting protein 10 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42850 PE=4 SV=1	SP	0.000184	0.999823	CS pos: 26-27. Pr: 0.9795
+tr|G9N797|G9N797_HYPVG Epoxide hydrolase N-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_43322 PE=3 SV=1	SP	0.000158	0.999860	CS pos: 17-18. Pr: 0.9803
+tr|G9N7D3|G9N7D3_HYPVG Purple acid phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_173869 PE=3 SV=1	SP	0.000165	0.999810	CS pos: 17-18. Pr: 0.9886
+tr|G9N7I4|G9N7I4_HYPVG Beta-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42143 PE=3 SV=1	SP	0.000211	0.999793	CS pos: 22-23. Pr: 0.8524
+tr|G9N7K7|G9N7K7_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_82827 PE=3 SV=1	SP	0.000170	0.999825	CS pos: 16-17. Pr: 0.9802
+tr|G9N7Y9|G9N7Y9_HYPVG Agmatinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_57134 PE=3 SV=1	SP	0.000086	0.999907	CS pos: 18-19. Pr: 0.9102
+tr|G9N823|G9N823_HYPVG Alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41607 PE=3 SV=1	SP	0.152441	0.847543	CS pos: 18-19. Pr: 0.7624
+tr|G9N886|G9N886_HYPVG tyrosinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_161055 PE=3 SV=1	SP	0.000149	0.999844	CS pos: 20-21. Pr: 0.9856
+tr|G9N893|G9N893_HYPVG Trehalase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42275 PE=3 SV=1	SP	0.000158	0.999834	CS pos: 25-26. Pr: 0.9791
+tr|G9N8A5|G9N8A5_HYPVG Serine protease OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_88460 PE=3 SV=1	SP	0.000166	0.999827	CS pos: 22-23. Pr: 0.9687
+tr|G9N8F0|G9N8F0_HYPVG Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_88481 PE=3 SV=1	SP	0.000149	0.999850	CS pos: 18-19. Pr: 0.9824
+tr|G9N8F3|G9N8F3_HYPVG Serine protease OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_82892 PE=3 SV=1	SP	0.000176	0.999821	CS pos: 15-16. Pr: 0.9793
+tr|G9N8G8|G9N8G8_HYPVG Glycoside hydrolase family 17 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111476 PE=3 SV=1	SP	0.000163	0.999833	CS pos: 19-20. Pr: 0.9821
+tr|G9N8H0|G9N8H0_HYPVG ER membrane protein complex subunit 1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_75839 PE=3 SV=1	SP	0.000193	0.999815	CS pos: 19-20. Pr: 0.9793
+tr|G9N8J2|G9N8J2_HYPVG Endo-chitosanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111479 PE=3 SV=1	SP	0.000162	0.999856	CS pos: 19-20. Pr: 0.9822
+tr|G9N8P3|G9N8P3_HYPVG feruloyl esterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41882 PE=4 SV=1	SP	0.000167	0.999843	CS pos: 22-23. Pr: 0.8394
+tr|G9N8P7|G9N8P7_HYPVG Multicopper oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66287 PE=3 SV=1	SP	0.000185	0.999834	CS pos: 16-17. Pr: 0.9710
+tr|G9N8W0|G9N8W0_HYPVG Glycoside hydrolase family 132 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_173921 PE=3 SV=1	SP	0.000186	0.999826	CS pos: 16-17. Pr: 0.9863
+tr|G9N962|G9N962_HYPVG Beta-hexosaminidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=NAG1 PE=3 SV=1	SP	0.000154	0.999854	CS pos: 19-20. Pr: 0.9828
+tr|G9N9E3|G9N9E3_HYPVG beta-glucosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41347 PE=3 SV=1	SP	0.000193	0.999792	CS pos: 16-17. Pr: 0.9851
+tr|G9N9Q3|G9N9Q3_HYPVG L-type lectin-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87873 PE=4 SV=1	SP	0.000180	0.999821	CS pos: 20-21. Pr: 0.9791
+tr|G9N9X8|G9N9X8_HYPVG Endo-1,4-beta-xylanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65505 PE=3 SV=1	SP	0.000171	0.999821	CS pos: 19-20. Pr: 0.9871
+tr|G9N9Z6|G9N9Z6_HYPVG Aldose 1-epimerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87809 PE=3 SV=1	SP	0.000237	0.999759	CS pos: 23-24. Pr: 0.9750
+tr|G9NA09|G9NA09_HYPVG Peptidase S8/S53 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41430 PE=3 SV=1	SP	0.000174	0.999833	CS pos: 20-21. Pr: 0.9885
+tr|G9NAJ2|G9NAJ2_HYPVG Cytochrome b561 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_40035 PE=4 SV=1	SP	0.000151	0.999846	CS pos: 20-21. Pr: 0.9821
+tr|G9NAL0|G9NAL0_HYPVG alpha-galactosidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39936 PE=3 SV=1	SP	0.000174	0.999827	CS pos: 26-27. Pr: 0.8850
+tr|G9NAQ1|G9NAQ1_HYPVG D-arabinono-1,4-lactone oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_227849 PE=4 SV=1	SP	0.000183	0.999787	CS pos: 18-19. Pr: 0.9823
+tr|G9NB81|G9NB81_HYPVG Autophagy-related protein 27 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_184539 PE=3 SV=1	SP	0.000165	0.999837	CS pos: 20-21. Pr: 0.9874
+tr|G9NBD2|G9NBD2_HYPVG Beta-xylanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_56652 PE=3 SV=1	SP	0.000166	0.999844	CS pos: 24-25. Pr: 0.9601
+tr|G9NBE5|G9NBE5_HYPVG carbonic anhydrase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_163724 PE=3 SV=1	SP	0.000159	0.999858	CS pos: 20-21. Pr: 0.9881
+tr|G9NBG3|G9NBG3_HYPVG Amine oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_228094 PE=3 SV=1	SP	0.000199	0.999786	CS pos: 23-24. Pr: 0.8249
+tr|G9NBN5|G9NBN5_HYPVG feruloyl esterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39449 PE=4 SV=1	SP	0.000152	0.999855	CS pos: 15-16. Pr: 0.9803
+tr|G9NBT0|G9NBT0_HYPVG tripeptidyl-peptidase II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87425 PE=4 SV=1	SP	0.000178	0.999829	CS pos: 29-30. Pr: 0.6417
+tr|G9NBT2|G9NBT2_HYPVG tripeptidyl-peptidase II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_217176 PE=4 SV=1	SP	0.000213	0.999808	CS pos: 22-23. Pr: 0.9768
+tr|G9NBU7|G9NBU7_HYPVG Endo-chitosanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87418 PE=3 SV=1	SP	0.000160	0.999866	CS pos: 18-19. Pr: 0.9721
+tr|G9NBX3|G9NBX3_HYPVG Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_196120 PE=3 SV=1	SP	0.000265	0.999725	CS pos: 21-22. Pr: 0.9845
+tr|G9NC25|G9NC25_HYPVG Peptide hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_74747 PE=3 SV=1	SP	0.000211	0.999785	CS pos: 20-21. Pr: 0.9886
+tr|G9NC66|G9NC66_HYPVG alpha,alpha-trehalase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_74715 PE=3 SV=1	SP	0.000156	0.999848	CS pos: 23-24. Pr: 0.9816
+tr|G9NC88|G9NC88_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_196192 PE=3 SV=1	SP	0.000184	0.999805	CS pos: 25-26. Pr: 0.6482
+tr|G9NCA7|G9NCA7_HYPVG MRH domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_136287 PE=4 SV=1	SP	0.000175	0.999813	CS pos: 19-20. Pr: 0.9886
+tr|G9NCA9|G9NCA9_HYPVG Beta-glucosidase cel3A OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_74688 PE=3 SV=1	SP	0.000159	0.999834	CS pos: 19-20. Pr: 0.9828
+tr|G9NCF3|G9NCF3_HYPVG J domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_127224 PE=4 SV=1	SP	0.000245	0.999763	CS pos: 20-21. Pr: 0.9803
+tr|G9NCJ4|G9NCJ4_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_165290 PE=3 SV=1	SP	0.000342	0.999674	CS pos: 12-13. Pr: 0.9340
+tr|G9NCL1|G9NCL1_HYPVG endo-1,3(4)-beta-glucanase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39075 PE=3 SV=1	SP	0.000205	0.999795	CS pos: 22-23. Pr: 0.9735
+tr|G9NCM3|G9NCM3_HYPVG Carboxypeptidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87251 PE=3 SV=1	SP	0.000184	0.999824	CS pos: 18-19. Pr: 0.9691
+tr|G9NCT3|G9NCT3_HYPVG 1,3-beta-glucanosyltransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64594 PE=3 SV=1	SP	0.000169	0.999846	CS pos: 17-18. Pr: 0.9760
+tr|G9NCX1|G9NCX1_HYPVG Protein disulfide-isomerase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_112058 PE=3 SV=1	SP	0.000164	0.999850	CS pos: 22-23. Pr: 0.9816
+tr|G9NCX5|G9NCX5_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39098 PE=3 SV=1	SP	0.000153	0.999853	CS pos: 19-20. Pr: 0.9844
+tr|G9NCX6|G9NCX6_HYPVG Heat shock protein 70-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_80028 PE=4 SV=1	SP	0.000274	0.999728	CS pos: 25-26. Pr: 0.9852
+tr|G9NCY2|G9NCY2_HYPVG Xylanolytic transcriptional activator regulatory domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_232653 PE=4 SV=1	SP	0.000142	0.999830	CS pos: 21-22. Pr: 0.9853
+tr|G9NDI0|G9NDI0_HYPVG C2H2-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_56218 PE=3 SV=1	SP	0.000246	0.999747	CS pos: 16-17. Pr: 0.8591
+tr|G9MDF6|G9MDF6_HYPVG Glycosyltransferase family 15 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_33900 PE=3 SV=1	SP	0.000260	0.999755	CS pos: 35-36. Pr: 0.9652
+tr|G9MDK1|G9MDK1_HYPVG GPI anchored serine-threonine rich protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_79522 PE=4 SV=1	SP	0.000172	0.999800	CS pos: 16-17. Pr: 0.9922
+tr|G9MDR1|G9MDR1_HYPVG Signal peptidase subunit 3 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_33795 PE=3 SV=1	OTHER	0.998271	0.001790	
+tr|G9MDV4|G9MDV4_HYPVG Secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110896 PE=4 SV=1	SP	0.000154	0.999840	CS pos: 16-17. Pr: 0.9808
+tr|G9MDV5|G9MDV5_HYPVG DUF7492 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_140997 PE=4 SV=1	SP	0.000188	0.999834	CS pos: 14-15. Pr: 0.9813
+tr|G9MDZ4|G9MDZ4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215101 PE=4 SV=1	SP	0.467650	0.532340	CS pos: 22-23. Pr: 0.8003
+tr|G9MDZ7|G9MDZ7_HYPVG Lpxtg-domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35074 PE=4 SV=1	SP	0.000163	0.999847	CS pos: 20-21. Pr: 0.8227
+tr|G9MED9|G9MED9_HYPVG Ecp2 effector protein-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34363 PE=4 SV=1	SP	0.000161	0.999836	CS pos: 18-19. Pr: 0.9852
+tr|G9MEG0|G9MEG0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34285 PE=4 SV=1	SP	0.000168	0.999833	CS pos: 20-21. Pr: 0.9794
+tr|G9MEG5|G9MEG5_HYPVG Component of a calcium permeable channel OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_73324 PE=4 SV=1	OTHER	0.588607	0.411413	
+tr|G9MEI8|G9MEI8_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34247 PE=4 SV=1	SP	0.000158	0.999849	CS pos: 21-22. Pr: 0.9832
+tr|G9MEM8|G9MEM8_HYPVG Carboxylesterase type B domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62647 PE=4 SV=1	SP	0.000194	0.999816	CS pos: 23-24. Pr: 0.9010
+tr|G9MEP8|G9MEP8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_211280 PE=4 SV=1	SP	0.000178	0.999832	CS pos: 24-25. Pr: 0.9767
+tr|G9MEP9|G9MEP9_HYPVG Glycoside hydrolase family 17 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_196763 PE=4 SV=1	SP	0.000297	0.999719	CS pos: 20-21. Pr: 0.8298
+tr|G9MER7|G9MER7_HYPVG IgE-binding protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62686 PE=4 SV=1	SP	0.000203	0.999798	CS pos: 19-20. Pr: 0.9823
+tr|G9MES3|G9MES3_HYPVG GPI transamidase component GPI16 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34818 PE=4 SV=1	SP	0.000160	0.999840	CS pos: 19-20. Pr: 0.9838
+tr|G9MET4|G9MET4_HYPVG Extracellular membrane protein CFEM domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_129919 PE=4 SV=1	SP	0.000250	0.999760	CS pos: 10-11. Pr: 0.9453
+tr|G9MEZ3|G9MEZ3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72979 PE=4 SV=1	SP	0.157783	0.842214	CS pos: 19-20. Pr: 0.8177
+tr|G9MF03|G9MF03_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_217577 PE=4 SV=1	SP	0.000182	0.999788	CS pos: 19-20. Pr: 0.9118
+tr|G9MF11|G9MF11_HYPVG Polysaccharide lyase family 8 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62770 PE=3 SV=1	SP	0.000187	0.999847	CS pos: 19-20. Pr: 0.9819
+tr|G9MF15|G9MF15_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_217588 PE=4 SV=1	SP	0.000173	0.999838	CS pos: 29-30. Pr: 0.9771
+tr|G9MF19|G9MF19_HYPVG Asl1-like glycosyl hydrolase catalytic domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_85672 PE=4 SV=1	SP	0.000160	0.999817	CS pos: 24-25. Pr: 0.7462
+tr|G9MF62|G9MF62_HYPVG Glycoside hydrolase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_55235 PE=4 SV=1	SP	0.000169	0.999822	CS pos: 19-20. Pr: 0.9831
+tr|G9MFA9|G9MFA9_HYPVG Alginate lyase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215053 PE=4 SV=1	SP	0.000186	0.999808	CS pos: 19-20. Pr: 0.9767
+tr|G9MFB0|G9MFB0_HYPVG Phospholipase C OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62861 PE=4 SV=1	SP	0.000282	0.999749	CS pos: 23-24. Pr: 0.9777
+tr|G9MFB7|G9MFB7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_188014 PE=4 SV=1	SP	0.166838	0.833161	CS pos: 22-23. Pr: 0.8159
+tr|G9MFH4|G9MFH4_HYPVG GOLD domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_34068 PE=3 SV=1	SP	0.000147	0.999859	CS pos: 16-17. Pr: 0.9854
+tr|G9MFI4|G9MFI4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62551 PE=4 SV=1	SP	0.000326	0.999685	CS pos: 22-23. Pr: 0.4361
+tr|G9MFI7|G9MFI7_HYPVG Peptidase S33 tripeptidyl aminopeptidase-like C-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_140693 PE=3 SV=1	SP	0.000158	0.999841	CS pos: 19-20. Pr: 0.9878
+tr|G9MFJ6|G9MFJ6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_196656 PE=4 SV=1	SP	0.000172	0.999839	CS pos: 20-21. Pr: 0.9739
+tr|G9MFM3|G9MFM3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_214993 PE=4 SV=1	SP	0.000168	0.999837	CS pos: 19-20. Pr: 0.9852
+tr|G9MFU9|G9MFU9_HYPVG EF-hand domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_218563 PE=4 SV=1	SP	0.000270	0.999728	CS pos: 29-30. Pr: 0.7836
+tr|G9MFZ6|G9MFZ6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36049 PE=4 SV=1	SP	0.000165	0.999823	CS pos: 19-20. Pr: 0.9601
+tr|G9MFZ7|G9MFZ7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_55747 PE=4 SV=1	SP	0.000166	0.999827	CS pos: 22-23. Pr: 0.5081
+tr|G9MFZ9|G9MFZ9_HYPVG DUF7707 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_92091 PE=4 SV=1	SP	0.000154	0.999864	CS pos: 17-18. Pr: 0.9791
+tr|G9MG26|G9MG26_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36127 PE=4 SV=1	SP	0.000207	0.999806	CS pos: 25-26. Pr: 0.8020
+tr|G9MG33|G9MG33_HYPVG AttH domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_218639 PE=4 SV=1	SP	0.000182	0.999799	CS pos: 23-24. Pr: 0.7667
+tr|G9MG36|G9MG36_HYPVG CDP-diacylglycerol phosphatidylhydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_63787 PE=4 SV=1	SP	0.000152	0.999845	CS pos: 21-22. Pr: 0.9837
+tr|G9MG46|G9MG46_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35296 PE=3 SV=1	SP	0.000156	0.999868	CS pos: 18-19. Pr: 0.8121
+tr|G9MG54|G9MG54_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111967 PE=4 SV=1	SP	0.000225	0.999779	CS pos: 18-19. Pr: 0.9894
+tr|G9MGA2|G9MGA2_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52507 PE=3 SV=1	SP	0.000177	0.999829	CS pos: 17-18. Pr: 0.9805
+tr|G9MGA5|G9MGA5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70535 PE=4 SV=1	SP	0.000297	0.999730	CS pos: 24-25. Pr: 0.9732
+tr|G9MGM0|G9MGM0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69582 PE=4 SV=1	SP	0.000198	0.999835	CS pos: 33-34. Pr: 0.4237
+tr|G9MGQ3|G9MGQ3_HYPVG Inhibitor I9 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_177054 PE=3 SV=1	SP	0.000185	0.999827	CS pos: 19-20. Pr: 0.9839
+tr|G9MGV0|G9MGV0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_218116 PE=4 SV=1	SP	0.000175	0.999810	CS pos: 17-18. Pr: 0.9756
+tr|G9MGZ5|G9MGZ5_HYPVG Fungal lipase-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36225 PE=4 SV=1	SP	0.000179	0.999821	CS pos: 31-32. Pr: 0.5161
+tr|G9MH16|G9MH16_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36419 PE=4 SV=1	SP	0.000186	0.999818	CS pos: 18-19. Pr: 0.9759
+tr|G9MH28|G9MH28_HYPVG DUF1996 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_73453 PE=4 SV=1	SP	0.000181	0.999797	CS pos: 18-19. Pr: 0.9748
+tr|G9MH38|G9MH38_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35692 PE=4 SV=1	SP	0.000160	0.999836	CS pos: 22-23. Pr: 0.9722
+tr|G9MHC4|G9MHC4_HYPVG Glycoside hydrolase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35258 PE=4 SV=1	SP	0.000159	0.999827	CS pos: 17-18. Pr: 0.9829
+tr|G9MHF6|G9MHF6_HYPVG DUF7907 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_185571 PE=4 SV=1	SP	0.000183	0.999820	CS pos: 16-17. Pr: 0.9858
+tr|G9MHG0|G9MHG0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_185573 PE=4 SV=1	SP	0.000237	0.999752	CS pos: 24-25. Pr: 0.9768
+tr|G9MHI3|G9MHI3_HYPVG Carboxylesterase type B domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35347 PE=4 SV=1	SP	0.000197	0.999804	CS pos: 22-23. Pr: 0.9814
+tr|G9MHJ6|G9MHJ6_HYPVG DNase1 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215213 PE=4 SV=1	SP	0.000174	0.999829	CS pos: 19-20. Pr: 0.9805
+tr|G9MHK7|G9MHK7_HYPVG GOLD domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_35549 PE=3 SV=1	SP	0.000154	0.999838	CS pos: 16-17. Pr: 0.9809
+tr|G9MHR1|G9MHR1_HYPVG Peptidase C51 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215230 PE=4 SV=1	SP	0.000192	0.999830	CS pos: 18-19. Pr: 0.9775
+tr|G9MHR6|G9MHR6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_218422 PE=4 SV=1	SP	0.000194	0.999816	CS pos: 24-25. Pr: 0.9776
+tr|G9MHS4|G9MHS4_HYPVG GPI anchored protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_218430 PE=4 SV=1	SP	0.000160	0.999830	CS pos: 23-24. Pr: 0.9838
+tr|G9MHS5|G9MHS5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_63586 PE=4 SV=1	SP	0.000210	0.999794	CS pos: 25-26. Pr: 0.9714
+tr|G9MHT6|G9MHT6_HYPVG PLC-like phosphodiesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36162 PE=4 SV=1	SP	0.000145	0.999859	CS pos: 20-21. Pr: 0.9843
+tr|G9MHW0|G9MHW0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_63616 PE=4 SV=1	SP	0.000161	0.999829	CS pos: 20-21. Pr: 0.9872
+tr|G9MHW8|G9MHW8_HYPVG Glycoside hydrolase family 16 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36387 PE=4 SV=1	SP	0.000162	0.999849	CS pos: 20-21. Pr: 0.9762
+tr|G9MI21|G9MI21_HYPVG Het-C-domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61853 PE=4 SV=1	SP	0.000153	0.999839	CS pos: 25-26. Pr: 0.9813
+tr|G9MIE9|G9MIE9_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=BGN2 PE=4 SV=1	SP	0.000174	0.999804	CS pos: 33-34. Pr: 0.4575
+tr|G9MIK0|G9MIK0_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32462 PE=4 SV=1	SP	0.000170	0.999842	CS pos: 20-21. Pr: 0.9854
+tr|G9MIS5|G9MIS5_HYPVG Ribophorin II C-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_85177 PE=4 SV=1	SP	0.000166	0.999840	CS pos: 18-19. Pr: 0.9835
+tr|G9MIS8|G9MIS8_HYPVG DUF7707 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_167618 PE=4 SV=1	SP	0.000162	0.999854	CS pos: 21-22. Pr: 0.9799
+tr|G9MIW0|G9MIW0_HYPVG DUF7732 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110814 PE=4 SV=1	SP	0.000201	0.999816	CS pos: 20-21. Pr: 0.4962
+tr|G9MIX0|G9MIX0_HYPVG GLEYA adhesin domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_10277 PE=4 SV=1	SP	0.000213	0.999788	CS pos: 22-23. Pr: 0.9836
+tr|G9MIY8|G9MIY8_HYPVG Metallo-beta-lactamase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32339 PE=4 SV=1	SP	0.000189	0.999810	CS pos: 19-20. Pr: 0.9901
+tr|G9MIZ6|G9MIZ6_HYPVG Mannosylphosphorylation protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_72564 PE=4 SV=1	SP	0.000159	0.999826	CS pos: 22-23. Pr: 0.9859
+tr|G9MJ31|G9MJ31_HYPVG Extracellular membrane protein CFEM domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_10457 PE=4 SV=1	SP	0.000158	0.999857	CS pos: 22-23. Pr: 0.9825
+tr|G9MJ66|G9MJ66_HYPVG Expansin-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_82045 PE=4 SV=1	SP	0.000201	0.999804	CS pos: 17-18. Pr: 0.9878
+tr|G9MJ74|G9MJ74_HYPVG Glycoside hydrolase family 43 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62213 PE=3 SV=1	SP	0.000179	0.999827	CS pos: 20-21. Pr: 0.9818
+tr|G9MJ75|G9MJ75_HYPVG AA1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_219305 PE=4 SV=1	SP	0.000178	0.999820	CS pos: 19-20. Pr: 0.5724
+tr|G9MJ94|G9MJ94_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62229 PE=4 SV=1	SP	0.000170	0.999874	CS pos: 25-26. Pr: 0.8911
+tr|G9MJA9|G9MJA9_HYPVG Metallo-beta-lactamase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_219338 PE=4 SV=1	SP	0.000110	0.999937	CS pos: 18-19. Pr: 0.6513
+tr|G9MJB5|G9MJB5_HYPVG F-box domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62250 PE=4 SV=1	SP	0.000205	0.999803	CS pos: 28-29. Pr: 0.5437
+tr|G9MJC2|G9MJC2_HYPVG Phosphoglycerate mutase family protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32983 PE=4 SV=1	SP	0.000189	0.999805	CS pos: 16-17. Pr: 0.9837
+tr|G9MJG3|G9MJG3_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_198574 PE=4 SV=1	SP	0.000160	0.999828	CS pos: 17-18. Pr: 0.9780
+tr|G9MJI7|G9MJI7_HYPVG Malate dehydrogenase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_167919 PE=4 SV=1	SP	0.000170	0.999815	CS pos: 17-18. Pr: 0.8812
+tr|G9MJN2|G9MJN2_HYPVG Glutaminase GtaA OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_55059 PE=4 SV=1	SP	0.000164	0.999839	CS pos: 20-21. Pr: 0.9818
+tr|G9MJT0|G9MJT0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110873 PE=4 SV=1	SP	0.000372	0.999609	CS pos: 19-20. Pr: 0.9827
+tr|G9MJV0|G9MJV0_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_55099 PE=4 SV=1	SP	0.000161	0.999866	CS pos: 20-21. Pr: 0.9811
+tr|G9MJW0|G9MJW0_HYPVG FAS1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62437 PE=4 SV=1	SP	0.000165	0.999835	CS pos: 23-24. Pr: 0.4545
+tr|G9MJX0|G9MJX0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110875 PE=4 SV=1	SP	0.000168	0.999810	CS pos: 22-23. Pr: 0.7153
+tr|G9MJY5|G9MJY5_HYPVG Phosphoglycerate mutase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_208383 PE=4 SV=1	SP	0.000176	0.999818	CS pos: 18-19. Pr: 0.9774
+tr|G9MJY6|G9MJY6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_219556 PE=4 SV=1	SP	0.000161	0.999857	CS pos: 18-19. Pr: 0.9807
+tr|G9MK01|G9MK01_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_62473 PE=4 SV=1	SP	0.000148	0.999837	CS pos: 26-27. Pr: 0.9807
+tr|G9MK10|G9MK10_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_229758 PE=4 SV=1	SP	0.000184	0.999823	CS pos: 19-20. Pr: 0.9840
+tr|G9MK13|G9MK13_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_219580 PE=4 SV=1	SP	0.000151	0.999859	CS pos: 17-18. Pr: 0.9799
+tr|G9MK21|G9MK21_HYPVG Cerato-platanin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31779 PE=4 SV=1	SP	0.000200	0.999818	CS pos: 18-19. Pr: 0.9928
+tr|G9MK24|G9MK24_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_229760 PE=4 SV=1	SP	0.000353	0.999640	CS pos: 30-31. Pr: 0.9619
+tr|G9MK34|G9MK34_HYPVG Cellulose signaling related protein ooc1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32688 PE=4 SV=1	SP	0.000160	0.999848	CS pos: 22-23. Pr: 0.9819
+tr|G9MK43|G9MK43_HYPVG Glycoside hydrolase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32109 PE=3 SV=1	SP	0.000156	0.999844	CS pos: 18-19. Pr: 0.9825
+tr|G9MK46|G9MK46_HYPVG Lipoprotein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32329 PE=4 SV=1	SP	0.000000	1.000000	CS pos: 20-21. Pr: 0.9943
+tr|G9MK52|G9MK52_HYPVG Polysaccharide lyase family 20 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32988 PE=4 SV=1	SP	0.000170	0.999821	CS pos: 19-20. Pr: 0.9864
+tr|G9MK56|G9MK56_HYPVG Glycoside hydrolase family 23 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_32996 PE=4 SV=1	SP	0.000214	0.999798	CS pos: 29-30. Pr: 0.6706
+tr|G9MK85|G9MK85_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31802 PE=4 SV=1	SP	0.166848	0.833149	CS pos: 32-33. Pr: 0.2810
+tr|G9MK88|G9MK88_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_218870 PE=4 SV=1	SP	0.000153	0.999858	CS pos: 19-20. Pr: 0.9867
+tr|G9MKB1|G9MKB1_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_79197 PE=4 SV=1	SP	0.000170	0.999830	CS pos: 19-20. Pr: 0.9827
+tr|G9MKC4|G9MKC4_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31656 PE=4 SV=1	SP	0.000170	0.999834	CS pos: 21-22. Pr: 0.9798
+tr|G9MKE2|G9MKE2_HYPVG Zygote-specific protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31923 PE=4 SV=1	SP	0.000189	0.999796	CS pos: 18-19. Pr: 0.9804
+tr|G9MKI6|G9MKI6_HYPVG 3-carboxymuconate cyclase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_189996 PE=4 SV=1	SP	0.000171	0.999835	CS pos: 24-25. Pr: 0.9737
+tr|G9MKL3|G9MKL3_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110725 PE=4 SV=1	SP	0.000165	0.999845	CS pos: 17-18. Pr: 0.9908
+tr|G9MKP5|G9MKP5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_220232 PE=4 SV=1	SP	0.000311	0.999714	CS pos: 25-26. Pr: 0.6989
+tr|G9MKQ6|G9MKQ6_HYPVG Ecp2 effector protein domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_30165 PE=4 SV=1	SP	0.000197	0.999804	CS pos: 26-27. Pr: 0.7224
+tr|G9MKR4|G9MKR4_HYPVG Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_18067 PE=4 SV=1	SP	0.000151	0.999862	CS pos: 17-18. Pr: 0.9790
+tr|G9MKX5|G9MKX5_HYPVG SCP domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_220308 PE=4 SV=1	SP	0.000191	0.999822	CS pos: 21-22. Pr: 0.6460
+tr|G9MKY0|G9MKY0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_212366 PE=4 SV=1	SP	0.000183	0.999839	CS pos: 21-22. Pr: 0.9789
+tr|G9MKY7|G9MKY7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61638 PE=4 SV=1	SP	0.000201	0.999765	CS pos: 17-18. Pr: 0.9906
+tr|G9ML03|G9ML03_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61653 PE=4 SV=1	SP	0.000198	0.999785	CS pos: 19-20. Pr: 0.9800
+tr|G9ML12|G9ML12_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_30995 PE=4 SV=1	SP	0.165569	0.834433	CS pos: 21-22. Pr: 0.9686
+tr|G9ML76|G9ML76_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31499 PE=4 SV=1	SP	0.000162	0.999823	CS pos: 19-20. Pr: 0.9890
+tr|G9ML82|G9ML82_HYPVG Carbohydrate-binding module family 18 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230059 PE=4 SV=1	SP	0.000162	0.999862	CS pos: 17-18. Pr: 0.9840
+tr|G9ML92|G9ML92_HYPVG Siderophore biosynthesis enzyme OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110755 PE=4 SV=1	SP	0.000235	0.999772	CS pos: 18-19. Pr: 0.9303
+tr|G9MLB5|G9MLB5_HYPVG Pyrroloquinoline quinone-dependent pyranose dehydrogenase beta-propeller domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_190204 PE=4 SV=1	SP	0.000213	0.999777	CS pos: 20-21. Pr: 0.9793
+tr|G9MLB6|G9MLB6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_220441 PE=4 SV=1	SP	0.000155	0.999875	CS pos: 19-20. Pr: 0.9803
+tr|G9MLE1|G9MLE1_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71600 PE=4 SV=1	SP	0.000161	0.999854	CS pos: 19-20. Pr: 0.9857
+tr|G9MLF3|G9MLF3_HYPVG PA14 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61010 PE=4 SV=1	SP	0.072003	0.928012	CS pos: 21-22. Pr: 0.9890
+tr|G9MLG3|G9MLG3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_30124 PE=4 SV=1	SP	0.000163	0.999829	CS pos: 20-21. Pr: 0.9837
+tr|G9MLH2|G9MLH2_HYPVG Expansin-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29842 PE=4 SV=1	SP	0.000190	0.999811	CS pos: 28-29. Pr: 0.7449
+tr|G9MLL9|G9MLL9_HYPVG Quercetin 2,3-dioxygenase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_31141 PE=4 SV=1	SP	0.166840	0.833174	CS pos: 22-23. Pr: 0.7852
+tr|G9MLQ0|G9MLQ0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_110650 PE=4 SV=1	SP	0.000159	0.999859	CS pos: 17-18. Pr: 0.9843
+tr|G9MLS6|G9MLS6_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78984 PE=4 SV=1	SP	0.000174	0.999825	CS pos: 17-18. Pr: 0.9077
+tr|G9MLT1|G9MLT1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_219763 PE=4 SV=1	SP	0.000169	0.999859	CS pos: 20-21. Pr: 0.9744
+tr|G9MLT2|G9MLT2_HYPVG Carbohydrate esterase family 5 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_129988 PE=4 SV=1	SP	0.000178	0.999830	CS pos: 19-20. Pr: 0.9805
+tr|G9MLT7|G9MLT7_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61110 PE=4 SV=1	SP	0.000164	0.999862	CS pos: 19-20. Pr: 0.9894
+tr|G9MLV7|G9MLV7_HYPVG AA1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71692 PE=4 SV=1	SP	0.000167	0.999833	CS pos: 24-25. Pr: 0.9693
+tr|G9MM07|G9MM07_HYPVG Allergen Asp f 4 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71735 PE=4 SV=1	SP	0.000251	0.999745	CS pos: 26-27. Pr: 0.5821
+tr|G9MM09|G9MM09_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61176 PE=4 SV=1	SP	0.000197	0.999800	CS pos: 21-22. Pr: 0.9885
+tr|G9MM28|G9MM28_HYPVG AA1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_61191 PE=4 SV=1	SP	0.000157	0.999863	CS pos: 19-20. Pr: 0.9819
+tr|G9MM38|G9MM38_HYPVG Asl1-like glycosyl hydrolase catalytic domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_208476 PE=4 SV=1	SP	0.000220	0.999790	CS pos: 19-20. Pr: 0.9859
+tr|G9MM73|G9MM73_HYPVG Polysaccharide lyase family 20 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_215593 PE=4 SV=1	SP	0.000161	0.999824	CS pos: 20-21. Pr: 0.9806
+tr|G9MMF4|G9MMF4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71874 PE=4 SV=1	SP	0.000151	0.999857	CS pos: 28-29. Pr: 0.9770
+tr|G9MML5|G9MML5_HYPVG PLC-like phosphodiesterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_168453 PE=4 SV=1	SP	0.000184	0.999831	CS pos: 29-30. Pr: 0.6328
+tr|G9MMP7|G9MMP7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_91616 PE=4 SV=1	SP	0.000198	0.999789	CS pos: 23-24. Pr: 0.9498
+tr|G9MMR2|G9MMR2_HYPVG Peptidase S1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71933 PE=4 SV=1	SP	0.000295	0.999719	CS pos: 19-20. Pr: 0.9874
+tr|G9MMU3|G9MMU3_HYPVG Secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_212288 PE=4 SV=1	OTHER	0.500246	0.499717	
+tr|G9MN78|G9MN78_HYPVG Glycoside hydrolase family 23 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230434 PE=4 SV=1	SP	0.000207	0.999779	CS pos: 25-26. Pr: 0.4764
+tr|G9MNA3|G9MNA3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_199739 PE=4 SV=1	SP	0.000182	0.999833	CS pos: 20-21. Pr: 0.9805
+tr|G9MNC8|G9MNC8_HYPVG Glucosidase 2 subunit beta OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_86774 PE=4 SV=1	SP	0.000312	0.999707	CS pos: 21-22. Pr: 0.9733
+tr|G9MND9|G9MND9_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36910 PE=3 SV=1	SP	0.000178	0.999842	CS pos: 25-26. Pr: 0.5234
+tr|G9MNE3|G9MNE3_HYPVG Glycosyltransferase family 1 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_13472 PE=4 SV=1	OTHER	0.771875	0.228166	
+tr|G9MNF0|G9MNF0_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_37227 PE=3 SV=1	SP	0.000204	0.999796	CS pos: 19-20. Pr: 0.9827
+tr|G9MNF6|G9MNF6_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_56038 PE=4 SV=1	SP	0.000206	0.999796	CS pos: 25-26. Pr: 0.9764
+tr|G9MNG3|G9MNG3_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_56034 PE=3 SV=1	SP	0.000186	0.999810	CS pos: 18-19. Pr: 0.9751
+tr|G9MNG6|G9MNG6_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_212523 PE=4 SV=1	SP	0.000172	0.999824	CS pos: 19-20. Pr: 0.9901
+tr|G9MNJ0|G9MNJ0_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_74082 PE=4 SV=1	SP	0.000206	0.999784	CS pos: 22-23. Pr: 0.9750
+tr|G9MNM6|G9MNM6_HYPVG GmrSD restriction endonucleases C-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_37219 PE=4 SV=1	SP	0.000179	0.999832	CS pos: 19-20. Pr: 0.6417
+tr|G9MNN4|G9MNN4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_220753 PE=4 SV=1	SP	0.000156	0.999867	CS pos: 20-21. Pr: 0.9819
+tr|G9MNR0|G9MNR0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36685 PE=4 SV=1	SP	0.000212	0.999791	CS pos: 25-26. Pr: 0.9316
+tr|G9MNR4|G9MNR4_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_37774 PE=4 SV=1	SP	0.000172	0.999820	CS pos: 19-20. Pr: 0.9719
+tr|G9MNZ2|G9MNZ2_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_79838 PE=4 SV=1	OTHER	1.000000	0.000000	
+tr|G9MP05|G9MP05_HYPVG MFS transporter OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_220864 PE=4 SV=1	SP	0.000156	0.999803	CS pos: 20-21. Pr: 0.9814
+tr|G9MP95|G9MP95_HYPVG Beta-lactamase-related domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_36939 PE=3 SV=1	SP	0.000227	0.999775	CS pos: 32-33. Pr: 0.6644
+tr|G9MPD0|G9MPD0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_220981 PE=4 SV=1	SP	0.000168	0.999822	CS pos: 15-16. Pr: 0.9452
+tr|G9MPG8|G9MPG8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_221017 PE=4 SV=1	SP	0.000160	0.999871	CS pos: 21-22. Pr: 0.9790
+tr|G9MPT0|G9MPT0_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_147072 PE=3 SV=1	SP	0.000170	0.999827	CS pos: 19-20. Pr: 0.9839
+tr|G9MPV4|G9MPV4_HYPVG NADH:flavin oxidoreductase/NADH oxidase N-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_190803 PE=4 SV=1	SP	0.166829	0.833167	CS pos: 14-15. Pr: 0.8069
+tr|G9MQ13|G9MQ13_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_27683 PE=4 SV=1	SP	0.000338	0.999666	CS pos: 19-20. Pr: 0.9841
+tr|G9MQ14|G9MQ14_HYPVG Ribosomal protein s17 (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_117265 PE=4 SV=1	SP	0.000219	0.999761	CS pos: 19-20. Pr: 0.8327
+tr|G9MQ26|G9MQ26_HYPVG DUF7728 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_169678 PE=4 SV=1	SP	0.000283	0.999731	CS pos: 24-25. Pr: 0.6099
+tr|G9MQ28|G9MQ28_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111642 PE=4 SV=1	SP	0.000176	0.999823	CS pos: 19-20. Pr: 0.9827
+tr|G9MQ48|G9MQ48_HYPVG Glycoside hydrolase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76825 PE=4 SV=1	SP	0.000161	0.999836	CS pos: 18-19. Pr: 0.9728
+tr|G9MQ63|G9MQ63_HYPVG Glycoside hydrolase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67650 PE=4 SV=1	SP	0.000149	0.999845	CS pos: 19-20. Pr: 0.9854
+tr|G9MQ69|G9MQ69_HYPVG Killer toxin Kp4 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58093 PE=4 SV=1	SP	0.000164	0.999847	CS pos: 19-20. Pr: 0.9784
+tr|G9MQ70|G9MQ70_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_131328 PE=4 SV=1	SP	0.000163	0.999830	CS pos: 20-21. Pr: 0.9878
+tr|G9MQ79|G9MQ79_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_200343 PE=4 SV=1	SP	0.331243	0.668751	CS pos: 32-33. Pr: 0.3694
+tr|G9MQ83|G9MQ83_HYPVG Glycoside hydrolase family 71 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76832 PE=4 SV=1	SP	0.000261	0.999763	CS pos: 28-29. Pr: 0.9907
+tr|G9MQB3|G9MQB3_HYPVG Phytocyanin domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67673 PE=4 SV=1	SP	0.000188	0.999814	CS pos: 20-21. Pr: 0.9795
+tr|G9MQC0|G9MQC0_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_80895 PE=4 SV=1	SP	0.000159	0.999865	CS pos: 24-25. Pr: 0.9817
+tr|G9MQD2|G9MQD2_HYPVG DUF1996 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_200371 PE=4 SV=1	SP	0.000161	0.999844	CS pos: 19-20. Pr: 0.9833
+tr|G9MQD7|G9MQD7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_221307 PE=4 SV=1	SP	0.000148	0.999844	CS pos: 17-18. Pr: 0.9832
+tr|G9MQP3|G9MQP3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_221357 PE=4 SV=1	SP	0.000145	0.999884	CS pos: 20-21. Pr: 0.9840
+tr|G9MQV6|G9MQV6_HYPVG Multicopper oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29729 PE=3 SV=1	SP	0.000143	0.999881	CS pos: 23-24. Pr: 0.9704
+tr|G9MQV9|G9MQV9_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60658 PE=4 SV=1	SP	0.000194	0.999810	CS pos: 17-18. Pr: 0.9775
+tr|G9MQW0|G9MQW0_HYPVG Siderophore biosynthesis enzyme OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28611 PE=4 SV=1	SP	0.000162	0.999823	CS pos: 21-22. Pr: 0.9805
+tr|G9MQX3|G9MQX3_HYPVG Lysine-specific metallo-endopeptidase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_200809 PE=4 SV=1	SP	0.000188	0.999832	CS pos: 26-27. Pr: 0.9894
+tr|G9MQX4|G9MQX4_HYPVG Glycoside hydrolase family 55 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29344 PE=4 SV=1	SP	0.000327	0.999673	CS pos: 25-26. Pr: 0.9637
+tr|G9MR10|G9MR10_HYPVG Asl1-like glycosyl hydrolase catalytic domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_54091 PE=4 SV=1	SP	0.000170	0.999832	CS pos: 26-27. Pr: 0.5994
+tr|G9MR13|G9MR13_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83985 PE=3 SV=1	SP	0.000177	0.999869	CS pos: 22-23. Pr: 0.9493
+tr|G9MR88|G9MR88_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29260 PE=4 SV=1	SP	0.000157	0.999830	CS pos: 18-19. Pr: 0.9795
+tr|G9MRA0|G9MRA0_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60531 PE=3 SV=1	SP	0.000177	0.999827	CS pos: 27-28. Pr: 0.6775
+tr|G9MRB7|G9MRB7_HYPVG Glycoside hydrolase family 2 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_54033 PE=3 SV=1	SP	0.000118	0.999862	CS pos: 20-21. Pr: 0.8222
+tr|G9MRH5|G9MRH5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216090 PE=4 SV=1	SP	0.000405	0.999597	CS pos: 16-17. Pr: 0.6570
+tr|G9MRL7|G9MRL7_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28884 PE=4 SV=1	SP	0.000160	0.999839	CS pos: 21-22. Pr: 0.9807
+tr|G9MRN9|G9MRN9_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_27800 PE=4 SV=1	SP	0.000180	0.999796	CS pos: 19-20. Pr: 0.9789
+tr|G9MRP9|G9MRP9_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28159 PE=3 SV=1	SP	0.000204	0.999814	CS pos: 20-21. Pr: 0.9813
+tr|G9MRS2|G9MRS2_HYPVG Bys1 family protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216106 PE=4 SV=1	SP	0.000304	0.999703	CS pos: 20-21. Pr: 0.9542
+tr|G9MRX1|G9MRX1_HYPVG Copper acquisition factor BIM1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28291 PE=4 SV=1	SP	0.000163	0.999865	CS pos: 17-18. Pr: 0.9827
+tr|G9MRZ8|G9MRZ8_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29663 PE=3 SV=1	SP	0.000152	0.999828	CS pos: 18-19. Pr: 0.9815
+tr|G9MS01|G9MS01_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222127 PE=4 SV=1	SP	0.000159	0.999830	CS pos: 26-27. Pr: 0.9808
+tr|G9MS11|G9MS11_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60301 PE=4 SV=1	SP	0.000180	0.999832	CS pos: 24-25. Pr: 0.5468
+tr|G9MS41|G9MS41_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71118 PE=4 SV=1	SP	0.000154	0.999841	CS pos: 21-22. Pr: 0.9842
+tr|G9MS43|G9MS43_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60272 PE=4 SV=1	SP	0.006573	0.993445	CS pos: 29-30. Pr: 0.7113
+tr|G9MS66|G9MS66_HYPVG CND01770-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60255 PE=4 SV=1	SP	0.000172	0.999842	CS pos: 24-25. Pr: 0.7732
+tr|G9MS71|G9MS71_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28185 PE=4 SV=1	SP	0.000196	0.999805	CS pos: 19-20. Pr: 0.9747
+tr|G9MS79|G9MS79_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222198 PE=4 SV=1	SP	0.000371	0.999647	CS pos: 18-19. Pr: 0.9719
+tr|G9MS90|G9MS90_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_91410 PE=4 SV=1	SP	0.000201	0.999788	CS pos: 23-24. Pr: 0.9747
+tr|G9MSC9|G9MSC9_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209038 PE=4 SV=1	SP	0.000146	0.999885	CS pos: 20-21. Pr: 0.9821
+tr|G9MSD1|G9MSD1_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_200487 PE=3 SV=1	SP	0.000140	0.999869	CS pos: 20-21. Pr: 0.9824
+tr|G9MSH2|G9MSH2_HYPVG Peptidase S33 tripeptidyl aminopeptidase-like C-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60206 PE=3 SV=1	SP	0.000169	0.999832	CS pos: 21-22. Pr: 0.9835
+tr|G9MSJ3|G9MSJ3_HYPVG Conidiation-specific protein 13 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216126 PE=4 SV=1	SP	0.000164	0.999850	CS pos: 16-17. Pr: 0.9582
+tr|G9MSM1|G9MSM1_HYPVG CYTH domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_29068 PE=4 SV=1	SP	0.000150	0.999836	CS pos: 20-21. Pr: 0.9814
+tr|G9MSS0|G9MSS0_HYPVG Glycoside hydrolase family 76 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28471 PE=4 SV=1	SP	0.000169	0.999861	CS pos: 27-28. Pr: 0.9845
+tr|G9MST7|G9MST7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60146 PE=4 SV=1	SP	0.000157	0.999851	CS pos: 25-26. Pr: 0.9763
+tr|G9MST9|G9MST9_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60144 PE=4 SV=1	SP	0.000207	0.999782	CS pos: 18-19. Pr: 0.9670
+tr|G9MSU1|G9MSU1_HYPVG Small secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83765 PE=4 SV=1	SP	0.000179	0.999821	CS pos: 29-30. Pr: 0.8398
+tr|G9MSU3|G9MSU3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222299 PE=4 SV=1	SP	0.000159	0.999863	CS pos: 18-19. Pr: 0.9806
+tr|G9MSU5|G9MSU5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222301 PE=4 SV=1	SP	0.000326	0.999678	CS pos: 20-21. Pr: 0.8937
+tr|G9MSU9|G9MSU9_HYPVG Circumsporozoite protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_150035 PE=4 SV=1	SP	0.000157	0.999872	CS pos: 17-18. Pr: 0.9839
+tr|G9MSV5|G9MSV5_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_150720 PE=3 SV=1	SP	0.000192	0.999820	CS pos: 23-24. Pr: 0.9055
+tr|G9MSW7|G9MSW7_HYPVG Vacuolar protein sorting-associated protein 62 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209309 PE=4 SV=1	SP	0.000210	0.999813	CS pos: 29-30. Pr: 0.9775
+tr|G9MSX6|G9MSX6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60111 PE=4 SV=1	SP	0.000182	0.999809	CS pos: 23-24. Pr: 0.9760
+tr|G9MT00|G9MT00_HYPVG 3-carboxymuconate cyclase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78927 PE=3 SV=1	SP	0.000255	0.999775	CS pos: 24-25. Pr: 0.9559
+tr|G9MT05|G9MT05_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60870 PE=4 SV=1	OTHER	0.999994	0.000000	
+tr|G9MT24|G9MT24_HYPVG Prp 4 CRoW domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_54247 PE=4 SV=1	SP	0.000178	0.999838	CS pos: 20-21. Pr: 0.9872
+tr|G9MT46|G9MT46_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222348 PE=4 SV=1	SP	0.000174	0.999811	CS pos: 24-25. Pr: 0.7348
+tr|G9MT58|G9MT58_HYPVG Glycoside hydrolase family 12 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_28149 PE=3 SV=1	SP	0.000183	0.999828	CS pos: 25-26. Pr: 0.7536
+tr|G9MT99|G9MT99_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_221583 PE=4 SV=1	SP	0.000203	0.999827	CS pos: 26-27. Pr: 0.9714
+tr|G9MTC6|G9MTC6_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_150254 PE=4 SV=1	SP	0.166822	0.833203	CS pos: 25-26. Pr: 0.8109
+tr|G9MTD2|G9MTD2_HYPVG Glycoside hydrolase family 132 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_150698 PE=3 SV=1	SP	0.000182	0.999815	CS pos: 25-26. Pr: 0.9805
+tr|G9MTF7|G9MTF7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_201395 PE=4 SV=1	SP	0.000155	0.999850	CS pos: 19-20. Pr: 0.9353
+tr|G9MTH8|G9MTH8_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_22394 PE=3 SV=1	OTHER	1.000000	0.000000	
+tr|G9MTJ2|G9MTJ2_HYPVG Glycoside hydrolase family 76 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_60016 PE=4 SV=1	SP	0.000190	0.999800	CS pos: 18-19. Pr: 0.9745
+tr|G9MTP5|G9MTP5_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_139766 PE=4 SV=1	OTHER	1.000000	0.000000	
+tr|G9MTV2|G9MTV2_HYPVG YCII-related domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216136 PE=4 SV=1	SP	0.000165	0.999833	CS pos: 20-21. Pr: 0.9533
+tr|G9MTX9|G9MTX9_HYPVG Killer toxin Kp4 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53684 PE=4 SV=1	SP	0.000163	0.999821	CS pos: 16-17. Pr: 0.9815
+tr|G9MTZ3|G9MTZ3_HYPVG Azaphilone pigments biosynthesis cluster protein L N-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_191735 PE=4 SV=1	OTHER	0.833334	0.166673	
+tr|G9MTZ7|G9MTZ7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71046 PE=4 SV=1	SP	0.000806	0.999233	CS pos: 30-31. Pr: 0.9686
+tr|G9MU03|G9MU03_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_170440 PE=3 SV=1	SP	0.000167	0.999822	CS pos: 19-20. Pr: 0.9770
+tr|G9MU06|G9MU06_HYPVG ASST-domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71064 PE=4 SV=1	SP	0.000195	0.999790	CS pos: 17-18. Pr: 0.9838
+tr|G9MU07|G9MU07_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81599 PE=4 SV=1	SP	0.000180	0.999820	CS pos: 19-20. Pr: 0.9165
+tr|G9MU08|G9MU08_HYPVG Small secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_71032 PE=4 SV=1	SP	0.000175	0.999848	CS pos: 21-22. Pr: 0.9942
+tr|G9MU14|G9MU14_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222486 PE=4 SV=1	SP	0.000162	0.999852	CS pos: 15-16. Pr: 0.9720
+tr|G9MU19|G9MU19_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53640 PE=3 SV=1	SP	0.000175	0.999817	CS pos: 17-18. Pr: 0.9559
+tr|G9MU58|G9MU58_HYPVG LysM domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_124493 PE=3 SV=1	SP	0.000189	0.999795	CS pos: 16-17. Pr: 0.9848
+tr|G9MU60|G9MU60_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53621 PE=4 SV=1	SP	0.000162	0.999827	CS pos: 19-20. Pr: 0.9807
+tr|G9MU64|G9MU64_HYPVG DAPG hydrolase PhiG domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70971 PE=4 SV=1	SP	0.000202	0.999802	CS pos: 30-31. Pr: 0.3817
+tr|G9MU73|G9MU73_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209337 PE=4 SV=1	SP	0.000153	0.999837	CS pos: 22-23. Pr: 0.9832
+tr|G9MU86|G9MU86_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222554 PE=4 SV=1	SP	0.000348	0.999635	CS pos: 25-26. Pr: 0.4686
+tr|G9MU91|G9MU91_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70960 PE=4 SV=1	SP	0.000159	0.999832	CS pos: 21-22. Pr: 0.9827
+tr|G9MUD0|G9MUD0_HYPVG Alpha/beta hydrolase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222595 PE=4 SV=1	SP	0.000164	0.999861	CS pos: 15-16. Pr: 0.9723
+tr|G9MUE1|G9MUE1_HYPVG QI74 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_170508 PE=4 SV=1	SP	0.000191	0.999827	CS pos: 32-33. Pr: 0.6659
+tr|G9MUE2|G9MUE2_HYPVG Phosphatidylinositol-specific phospholipase C X domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_170512 PE=4 SV=1	SP	0.000154	0.999855	CS pos: 22-23. Pr: 0.9822
+tr|G9MUH1|G9MUH1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222629 PE=4 SV=1	SP	0.000154	0.999855	CS pos: 17-18. Pr: 0.9817
+tr|G9MUH3|G9MUH3_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_201614 PE=4 SV=1	SP	0.000190	0.999793	CS pos: 19-20. Pr: 0.9592
+tr|G9MUH9|G9MUH9_HYPVG Peptidase S33 tripeptidyl aminopeptidase-like C-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_201619 PE=3 SV=1	SP	0.000364	0.999648	CS pos: 18-19. Pr: 0.9819
+tr|G9MUI5|G9MUI5_HYPVG Polysaccharide lyase family 7 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70901 PE=4 SV=1	SP	0.000158	0.999843	CS pos: 22-23. Pr: 0.9762
+tr|G9MUI8|G9MUI8_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222643 PE=4 SV=1	SP	0.000198	0.999838	CS pos: 39-40. Pr: 0.3911
+tr|G9MUJ1|G9MUJ1_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_201628 PE=4 SV=1	SP	0.000169	0.999825	CS pos: 20-21. Pr: 0.9840
+tr|G9MUJ4|G9MUJ4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70875 PE=4 SV=1	SP	0.000168	0.999850	CS pos: 21-22. Pr: 0.9792
+tr|G9MUK0|G9MUK0_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_151632 PE=3 SV=1	SP	0.000175	0.999823	CS pos: 17-18. Pr: 0.9818
+tr|G9MUN1|G9MUN1_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70780 PE=4 SV=1	SP	0.000143	0.999861	CS pos: 17-18. Pr: 0.8142
+tr|G9MUN4|G9MUN4_HYPVG SnoaL-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_151704 PE=4 SV=1	SP	0.000154	0.999847	CS pos: 22-23. Pr: 0.9855
+tr|G9MUP6|G9MUP6_HYPVG Glycoside hydrolase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53160 PE=3 SV=1	SP	0.000162	0.999847	CS pos: 21-22. Pr: 0.9881
+tr|G9MUR0|G9MUR0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222704 PE=4 SV=1	SP	0.000235	0.999751	CS pos: 25-26. Pr: 0.5624
+tr|G9MUT2|G9MUT2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_151784 PE=4 SV=1	SP	0.000206	0.999812	CS pos: 30-31. Pr: 0.6109
+tr|G9MUU9|G9MUU9_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111995 PE=4 SV=1	SP	0.000179	0.999832	CS pos: 35-36. Pr: 0.4011
+tr|G9MUY3|G9MUY3_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70771 PE=4 SV=1	SP	0.000158	0.999862	CS pos: 18-19. Pr: 0.9878
+tr|G9MV11|G9MV11_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_191968 PE=4 SV=1	SP	0.000154	0.999830	CS pos: 19-20. Pr: 0.9899
+tr|G9MV19|G9MV19_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_53060 PE=4 SV=1	SP	0.000180	0.999817	CS pos: 19-20. Pr: 0.7206
+tr|G9MV20|G9MV20_HYPVG SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59873 PE=4 SV=1	SP	0.000165	0.999850	CS pos: 18-19. Pr: 0.9868
+tr|G9MV35|G9MV35_HYPVG SnoaL-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70692 PE=4 SV=1	SP	0.000156	0.999813	CS pos: 19-20. Pr: 0.9814
+tr|G9MV49|G9MV49_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_191998 PE=4 SV=1	SP	0.290052	0.709939	CS pos: 21-22. Pr: 0.8148
+tr|G9MV70|G9MV70_HYPVG Glycoside hydrolase family 93 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70717 PE=4 SV=1	SP	0.000168	0.999847	CS pos: 24-25. Pr: 0.7030
+tr|G9MV94|G9MV94_HYPVG Chitinase (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_131286 PE=4 SV=1	SP	0.000188	0.999804	CS pos: 18-19. Pr: 0.9638
+tr|G9MVB9|G9MVB9_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_222876 PE=4 SV=1	SP	0.000183	0.999824	CS pos: 18-19. Pr: 0.9518
+tr|G9MVD2|G9MVD2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_192046 PE=4 SV=1	SP	0.000161	0.999866	CS pos: 23-24. Pr: 0.9850
+tr|G9MVG0|G9MVG0_HYPVG Polysaccharide lyase family 7 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52707 PE=4 SV=1	SP	0.000189	0.999794	CS pos: 15-16. Pr: 0.7855
+tr|G9MVG5|G9MVG5_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81563 PE=4 SV=1	SP	0.000190	0.999827	CS pos: 32-33. Pr: 0.6600
+tr|G9MVH0|G9MVH0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230820 PE=4 SV=1	SP	0.000231	0.999748	CS pos: 23-24. Pr: 0.9695
+tr|G9MVM3|G9MVM3_HYPVG Copper acquisition factor BIM1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52320 PE=4 SV=1	SP	0.000169	0.999858	CS pos: 21-22. Pr: 0.9796
+tr|G9MVM4|G9MVM4_HYPVG chitinase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52335 PE=4 SV=1	SP	0.000177	0.999835	CS pos: 18-19. Pr: 0.9808
+tr|G9MVR4|G9MVR4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70603 PE=4 SV=1	SP	0.000201	0.999802	CS pos: 17-18. Pr: 0.9692
+tr|G9MVW6|G9MVW6_HYPVG Glycoside hydrolase family 95 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52642 PE=4 SV=1	SP	0.000172	0.999855	CS pos: 20-21. Pr: 0.9812
+tr|G9MVW7|G9MVW7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111979 PE=4 SV=1	SP	0.000181	0.999811	CS pos: 17-18. Pr: 0.9832
+tr|G9MVX3|G9MVX3_HYPVG Late sexual development protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70552 PE=4 SV=1	SP	0.000148	0.999863	CS pos: 22-23. Pr: 0.9705
+tr|G9MW25|G9MW25_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81482 PE=4 SV=1	SP	0.000188	0.999805	CS pos: 16-17. Pr: 0.9758
+tr|G9MW31|G9MW31_HYPVG Lytic polysaccharide monooxygenase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216235 PE=4 SV=1	SP	0.000163	0.999859	CS pos: 18-19. Pr: 0.9844
+tr|G9MW33|G9MW33_HYPVG Carbohydrate esterase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59637 PE=4 SV=1	SP	0.000202	0.999791	CS pos: 16-17. Pr: 0.3684
+tr|G9MW38|G9MW38_HYPVG Secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70311 PE=4 SV=1	SP	0.000153	0.999861	CS pos: 20-21. Pr: 0.9677
+tr|G9MW75|G9MW75_HYPVG Phytocyanin domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_131043 PE=4 SV=1	SP	0.000186	0.999811	CS pos: 19-20. Pr: 0.9829
+tr|G9MW80|G9MW80_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51902 PE=4 SV=1	SP	0.000191	0.999805	CS pos: 19-20. Pr: 0.7698
+tr|G9MW84|G9MW84_HYPVG Multicopper oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_91146 PE=3 SV=1	SP	0.000245	0.999779	CS pos: 15-16. Pr: 0.9777
+tr|G9MW88|G9MW88_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52140 PE=4 SV=1	SP	0.000171	0.999832	CS pos: 22-23. Pr: 0.9820
+tr|G9MW94|G9MW94_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_93159 PE=4 SV=1	SP	0.000199	0.999818	CS pos: 36-37. Pr: 0.3540
+tr|G9MWB0|G9MWB0_HYPVG Asl1-like glycosyl hydrolase catalytic domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230914 PE=4 SV=1	SP	0.000180	0.999829	CS pos: 20-21. Pr: 0.8279
+tr|G9MWB1|G9MWB1_HYPVG CHRD domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70385 PE=4 SV=1	SP	0.000182	0.999811	CS pos: 18-19. Pr: 0.9922
+tr|G9MWE2|G9MWE2_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_52168 PE=3 SV=1	SP	0.000170	0.999830	CS pos: 21-22. Pr: 0.7319
+tr|G9MWF3|G9MWF3_HYPVG SRP9 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230926 PE=4 SV=1	SP	0.000206	0.999798	CS pos: 19-20. Pr: 0.9824
+tr|G9MWG6|G9MWG6_HYPVG Glycoside hydrolase family 26 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70926 PE=3 SV=1	SP	0.000163	0.999840	CS pos: 23-24. Pr: 0.9600
+tr|G9MWG7|G9MWG7_HYPVG Glycoside hydrolase family 26 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70925 PE=3 SV=1	SP	0.000156	0.999835	CS pos: 19-20. Pr: 0.8191
+tr|G9MWG9|G9MWG9_HYPVG HAT C-terminal dimerisation domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_153013 PE=4 SV=1	OTHER	0.999980	0.000000	
+tr|G9MWI3|G9MWI3_HYPVG Copper acquisition factor BIM1-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51880 PE=4 SV=1	SP	0.000166	0.999839	CS pos: 19-20. Pr: 0.9825
+tr|G9MWK6|G9MWK6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230947 PE=3 SV=1	SP	0.000157	0.999848	CS pos: 19-20. Pr: 0.9867
+tr|G9MWM1|G9MWM1_HYPVG Phospholipase A2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78354 PE=4 SV=1	SP	0.000175	0.999833	CS pos: 27-28. Pr: 0.7599
+tr|G9MWM8|G9MWM8_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_153005 PE=3 SV=1	SP	0.000194	0.999807	CS pos: 21-22. Pr: 0.9807
+tr|G9MWP7|G9MWP7_HYPVG Small secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_153055 PE=4 SV=1	SP	0.000170	0.999805	CS pos: 17-18. Pr: 0.9766
+tr|G9MWQ6|G9MWQ6_HYPVG Glycoside hydrolase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51554 PE=4 SV=1	SP	0.000155	0.999861	CS pos: 20-21. Pr: 0.9816
+tr|G9MWT8|G9MWT8_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70167 PE=4 SV=1	SP	0.000147	0.999837	CS pos: 19-20. Pr: 0.8970
+tr|G9MWU4|G9MWU4_HYPVG Cell wall protein PhiA OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_83634 PE=4 SV=1	SP	0.000164	0.999846	CS pos: 18-19. Pr: 0.9931
+tr|G9MWV6|G9MWV6_HYPVG Glycoside hydrolase family 71 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_70149 PE=4 SV=1	SP	0.000181	0.999820	CS pos: 28-29. Pr: 0.3049
+tr|G9MWY2|G9MWY2_HYPVG Transcription factor domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223384 PE=4 SV=1	OTHER	0.828661	0.171326	
+tr|G9MWZ0|G9MWZ0_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_81434 PE=3 SV=1	SP	0.000159	0.999840	CS pos: 18-19. Pr: 0.9812
+tr|G9MX08|G9MX08_HYPVG Carbohydrate esterase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51211 PE=4 SV=1	SP	0.000179	0.999835	CS pos: 25-26. Pr: 0.8269
+tr|G9MX13|G9MX13_HYPVG Ankyrin repeat protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_202345 PE=4 SV=1	SP	0.004361	0.995654	CS pos: 20-21. Pr: 0.9265
+tr|G9MX22|G9MX22_HYPVG Transglycosylase SLT domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223420 PE=4 SV=1	SP	0.000178	0.999828	CS pos: 27-28. Pr: 0.9158
+tr|G9MX25|G9MX25_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_153399 PE=4 SV=1	SP	0.000165	0.999852	CS pos: 23-24. Pr: 0.9827
+tr|G9MX26|G9MX26_HYPVG Glycoside hydrolase family 39 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51209 PE=4 SV=1	SP	0.000167	0.999814	CS pos: 17-18. Pr: 0.9315
+tr|G9MX27|G9MX27_HYPVG Glycoside hydrolase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69973 PE=4 SV=1	SP	0.000163	0.999836	CS pos: 22-23. Pr: 0.9604
+tr|G9MX32|G9MX32_HYPVG Heme haloperoxidase family profile domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51248 PE=3 SV=1	SP	0.000962	0.999009	CS pos: 16-17. Pr: 0.9777
+tr|G9MX54|G9MX54_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51237 PE=4 SV=1	SP	0.000174	0.999825	CS pos: 28-29. Pr: 0.8857
+tr|G9MX58|G9MX58_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_202389 PE=4 SV=1	SP	0.000155	0.999864	CS pos: 21-22. Pr: 0.9823
+tr|G9MX63|G9MX63_HYPVG DUF7137 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209538 PE=4 SV=1	SP	0.000194	0.999783	CS pos: 23-24. Pr: 0.9709
+tr|G9MX80|G9MX80_HYPVG SGNH hydrolase-type esterase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223478 PE=4 SV=1	OTHER	0.500068	0.499963	
+tr|G9MXA1|G9MXA1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_230990 PE=4 SV=1	OTHER	0.833344	0.166676	
+tr|G9MXB1|G9MXB1_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59191 PE=4 SV=1	SP	0.000178	0.999822	CS pos: 19-20. Pr: 0.9790
+tr|G9MXB7|G9MXB7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223512 PE=4 SV=1	SP	0.000162	0.999837	CS pos: 23-24. Pr: 0.9819
+tr|G9MXC1|G9MXC1_HYPVG GPI anchored protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216297 PE=4 SV=1	SP	0.000206	0.999788	CS pos: 20-21. Pr: 0.9808
+tr|G9MXC5|G9MXC5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59198 PE=4 SV=1	SP	0.000173	0.999851	CS pos: 18-19. Pr: 0.9636
+tr|G9MXD0|G9MXD0_HYPVG Glycoside hydrolase family 95 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69649 PE=4 SV=1	SP	0.000167	0.999824	CS pos: 18-19. Pr: 0.9781
+tr|G9MXG8|G9MXG8_HYPVG SnoaL-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216302 PE=4 SV=1	SP	0.000165	0.999831	CS pos: 19-20. Pr: 0.9890
+tr|G9MXG9|G9MXG9_HYPVG Glycoside hydrolase family 64 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_50439 PE=4 SV=1	SP	0.000178	0.999826	CS pos: 23-24. Pr: 0.9322
+tr|G9MXI3|G9MXI3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223574 PE=4 SV=1	SP	0.000182	0.999837	CS pos: 25-26. Pr: 0.7031
+tr|G9MXJ4|G9MXJ4_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111884 PE=4 SV=1	SP	0.000160	0.999857	CS pos: 19-20. Pr: 0.9750
+tr|G9MXL0|G9MXL0_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_139640 PE=4 SV=1	SP	0.000168	0.999846	CS pos: 16-17. Pr: 0.9776
+tr|G9MXP2|G9MXP2_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69355 PE=3 SV=1	SP	0.000162	0.999851	CS pos: 17-18. Pr: 0.9838
+tr|G9MXR1|G9MXR1_HYPVG Periplasmic binding protein-like II OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59011 PE=4 SV=1	SP	0.000171	0.999832	CS pos: 24-25. Pr: 0.6531
+tr|G9MXR2|G9MXR2_HYPVG NACHT and ankyrin domain protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_202567 PE=4 SV=1	OTHER	0.833332	0.166642	
+tr|G9MXT4|G9MXT4_HYPVG Glycoside hydrolase family 71 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49890 PE=4 SV=1	SP	0.000189	0.999807	CS pos: 33-34. Pr: 0.8004
+tr|G9MXU9|G9MXU9_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49849 PE=3 SV=1	SP	0.000171	0.999850	CS pos: 28-29. Pr: 0.5702
+tr|G9MXW1|G9MXW1_HYPVG DUF4419 domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_15116 PE=4 SV=1	SP	0.000192	0.999788	CS pos: 21-22. Pr: 0.9112
+tr|G9MXW6|G9MXW6_HYPVG DUF7735 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209607 PE=4 SV=1	SP	0.000183	0.999836	CS pos: 17-18. Pr: 0.9704
+tr|G9MXW7|G9MXW7_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_153975 PE=4 SV=1	SP	0.308110	0.691902	CS pos: 18-19. Pr: 0.8128
+tr|G9MXX5|G9MXX5_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223705 PE=4 SV=1	SP	0.000380	0.999625	CS pos: 20-21. Pr: 0.9610
+tr|G9MXY5|G9MXY5_HYPVG Multicopper oxidase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69442 PE=3 SV=1	SP	0.000165	0.999841	CS pos: 20-21. Pr: 0.9818
+tr|G9MXZ4|G9MXZ4_HYPVG Peptidase A1 domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_15627 PE=3 SV=1	SP	0.000211	0.999751	CS pos: 16-17. Pr: 0.9823
+tr|G9MY29|G9MY29_HYPVG Expansin-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49838 PE=4 SV=1	SP	0.000214	0.999788	CS pos: 19-20. Pr: 0.9681
+tr|G9MY30|G9MY30_HYPVG Glycoside hydrolase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59074 PE=3 SV=1	SP	0.000209	0.999795	CS pos: 17-18. Pr: 0.9662
+tr|G9MY51|G9MY51_HYPVG SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49175 PE=4 SV=1	SP	0.000175	0.999837	CS pos: 18-19. Pr: 0.9843
+tr|G9MY63|G9MY63_HYPVG Glycoside hydrolase family 71 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77550 PE=4 SV=1	SP	0.000155	0.999853	CS pos: 29-30. Pr: 0.4390
+tr|G9MY69|G9MY69_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_154462 PE=4 SV=1	SP	0.000157	0.999826	CS pos: 18-19. Pr: 0.9803
+tr|G9MY78|G9MY78_HYPVG Glycoside hydrolase family 23 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48957 PE=4 SV=1	SP	0.000176	0.999823	CS pos: 28-29. Pr: 0.8653
+tr|G9MY81|G9MY81_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77560 PE=4 SV=1	SP	0.000161	0.999853	CS pos: 19-20. Pr: 0.9777
+tr|G9MYA4|G9MYA4_HYPVG Bulb-type lectin domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49120 PE=4 SV=1	SP	0.000189	0.999812	CS pos: 19-20. Pr: 0.9817
+tr|G9MYA6|G9MYA6_HYPVG Isochorismatase-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58821 PE=3 SV=1	SP	0.000202	0.999811	CS pos: 20-21. Pr: 0.9850
+tr|G9MYA7|G9MYA7_HYPVG Amidohydrolase-related domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223846 PE=4 SV=1	OTHER	0.742850	0.257151	
+tr|G9MYB3|G9MYB3_HYPVG Glycoside hydrolase family 79 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48997 PE=4 SV=1	SP	0.000160	0.999824	CS pos: 19-20. Pr: 0.9817
+tr|G9MYB5|G9MYB5_HYPVG Glycoside hydrolase family 78 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_192768 PE=4 SV=1	SP	0.000152	0.999871	CS pos: 21-22. Pr: 0.9830
+tr|G9MYB7|G9MYB7_HYPVG Glycoside hydrolase family 18 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58828 PE=4 SV=1	SP	0.000173	0.999846	CS pos: 30-31. Pr: 0.6982
+tr|G9MYE6|G9MYE6_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223885 PE=4 SV=1	SP	0.000161	0.999859	CS pos: 20-21. Pr: 0.9841
+tr|G9MYH0|G9MYH0_HYPVG Secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69117 PE=4 SV=1	SP	0.000159	0.999858	CS pos: 20-21. Pr: 0.9798
+tr|G9MYH2|G9MYH2_HYPVG CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48810 PE=3 SV=1	SP	0.000148	0.999855	CS pos: 17-18. Pr: 0.9836
+tr|G9MYH8|G9MYH8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223913 PE=4 SV=1	SP	0.000189	0.999801	CS pos: 30-31. Pr: 0.5965
+tr|G9MYI8|G9MYI8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_223924 PE=4 SV=1	SP	0.000167	0.999854	CS pos: 36-37. Pr: 0.4204
+tr|G9MYM0|G9MYM0_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_154489 PE=3 SV=1	SP	0.000142	0.999866	CS pos: 23-24. Pr: 0.9781
+tr|G9MYM3|G9MYM3_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209620 PE=4 SV=1	SP	0.000149	0.999839	CS pos: 20-21. Pr: 0.9833
+tr|G9MYN9|G9MYN9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68989 PE=4 SV=1	SP	0.000179	0.999805	CS pos: 16-17. Pr: 0.9868
+tr|G9MYP1|G9MYP1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68991 PE=4 SV=1	SP	0.000156	0.999855	CS pos: 21-22. Pr: 0.9842
+tr|G9MZ19|G9MZ19_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224066 PE=4 SV=1	SP	0.000155	0.999878	CS pos: 20-21. Pr: 0.9847
+tr|G9MZ21|G9MZ21_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68860 PE=4 SV=1	SP	0.000166	0.999859	CS pos: 20-21. Pr: 0.7294
+tr|G9MZ53|G9MZ53_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_192950 PE=4 SV=1	SP	0.000165	0.999850	CS pos: 17-18. Pr: 0.9887
+tr|G9MZ63|G9MZ63_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68821 PE=4 SV=1	SP	0.000171	0.999831	CS pos: 18-19. Pr: 0.9837
+tr|G9MZ98|G9MZ98_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224140 PE=4 SV=1	SP	0.000245	0.999780	CS pos: 24-25. Pr: 0.5955
+tr|G9MZA7|G9MZA7_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77195 PE=4 SV=1	SP	0.000176	0.999809	CS pos: 20-21. Pr: 0.9887
+tr|G9MZB1|G9MZB1_HYPVG Conidiation-specific protein 13 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224152 PE=4 SV=1	SP	0.000153	0.999874	CS pos: 24-25. Pr: 0.9832
+tr|G9MZC0|G9MZC0_HYPVG Carbohydrate esterase family 16 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58493 PE=4 SV=1	SP	0.000211	0.999808	CS pos: 16-17. Pr: 0.9885
+tr|G9MZC7|G9MZC7_HYPVG Survival protein SurE-like phosphatase/nucleotidase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_48293 PE=3 SV=1	SP	0.000258	0.999750	CS pos: 16-17. Pr: 0.8795
+tr|G9MZD8|G9MZD8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203083 PE=4 SV=1	SP	0.000182	0.999803	CS pos: 26-27. Pr: 0.5070
+tr|G9MZG3|G9MZG3_HYPVG Hydrophobin (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_19757 PE=3 SV=1	SP	0.000180	0.999810	CS pos: 30-31. Pr: 0.6180
+tr|G9MZI4|G9MZI4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68618 PE=4 SV=1	SP	0.000159	0.999866	CS pos: 24-25. Pr: 0.8125
+tr|G9MZK1|G9MZK1_HYPVG Glycoside hydrolase family 79 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_77255 PE=4 SV=1	SP	0.000174	0.999819	CS pos: 19-20. Pr: 0.9793
+tr|G9MZK6|G9MZK6_HYPVG Glycoside hydrolase family 61 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_171588 PE=4 SV=1	SP	0.000152	0.999835	CS pos: 17-18. Pr: 0.9804
+tr|G9MZL8|G9MZL8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203154 PE=4 SV=1	SP	0.000203	0.999812	CS pos: 25-26. Pr: 0.6814
+tr|G9MZP5|G9MZP5_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58578 PE=4 SV=1	SP	0.000182	0.999807	CS pos: 16-17. Pr: 0.9857
+tr|G9MZT1|G9MZT1_HYPVG FAD/NAD(P)-binding domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58598 PE=3 SV=1	SP	0.001463	0.998540	CS pos: 27-28. Pr: 0.6710
+tr|G9MZT8|G9MZT8_HYPVG Non-reducing end beta-L-arabinofuranosidase-like GH127 middle domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_209784 PE=4 SV=1	SP	0.000164	0.999855	CS pos: 20-21. Pr: 0.9813
+tr|G9MZW9|G9MZW9_HYPVG Purple acid phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58624 PE=3 SV=1	SP	0.000170	0.999819	CS pos: 20-21. Pr: 0.9822
+tr|G9N003|G9N003_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47972 PE=3 SV=1	SP	0.000164	0.999847	CS pos: 19-20. Pr: 0.9783
+tr|G9N033|G9N033_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68275 PE=4 SV=1	SP	0.000266	0.999731	CS pos: 15-16. Pr: 0.9728
+tr|G9N056|G9N056_HYPVG Glycoside hydrolase family 43 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47073 PE=3 SV=1	SP	0.000260	0.999737	CS pos: 20-21. Pr: 0.9806
+tr|G9N067|G9N067_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68245 PE=4 SV=1	SP	0.000202	0.999812	CS pos: 21-22. Pr: 0.4318
+tr|G9N068|G9N068_HYPVG SCP domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_193212 PE=4 SV=1	SP	0.000186	0.999821	CS pos: 19-20. Pr: 0.9828
+tr|G9N070|G9N070_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68242 PE=4 SV=1	SP	0.000167	0.999834	CS pos: 24-25. Pr: 0.9829
+tr|G9N077|G9N077_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203349 PE=4 SV=1	SP	0.000192	0.999834	CS pos: 26-27. Pr: 0.8088
+tr|G9N078|G9N078_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224443 PE=4 SV=1	SP	0.000151	0.999848	CS pos: 21-22. Pr: 0.9824
+tr|G9N0C9|G9N0C9_HYPVG DUF4220 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203391 PE=4 SV=1	SP	0.007026	0.993010	CS pos: 18-19. Pr: 0.9783
+tr|G9N0D0|G9N0D0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224489 PE=4 SV=1	SP	0.000189	0.999810	CS pos: 22-23. Pr: 0.9756
+tr|G9N0D3|G9N0D3_HYPVG Secreted protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46830 PE=4 SV=1	SP	0.000153	0.999841	CS pos: 18-19. Pr: 0.9797
+tr|G9N0H2|G9N0H2_HYPVG Lytic polysaccharide monooxygenase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_155830 PE=4 SV=1	SP	0.000155	0.999845	CS pos: 20-21. Pr: 0.9830
+tr|G9N0P7|G9N0P7_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_193306 PE=3 SV=1	SP	0.000167	0.999828	CS pos: 17-18. Pr: 0.9824
+tr|G9N0Q8|G9N0Q8_HYPVG Glycoside hydrolase family 105 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_156047 PE=4 SV=1	SP	0.000168	0.999838	CS pos: 22-23. Pr: 0.9818
+tr|G9N0Q9|G9N0Q9_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203489 PE=3 SV=1	SP	0.000179	0.999833	CS pos: 25-26. Pr: 0.9833
+tr|G9N0S2|G9N0S2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68086 PE=4 SV=1	SP	0.000155	0.999840	CS pos: 19-20. Pr: 0.9756
+tr|G9N0S3|G9N0S3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111693 PE=4 SV=1	SP	0.000192	0.999814	CS pos: 26-27. Pr: 0.9453
+tr|G9N0S4|G9N0S4_HYPVG Zinc/iron permease OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89677 PE=4 SV=1	SP	0.000175	0.999810	CS pos: 39-40. Pr: 0.6023
+tr|G9N0T2|G9N0T2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203505 PE=4 SV=1	SP	0.000192	0.999798	CS pos: 24-25. Pr: 0.9718
+tr|G9N0T5|G9N0T5_HYPVG Glycoside hydrolase family 12 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224618 PE=3 SV=1	SP	0.000167	0.999831	CS pos: 16-17. Pr: 0.9788
+tr|G9N0U0|G9N0U0_HYPVG Carbohydrate-binding module family 1 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46583 PE=4 SV=1	SP	0.000180	0.999805	CS pos: 19-20. Pr: 0.9772
+tr|G9N0U7|G9N0U7_HYPVG 3-carboxymuconate cyclase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46209 PE=4 SV=1	SP	0.000158	0.999855	CS pos: 20-21. Pr: 0.9835
+tr|G9N0U8|G9N0U8_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46692 PE=4 SV=1	SP	0.000174	0.999850	CS pos: 35-36. Pr: 0.4311
+tr|G9N0V0|G9N0V0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_181575 PE=4 SV=1	SP	0.000165	0.999838	CS pos: 18-19. Pr: 0.9842
+tr|G9N0V1|G9N0V1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46594 PE=3 SV=1	SP	0.000161	0.999840	CS pos: 22-23. Pr: 0.6653
+tr|G9N106|G9N106_HYPVG Glycoside hydrolase family 95 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67860 PE=4 SV=1	SP	0.000179	0.999817	CS pos: 18-19. Pr: 0.9673
+tr|G9N129|G9N129_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_92793 PE=4 SV=1	SP	0.000159	0.999844	CS pos: 17-18. Pr: 0.9799
+tr|G9N157|G9N157_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203612 PE=4 SV=1	SP	0.000158	0.999854	CS pos: 19-20. Pr: 0.9683
+tr|G9N171|G9N171_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=BGN1 PE=4 SV=1	SP	0.000184	0.999817	CS pos: 32-33. Pr: 0.6204
+tr|G9N178|G9N178_HYPVG SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216513 PE=4 SV=1	SP	0.000195	0.999805	CS pos: 19-20. Pr: 0.9826
+tr|G9N188|G9N188_HYPVG Nucleoside phosphorylase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_46543 PE=4 SV=1	SP	0.336934	0.663061	CS pos: 31-32. Pr: 0.5939
+tr|G9N1B1|G9N1B1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224768 PE=4 SV=1	SP	0.000203	0.999800	CS pos: 17-18. Pr: 0.9498
+tr|G9N1E4|G9N1E4_HYPVG ShKT domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203680 PE=4 SV=1	SP	0.000183	0.999828	CS pos: 26-27. Pr: 0.7181
+tr|G9N1G2|G9N1G2_HYPVG REJ domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224814 PE=4 SV=1	SP	0.000343	0.999661	CS pos: 20-21. Pr: 0.9788
+tr|G9N1K1|G9N1K1_HYPVG Polysaccharide lyase family 7 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_231370 PE=4 SV=1	SP	0.000174	0.999853	CS pos: 18-19. Pr: 0.9533
+tr|G9N1K4|G9N1K4_HYPVG Glycoside hydrolase family 78 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68030 PE=4 SV=1	SP	0.000164	0.999837	CS pos: 24-25. Pr: 0.9758
+tr|G9N1K7|G9N1K7_HYPVG Heme haloperoxidase family profile domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58307 PE=3 SV=1	SP	0.000761	0.999240	CS pos: 18-19. Pr: 0.9775
+tr|G9N1L1|G9N1L1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_203741 PE=4 SV=1	SP	0.000242	0.999744	CS pos: 25-26. Pr: 0.7058
+tr|G9N1M6|G9N1M6_HYPVG Cytochrome b561 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76989 PE=4 SV=1	SP	0.208094	0.791896	CS pos: 25-26. Pr: 0.9761
+tr|G9N1M7|G9N1M7_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224873 PE=4 SV=1	SP	0.000161	0.999842	CS pos: 18-19. Pr: 0.9890
+tr|G9N1P8|G9N1P8_HYPVG Major facilitator superfamily (MFS) profile domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_89661 PE=4 SV=1	OTHER	1.000000	0.000000	
+tr|G9N1T7|G9N1T7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_224926 PE=4 SV=1	SP	0.000179	0.999811	CS pos: 21-22. Pr: 0.9751
+tr|G9N1Z2|G9N1Z2_HYPVG Tc1-like transposase DDE domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_193599 PE=4 SV=1	OTHER	0.501314	0.498676	
+tr|G9N216|G9N216_HYPVG BZIP domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216568 PE=4 SV=1	OTHER	0.666018	0.333980	
+tr|G9N217|G9N217_HYPVG Glycoside hydrolase family 76 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_50852 PE=4 SV=1	SP	0.411927	0.588098	CS pos: 12-13. Pr: 0.5489
+tr|G9N230|G9N230_HYPVG DUF4185 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_172134 PE=4 SV=1	SP	0.000151	0.999846	CS pos: 19-20. Pr: 0.9863
+tr|G9N241|G9N241_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_225030 PE=4 SV=1	SP	0.000161	0.999834	CS pos: 22-23. Pr: 0.9780
+tr|G9N269|G9N269_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_225056 PE=4 SV=1	SP	0.000199	0.999806	CS pos: 17-18. Pr: 0.8290
+tr|G9N2D9|G9N2D9_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69249 PE=4 SV=1	SP	0.000172	0.999827	CS pos: 20-21. Pr: 0.9854
+tr|G9N2E0|G9N2E0_HYPVG LysM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_156766 PE=3 SV=1	SP	0.000176	0.999804	CS pos: 21-22. Pr: 0.9792
+tr|G9N2E1|G9N2E1_HYPVG DUF7136 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69251 PE=4 SV=1	SP	0.000861	0.999117	CS pos: 23-24. Pr: 0.9839
+tr|G9N2E9|G9N2E9_HYPVG Cyanovirin-N domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58944 PE=4 SV=1	SP	0.000179	0.999805	CS pos: 23-24. Pr: 0.9816
+tr|G9N2F0|G9N2F0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216595 PE=4 SV=1	SP	0.000183	0.999814	CS pos: 25-26. Pr: 0.7866
+tr|G9N2G4|G9N2G4_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69271 PE=3 SV=1	SP	0.000194	0.999809	CS pos: 17-18. Pr: 0.9760
+tr|G9N2K1|G9N2K1_HYPVG 1-alkyl-2-acetylglycerophosphocholine esterase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69306 PE=4 SV=1	SP	0.000177	0.999798	CS pos: 16-17. Pr: 0.9829
+tr|G9N2K5|G9N2K5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_49552 PE=4 SV=1	SP	0.000177	0.999832	CS pos: 28-29. Pr: 0.7800
+tr|G9N2L7|G9N2L7_HYPVG Carbohydrate-binding module family 18 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69322 PE=4 SV=1	SP	0.000172	0.999846	CS pos: 19-20. Pr: 0.9875
+tr|G9N2N4|G9N2N4_HYPVG Trichothecene biosynthesis protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_69336 PE=4 SV=1	SP	0.000170	0.999818	CS pos: 20-21. Pr: 0.9848
+tr|G9N2R0|G9N2R0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66994 PE=4 SV=1	SP	0.000153	0.999829	CS pos: 18-19. Pr: 0.9846
+tr|G9N2S7|G9N2S7_HYPVG Glycoside hydrolase family 55 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_112102 PE=4 SV=1	SP	0.000168	0.999827	CS pos: 25-26. Pr: 0.9784
+tr|G9N2W0|G9N2W0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_231628 PE=4 SV=1	SP	0.000154	0.999858	CS pos: 16-17. Pr: 0.9760
+tr|G9N374|G9N374_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_204174 PE=4 SV=1	SP	0.000174	0.999806	CS pos: 17-18. Pr: 0.9886
+tr|G9N380|G9N380_HYPVG Calcineurin-like phosphoesterase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_193863 PE=4 SV=1	SP	0.000172	0.999816	CS pos: 13-14. Pr: 0.9806
+tr|G9N3H5|G9N3H5_HYPVG Peptidase A1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_88928 PE=3 SV=1	SP	0.000170	0.999810	CS pos: 21-22. Pr: 0.9852
+tr|G9N3J5|G9N3J5_HYPVG FAS1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_172511 PE=4 SV=1	SP	0.000281	0.999720	CS pos: 19-20. Pr: 0.9857
+tr|G9N3L8|G9N3L8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66928 PE=4 SV=1	SP	0.000245	0.999761	CS pos: 17-18. Pr: 0.9720
+tr|G9N3P8|G9N3P8_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_172564 PE=4 SV=1	SP	0.000245	0.999740	CS pos: 23-24. Pr: 0.8538
+tr|G9N3T9|G9N3T9_HYPVG Phytocyanin domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68301 PE=4 SV=1	SP	0.000174	0.999826	CS pos: 17-18. Pr: 0.9835
+tr|G9N3U1|G9N3U1_HYPVG Glycoside hydrolase family 45 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58412 PE=4 SV=1	SP	0.000168	0.999823	CS pos: 17-18. Pr: 0.9738
+tr|G9N3Y9|G9N3Y9_HYPVG Carbohydrate esterase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47222 PE=4 SV=1	SP	0.000180	0.999840	CS pos: 28-29. Pr: 0.9176
+tr|G9N403|G9N403_HYPVG Glycoside hydrolase family 64 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68354 PE=4 SV=1	SP	0.000153	0.999849	CS pos: 20-21. Pr: 0.9812
+tr|G9N456|G9N456_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_58448 PE=3 SV=1	SP	0.000157	0.999830	CS pos: 17-18. Pr: 0.9807
+tr|G9N464|G9N464_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68414 PE=4 SV=1	SP	0.000152	0.999856	CS pos: 16-17. Pr: 0.9823
+tr|G9N465|G9N465_HYPVG Aspergillopepsin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47334 PE=4 SV=1	SP	0.000188	0.999805	CS pos: 30-31. Pr: 0.3543
+tr|G9N473|G9N473_HYPVG Heterokaryon incompatibility domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_182477 PE=4 SV=1	SP	0.000147	0.999858	CS pos: 15-16. Pr: 0.9417
+tr|G9N487|G9N487_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68434 PE=4 SV=1	SP	0.000162	0.999840	CS pos: 19-20. Pr: 0.9775
+tr|G9N494|G9N494_HYPVG Expansin-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_47273 PE=4 SV=1	SP	0.000239	0.999771	CS pos: 30-31. Pr: 0.6019
+tr|G9N4E0|G9N4E0_HYPVG Cytochrome b561 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_68481 PE=4 SV=1	OTHER	0.541165	0.458830	
+tr|G9N4G0|G9N4G0_HYPVG 3-carboxymuconate cyclase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_204625 PE=3 SV=1	SP	0.000185	0.999803	CS pos: 19-20. Pr: 0.9907
+tr|G9N4H9|G9N4H9_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_204642 PE=4 SV=1	SP	0.000460	0.999544	CS pos: 17-18. Pr: 0.9000
+tr|G9N4J9|G9N4J9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_225829 PE=4 SV=1	SP	0.000171	0.999819	CS pos: 23-24. Pr: 0.8822
+tr|G9N4K5|G9N4K5_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_225834 PE=3 SV=1	SP	0.000176	0.999839	CS pos: 18-19. Pr: 0.9833
+tr|G9N4L7|G9N4L7_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_159051 PE=3 SV=1	SP	0.000180	0.999858	CS pos: 29-30. Pr: 0.8733
+tr|G9N4N7|G9N4N7_HYPVG SsuA/THI5-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59385 PE=3 SV=1	SP	0.000189	0.999809	CS pos: 17-18. Pr: 0.9840
+tr|G9N4R6|G9N4R6_HYPVG Carbohydrate-binding module family 18 protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_15704 PE=4 SV=1	SP	0.000173	0.999820	CS pos: 16-17. Pr: 0.9812
+tr|G9N4T6|G9N4T6_HYPVG FAD-binding PCMH-type domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_182568 PE=3 SV=1	SP	0.000150	0.999862	CS pos: 19-20. Pr: 0.9834
+tr|G9N4X6|G9N4X6_HYPVG Glycoside hydrolase family 45 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_59335 PE=4 SV=1	SP	0.000171	0.999842	CS pos: 17-18. Pr: 0.9811
+tr|G9N4X7|G9N4X7_HYPVG Glycoside hydrolase family 79 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_112103 PE=4 SV=1	SP	0.000200	0.999787	CS pos: 18-19. Pr: 0.9747
+tr|G9N4Y3|G9N4Y3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_44495 PE=4 SV=1	OTHER	1.000000	0.000000	
+tr|G9N4Y9|G9N4Y9_HYPVG Glycoside hydrolase family 23 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_210232 PE=4 SV=1	SP	0.000270	0.999754	CS pos: 42-43. Pr: 0.2925
+tr|G9N504|G9N504_HYPVG Expansin-like protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=MRSP1 PE=4 SV=1	SP	0.000180	0.999829	CS pos: 34-35. Pr: 0.5028
+tr|G9N531|G9N531_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_45064 PE=4 SV=1	SP	0.000179	0.999847	CS pos: 27-28. Pr: 0.8457
+tr|G9N553|G9N553_HYPVG Cell wall protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_135160 PE=4 SV=1	SP	0.000184	0.999842	CS pos: 30-31. Pr: 0.8732
+tr|G9N561|G9N561_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_44633 PE=3 SV=1	SP	0.000202	0.999789	CS pos: 20-21. Pr: 0.9953
+tr|G9N593|G9N593_HYPVG Berberine/berberine-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_204880 PE=4 SV=1	SP	0.000180	0.999802	CS pos: 22-23. Pr: 0.9784
+tr|G9N5F5|G9N5F5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111593 PE=4 SV=1	SP	0.000295	0.999735	CS pos: 19-20. Pr: 0.9832
+tr|G9N5F7|G9N5F7_HYPVG Protein-arginine deiminase C-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_194477 PE=4 SV=1	SP	0.000186	0.999827	CS pos: 25-26. Pr: 0.5472
+tr|G9N5H1|G9N5H1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_45019 PE=4 SV=1	SP	0.000160	0.999854	CS pos: 18-19. Pr: 0.9831
+tr|G9N5J3|G9N5J3_HYPVG Glycoside hydrolase family 92 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67250 PE=4 SV=1	SP	0.013401	0.986604	CS pos: 18-19. Pr: 0.9751
+tr|G9N5J5|G9N5J5_HYPVG Amidohydrolase-related domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_15210 PE=4 SV=1	SP	0.000197	0.999803	CS pos: 19-20. Pr: 0.9675
+tr|G9N5L7|G9N5L7_HYPVG CBM-cenC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_204989 PE=4 SV=1	SP	0.000229	0.999768	CS pos: 26-27. Pr: 0.9277
+tr|G9N5M6|G9N5M6_HYPVG Heme haloperoxidase family profile domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67284 PE=3 SV=1	SP	0.000650	0.999331	CS pos: 16-17. Pr: 0.9812
+tr|G9N5M7|G9N5M7_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_44656 PE=4 SV=1	SP	0.000164	0.999831	CS pos: 22-23. Pr: 0.6085
+tr|G9N5N1|G9N5N1_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_45226 PE=4 SV=1	SP	0.000161	0.999847	CS pos: 20-21. Pr: 0.9828
+tr|G9N5V3|G9N5V3_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_57903 PE=3 SV=1	SP	0.000180	0.999828	CS pos: 26-27. Pr: 0.6070
+tr|G9N5V8|G9N5V8_HYPVG Clock-controlled pheromone ccg-4 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67354 PE=4 SV=1	SP	0.000159	0.999848	CS pos: 18-19. Pr: 0.5408
+tr|G9N5W5|G9N5W5_HYPVG Peptidase M20 dimerisation domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67361 PE=3 SV=1	SP	0.000182	0.999830	CS pos: 20-21. Pr: 0.9821
+tr|G9N5Z9|G9N5Z9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67389 PE=4 SV=1	SP	0.000145	0.999863	CS pos: 21-22. Pr: 0.9653
+tr|G9N609|G9N609_HYPVG Tyrosinase copper-binding domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76576 PE=4 SV=1	SP	0.000170	0.999806	CS pos: 18-19. Pr: 0.9817
+tr|G9N624|G9N624_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_44501 PE=4 SV=1	SP	0.000182	0.999809	CS pos: 20-21. Pr: 0.5153
+tr|G9N651|G9N651_HYPVG Endonuclease/exonuclease/phosphatase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_76620 PE=4 SV=1	SP	0.000157	0.999854	CS pos: 18-19. Pr: 0.9794
+tr|G9N655|G9N655_HYPVG Alpha/beta hydrolase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67441 PE=4 SV=1	SP	0.000153	0.999888	CS pos: 16-17. Pr: 0.9801
+tr|G9N661|G9N661_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_67053 PE=4 SV=1	SP	0.000158	0.999850	CS pos: 20-21. Pr: 0.9878
+tr|G9N686|G9N686_HYPVG Secreted protein NIS1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205388 PE=4 SV=1	SP	0.000236	0.999789	CS pos: 17-18. Pr: 0.9820
+tr|G9N687|G9N687_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205389 PE=4 SV=1	SP	0.145761	0.854255	CS pos: 16-17. Pr: 0.9683
+tr|G9N691|G9N691_HYPVG Amidase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_160041 PE=4 SV=1	SP	0.000168	0.999849	CS pos: 22-23. Pr: 0.9863
+tr|G9N6D0|G9N6D0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66594 PE=4 SV=1	SP	0.000175	0.999810	CS pos: 17-18. Pr: 0.9649
+tr|G9N6D4|G9N6D4_HYPVG Lysine-specific metallo-endopeptidase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_226640 PE=4 SV=1	SP	0.000155	0.999864	CS pos: 21-22. Pr: 0.9842
+tr|G9N6E7|G9N6E7_HYPVG Magnesium transporter OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_92612 PE=3 SV=1	OTHER	1.000000	0.000000	
+tr|G9N6F2|G9N6F2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205447 PE=4 SV=1	SP	0.000156	0.999859	CS pos: 21-22. Pr: 0.9808
+tr|G9N6K3|G9N6K3_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42937 PE=4 SV=1	SP	0.000178	0.999831	CS pos: 18-19. Pr: 0.9872
+tr|G9N6Q4|G9N6Q4_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66326 PE=4 SV=1	SP	0.000162	0.999840	CS pos: 19-20. Pr: 0.9823
+tr|G9N6Q5|G9N6Q5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205164 PE=4 SV=1	SP	0.000180	0.999804	CS pos: 18-19. Pr: 0.9832
+tr|G9N6T9|G9N6T9_HYPVG Extracellular membrane protein CFEM domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216779 PE=4 SV=1	SP	0.000180	0.999805	CS pos: 16-17. Pr: 0.9769
+tr|G9N6U2|G9N6U2_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66361 PE=4 SV=1	SP	0.000162	0.999830	CS pos: 19-20. Pr: 0.9720
+tr|G9N6V0|G9N6V0_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_43201 PE=4 SV=1	SP	0.000151	0.999871	CS pos: 19-20. Pr: 0.9834
+tr|G9N6Y5|G9N6Y5_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_231844 PE=4 SV=1	SP	0.000186	0.999811	CS pos: 22-23. Pr: 0.7523
+tr|G9N6Z1|G9N6Z1_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66408 PE=4 SV=1	SP	0.000165	0.999820	CS pos: 19-20. Pr: 0.9838
+tr|G9N784|G9N784_HYPVG Uncharacterized protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_14128 PE=4 SV=1	SP	0.209925	0.790071	CS pos: 25-26. Pr: 0.9412
+tr|G9N7A2|G9N7A2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66518 PE=4 SV=1	SP	0.000153	0.999844	CS pos: 23-24. Pr: 0.9841
+tr|G9N7I3|G9N7I3_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_80446 PE=4 SV=1	SP	0.000179	0.999815	CS pos: 22-23. Pr: 0.9797
+tr|G9N7L5|G9N7L5_HYPVG DOMON domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_161834 PE=4 SV=1	SP	0.000185	0.999816	CS pos: 14-15. Pr: 0.9739
+tr|G9N7L7|G9N7L7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_214232 PE=4 SV=1	SP	0.000171	0.999820	CS pos: 21-22. Pr: 0.9852
+tr|G9N7T0|G9N7T0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42239 PE=4 SV=1	SP	0.000168	0.999815	CS pos: 19-20. Pr: 0.9740
+tr|G9N7U3|G9N7U3_HYPVG Ecp2 effector protein domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66016 PE=4 SV=1	SP	0.000181	0.999843	CS pos: 34-35. Pr: 0.3976
+tr|G9N802|G9N802_HYPVG Cerato-platanin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41674 PE=3 SV=1	SP	0.000256	0.999770	CS pos: 25-26. Pr: 0.6696
+tr|G9N827|G9N827_HYPVG GPI anchored serine-rich protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216911 PE=4 SV=1	SP	0.000324	0.999652	CS pos: 17-18. Pr: 0.9761
+tr|G9N842|G9N842_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66108 PE=4 SV=1	SP	0.000175	0.999822	CS pos: 16-17. Pr: 0.9616
+tr|G9N845|G9N845_HYPVG Mid2 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205766 PE=4 SV=1	SP	0.000205	0.999797	CS pos: 17-18. Pr: 0.9849
+tr|G9N860|G9N860_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66126 PE=4 SV=1	OTHER	0.667171	0.332815	
+tr|G9N891|G9N891_HYPVG Glycosyltransferase family 17 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_183497 PE=4 SV=1	SP	0.000174	0.999817	CS pos: 27-28. Pr: 0.9231
+tr|G9N8A1|G9N8A1_HYPVG Glycoside hydrolase family 12 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_42536 PE=3 SV=1	SP	0.000157	0.999820	CS pos: 16-17. Pr: 0.9804
+tr|G9N8B6|G9N8B6_HYPVG M6 metalloprotease OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_183528 PE=4 SV=1	SP	0.000182	0.999797	CS pos: 21-22. Pr: 0.9752
+tr|G9N8H3|G9N8H3_HYPVG Peptidase M61 catalytic domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205880 PE=4 SV=1	SP	0.015731	0.984296	CS pos: 27-28. Pr: 0.7415
+tr|G9N8I0|G9N8I0_HYPVG Calcineurin-like phosphoesterase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41959 PE=4 SV=1	SP	0.000184	0.999793	CS pos: 18-19. Pr: 0.9847
+tr|G9N8I1|G9N8I1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_57235 PE=4 SV=1	SP	0.000374	0.999621	CS pos: 21-22. Pr: 0.9554
+tr|G9N8J1|G9N8J1_HYPVG Polysaccharide lyase family 7 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_41602 PE=4 SV=1	SP	0.000174	0.999812	CS pos: 20-21. Pr: 0.9626
+tr|G9N8J3|G9N8J3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_82898 PE=4 SV=1	SP	0.000212	0.999777	CS pos: 17-18. Pr: 0.8304
+tr|G9N8K9|G9N8K9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_57251 PE=4 SV=1	SP	0.000178	0.999810	CS pos: 19-20. Pr: 0.9745
+tr|G9N8N8|G9N8N8_HYPVG FAD-binding PCMH-type domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_227182 PE=3 SV=1	SP	0.000150	0.999855	CS pos: 19-20. Pr: 0.9890
+tr|G9N8R0|G9N8R0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_66299 PE=4 SV=1	SP	0.000185	0.999782	CS pos: 21-22. Pr: 0.4943
+tr|G9N8R8|G9N8R8_HYPVG BZIP domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_205963 PE=4 SV=1	SP	0.165105	0.834888	CS pos: 19-20. Pr: 0.8039
+tr|G9N911|G9N911_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111399 PE=4 SV=1	SP	0.000221	0.999780	CS pos: 21-22. Pr: 0.9453
+tr|G9N929|G9N929_HYPVG SGNH hydrolase-type esterase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_40892 PE=4 SV=1	OTHER	0.762982	0.237064	
+tr|G9N930|G9N930_HYPVG Glycoside hydrolase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65776 PE=4 SV=1	SP	0.000143	0.999873	CS pos: 24-25. Pr: 0.9843
+tr|G9N938|G9N938_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65771 PE=4 SV=1	SP	0.000198	0.999785	CS pos: 23-24. Pr: 0.9554
+tr|G9N939|G9N939_HYPVG DM13 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_227326 PE=4 SV=1	SP	0.000202	0.999790	CS pos: 23-24. Pr: 0.9823
+tr|G9N973|G9N973_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_216987 PE=4 SV=1	SP	0.000160	0.999847	CS pos: 25-26. Pr: 0.8288
+tr|G9N988|G9N988_HYPVG Carboxylic ester hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_227371 PE=3 SV=1	SP	0.000223	0.999790	CS pos: 19-20. Pr: 0.9762
+tr|G9N990|G9N990_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111387 PE=4 SV=1	SP	0.000157	0.999848	CS pos: 20-21. Pr: 0.9829
+tr|G9N9J0|G9N9J0_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_92434 PE=4 SV=1	SP	0.000163	0.999841	CS pos: 18-19. Pr: 0.9928
+tr|G9N9N2|G9N9N2_HYPVG Glycoside hydrolase family 89 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65594 PE=4 SV=1	SP	0.000174	0.999815	CS pos: 19-20. Pr: 0.9046
+tr|G9N9N3|G9N9N3_HYPVG Mid2 domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_12229 PE=4 SV=1	SP	0.000151	0.999840	CS pos: 21-22. Pr: 0.9836
+tr|G9N9P3|G9N9P3_HYPVG WSC domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_1900 PE=4 SV=1	SP	0.000179	0.999828	CS pos: 20-21. Pr: 0.9822
+tr|G9N9X4|G9N9X4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_217058 PE=4 SV=1	SP	0.000181	0.999844	CS pos: 26-27. Pr: 0.9708
+tr|G9NA00|G9NA00_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_206354 PE=4 SV=1	SP	0.000175	0.999836	CS pos: 34-35. Pr: 0.9737
+tr|G9NA11|G9NA11_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_56831 PE=4 SV=1	SP	0.000157	0.999856	CS pos: 21-22. Pr: 0.9799
+tr|G9NA45|G9NA45_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_217078 PE=4 SV=1	SP	0.000166	0.999860	CS pos: 16-17. Pr: 0.9787
+tr|G9NA50|G9NA50_HYPVG Hydrophobin (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_121648 PE=4 SV=1	SP	0.000182	0.999812	CS pos: 33-34. Pr: 0.3834
+tr|G9NA51|G9NA51_HYPVG Hydrophobin OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_214571 PE=4 SV=1	SP	0.000158	0.999826	CS pos: 19-20. Pr: 0.9686
+tr|G9NA60|G9NA60_HYPVG Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_119946 PE=4 SV=1	SP	0.000233	0.999790	CS pos: 19-20. Pr: 0.9800
+tr|G9NA68|G9NA68_HYPVG Histidine acid phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_80254 PE=3 SV=1	SP	0.000196	0.999789	CS pos: 20-21. Pr: 0.9828
+tr|G9NA84|G9NA84_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_80249 PE=4 SV=1	SP	0.000200	0.999818	CS pos: 20-21. Pr: 0.9787
+tr|G9NAA9|G9NAA9_HYPVG Acid phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87714 PE=4 SV=1	SP	0.000199	0.999788	CS pos: 17-18. Pr: 0.9779
+tr|G9NAG3|G9NAG3_HYPVG Glycoside hydrolase family 125 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65338 PE=4 SV=1	SP	0.000152	0.999842	CS pos: 21-22. Pr: 0.9818
+tr|G9NAL8|G9NAL8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87633 PE=4 SV=1	SP	0.000177	0.999820	CS pos: 20-21. Pr: 0.9883
+tr|G9NAM2|G9NAM2_HYPVG Protein rds1 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39594 PE=4 SV=1	SP	0.000212	0.999803	CS pos: 21-22. Pr: 0.9898
+tr|G9NAM3|G9NAM3_HYPVG Peptidase M20 dimerisation domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65282 PE=4 SV=1	SP	0.000233	0.999782	CS pos: 17-18. Pr: 0.9631
+tr|G9NAN3|G9NAN3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65274 PE=4 SV=1	OTHER	0.999995	0.000000	
+tr|G9NAT4|G9NAT4_HYPVG EF-hand domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39603 PE=4 SV=1	SP	0.000243	0.999757	CS pos: 16-17. Pr: 0.9791
+tr|G9NAU0|G9NAU0_HYPVG Killer toxin Kp4 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_227886 PE=4 SV=1	SP	0.000169	0.999843	CS pos: 19-20. Pr: 0.9732
+tr|G9NAX2|G9NAX2_HYPVG ER membrane protein complex subunit 10 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39503 PE=4 SV=1	SP	0.000151	0.999845	CS pos: 18-19. Pr: 0.9844
+tr|G9NAZ1|G9NAZ1_HYPVG ER membrane protein complex subunit 7 beta-sandwich domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39909 PE=4 SV=1	SP	0.000201	0.999794	CS pos: 17-18. Pr: 0.9263
+tr|G9NB57|G9NB57_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65112 PE=4 SV=1	SP	0.000186	0.999820	CS pos: 25-26. Pr: 0.7908
+tr|G9NB86|G9NB86_HYPVG PBP domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65086 PE=4 SV=1	SP	0.000149	0.999871	CS pos: 21-22. Pr: 0.9823
+tr|G9NBD1|G9NBD1_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_228067 PE=4 SV=1	SP	0.000160	0.999845	CS pos: 20-21. Pr: 0.9808
+tr|G9NBD3|G9NBD3_HYPVG Carbohydrate esterase family 5 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39549 PE=4 SV=1	SP	0.000156	0.999824	CS pos: 20-21. Pr: 0.9829
+tr|G9NBD4|G9NBD4_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65042 PE=4 SV=1	SP	0.000157	0.999842	CS pos: 24-25. Pr: 0.9835
+tr|G9NBD9|G9NBD9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_184567 PE=4 SV=1	SP	0.000261	0.999731	CS pos: 15-16. Pr: 0.9761
+tr|G9NBF0|G9NBF0_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_65028 PE=4 SV=1	SP	0.000187	0.999811	CS pos: 22-23. Pr: 0.5369
+tr|G9NBI5|G9NBI5_HYPVG Metallo-beta-lactamase domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_163307 PE=4 SV=1	SP	0.000206	0.999776	CS pos: 20-21. Pr: 0.9785
+tr|G9NBI7|G9NBI7_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_163272 PE=4 SV=1	SP	0.000169	0.999823	CS pos: 23-24. Pr: 0.9754
+tr|G9NBM6|G9NBM6_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_111274 PE=4 SV=1	SP	0.000175	0.999802	CS pos: 18-19. Pr: 0.9375
+tr|G9NBM8|G9NBM8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_206874 PE=4 SV=1	SP	0.000216	0.999766	CS pos: 17-18. Pr: 0.9769
+tr|G9NBN2|G9NBN2_HYPVG Glycoside hydrolase family 125 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_184596 PE=4 SV=1	SP	0.000214	0.999770	CS pos: 23-24. Pr: 0.9686
+tr|G9NBS0|G9NBS0_HYPVG DUF1579 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_210995 PE=4 SV=1	SP	0.000158	0.999831	CS pos: 25-26. Pr: 0.9809
+tr|G9NBS5|G9NBS5_HYPVG AttH domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_228199 PE=4 SV=1	SP	0.000177	0.999817	CS pos: 23-24. Pr: 0.9692
+tr|G9NBS9|G9NBS9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_40262 PE=4 SV=1	SP	0.000163	0.999854	CS pos: 18-19. Pr: 0.9812
+tr|G9NBU2|G9NBU2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64898 PE=4 SV=1	SP	0.000184	0.999797	CS pos: 28-29. Pr: 0.7531
+tr|G9NBW0|G9NBW0_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64881 PE=4 SV=1	SP	0.000225	0.999779	CS pos: 25-26. Pr: 0.4807
+tr|G9NBY2|G9NBY2_HYPVG Ig-like domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_164142 PE=4 SV=1	SP	0.000212	0.999778	CS pos: 34-35. Pr: 0.5557
+tr|G9NC21|G9NC21_HYPVG Heme haloperoxidase family profile domain-containing protein (Fragment) OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_25639 PE=4 SV=1	SP	0.000162	0.999844	CS pos: 17-18. Pr: 0.9819
+tr|G9NC37|G9NC37_HYPVG Acid phosphatase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_228301 PE=4 SV=1	SP	0.000170	0.999820	CS pos: 24-25. Pr: 0.7924
+tr|G9NC45|G9NC45_HYPVG Biotrophy-associated secreted protein 2 OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_174923 PE=4 SV=1	SP	0.000165	0.999813	CS pos: 18-19. Pr: 0.9652
+tr|G9NC59|G9NC59_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_38080 PE=4 SV=1	SP	0.000158	0.999853	CS pos: 23-24. Pr: 0.9750
+tr|G9NC71|G9NC71_HYPVG Apple domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_207043 PE=4 SV=1	SP	0.000174	0.999840	CS pos: 19-20. Pr: 0.9691
+tr|G9NC83|G9NC83_HYPVG Arylsulfotransferase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39090 PE=4 SV=1	SP	0.000208	0.999779	CS pos: 20-21. Pr: 0.9806
+tr|G9NC93|G9NC93_HYPVG AB hydrolase-1 domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_38049 PE=4 SV=1	SP	0.000159	0.999817	CS pos: 16-17. Pr: 0.9835
+tr|G9NC95|G9NC95_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64765 PE=4 SV=1	SP	0.165491	0.834533	CS pos: 22-23. Pr: 0.8179
+tr|G9NCB3|G9NCB3_HYPVG SSCRP protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_87351 PE=4 SV=1	SP	0.000189	0.999817	CS pos: 19-20. Pr: 0.9556
+tr|G9NCB7|G9NCB7_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64744 PE=4 SV=1	OTHER	0.999996	0.000000	
+tr|G9NCC4|G9NCC4_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64737 PE=4 SV=1	SP	0.000158	0.999842	CS pos: 17-18. Pr: 0.9806
+tr|G9NCC8|G9NCC8_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64733 PE=4 SV=1	SP	0.000162	0.999839	CS pos: 19-20. Pr: 0.9805
+tr|G9NCD8|G9NCD8_HYPVG Glycoside hydrolase family 55 protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_37929 PE=4 SV=1	SP	0.000169	0.999826	CS pos: 24-25. Pr: 0.9892
+tr|G9NCL2|G9NCL2_HYPVG MAPEG family protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_74594 PE=4 SV=1	OTHER	0.564272	0.435718	
+tr|G9NCL3|G9NCL3_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_64656 PE=4 SV=1	SP	0.000193	0.999793	CS pos: 19-20. Pr: 0.9871
+tr|G9NCQ6|G9NCQ6_HYPVG GPI anchored protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_232617 PE=4 SV=1	SP	0.000208	0.999807	CS pos: 18-19. Pr: 0.9786
+tr|G9NCU0|G9NCU0_HYPVG Peptidyl-tRNA hydrolase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_39108 PE=4 SV=1	SP	0.000168	0.999821	CS pos: 18-19. Pr: 0.9799
+tr|G9NCU2|G9NCU2_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_232635 PE=4 SV=1	SP	0.000208	0.999820	CS pos: 18-19. Pr: 0.9897
+tr|G9ND29|G9ND29_HYPVG GPI anchored serine-rich protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_232673 PE=4 SV=1	SP	0.000283	0.999744	CS pos: 16-17. Pr: 0.9751
+tr|G9NDF2|G9NDF2_HYPVG WSC domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_74348 PE=4 SV=1	SP	0.000192	0.999827	CS pos: 28-29. Pr: 0.7042
+tr|G9NDF9|G9NDF9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_228753 PE=4 SV=1	SP	0.000164	0.999834	CS pos: 16-17. Pr: 0.9772
+tr|G9NDI2|G9NDI2_HYPVG Cellular morphogenesis protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_37858 PE=4 SV=1	SP	0.000320	0.999680	CS pos: 34-35. Pr: 0.9656
+tr|G9NDQ9|G9NDQ9_HYPVG Uncharacterized protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_51487 PE=4 SV=1	SP	0.000216	0.999784	CS pos: 11-12. Pr: 0.8218
+tr|G9NDS7|G9NDS7_HYPVG Malate dehydrogenase OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_78296 PE=4 SV=1	SP	0.000162	0.999835	CS pos: 18-19. Pr: 0.9937

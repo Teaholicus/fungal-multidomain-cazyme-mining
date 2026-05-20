@@ -1,0 +1,661 @@
+## gff-version 3
+tr|S7Z4H1|S7Z4H1_PENO1 alpha-1,2-Mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00333 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996902	.	.	.
+tr|S7Z716|S7Z716_PENO1 AA9 family lytic polysaccharide monooxygenase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01261 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9996976	.	.	.
+tr|S7ZAE7|S7ZAE7_PENO1 Glutathione hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00595 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997725	.	.	.
+tr|S7ZAT5|S7ZAT5_PENO1 DSC E3 ubiquitin ligase complex subunit A OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00732 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997469	.	.	.
+tr|S7ZD03|S7ZD03_PENO1 galacturonan 1,4-alpha-galacturonidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03466 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9996345	.	.	.
+tr|S7ZDI9|S7ZDI9_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01690 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99973637	.	.	.
+sp|S7ZEJ0|POXQ_PENO1 Diels-Alderase poxQ OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=poxQ PE=2 SV=1	SignalP-6.0	signal_peptide	1	23	0.99967146	.	.	.
+tr|S7ZGT5|S7ZGT5_PENO1 Pectinase D OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04459 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99965423	.	.	.
+tr|S7ZGV0|S7ZGV0_PENO1 glucan 1,3-beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9993471	.	.	.
+tr|S7ZH20|S7ZH20_PENO1 Cutinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04915 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9995814	.	.	.
+tr|S7ZHJ4|S7ZHJ4_PENO1 Probable glucan endo-1,3-beta-glucosidase eglC OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03112 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997187	.	.	.
+tr|S7ZHJ5|S7ZHJ5_PENO1 alpha-amylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04684 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.998267	.	.	.
+tr|S7ZIT0|S7ZIT0_PENO1 Mannosyl-oligosaccharide glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03542 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997408	.	.	.
+tr|S7ZJ06|S7ZJ06_PENO1 penicillopepsin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03617 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996637	.	.	.
+tr|S7ZKT2|S7ZKT2_PENO1 alpha-1,2-Mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05852 PE=3 SV=1	SignalP-6.0	signal_peptide	1	35	0.92022645	.	.	.
+tr|S7ZKV4|S7ZKV4_PENO1 Protein disulfide-isomerase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06215 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99916285	.	.	.
+tr|S7ZL26|S7ZL26_PENO1 glucan endo-1,6-beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04310 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9994953	.	.	.
+tr|S7ZL96|S7ZL96_PENO1 Endopolyphosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04405 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9993192	.	.	.
+tr|S7ZMD6|S7ZMD6_PENO1 AA9 family lytic polysaccharide monooxygenase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06768 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997359	.	.	.
+tr|S7ZN64|S7ZN64_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05081 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974173	.	.	.
+tr|S7ZNF7|S7ZNF7_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06812 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9992099	.	.	.
+tr|S7ZP52|S7ZP52_PENO1 Glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07124 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997439	.	.	.
+tr|S7ZQH2|S7ZQH2_PENO1 Neutral protease 2 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07936 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99977934	.	.	.
+tr|S7ZS08|S7ZS08_PENO1 Probable beta-glucosidase btgE OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06441 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9980565	.	.	.
+tr|S7ZT54|S7ZT54_PENO1 Vacuolar protein sorting/targeting protein 10 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06870 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99963397	.	.	.
+tr|S7ZTH1|S7ZTH1_PENO1 Arabinan endo-1,5-alpha-L-arabinosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08972 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9997782	.	.	.
+tr|S7ZV78|S7ZV78_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09278 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99962276	.	.	.
+tr|S8AHA8|S8AHA8_PENO1 xylan 1,4-beta-xylosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00049 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99976754	.	.	.
+tr|S8AIA9|S8AIA9_PENO1 Crh-like protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00401 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997565	.	.	.
+sp|S8AKE6|OPDH_PENO1 Antifungal protein opdH OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=opdH PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99970335	.	.	.
+tr|S8AT47|S8AT47_PENO1 Putative lipase ATG15 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04222 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99975455	.	.	.
+tr|S8AUE5|S8AUE5_PENO1 Probable alpha/beta-glucosidase agdC OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.9996931	.	.	.
+tr|S8AUK5|S8AUK5_PENO1 Aspartic endopeptidase PEP2 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04768 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997425	.	.	.
+tr|S8AX25|S8AX25_PENO1 Catalase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01404 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.98365414	.	.	.
+tr|S8AY76|S8AY76_PENO1 penicillopepsin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01852 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9996661	.	.	.
+tr|S8B4N0|S8B4N0_PENO1 non-specific serine/threonine protein kinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04467 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.6518321	.	.	.
+tr|S8B590|S8B590_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08990 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9982835	.	.	.
+tr|S8B6D7|S8B6D7_PENO1 Glucoamylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09417 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99976087	.	.	.
+tr|S8B6N0|S8B6N0_PENO1 Crh-like protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05263 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999749	.	.	.
+tr|S8B6N1|S8B6N1_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09532 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997512	.	.	.
+tr|S8B7P9|S8B7P9_PENO1 Alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09988 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99974895	.	.	.
+tr|S7Z3I8|S7Z3I8_PENO1 Alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00016 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99969673	.	.	.
+tr|S7Z3P8|S7Z3P8_PENO1 beta-galactosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00076 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99941415	.	.	.
+tr|S7Z3T7|S7Z3T7_PENO1 Signal peptidase complex catalytic subunit SEC11 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00117 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.53155714	.	.	.
+tr|S7Z4N3|S7Z4N3_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00005 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99970603	.	.	.
+tr|S7Z4P2|S7Z4P2_PENO1 Putative alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00015 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99970716	.	.	.
+tr|S7Z5H6|S7Z5H6_PENO1 Beta-galactosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00282 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997486	.	.	.
+tr|S7Z5U8|S7Z5U8_PENO1 Autophagy-related protein 27 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00427 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99966156	.	.	.
+tr|S7Z5V7|S7Z5V7_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00437 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999733	.	.	.
+tr|S7Z5X9|S7Z5X9_PENO1 GPI-anchor transamidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00462 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996987	.	.	.
+tr|S7Z6T2|S7Z6T2_PENO1 alpha-amylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01201 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996944	.	.	.
+tr|S7Z6Z9|S7Z6Z9_PENO1 Mannan endo-1,6-alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01256 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9996775	.	.	.
+tr|S7Z7A8|S7Z7A8_PENO1 acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01372 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99949855	.	.	.
+tr|S7Z7I1|S7Z7I1_PENO1 pectin lyase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01467 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997027	.	.	.
+tr|S7Z7R8|S7Z7R8_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01573 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997222	.	.	.
+tr|S7Z7W2|S7Z7W2_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99976903	.	.	.
+tr|S7Z823|S7Z823_PENO1 Endo-chitosanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01255 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997279	.	.	.
+tr|S7Z876|S7Z876_PENO1 Purple acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01315 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.5606749	.	.	.
+tr|S7Z887|S7Z887_PENO1 ribonuclease T1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01330 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99976444	.	.	.
+tr|S7Z8G1|S7Z8G1_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01779 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9988013	.	.	.
+tr|S7Z8U5|S7Z8U5_PENO1 Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01567 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99924004	.	.	.
+tr|S7Z8Z6|S7Z8Z6_PENO1 Mannan endo-1,6-alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01622 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9677306	.	.	.
+tr|S7Z911|S7Z911_PENO1 ribonuclease T2 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00092 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996474	.	.	.
+tr|S7Z9I1|S7Z9I1_PENO1 GDT1 family protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01794 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99967927	.	.	.
+tr|S7ZA57|S7ZA57_PENO1 Beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02418 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99970734	.	.	.
+tr|S7ZAD2|S7ZAD2_PENO1 Ubiquitin-protein ligase Sel1/Ubx2 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00580 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99903333	.	.	.
+tr|S7ZAG7|S7ZAG7_PENO1 glucan 1,3-beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00615 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997628	.	.	.
+tr|S7ZAV8|S7ZAV8_PENO1 Beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00752 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99963623	.	.	.
+tr|S7ZAW1|S7ZAW1_PENO1 galacturonan 1,4-alpha-galacturonidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02689 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99975497	.	.	.
+tr|S7ZAZ1|S7ZAZ1_PENO1 Peptidase M43 pregnancy-associated plasma-A domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02342 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997071	.	.	.
+tr|S7ZBA9|S7ZBA9_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02789 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997531	.	.	.
+tr|S7ZBH2|S7ZBH2_PENO1 Probable beta-galactosidase C OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02532 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996016	.	.	.
+tr|S7ZBJ9|S7ZBJ9_PENO1 Probable beta-glucosidase M OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02905 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99927425	.	.	.
+tr|S7ZBM4|S7ZBM4_PENO1 Arabinogalactan endo-beta-1,4-galactanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02583 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99968195	.	.	.
+tr|S7ZBR6|S7ZBR6_PENO1 Post-GPI attachment to proteins factor 3 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02623 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99975383	.	.	.
+tr|S7ZCD7|S7ZCD7_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01282 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9994002	.	.	.
+tr|S7ZCH7|S7ZCH7_PENO1 SSD domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03266 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.999725	.	.	.
+tr|S7ZCL0|S7ZCL0_PENO1 Lysozyme OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03296 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999693	.	.	.
+tr|S7ZCL4|S7ZCL4_PENO1 Oligopeptide transporter OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03301 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.8991848	.	.	.
+tr|S7ZCN9|S7ZCN9_PENO1 alpha,alpha-trehalase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01403 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9996841	.	.	.
+tr|S7ZCP1|S7ZCP1_PENO1 endo-1,3(4)-beta-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02990 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99969774	.	.	.
+tr|S7ZCQ1|S7ZCQ1_PENO1 glucose oxidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01413 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.999596	.	.	.
+tr|S7ZCS4|S7ZCS4_PENO1 Actin-related protein 2/3 complex subunit 4 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03376 PE=3 SV=1	SignalP-6.0	signal_peptide	1	40	0.53459173	.	.	.
+tr|S7ZCU6|S7ZCU6_PENO1 Alpha-galactosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03401 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9997198	.	.	.
+tr|S7ZD15|S7ZD15_PENO1 Amine oxidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03481 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.986629	.	.	.
+tr|S7ZD22|S7ZD22_PENO1 Phosphatidylglycerol/phosphatidylinositol transfer protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03110 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99973816	.	.	.
+tr|S7ZDB9|S7ZDB9_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99974203	.	.	.
+tr|S7ZDC9|S7ZDC9_PENO1 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03606 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99976027	.	.	.
+tr|S7ZDD5|S7ZDD5_PENO1 L-type lectin-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03215 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99955755	.	.	.
+tr|S7ZDF7|S7ZDF7_PENO1 Peptidase S53 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03636 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99971426	.	.	.
+tr|S7ZDH6|S7ZDH6_PENO1 pectinesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01675 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997614	.	.	.
+tr|S7ZDM7|S7ZDM7_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03295 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99978447	.	.	.
+tr|S7ZDN1|S7ZDN1_PENO1 cellulase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03711 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9990591	.	.	.
+tr|S7ZDQ7|S7ZDQ7_PENO1 Arabinan endo-1,5-alpha-L-arabinosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01750 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99947226	.	.	.
+tr|S7ZDS0|S7ZDS0_PENO1 PH-response regulator protein palI/RIM9 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01760 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9925514	.	.	.
+tr|S7ZE17|S7ZE17_PENO1 tripeptidyl-peptidase II OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01866 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99964756	.	.	.
+tr|S7ZE41|S7ZE41_PENO1 galacturonan 1,4-alpha-galacturonidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01896 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99975985	.	.	.
+tr|S7ZED3|S7ZED3_PENO1 alpha-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03966 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.98708516	.	.	.
+tr|S7ZEJ3|S7ZEJ3_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04034 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974984	.	.	.
+tr|S7ZEK0|S7ZEK0_PENO1 Palmitoyl-protein thioesterase 1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02052 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99031043	.	.	.
+tr|S7ZEP7|S7ZEP7_PENO1 Putative peptidase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02099 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997237	.	.	.
+tr|S7ZF52|S7ZF52_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02234 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9996927	.	.	.
+tr|S7ZF91|S7ZF91_PENO1 ML-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03895 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99973166	.	.	.
+tr|S7ZFV3|S7ZFV3_PENO1 Dystroglycan-type cadherin-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04510 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997234	.	.	.
+tr|S7ZFW7|S7ZFW7_PENO1 SCP domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04525 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9995349	.	.	.
+tr|S7ZFY8|S7ZFY8_PENO1 Alpha-galactosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02514 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.6357899	.	.	.
+tr|S7ZG27|S7ZG27_PENO1 Peptidase M20 dimerisation domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02549 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99976224	.	.	.
+tr|S7ZG74|S7ZG74_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04645 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99969715	.	.	.
+tr|S7ZGB5|S7ZGB5_PENO1 alpha-1,3-glucan synthase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04685 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9915205	.	.	.
+tr|S7ZGU3|S7ZGU3_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04830 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997669	.	.	.
+tr|S7ZH28|S7ZH28_PENO1 AB hydrolase-1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04925 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99972284	.	.	.
+tr|S7ZH47|S7ZH47_PENO1 Prenylcysteine lyase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04950 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.81285965	.	.	.
+tr|S7ZIH0|S7ZIH0_PENO1 Copper acquisition factor BIM1-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03437 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99957603	.	.	.
+tr|S7ZII5|S7ZII5_PENO1 1,3-beta-glucanosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03452 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996394	.	.	.
+tr|S7ZIL5|S7ZIL5_PENO1 1,3-beta-glucanosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05084 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996349	.	.	.
+tr|S7ZIW0|S7ZIW0_PENO1 Glucoamylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05527 PE=1 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996001	.	.	.
+tr|S7ZIX0|S7ZIX0_PENO1 Lysophospholipase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05537 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996996	.	.	.
+tr|S7ZJ07|S7ZJ07_PENO1 Endo-1,4-beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05210 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.999723	.	.	.
+tr|S7ZJ13|S7ZJ13_PENO1 Peptide hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05587 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.99961656	.	.	.
+tr|S7ZJA9|S7ZJA9_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05305 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.97378594	.	.	.
+tr|S7ZJC7|S7ZJC7_PENO1 RING-type E3 ubiquitin transferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03722 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9867728	.	.	.
+tr|S7ZJD1|S7ZJD1_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05692 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997402	.	.	.
+tr|S7ZJH5|S7ZJH5_PENO1 Peptide hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05727 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.999595	.	.	.
+tr|S7ZJI4|S7ZJI4_PENO1 Putative UDP-Glc: glycoprotein alpha-glucosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05410 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.96600187	.	.	.
+tr|S7ZJL3|S7ZJL3_PENO1 Glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05445 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.999749	.	.	.
+tr|S7ZJM8|S7ZJM8_PENO1 ZIP Zinc transporter OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05465 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997845	.	.	.
+tr|S7ZKN6|S7ZKN6_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04195 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997748	.	.	.
+tr|S7ZKY2|S7ZKY2_PENO1 Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04270 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99955744	.	.	.
+tr|S7ZL65|S7ZL65_PENO1 mannan endo-1,4-beta-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06023 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9996953	.	.	.
+tr|S7ZL85|S7ZL85_PENO1 Putative alpha-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06330 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.7874317	.	.	.
+tr|S7ZLC0|S7ZLC0_PENO1 Inactive metallocarboxypeptidase ECM14 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04431 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99948454	.	.	.
+tr|S7ZLI8|S7ZLI8_PENO1 6-phosphogluconolactonase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04506 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.97538894	.	.	.
+tr|S7ZLV6|S7ZLV6_PENO1 Cupin type-1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06595 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.99872476	.	.	.
+tr|S7ZM77|S7ZM77_PENO1 Cupin type-1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06389 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999632	.	.	.
+tr|S7ZMU5|S7ZMU5_PENO1 endo-1,3(4)-beta-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06631 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99970144	.	.	.
+tr|S7ZNA2|S7ZNA2_PENO1 Cytochrome P450 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07120 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.6405134	.	.	.
+tr|S7ZNC9|S7ZNC9_PENO1 Mannan endo-1,6-alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06782 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99971944	.	.	.
+tr|S7ZP89|S7ZP89_PENO1 Cutinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07475 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997564	.	.	.
+tr|S7ZPA1|S7ZPA1_PENO1 ABC transporter OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05427 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99976826	.	.	.
+tr|S7ZPI6|S7ZPI6_PENO1 pectin lyase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07259 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99972045	.	.	.
+tr|S7ZPS7|S7ZPS7_PENO1 penicillopepsin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07344 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9997611	.	.	.
+tr|S7ZQ09|S7ZQ09_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07449 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997151	.	.	.
+tr|S7ZQ23|S7ZQ23_PENO1 protein disulfide-isomerase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07464 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99968076	.	.	.
+tr|S7ZQA4|S7ZQA4_PENO1 Putative chitin deacetylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07861 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99973077	.	.	.
+tr|S7ZQE7|S7ZQE7_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07911 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997836	.	.	.
+tr|S7ZQL3|S7ZQL3_PENO1 rhamnogalacturonan endolyase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07659 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99970007	.	.	.
+tr|S7ZQR7|S7ZQR7_PENO1 xylan 1,4-beta-xylosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08037 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997261	.	.	.
+tr|S7ZQT4|S7ZQT4_PENO1 penicillopepsin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07724 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997244	.	.	.
+tr|S7ZQV0|S7ZQV0_PENO1 Altered inheritance of mitochondria protein 6 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07739 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.8015678	.	.	.
+tr|S7ZQV7|S7ZQV7_PENO1 GPI mannosyltransferase 1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9959614	.	.	.
+tr|S7ZQW4|S7ZQW4_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08082 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99954176	.	.	.
+tr|S7ZR03|S7ZR03_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08122 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9995245	.	.	.
+tr|S7ZRC5|S7ZRC5_PENO1 Peptidase A1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07930 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99967176	.	.	.
+tr|S7ZRD6|S7ZRD6_PENO1 Glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07945 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9995807	.	.	.
+tr|S7ZRM2|S7ZRM2_PENO1 Transmembrane 9 superfamily member OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08056 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9996436	.	.	.
+tr|S7ZRP7|S7ZRP7_PENO1 P/Homo B domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08357 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99962944	.	.	.
+tr|S7ZRR3|S7ZRR3_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08101 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.90500426	.	.	.
+tr|S7ZS56|S7ZS56_PENO1 Oxidoreductin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06501 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997932	.	.	.
+tr|S7ZS63|S7ZS63_PENO1 Beta-hexosaminidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06511 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996966	.	.	.
+tr|S7ZS92|S7ZS92_PENO1 non-reducing end alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06546 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99898696	.	.	.
+tr|S7ZSB2|S7ZSB2_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06566 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99970734	.	.	.
+tr|S7ZSS1|S7ZSS1_PENO1 Disintegrin and metalloproteinase domain-containing protein B OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08426 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9987205	.	.	.
+tr|S7ZUH8|S7ZUH8_PENO1 agmatinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07361 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99974793	.	.	.
+tr|S7ZUK6|S7ZUK6_PENO1 SUN domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09344 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99971116	.	.	.
+tr|S7ZUU9|S7ZUU9_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09474 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9994771	.	.	.
+tr|S7ZUV1|S7ZUV1_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09178 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99967945	.	.	.
+tr|S7ZVD3|S7ZVD3_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09313 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996196	.	.	.
+tr|S7ZVP1|S7ZVP1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09453 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99978906	.	.	.
+tr|S7ZVQ9|S7ZVQ9_PENO1 Endo-1,4-beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09478 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99964905	.	.	.
+tr|S7ZVT7|S7ZVT7_PENO1 L-type lectin-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07812 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.999659	.	.	.
+tr|S7ZVW7|S7ZVW7_PENO1 glucose oxidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07857 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9626482	.	.	.
+tr|S7ZVY6|S7ZVY6_PENO1 TM7S3/TM198-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09568 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.90282464	.	.	.
+tr|S7ZW00|S7ZW00_PENO1 Alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07897 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.998785	.	.	.
+tr|S7ZW27|S7ZW27_PENO1 penicillopepsin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07927 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997377	.	.	.
+tr|S7ZW59|S7ZW59_PENO1 1,3-beta-glucanosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07962 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99959874	.	.	.
+tr|S7ZWA6|S7ZWA6_PENO1 Arabinan endo-1,5-alpha-L-arabinosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09995 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997258	.	.	.
+tr|S7ZWZ9|S7ZWZ9_PENO1 feruloyl esterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08238 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9995357	.	.	.
+tr|S7ZX19|S7ZX19_PENO1 Acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09964 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9945037	.	.	.
+tr|S7ZX22|S7ZX22_PENO1 Endo-beta-1,4-mannanase F OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09969 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996628	.	.	.
+tr|S7ZX45|S7ZX45_PENO1 WSC domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08278 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9994521	.	.	.
+tr|S7ZXV5|S7ZXV5_PENO1 Sphingomyelin phosphodiesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08598 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999707	.	.	.
+tr|S7ZY88|S7ZY88_PENO1 Endo-chitosanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08733 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997209	.	.	.
+tr|S7ZYB4|S7ZYB4_PENO1 Nuclear membrane fusion protein Kar5 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08753 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997225	.	.	.
+tr|S7ZZQ8|S7ZZQ8_PENO1 galacturonan 1,4-alpha-galacturonidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09285 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996351	.	.	.
+tr|S8A023|S8A023_PENO1 ER membrane protein complex subunit 1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09405 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996877	.	.	.
+tr|S8A0A7|S8A0A7_PENO1 alpha-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09505 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9991866	.	.	.
+tr|S8A0T1|S8A0T1_PENO1 beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09710 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.93304855	.	.	.
+tr|S8AH63|S8AH63_PENO1 rhamnogalacturonan endolyase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00004 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997943	.	.	.
+tr|S8AH74|S8AH74_PENO1 Putative endo-beta-1,4-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00014 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9994286	.	.	.
+tr|S8AI28|S8AI28_PENO1 non-reducing end alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00276 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99954367	.	.	.
+tr|S8AIJ2|S8AIJ2_PENO1 Endoglucanase EG-II OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00507 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99957854	.	.	.
+tr|S8AJN6|S8AJN6_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00949 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99970275	.	.	.
+tr|S8AK81|S8AK81_PENO1 agmatinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01174 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9990089	.	.	.
+tr|S8AKL8|S8AKL8_PENO1 Mannan endo-1,6-alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01279 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.999702	.	.	.
+tr|S8AKU0|S8AKU0_PENO1 Rhamnogalacturonate lyase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01385 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997543	.	.	.
+tr|S8AL26|S8AL26_PENO1 Tetratricopeptide repeat and J domain-containing co-chaperone DNJ1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01495 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99964565	.	.	.
+tr|S8AMF6|S8AMF6_PENO1 glucan endo-1,6-beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02004 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997137	.	.	.
+tr|S8AMJ2|S8AMJ2_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02049 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9996799	.	.	.
+tr|S8AMN0|S8AMN0_PENO1 Endo-1,4-beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02101 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.999733	.	.	.
+tr|S8AMS9|S8AMS9_PENO1 Peptide hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02146 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99967116	.	.	.
+tr|S8AN96|S8AN96_PENO1 prephenate dehydratase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02301 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.8586124	.	.	.
+tr|S8ANU2|S8ANU2_PENO1 J domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02526 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99971926	.	.	.
+tr|S8ANV1|S8ANV1_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02536 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997771	.	.	.
+tr|S8AP92|S8AP92_PENO1 endo-1,4-beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02682 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.99958503	.	.	.
+tr|S8APF7|S8APF7_PENO1 MRH domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02742 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9984631	.	.	.
+tr|S8APL4|S8APL4_PENO1 acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02797 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.8359857	.	.	.
+tr|S8APQ9|S8APQ9_PENO1 Glucan endo-1,3-beta-D-glucosidase 1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02862 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997393	.	.	.
+tr|S8AQV5|S8AQV5_PENO1 Cutinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03294 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997394	.	.	.
+tr|S8AR30|S8AR30_PENO1 Purple acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03399 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996809	.	.	.
+tr|S8ARU7|S8ARU7_PENO1 Peptidyl-prolyl cis-trans isomerase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03689 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99979186	.	.	.
+tr|S8AS68|S8AS68_PENO1 Actin cortical patch SUR7/pH-response regulator PalI OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03819 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.8094416	.	.	.
+tr|S8AS73|S8AS73_PENO1 Thioredoxin domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03829 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9995175	.	.	.
+tr|S8ASX3|S8ASX3_PENO1 alkaline phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04147 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974763	.	.	.
+tr|S8ASZ0|S8ASZ0_PENO1 endo-polygalacturonase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04162 PE=3 SV=1	SignalP-6.0	signal_peptide	1	36	0.99967676	.	.	.
+tr|S8ATQ2|S8ATQ2_PENO1 Mannan endo-1,6-alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04468 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996053	.	.	.
+tr|S8ATR1|S8ATR1_PENO1 Endo-1,4-beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04478 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997122	.	.	.
+tr|S8AU36|S8AU36_PENO1 1,3-beta-glucanosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04618 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9995066	.	.	.
+tr|S8AV88|S8AV88_PENO1 Serine peptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05103 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996841	.	.	.
+tr|S8AVG6|S8AVG6_PENO1 cellulase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05193 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.5917159	.	.	.
+tr|S8AVM3|S8AVM3_PENO1 Protein BIG1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00853 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999554	.	.	.
+tr|S8AVX4|S8AVX4_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00963 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99962866	.	.	.
+tr|S8AVY7|S8AVY7_PENO1 peptidylprolyl isomerase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05349 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9992243	.	.	.
+tr|S8AWZ3|S8AWZ3_PENO1 tripeptidyl-peptidase II OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01353 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997485	.	.	.
+tr|S8AXD6|S8AXD6_PENO1 Pectinesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01529 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9997071	.	.	.
+tr|S8AXG8|S8AXG8_PENO1 beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01565 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99026465	.	.	.
+tr|S8AXN0|S8AXN0_PENO1 pectate lyase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06068 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99966234	.	.	.
+tr|S8AY03|S8AY03_PENO1 ML-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06198 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99978215	.	.	.
+tr|S8AYI7|S8AYI7_PENO1 tripeptidyl-peptidase II OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01983 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99975276	.	.	.
+tr|S8AYL1|S8AYL1_PENO1 Putative beta-1,4-mannanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06438 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997266	.	.	.
+tr|S8AYM9|S8AYM9_PENO1 Carboxylic ester hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02033 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996586	.	.	.
+tr|S8AZ93|S8AZ93_PENO1 Mannosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02250 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.96947044	.	.	.
+tr|S8AZW3|S8AZW3_PENO1 Fungal lipase-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02515 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99972	.	.	.
+tr|S8B073|S8B073_PENO1 Transcription factor domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02646 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997347	.	.	.
+tr|S8B0B4|S8B0B4_PENO1 endo-polygalacturonase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07153 PE=3 SV=1	SignalP-6.0	signal_peptide	1	36	0.9997171	.	.	.
+tr|S8B0F3|S8B0F3_PENO1 beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02736 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997514	.	.	.
+tr|S8B0U2|S8B0U2_PENO1 xyloglucan-specific endo-beta-1,4-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02886 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99973196	.	.	.
+tr|S8B130|S8B130_PENO1 protein disulfide-isomerase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02993 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99970055	.	.	.
+tr|S8B1D6|S8B1D6_PENO1 alpha-1,3-glucan synthase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03103 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9274784	.	.	.
+tr|S8B1P0|S8B1P0_PENO1 endo-polygalacturonase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03218 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996427	.	.	.
+tr|S8B2B2|S8B2B2_PENO1 Glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07929 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99998534	.	.	.
+tr|S8B2I5|S8B2I5_PENO1 Store-operated calcium entry-associated regulatory factor OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03583 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99968195	.	.	.
+tr|S8B2Q2|S8B2Q2_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08075 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997324	.	.	.
+tr|S8B375|S8B375_PENO1 Putative exo-beta-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08250 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9984613	.	.	.
+tr|S8B3G6|S8B3G6_PENO1 ML-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08320 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99976593	.	.	.
+tr|S8B481|S8B481_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04271 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.999771	.	.	.
+tr|S8B4C3|S8B4C3_PENO1 acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04316 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997255	.	.	.
+tr|S8B581|S8B581_PENO1 Endoplasmic reticulum chaperone BiP OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08980 PE=3 SV=1	SignalP-6.0	signal_peptide	1	39	0.9883911	.	.	.
+tr|S8B5A0|S8B5A0_PENO1 MICOS complex subunit OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.9901909	.	.	.
+tr|S8B5E8|S8B5E8_PENO1 CNNM transmembrane domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09045 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.6962728	.	.	.
+tr|S8B5S7|S8B5S7_PENO1 Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09177 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9988421	.	.	.
+tr|S8B5V3|S8B5V3_PENO1 Cytochrome P450 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09202 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.6255554	.	.	.
+tr|S8B656|S8B656_PENO1 CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05082 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996073	.	.	.
+tr|S8B672|S8B672_PENO1 Aldose 1-epimerase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05097 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99956805	.	.	.
+tr|S8B7K7|S8B7K7_PENO1 endo-1,3(4)-beta-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09918 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99975467	.	.	.
+tr|S8B8C3|S8B8C3_PENO1 Nuclease PA3 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05941 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996475	.	.	.
+tr|S8B8I7|S8B8I7_PENO1 Endo-chitosanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06026 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99976337	.	.	.
+tr|S8B8I9|S8B8I9_PENO1 Carboxypeptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06031 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997359	.	.	.
+tr|S8B8M7|S8B8M7_PENO1 Putative alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06067 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99962527	.	.	.
+tr|S8B8T3|S8B8T3_PENO1 Sphingomyelin phosphodiesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06122 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997784	.	.	.
+tr|S8B994|S8B994_PENO1 Endoplasmic reticulum lectin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06282 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9995438	.	.	.
+tr|S8BA66|S8BA66_PENO1 feruloyl esterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06649 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99970025	.	.	.
+tr|S8BAT7|S8BAT7_PENO1 galacturonan 1,4-alpha-galacturonidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06891 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99962014	.	.	.
+tr|S8BAX2|S8BAX2_PENO1 1,3-beta-glucanosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06951 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997396	.	.	.
+tr|S8BC26|S8BC26_PENO1 Peptidase S26 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07397 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.5384053	.	.	.
+tr|S8BCI4|S8BCI4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07612 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997418	.	.	.
+tr|S8BCL2|S8BCL2_PENO1 chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07642 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99968994	.	.	.
+tr|S8BDB6|S8BDB6_PENO1 Cellulase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07928 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99973166	.	.	.
+tr|S8BDB9|S8BDB9_PENO1 Aspergillopepsin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07933 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9959738	.	.	.
+tr|S8BDC2|S8BDC2_PENO1 endo-polygalacturonase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07938 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997546	.	.	.
+tr|S8BDN2|S8BDN2_PENO1 Beta-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08094 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99974304	.	.	.
+tr|S8BEX8|S8BEX8_PENO1 3-phytase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08599 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9993573	.	.	.
+tr|S8BF02|S8BF02_PENO1 Calnexin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08629 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9995849	.	.	.
+tr|S8BFI1|S8BFI1_PENO1 Beta-mannosidase A OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08804 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9978024	.	.	.
+tr|S8BG15|S8BG15_PENO1 Probable beta-glucosidase F OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09019 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99969536	.	.	.
+tr|S8BGM3|S8BGM3_PENO1 cellulase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09226 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996551	.	.	.
+tr|S8BH10|S8BH10_PENO1 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09366 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99975866	.	.	.
+tr|S8BH34|S8BH34_PENO1 Vacuolar serine protease PrtB OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09396 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99973106	.	.	.
+tr|S8BH94|S8BH94_PENO1 GOLD domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09471 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996933	.	.	.
+tr|S7Z3J4|S7Z3J4_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00021 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9995956	.	.	.
+tr|S7Z427|S7Z427_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00213 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99962485	.	.	.
+tr|S7Z4E5|S7Z4E5_PENO1 Chitin binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00308 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99978685	.	.	.
+tr|S7Z4I3|S7Z4I3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00348 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99843395	.	.	.
+tr|S7Z4S4|S7Z4S4_PENO1 Laccase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00453 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996783	.	.	.
+tr|S7Z501|S7Z501_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00116 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9732252	.	.	.
+tr|S7Z5H0|S7Z5H0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00272 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9996494	.	.	.
+tr|S7Z5I1|S7Z5I1_PENO1 Malate dehydrogenase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00287 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99974054	.	.	.
+tr|S7Z5T1|S7Z5T1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00412 PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.998056	.	.	.
+tr|S7Z5Z6|S7Z5Z6_PENO1 NlpC/P60 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00876 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997797	.	.	.
+tr|S7Z604|S7Z604_PENO1 DUF7707 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00886 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997733	.	.	.
+tr|S7Z615|S7Z615_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00503 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996088	.	.	.
+tr|S7Z620|S7Z620_PENO1 Apple domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00508 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99969745	.	.	.
+tr|S7Z6C0|S7Z6C0_PENO1 GOLD domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00613 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99957967	.	.	.
+tr|S7Z6I2|S7Z6I2_PENO1 Putative alpha-1,6-mannosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01101 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.57900536	.	.	.
+tr|S7Z758|S7Z758_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00925 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997793	.	.	.
+tr|S7Z786|S7Z786_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01341 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999672	.	.	.
+tr|S7Z789|S7Z789_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01346 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997357	.	.	.
+tr|S7Z7B6|S7Z7B6_PENO1 Serine peptidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01387 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.56620985	.	.	.
+tr|S7Z834|S7Z834_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01260 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9995962	.	.	.
+tr|S7Z850|S7Z850_PENO1 Putative exo-beta-glucosaminidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01280 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9994933	.	.	.
+tr|S7Z882|S7Z882_PENO1 Phytase-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01724 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99964505	.	.	.
+tr|S7Z892|S7Z892_PENO1 Phosphoglycerate mutase family protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01335 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997451	.	.	.
+tr|S7Z8C7|S7Z8C7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01376 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997303	.	.	.
+tr|S7Z8G0|S7Z8G0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01416 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99975854	.	.	.
+tr|S7Z8G4|S7Z8G4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01784 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9990383	.	.	.
+tr|S7Z8T9|S7Z8T9_PENO1 Nudix hydrolase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01956 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997331	.	.	.
+tr|S7Z8V0|S7Z8V0_PENO1 Cell wall protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01971 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996149	.	.	.
+tr|S7Z955|S7Z955_PENO1 Putative rhamnogalacturonan acetylesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02093 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.998111	.	.	.
+tr|S7Z981|S7Z981_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01708 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99535173	.	.	.
+tr|S7Z989|S7Z989_PENO1 Multicopper oxidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02128 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997558	.	.	.
+tr|S7Z9H4|S7Z9H4_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01783 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99948496	.	.	.
+tr|S7Z9J9|S7Z9J9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02223 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99972665	.	.	.
+tr|S7Z9Q7|S7Z9Q7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01889 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9996003	.	.	.
+tr|S7ZA16|S7ZA16_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01995 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9993324	.	.	.
+tr|S7ZA56|S7ZA56_PENO1 Phospholipase C OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997086	.	.	.
+tr|S7ZAA5|S7ZAA5_PENO1 Major facilitator superfamily (MFS) profile domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00550 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.925689	.	.	.
+tr|S7ZAB6|S7ZAB6_PENO1 Putative swollenin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02102 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99976236	.	.	.
+tr|S7ZAD1|S7ZAD1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02117 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99974144	.	.	.
+tr|S7ZAF2|S7ZAF2_PENO1 Putative alpha-1,6-mannanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997125	.	.	.
+tr|S7ZAF9|S7ZAF9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02147 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996917	.	.	.
+tr|S7ZAI0|S7ZAI0_PENO1 Isochorismatase-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02559 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99959326	.	.	.
+tr|S7ZAJ9|S7ZAJ9_PENO1 Galactose oxidase/kelch, beta-propeller OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02579 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9996842	.	.	.
+tr|S7ZAL8|S7ZAL8_PENO1 Cyanovirin-N domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00667 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99970704	.	.	.
+tr|S7ZAN1|S7ZAN1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02222 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997612	.	.	.
+tr|S7ZB61|S7ZB61_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02422 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99966186	.	.	.
+tr|S7ZB67|S7ZB67_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00852 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.99845994	.	.	.
+tr|S7ZBF9|S7ZBF9_PENO1 TNT domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02854 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99979246	.	.	.
+tr|S7ZBJ0|S7ZBJ0_PENO1 Vacuolar sorting protein Vps3844 C-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00992 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99961424	.	.	.
+tr|S7ZBN3|S7ZBN3_PENO1 Secreted protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.64275426	.	.	.
+tr|S7ZBX8|S7ZBX8_PENO1 Putative alpha-L-rhamnosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02688 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99966234	.	.	.
+tr|S7ZC90|S7ZC90_PENO1 16 kDa allergen OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01252 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99954295	.	.	.
+tr|S7ZCD3|S7ZCD3_PENO1 Putative beta-glucosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01277 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998038	.	.	.
+tr|S7ZCF1|S7ZCF1_PENO1 Putative acetyl xylan esterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01302 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99971235	.	.	.
+tr|S7ZCJ0|S7ZCJ0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01352 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9978821	.	.	.
+tr|S7ZCJ8|S7ZCJ8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01362 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997395	.	.	.
+tr|S7ZCM8|S7ZCM8_PENO1 Transglycosylase SLT domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01393 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996679	.	.	.
+tr|S7ZCP5|S7ZCP5_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01408 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99974555	.	.	.
+tr|S7ZCX4|S7ZCX4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01478 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9994267	.	.	.
+tr|S7ZCZ8|S7ZCZ8_PENO1 Secreted protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03461 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.94189376	.	.	.
+tr|S7ZDG6|S7ZDG6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01664 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99972165	.	.	.
+tr|S7ZDH7|S7ZDH7_PENO1 Allergen Asp f 15 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03255 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99971145	.	.	.
+tr|S7ZDN7|S7ZDN7_PENO1 Carbohydrate binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03310 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997712	.	.	.
+tr|S7ZDQ5|S7ZDQ5_PENO1 CREG-like beta-barrel domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03340 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.98512477	.	.	.
+tr|S7ZDT5|S7ZDT5_PENO1 SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01765 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997116	.	.	.
+tr|S7ZDV2|S7ZDV2_PENO1 Putative peptidoglycan N-acetylglucosamine deacetylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01775 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996204	.	.	.
+tr|S7ZDW4|S7ZDW4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03420 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.5267721	.	.	.
+tr|S7ZDW5|S7ZDW5_PENO1 WSC domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01796 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996835	.	.	.
+tr|S7ZDX5|S7ZDX5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03435 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99975127	.	.	.
+tr|S7ZE48|S7ZE48_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01906 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.8612964	.	.	.
+tr|S7ZEL5|S7ZEL5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02068 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9995078	.	.	.
+tr|S7ZES5|S7ZES5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04119 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9995448	.	.	.
+tr|S7ZEU0|S7ZEU0_PENO1 Autophagy-related protein 27 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03735 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.999634	.	.	.
+tr|S7ZEV3|S7ZEV3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04149 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997288	.	.	.
+tr|S7ZEY8|S7ZEY8_PENO1 Chitin binding domain-and peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04189 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9996639	.	.	.
+tr|S7ZF27|S7ZF27_PENO1 Putative exo-beta-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02219 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974227	.	.	.
+tr|S7ZF98|S7ZF98_PENO1 Peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03905 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997163	.	.	.
+tr|S7ZFB5|S7ZFB5_PENO1 Lipase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04294 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99972534	.	.	.
+tr|S7ZFP0|S7ZFP0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04445 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.999733	.	.	.
+tr|S7ZFS9|S7ZFS9_PENO1 PLC-like phosphodiesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02459 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997399	.	.	.
+tr|S7ZFT6|S7ZFT6_PENO1 Clock-controlled protein 6 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04088 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99964774	.	.	.
+tr|S7ZFU1|S7ZFU1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02469 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997778	.	.	.
+tr|S7ZFU9|S7ZFU9_PENO1 Tyrosinase copper-binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04505 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99977547	.	.	.
+tr|S7ZFX9|S7ZFX9_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04540 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99968517	.	.	.
+tr|S7ZFY0|S7ZFY0_PENO1 Phytocyanin domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04128 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99967104	.	.	.
+tr|S7ZG12|S7ZG12_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04580 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9993609	.	.	.
+tr|S7ZG55|S7ZG55_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04625 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997385	.	.	.
+tr|S7ZG83|S7ZG83_PENO1 Antifungal protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04655 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999744	.	.	.
+tr|S7ZG94|S7ZG94_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04665 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99976844	.	.	.
+tr|S7ZGA8|S7ZGA8_PENO1 GPI anchored protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04248 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996779	.	.	.
+tr|S7ZGE8|S7ZGE8_PENO1 Heme haloperoxidase family profile domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04273 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9995794	.	.	.
+tr|S7ZGG3|S7ZGG3_PENO1 Antifungal protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04283 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99970376	.	.	.
+tr|S7ZGI1|S7ZGI1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04740 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996113	.	.	.
+tr|S7ZGN1|S7ZGN1_PENO1 Apple domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04383 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9995829	.	.	.
+tr|S7ZGP5|S7ZGP5_PENO1 SMP-30/Gluconolactonase/LRE-like region domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04403 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9995279	.	.	.
+tr|S7ZGU9|S7ZGU9_PENO1 Heme haloperoxidase family profile domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04474 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997168	.	.	.
+tr|S7ZGV3|S7ZGV3_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02805 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997793	.	.	.
+tr|S7ZGV6|S7ZGV6_PENO1 Mid2 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04479 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99971706	.	.	.
+tr|S7ZH04|S7ZH04_PENO1 IgE-binding protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04519 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.999743	.	.	.
+tr|S7ZH82|S7ZH82_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04985 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99969167	.	.	.
+tr|S7ZHE8|S7ZHE8_PENO1 Mid2 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05040 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9995882	.	.	.
+tr|S7ZHF3|S7ZHF3_PENO1 Putative alpha-1,2 / alpha-1,6-mannosyltransferase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04644 PE=3 SV=1	SignalP-6.0	signal_peptide	1	38	0.704246	.	.	.
+tr|S7ZHH3|S7ZHH3_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05065 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99958587	.	.	.
+tr|S7ZHN5|S7ZHN5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03152 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9995747	.	.	.
+tr|S7ZI49|S7ZI49_PENO1 Chitin binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03292 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9996761	.	.	.
+tr|S7ZI88|S7ZI88_PENO1 Allergen Asp f 4 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04949 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99972826	.	.	.
+tr|S7ZI92|S7ZI92_PENO1 Putative alpha-1,6-mannanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05286 PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.9353668	.	.	.
+tr|S7ZIA7|S7ZIA7_PENO1 Secreted protein CSS2 C-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04969 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996259	.	.	.
+tr|S7ZIK2|S7ZIK2_PENO1 Extracellular serine-rich protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03472 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99971	.	.	.
+tr|S7ZIP1|S7ZIP1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03507 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.77518183	.	.	.
+tr|S7ZIQ5|S7ZIQ5_PENO1 GPI anchored protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05471 PE=4 SV=1	SignalP-6.0	signal_peptide	1	14	0.99965394	.	.	.
+tr|S7ZIT7|S7ZIT7_PENO1 Jacalin-type lectin domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05502 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996494	.	.	.
+tr|S7ZIZ2|S7ZIZ2_PENO1 Putative carbohydrate acetylesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05194 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996336	.	.	.
+tr|S7ZJ45|S7ZJ45_PENO1 GOLD domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03657 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9997651	.	.	.
+tr|S7ZJ85|S7ZJ85_PENO1 Peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05657 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99975425	.	.	.
+tr|S7ZJA1|S7ZJA1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03702 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99981046	.	.	.
+tr|S7ZJQ1|S7ZJQ1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03832 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99974704	.	.	.
+tr|S7ZJQ6|S7ZJQ6_PENO1 DUF5703 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05782 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997087	.	.	.
+tr|S7ZJW4|S7ZJW4_PENO1 Peptidyl-tRNA hydrolase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03917 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99970406	.	.	.
+tr|S7ZJW8|S7ZJW8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03922 PE=4 SV=1	SignalP-6.0	signal_peptide	1	43	0.5425942	.	.	.
+tr|S7ZK41|S7ZK41_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05949 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99969107	.	.	.
+tr|S7ZK99|S7ZK99_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06014 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99921274	.	.	.
+tr|S7ZKB2|S7ZKB2_PENO1 Phosphatidate phosphatase APP1 catalytic domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06029 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.998733	.	.	.
+tr|S7ZKB6|S7ZKB6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06034 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99967825	.	.	.
+tr|S7ZKD4|S7ZKD4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06055 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9997557	.	.	.
+tr|S7ZKI3|S7ZKI3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04145 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997424	.	.	.
+tr|S7ZKJ6|S7ZKJ6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06125 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99967116	.	.	.
+tr|S7ZKU8|S7ZKU8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06210 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996922	.	.	.
+tr|S7ZKX0|S7ZKX0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04260 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9995029	.	.	.
+tr|S7ZL19|S7ZL19_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05973 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997216	.	.	.
+tr|S7ZL81|S7ZL81_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06325 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99950314	.	.	.
+tr|S7ZLD1|S7ZLD1_PENO1 DUF7907 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06089 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997695	.	.	.
+tr|S7ZLD7|S7ZLD7_PENO1 Putative beta-N-acetylhexosaminidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99964195	.	.	.
+tr|S7ZLE1|S7ZLE1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06405 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.869619	.	.	.
+tr|S7ZLF3|S7ZLF3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06114 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997071	.	.	.
+tr|S7ZLF5|S7ZLF5_PENO1 Integral membrane protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04471 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99944466	.	.	.
+tr|S7ZLG3|S7ZLG3_PENO1 Peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06124 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99960506	.	.	.
+tr|S7ZLK6|S7ZLK6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06164 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99974746	.	.	.
+tr|S7ZLR3|S7ZLR3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06209 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997882	.	.	.
+tr|S7ZLU9|S7ZLU9_PENO1 Glycoside hydrolase 131 catalytic N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06585 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99961877	.	.	.
+tr|S7ZM04|S7ZM04_PENO1 Calcineurin-like phosphoesterase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06652 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996852	.	.	.
+tr|S7ZM05|S7ZM05_PENO1 Phospholipase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04681 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99973625	.	.	.
+tr|S7ZM28|S7ZM28_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06677 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.999537	.	.	.
+tr|S7ZM92|S7ZM92_PENO1 Galactose oxidase/kelch, beta-propeller OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06409 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.94438636	.	.	.
+tr|S7ZMB4|S7ZMB4_PENO1 Putative endo-beta-1,4-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06439 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99978125	.	.	.
+tr|S7ZMJ7|S7ZMJ7_PENO1 Fungal lipase-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06813 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9996485	.	.	.
+tr|S7ZMP1|S7ZMP1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06579 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99974084	.	.	.
+tr|S7ZMR1|S7ZMR1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04921 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99950707	.	.	.
+tr|S7ZMS4|S7ZMS4_PENO1 Protein kinase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06611 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9966362	.	.	.
+tr|S7ZMT6|S7ZMT6_PENO1 Putative alpha-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06621 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997656	.	.	.
+tr|S7ZMW3|S7ZMW3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06646 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99978137	.	.	.
+tr|S7ZN03|S7ZN03_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07019 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997338	.	.	.
+tr|S7ZN67|S7ZN67_PENO1 Lysine-specific metallo-endopeptidase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07084 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99976206	.	.	.
+tr|S7ZN71|S7ZN71_PENO1 Acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06737 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9994979	.	.	.
+tr|S7ZNE7|S7ZNE7_PENO1 SH3b domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06797 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999782	.	.	.
+tr|S7ZNI6|S7ZNI6_PENO1 GPI anchored protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99957925	.	.	.
+tr|S7ZNU5|S7ZNU5_PENO1 Putative bifunctional alpha-glucuronidase/N-acetyl beta-glucosaminidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07013 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9994992	.	.	.
+tr|S7ZNW1|S7ZNW1_PENO1 PLC-like phosphodiesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07033 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996979	.	.	.
+tr|S7ZNZ8|S7ZNZ8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05312 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99971473	.	.	.
+tr|S7ZP23|S7ZP23_PENO1 Putative carbohydrate acetylesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05342 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99959296	.	.	.
+tr|S7ZPD7|S7ZPD7_PENO1 GPI anchored protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05462 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999667	.	.	.
+tr|S7ZPD9|S7ZPD9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07545 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9994068	.	.	.
+tr|S7ZPF5|S7ZPF5_PENO1 Putative alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07234 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99945456	.	.	.
+tr|S7ZPH8|S7ZPH8_PENO1 Putative alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07585 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99947035	.	.	.
+tr|S7ZPP9|S7ZPP9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07655 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997152	.	.	.
+tr|S7ZPQ0|S7ZPQ0_PENO1 LPXTG-domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05578 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.99976414	.	.	.
+tr|S7ZPS1|S7ZPS1_PENO1 Putative beta-xylosidase/alpha-L-arabinofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07334 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997796	.	.	.
+tr|S7ZPV3|S7ZPV3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07705 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997655	.	.	.
+tr|S7ZPW1|S7ZPW1_PENO1 Cellulose monooxygenase Cel61A OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05633 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9992704	.	.	.
+tr|S7ZPZ5|S7ZPZ5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07745 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99962056	.	.	.
+tr|S7ZPZ6|S7ZPZ6_PENO1 DUF7137 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05663 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9968253	.	.	.
+tr|S7ZQE5|S7ZQE5_PENO1 ER membrane protein complex subunit 10 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05793 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9989803	.	.	.
+tr|S7ZQG6|S7ZQG6_PENO1 Microcystin LR degradation protein MlrC OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07931 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.953504	.	.	.
+tr|S7ZQH1|S7ZQH1_PENO1 DUF7732 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05828 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997125	.	.	.
+tr|S7ZQJ0|S7ZQJ0_PENO1 Putative lichenase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07639 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99973166	.	.	.
+tr|S7ZQW9|S7ZQW9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07754 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9995743	.	.	.
+tr|S7ZQZ1|S7ZQZ1_PENO1 Chitin-binding type-4 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06035 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99978733	.	.	.
+tr|S7ZR83|S7ZR83_PENO1 Antifungal protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06126 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99972194	.	.	.
+tr|S7ZR97|S7ZR97_PENO1 Integral membrane protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08207 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997547	.	.	.
+tr|S7ZRB6|S7ZRB6_PENO1 Putative beta-fructofuranosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06156 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999714	.	.	.
+tr|S7ZRJ1|S7ZRJ1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06231 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99942386	.	.	.
+tr|S7ZRR4|S7ZRR4_PENO1 Malate dehydrogenase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08382 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.999753	.	.	.
+tr|S7ZRT2|S7ZRT2_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06341 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99972665	.	.	.
+tr|S7ZS28|S7ZS28_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06466 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974275	.	.	.
+tr|S7ZS32|S7ZS32_PENO1 FAS1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06471 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999549	.	.	.
+tr|S7ZSJ1|S7ZSJ1_PENO1 Ecp2 effector protein domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06643 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99962544	.	.	.
+tr|S7ZSK8|S7ZSK8_PENO1 GOLD domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08336 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99975497	.	.	.
+tr|S7ZST6|S7ZST6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06729 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99925375	.	.	.
+tr|S7ZSU2|S7ZSU2_PENO1 Amine oxidase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06734 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.74791753	.	.	.
+tr|S7ZT19|S7ZT19_PENO1 Acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06814 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996493	.	.	.
+tr|S7ZTB9|S7ZTB9_PENO1 Cell wall mannoprotein PIR1-like C-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08912 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99958086	.	.	.
+tr|S7ZTG0|S7ZTG0_PENO1 Lipase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08957 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9995603	.	.	.
+tr|S7ZTS2|S7ZTS2_PENO1 GPI transamidase component Gpi16 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08776 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99971914	.	.	.
+tr|S7ZU11|S7ZU11_PENO1 Acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08846 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9991958	.	.	.
+tr|S7ZU36|S7ZU36_PENO1 Cellular morphogenesis protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09184 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99960905	.	.	.
+tr|S7ZU75|S7ZU75_PENO1 Amidase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07261 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99436593	.	.	.
+tr|S7ZU94|S7ZU94_PENO1 Putative alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07276 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997941	.	.	.
+tr|S7ZUD9|S7ZUD9_PENO1 Putative exo-beta-1,3-galactanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09279 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997514	.	.	.
+tr|S7ZUG0|S7ZUG0_PENO1 DUF7907 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09289 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997415	.	.	.
+tr|S7ZUQ7|S7ZUQ7_PENO1 Heme haloperoxidase family profile domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09414 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997809	.	.	.
+tr|S7ZV02|S7ZV02_PENO1 SUN domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09218 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99901426	.	.	.
+tr|S7ZV59|S7ZV59_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07606 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99972326	.	.	.
+tr|S7ZVA7|S7ZVA7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07656 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9664163	.	.	.
+tr|S7ZVF3|S7ZVF3_PENO1 Putative exo-alpha-L-1,5-arabinanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09333 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9991215	.	.	.
+tr|S7ZVI0|S7ZVI0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09709 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.92789114	.	.	.
+tr|S7ZVI1|S7ZVI1_PENO1 WSC domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09373 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99975234	.	.	.
+tr|S7ZVI6|S7ZVI6_PENO1 Thioredoxin domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09714 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9936125	.	.	.
+tr|S7ZVY7|S7ZVY7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09839 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.68671656	.	.	.
+tr|S7ZVZ9|S7ZVZ9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09854 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999751	.	.	.
+tr|S7ZW17|S7ZW17_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09598 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99974877	.	.	.
+tr|S7ZW62|S7ZW62_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09643 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.67618126	.	.	.
+tr|S7ZW73|S7ZW73_PENO1 BYS1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09950 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997549	.	.	.
+tr|S7ZWA3|S7ZWA3_PENO1 DUF7728 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09683 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.96007067	.	.	.
+tr|S7ZWC7|S7ZWC7_PENO1 Putative exo-alpha-L-1,5-arabinanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08038 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999748	.	.	.
+tr|S7ZX14|S7ZX14_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09959 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996057	.	.	.
+tr|S7ZXN6|S7ZXN6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08503 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.70955503	.	.	.
+tr|S7ZY24|S7ZY24_PENO1 Acid phosphatase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08678 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996565	.	.	.
+tr|S7ZY32|S7ZY32_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08688 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997402	.	.	.
+tr|S7ZYE5|S7ZYE5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08773 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996218	.	.	.
+tr|S7ZZL5|S7ZZL5_PENO1 Peptidase A1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09250 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9942078	.	.	.
+tr|S7ZZV3|S7ZZV3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09315 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997194	.	.	.
+tr|S8A0T5|S8A0T5_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09715 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997643	.	.	.
+tr|S8A111|S8A111_PENO1 Copper acquisition factor BIM1-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09780 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997542	.	.	.
+tr|S8A1A6|S8A1A6_PENO1 DUF1996 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09865 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997577	.	.	.
+tr|S8A1E1|S8A1E1_PENO1 FAD-binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09911 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.5862128	.	.	.
+tr|S8A1L5|S8A1L5_PENO1 Putative alpha-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_10011 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99970704	.	.	.
+tr|S8AHU6|S8AHU6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00216 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99964595	.	.	.
+tr|S8AIH1|S8AIH1_PENO1 AB hydrolase-1 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00482 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99970984	.	.	.
+tr|S8AIM5|S8AIM5_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00552 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99978673	.	.	.
+tr|S8AIS1|S8AIS1_PENO1 AA1-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00612 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99709296	.	.	.
+tr|S8AJ17|S8AJ17_PENO1 LicD/FKTN/FKRP nucleotidyltransferase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00704 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99962986	.	.	.
+tr|S8AJE2|S8AJE2_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00809 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99969	.	.	.
+tr|S8AJH9|S8AJH9_PENO1 Glucosidase 2 subunit beta OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00864 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997094	.	.	.
+tr|S8AJI8|S8AJI8_PENO1 ASST-domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00879 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996682	.	.	.
+tr|S8AJL9|S8AJL9_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00924 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997048	.	.	.
+tr|S8AK33|S8AK33_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01114 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99969155	.	.	.
+tr|S8AK78|S8AK78_PENO1 Carboxylesterase type B domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01169 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997098	.	.	.
+tr|S8AKL5|S8AKL5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01274 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.999777	.	.	.
+tr|S8AKR8|S8AKR8_PENO1 DUF8213 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01349 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9997784	.	.	.
+tr|S8AKS0|S8AKS0_PENO1 Starch binding domain-and chitin binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01354 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.998507	.	.	.
+tr|S8AKV9|S8AKV9_PENO1 Putative PHB depolymerase family esterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01410 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.6377364	.	.	.
+tr|S8AKW3|S8AKW3_PENO1 Allergen Asp f 4 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01415 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9995996	.	.	.
+tr|S8AKY6|S8AKY6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01445 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9760116	.	.	.
+tr|S8ALQ8|S8ALQ8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01737 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9993616	.	.	.
+tr|S8ALR5|S8ALR5_PENO1 Membrane fusion mating protein FIG1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01742 PE=4 SV=1	SignalP-6.0	signal_peptide	1	39	0.9982512	.	.	.
+tr|S8ALV6|S8ALV6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01767 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9978719	.	.	.
+tr|S8ALY4|S8ALY4_PENO1 Glutaminase GtaA OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01798 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99573004	.	.	.
+tr|S8AM33|S8AM33_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01863 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997	.	.	.
+tr|S8AM56|S8AM56_PENO1 Fibronectin type-III domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01888 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99974203	.	.	.
+tr|S8AP42|S8AP42_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02637 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9904039	.	.	.
+tr|S8AP61|S8AP61_PENO1 Phosphoglycerate mutase family protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02652 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99975044	.	.	.
+tr|S8AQ73|S8AQ73_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03044 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997674	.	.	.
+tr|S8AQV3|S8AQV3_PENO1 Putative pectin acetylesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03289 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9994867	.	.	.
+tr|S8AR94|S8AR94_PENO1 Intradiol ring-cleavage dioxygenases domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03474 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996402	.	.	.
+tr|S8ARA5|S8ARA5_PENO1 IgE-binding protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03484 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9994237	.	.	.
+tr|S8ARR4|S8ARR4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03654 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9980384	.	.	.
+tr|S8AS83|S8AS83_PENO1 Putative carbohydrate acetylesterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03849 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996309	.	.	.
+tr|S8ASE7|S8ASE7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03934 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99972737	.	.	.
+tr|S8ASR8|S8ASR8_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04087 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99970615	.	.	.
+tr|S8AT05|S8AT05_PENO1 Putative acetyl xylan esterase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04182 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99959284	.	.	.
+tr|S8ATD9|S8ATD9_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00013 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99963325	.	.	.
+tr|S8ATN5|S8ATN5_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04443 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997271	.	.	.
+tr|S8ATU2|S8ATU2_PENO1 Glutaminase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04513 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99964404	.	.	.
+tr|S8AU72|S8AU72_PENO1 Putative exo-beta-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00310 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9997435	.	.	.
+tr|S8AU83|S8AU83_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04663 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99978995	.	.	.
+tr|S8AUE0|S8AUE0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00395 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.97814137	.	.	.
+tr|S8AUE4|S8AUE4_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04708 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997901	.	.	.
+tr|S8AUF8|S8AUF8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04723 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99957407	.	.	.
+tr|S8AUN0|S8AUN0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04783 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9891148	.	.	.
+tr|S8AUW0|S8AUW0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04913 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996611	.	.	.
+tr|S8AUX2|S8AUX2_PENO1 Putative alpha-mannosidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00591 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997114	.	.	.
+tr|S8AV02|S8AV02_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00621 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997397	.	.	.
+tr|S8AV31|S8AV31_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05018 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.59341913	.	.	.
+tr|S8AV43|S8AV43_PENO1 SCP domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00663 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99950486	.	.	.
+tr|S8AV78|S8AV78_PENO1 Putative cellulose monooxygenase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_00698 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99947864	.	.	.
+tr|S8AVM6|S8AVM6_PENO1 Peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05249 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997208	.	.	.
+tr|S8AVY1|S8AVY1_PENO1 Allergen Asp f 4 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05339 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.72771126	.	.	.
+tr|S8AW05|S8AW05_PENO1 DOMON domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05374 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.8300254	.	.	.
+tr|S8AW27|S8AW27_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05404 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997326	.	.	.
+tr|S8AWC5|S8AWC5_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01113 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99948764	.	.	.
+tr|S8AWH6|S8AWH6_PENO1 Putative chitinase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01168 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99972713	.	.	.
+tr|S8AWP3|S8AWP3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05670 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996932	.	.	.
+tr|S8AX50|S8AX50_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01434 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997729	.	.	.
+tr|S8AXF2|S8AXF2_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05982 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.99882585	.	.	.
+tr|S8AXM3|S8AXM3_PENO1 Putative endo-beta-1,6-galactanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06058 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9994979	.	.	.
+tr|S8AXT8|S8AXT8_PENO1 Extracellular membrane protein CFEM domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06128 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99976414	.	.	.
+tr|S8AXU9|S8AXU9_PENO1 Ecm33 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06138 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99977064	.	.	.
+tr|S8AY42|S8AY42_PENO1 Vacuolar protein sorting-associated protein 62 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_01802 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997523	.	.	.
+tr|S8AYE7|S8AYE7_PENO1 DUF7707 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06333 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99974734	.	.	.
+tr|S8AYH3|S8AYH3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06378 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997731	.	.	.
+tr|S8AYI9|S8AYI9_PENO1 Calcineurin-like phosphoesterase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06403 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997099	.	.	.
+tr|S8AYV0|S8AYV0_PENO1 Putative alpha-N-acetylglucosaminidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997485	.	.	.
+tr|S8AYX1|S8AYX1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02125 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99974954	.	.	.
+tr|S8AYY9|S8AYY9_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02145 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99970484	.	.	.
+tr|S8AZ07|S8AZ07_PENO1 FAD/NAD(P)-binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06625 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99965054	.	.	.
+tr|S8AZ20|S8AZ20_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02180 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996418	.	.	.
+tr|S8AZ26|S8AZ26_PENO1 Protein ROT1 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02190 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.9996919	.	.	.
+tr|S8AZ57|S8AZ57_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02220 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997475	.	.	.
+tr|S8AZ87|S8AZ87_PENO1 Cytochrome b561 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02245 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.63449204	.	.	.
+tr|S8AZJ7|S8AZJ7_PENO1 Proteinase inhibitor, propeptide OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02370 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.999725	.	.	.
+tr|S8AZS6|S8AZS6_PENO1 Putative chitin deacetylase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02470 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9990101	.	.	.
+tr|S8AZS7|S8AZS7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06912 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.8094031	.	.	.
+tr|S8B083|S8B083_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07113 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.75524825	.	.	.
+tr|S8B0D8|S8B0D8_PENO1 GPI anchored serine-rich protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02721 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997712	.	.	.
+tr|S8B0K7|S8B0K7_PENO1 Sexual development protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07258 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99973387	.	.	.
+tr|S8B0N0|S8B0N0_PENO1 Putative beta-glucuronidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02801 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99966675	.	.	.
+tr|S8B0P5|S8B0P5_PENO1 LicD/FKTN/FKRP nucleotidyltransferase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_02826 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997283	.	.	.
+tr|S8B129|S8B129_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07453 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99979216	.	.	.
+tr|S8B1F8|S8B1F8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07608 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997682	.	.	.
+tr|S8B1J2|S8B1J2_PENO1 Putative exo-beta-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07643 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.9996508	.	.	.
+tr|S8B1L6|S8B1L6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03193 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99977577	.	.	.
+tr|S8B1S8|S8B1S8_PENO1 Cytochrome b561 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03258 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99964726	.	.	.
+tr|S8B1X2|S8B1X2_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03308 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99967015	.	.	.
+tr|S8B226|S8B226_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03388 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.98815036	.	.	.
+tr|S8B281|S8B281_PENO1 Peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07894 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9408995	.	.	.
+tr|S8B2B8|S8B2B8_PENO1 Amine oxidase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07934 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9825988	.	.	.
+tr|S8B2H7|S8B2H7_PENO1 Putative endo-beta-1,4-xylanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03573 PE=3 SV=1	SignalP-6.0	signal_peptide	1	33	0.98342854	.	.	.
+tr|S8B2Q7|S8B2Q7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08080 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997322	.	.	.
+tr|S8B2S7|S8B2S7_PENO1 Dickkopf N-terminal cysteine-rich domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03698 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99965537	.	.	.
+tr|S8B303|S8B303_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08180 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997381	.	.	.
+tr|S8B370|S8B370_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_03853 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.51811445	.	.	.
+tr|S8B3U6|S8B3U6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08435 PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.66851896	.	.	.
+tr|S8B3Z7|S8B3Z7_PENO1 Mid2 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9996227	.	.	.
+tr|S8B4A6|S8B4A6_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04286 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99954	.	.	.
+tr|S8B4F0|S8B4F0_PENO1 Phytase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04356 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.60874945	.	.	.
+tr|S8B4G7|S8B4G7_PENO1 Putative alpha-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04381 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99955577	.	.	.
+tr|S8B516|S8B516_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04612 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996901	.	.	.
+tr|S8B556|S8B556_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08945 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9993223	.	.	.
+tr|S8B585|S8B585_PENO1 Yeast cell wall synthesis Kre9/Knh1-like N-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_04682 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997437	.	.	.
+tr|S8B5E5|S8B5E5_PENO1 Bys1 family protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09040 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99970853	.	.	.
+tr|S8B5N2|S8B5N2_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09137 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99458134	.	.	.
+tr|S8B5R4|S8B5R4_PENO1 Integral membrane protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09167 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9001817	.	.	.
+tr|S8B5W3|S8B5W3_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09212 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9996739	.	.	.
+tr|S8B6I8|S8B6I8_PENO1 Putative alpha-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05223 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.95653355	.	.	.
+tr|S8B6K2|S8B6K2_PENO1 Laccase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09492 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99972147	.	.	.
+tr|S8B6N4|S8B6N4_PENO1 Endo-beta-1,2-glucanase SGL domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09537 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99978215	.	.	.
+tr|S8B6P6|S8B6P6_PENO1 Long chronological lifespan protein 2 OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09557 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99976635	.	.	.
+tr|S8B6Q3|S8B6Q3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05283 PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.9995567	.	.	.
+tr|S8B6S8|S8B6S8_PENO1 DUF7492 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05323 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997331	.	.	.
+tr|S8B710|S8B710_PENO1 Mid2 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05433 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99976045	.	.	.
+tr|S8B777|S8B777_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09747 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9980244	.	.	.
+tr|S8B7B1|S8B7B1_PENO1 Ribophorin II C-terminal domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05554 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99939805	.	.	.
+tr|S8B7E9|S8B7E9_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09832 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997156	.	.	.
+tr|S8B834|S8B834_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05824 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996774	.	.	.
+tr|S8B839|S8B839_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05829 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99971306	.	.	.
+tr|S8B8B6|S8B8B6_PENO1 Putative rhamnogalacturonase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_05931 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99978197	.	.	.
+tr|S8B8L3|S8B8L3_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06057 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997067	.	.	.
+tr|S8B8Z7|S8B8Z7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06187 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997923	.	.	.
+tr|S8B9N8|S8B9N8_PENO1 Mid2 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06462 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99965674	.	.	.
+tr|S8B9R9|S8B9R9_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06502 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99961495	.	.	.
+tr|S8B9U0|S8B9U0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06527 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997901	.	.	.
+tr|S8B9X6|S8B9X6_PENO1 Chitin binding domain-and peptidoglycan binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06567 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9994517	.	.	.
+tr|S8BA22|S8BA22_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06609 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99975336	.	.	.
+tr|S8BA60|S8BA60_PENO1 PPPDE domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06644 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99980116	.	.	.
+tr|S8BAK1|S8BAK1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_06770 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99969304	.	.	.
+tr|S8BB20|S8BB20_PENO1 Asl1-like glycosyl hydrolase catalytic domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07011 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99151343	.	.	.
+tr|S8BB42|S8BB42_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07041 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9995294	.	.	.
+tr|S8BB55|S8BB55_PENO1 GPI anchored protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07056 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99955434	.	.	.
+tr|S8BB90|S8BB90_PENO1 Secreted protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07091 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997569	.	.	.
+tr|S8BBA3|S8BBA3_PENO1 Small secreted protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07106 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99970543	.	.	.
+tr|S8BBD2|S8BBD2_PENO1 Putative beta-glucuronidase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07137 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.95392823	.	.	.
+tr|S8BBE0|S8BBE0_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07147 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99922734	.	.	.
+tr|S8BBJ4|S8BBJ4_PENO1 Alpha-L-rhamnosidase six-hairpin glycosidase domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07212 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99976313	.	.	.
+tr|S8BBP1|S8BBP1_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07252 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9995036	.	.	.
+tr|S8BBQ8|S8BBQ8_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07267 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996956	.	.	.
+tr|S8BC49|S8BC49_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07437 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99038315	.	.	.
+tr|S8BCB0|S8BCB0_PENO1 EF-hand domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07527 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99977064	.	.	.
+tr|S8BD27|S8BD27_PENO1 DUF1237 domain protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_07803 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9995765	.	.	.
+tr|S8BDI3|S8BDI3_PENO1 RTA1 domain protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08024 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99972564	.	.	.
+tr|S8BDR6|S8BDR6_PENO1 Putative exo-beta-1,3-glucanase OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08139 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99969906	.	.	.
+tr|S8BEA6|S8BEA6_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08314 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.57667804	.	.	.
+tr|S8BEI9|S8BEI9_PENO1 ASST-domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08439 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9996078	.	.	.
+tr|S8BEP3|S8BEP3_PENO1 Hydrophobin OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08499 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996436	.	.	.
+tr|S8BF81|S8BF81_PENO1 Fungal lipase-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08709 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99967074	.	.	.
+tr|S8BFD2|S8BFD2_PENO1 FAD-binding PCMH-type domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_08764 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997557	.	.	.
+tr|S8BGB7|S8BGB7_PENO1 ER membrane protein complex subunit 7 beta-sandwich domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09126 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.783724	.	.	.
+tr|S8BH29|S8BH29_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09391 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999247	.	.	.
+tr|S8BH68|S8BH68_PENO1 Chitin binding domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09441 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99951935	.	.	.
+tr|S8BHG8|S8BHG8_PENO1 Expansin-like EG45 domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09586 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997389	.	.	.
+tr|S8BI83|S8BI83_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09907 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9970758	.	.	.
+tr|S8BIB0|S8BIB0_PENO1 Fungal lipase-like domain-containing protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_09947 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99974144	.	.	.
+tr|S8BIG7|S8BIG7_PENO1 Uncharacterized protein OS=Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX=933388 GN=PDE_10012 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99963003	.	.	.

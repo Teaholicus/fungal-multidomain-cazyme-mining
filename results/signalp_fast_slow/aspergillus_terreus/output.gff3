@@ -1,0 +1,881 @@
+## gff-version 3
+tr|A0A5M3YWE0|A0A5M3YWE0_ASPTE Acyl-coenzyme A diphosphatase SCS3 OS=Aspergillus terreus OX=33178 GN=SCS3 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998184	.	.	.
+tr|A0A5M3YMZ5|A0A5M3YMZ5_ASPTE alpha-1,2-Mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001108800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	34	0.99973553	.	.	.
+tr|A0A5M3YNU5|A0A5M3YNU5_ASPTE Putative lipase ATG15 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001069400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	35	0.999853	.	.	.
+tr|A0A5M3YPR2|A0A5M3YPR2_ASPTE saccharopepsin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004066000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998926	.	.	.
+tr|A0A5M3YS30|A0A5M3YS30_ASPTE glucan 1,4-alpha-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002081700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99983215	.	.	.
+tr|A0A5M3YTN4|A0A5M3YTN4_ASPTE DSC E3 ubiquitin ligase complex subunit A OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003040600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99984014	.	.	.
+tr|A0A5M3YTP9|A0A5M3YTP9_ASPTE alpha-1,2-Mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003064900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99959046	.	.	.
+tr|A0A5M3YUM8|A0A5M3YUM8_ASPTE non-specific serine/threonine protein kinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004092300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9999424	.	.	.
+tr|A0A5M3YWV2|A0A5M3YWV2_ASPTE Sorting nexin-4 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006041000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998057	.	.	.
+tr|A0A5M3YX81|A0A5M3YX81_ASPTE alpha-1,2-Mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003072100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.9998319	.	.	.
+tr|A0A5M3YZY8|A0A5M3YZY8_ASPTE Neutral protease 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005001000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985224	.	.	.
+tr|A0A5M3Z0C0|A0A5M3Z0C0_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005014500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982727	.	.	.
+tr|A0A5M3Z0L0|A0A5M3Z0L0_ASPTE xylan 1,4-beta-xylosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005017300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998664	.	.	.
+tr|A0A5M3Z117|A0A5M3Z117_ASPTE Crh-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005025200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997791	.	.	.
+tr|A0A5M3Z1F1|A0A5M3Z1F1_ASPTE Phytase A OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005040200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985516	.	.	.
+tr|A0A5M3Z1U6|A0A5M3Z1U6_ASPTE Protein disulfide-isomerase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005083900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997327	.	.	.
+tr|A0A5M3Z2D3|A0A5M3Z2D3_ASPTE Probable alpha/beta-glucosidase agdC OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005024300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.99984723	.	.	.
+tr|A0A5M3Z3T3|A0A5M3Z3T3_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010005300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998234	.	.	.
+tr|A0A5M3Z7R5|A0A5M3Z7R5_ASPTE 1,4-alpha-glucan-branching enzyme OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009019900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983585	.	.	.
+tr|A0A5M3Z8H4|A0A5M3Z8H4_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009041500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981457	.	.	.
+tr|A0A5M3Z8I4|A0A5M3Z8I4_ASPTE Probable beta-glucosidase btgE OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009038000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99977225	.	.	.
+tr|A0A5M3ZAC9|A0A5M3ZAC9_ASPTE 1,3-beta-glucanosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008046400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981153	.	.	.
+tr|A0A5M3ZB26|A0A5M3ZB26_ASPTE Neutral protease 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012014700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99987316	.	.	.
+tr|A0A5M3ZBE8|A0A5M3ZBE8_ASPTE Catalase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009008100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998121	.	.	.
+tr|A0A5M3ZBU2|A0A5M3ZBU2_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012007000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982315	.	.	.
+tr|A0A5M3ZC01|A0A5M3ZC01_ASPTE Crh-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013008700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998198	.	.	.
+tr|A0A5M3ZC72|A0A5M3ZC72_ASPTE Inactive metallocarboxypeptidase ECM14 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013021500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99981034	.	.	.
+tr|A0A5M3ZCI2|A0A5M3ZCI2_ASPTE Pheromone-processing carboxypeptidase KEX1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010002900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	38	0.99982166	.	.	.
+tr|A0A5M3ZCQ7|A0A5M3ZCQ7_ASPTE Alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009056700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99984145	.	.	.
+tr|A0A5M3ZFS8|A0A5M3ZFS8_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013035200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99978936	.	.	.
+tr|A0A5M3ZH23|A0A5M3ZH23_ASPTE Probable glucan endo-1,3-beta-glucosidase eglC OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016003600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999839	.	.	.
+tr|A0A5M3YKQ3|A0A5M3YKQ3_ASPTE cutinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001004900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997804	.	.	.
+tr|A0A5M3YL11|A0A5M3YL11_ASPTE endo-1,3(4)-beta-glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001006300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99983895	.	.	.
+tr|A0A5M3YL27|A0A5M3YL27_ASPTE Carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003002600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998299	.	.	.
+tr|A0A5M3YL62|A0A5M3YL62_ASPTE pectate lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001032000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.999828	.	.	.
+tr|A0A5M3YL94|A0A5M3YL94_ASPTE phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001033600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99978644	.	.	.
+tr|A0A5M3YLA6|A0A5M3YLA6_ASPTE Lectin family integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001035600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9984849	.	.	.
+tr|A0A5M3YLE4|A0A5M3YLE4_ASPTE pectin lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001041700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99976724	.	.	.
+tr|A0A5M3YLP1|A0A5M3YLP1_ASPTE mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001055100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997949	.	.	.
+tr|A0A5M3YLX0|A0A5M3YLX0_ASPTE mannan endo-1,4-beta-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001057300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998114	.	.	.
+tr|A0A5M3YLX6|A0A5M3YLX6_ASPTE alpha-1,3-glucan synthase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001065100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998023	.	.	.
+tr|A0A5M3YM96|A0A5M3YM96_ASPTE galacturonan 1,4-alpha-galacturonidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001081800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982727	.	.	.
+tr|A0A5M3YMC2|A0A5M3YMC2_ASPTE CFEM-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001000200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998339	.	.	.
+tr|A0A5M3YMF0|A0A5M3YMF0_ASPTE Endo-chitosanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001088900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998057	.	.	.
+tr|A0A5M3YMF7|A0A5M3YMF7_ASPTE N,O-diacetylmuramidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001004200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998382	.	.	.
+tr|A0A5M3YMH3|A0A5M3YMH3_ASPTE Arabinan endo-1,5-alpha-L-arabinosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001077300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9882267	.	.	.
+tr|A0A5M3YMN7|A0A5M3YMN7_ASPTE pectinesterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001092600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998317	.	.	.
+tr|A0A5M3YN89|A0A5M3YN89_ASPTE Alpha-galactosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002082500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981964	.	.	.
+tr|A0A5M3YN90|A0A5M3YN90_ASPTE cellulase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002083400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998485	.	.	.
+tr|A0A5M3YNT2|A0A5M3YNT2_ASPTE beta-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004018600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99990755	.	.	.
+tr|A0A5M3YNT5|A0A5M3YNT5_ASPTE Arylsulfatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004027000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99969065	.	.	.
+tr|A0A5M3YP19|A0A5M3YP19_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001076400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983644	.	.	.
+tr|A0A5M3YPA9|A0A5M3YPA9_ASPTE Mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004036800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998508	.	.	.
+tr|A0A5M3YPB9|A0A5M3YPB9_ASPTE superoxide dismutase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004037800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998406	.	.	.
+tr|A0A5M3YPS7|A0A5M3YPS7_ASPTE glutamate--tRNA ligase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001037900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.83256376	.	.	.
+tr|A0A5M3YQ09|A0A5M3YQ09_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001004700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9999584	.	.	.
+tr|A0A5M3YQ85|A0A5M3YQ85_ASPTE ribonuclease T1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004077400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99984765	.	.	.
+tr|A0A5M3YQC5|A0A5M3YQC5_ASPTE Zn(2)-C6 fungal-type domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004081400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.6932842	.	.	.
+tr|A0A5M3YQF0|A0A5M3YQF0_ASPTE 1,3-beta-glucanosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001028800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.999736	.	.	.
+tr|A0A5M3YQG5|A0A5M3YQG5_ASPTE Arylsulfatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001030800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99964666	.	.	.
+tr|A0A5M3YQT7|A0A5M3YQT7_ASPTE Endoplasmic oxidoreductin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003015300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998484	.	.	.
+tr|A0A5M3YQY2|A0A5M3YQY2_ASPTE tripeptidyl-peptidase II OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001080000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99986213	.	.	.
+tr|A0A5M3YRC0|A0A5M3YRC0_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001065900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998191	.	.	.
+tr|A0A5M3YRQ7|A0A5M3YRQ7_ASPTE 1,3-beta-glucanosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004081900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99985385	.	.	.
+tr|A0A5M3YSE8|A0A5M3YSE8_ASPTE Carbonic anhydrase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003017100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998498	.	.	.
+tr|A0A5M3YSH4|A0A5M3YSH4_ASPTE Alpha-amylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003071400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998543	.	.	.
+tr|A0A5M3YSP2|A0A5M3YSP2_ASPTE Beta-xylanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003079300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998485	.	.	.
+tr|A0A5M3YSQ6|A0A5M3YSQ6_ASPTE Actin-like ATPase-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003082900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	42	0.9580764	.	.	.
+tr|A0A5M3YSS4|A0A5M3YSS4_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003073700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999845	.	.	.
+tr|A0A5M3YST9|A0A5M3YST9_ASPTE Cell wall mannoprotein 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003029500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	33	0.9997207	.	.	.
+tr|A0A5M3YSX9|A0A5M3YSX9_ASPTE Transmembrane 9 superfamily member OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003091000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998067	.	.	.
+tr|A0A5M3YSY8|A0A5M3YSY8_ASPTE DNA repair helicase rad5 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004005700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.999856	.	.	.
+tr|A0A5M3YSZ3|A0A5M3YSZ3_ASPTE Beta-hexosaminidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003012900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998265	.	.	.
+tr|A0A5M3YT99|A0A5M3YT99_ASPTE pectin lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003092700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99975497	.	.	.
+tr|A0A5M3YTK6|A0A5M3YTK6_ASPTE Integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002013100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983364	.	.	.
+tr|A0A5M3YTQ3|A0A5M3YTQ3_ASPTE DUF907 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003042600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999848	.	.	.
+tr|A0A5M3YTY1|A0A5M3YTY1_ASPTE tripeptidyl-peptidase II OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002024800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99980706	.	.	.
+tr|A0A5M3YTY7|A0A5M3YTY7_ASPTE Mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003073800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998363	.	.	.
+tr|A0A5M3YU02|A0A5M3YU02_ASPTE Cutinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004078500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	33	0.9998565	.	.	.
+tr|A0A5M3YU27|A0A5M3YU27_ASPTE Rhamnogalacturonate lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002028800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983937	.	.	.
+tr|A0A5M3YU74|A0A5M3YU74_ASPTE Cell wall mannoprotein 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004077300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99979734	.	.	.
+tr|A0A5M3YU75|A0A5M3YU75_ASPTE Beta-galactosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003060700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998124	.	.	.
+tr|A0A5M3YUC5|A0A5M3YUC5_ASPTE Mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004091500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997729	.	.	.
+tr|A0A5M3YUH0|A0A5M3YUH0_ASPTE ribonuclease T1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004071200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	33	0.99976623	.	.	.
+tr|A0A5M3YUS3|A0A5M3YUS3_ASPTE Alpha-galactosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002040700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998401	.	.	.
+tr|A0A5M3YUS6|A0A5M3YUS6_ASPTE Alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003018700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.9994378	.	.	.
+tr|A0A5M3YUZ3|A0A5M3YUZ3_ASPTE CFEM domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003088600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998381	.	.	.
+tr|A0A5M3YV72|A0A5M3YV72_ASPTE Endoplasmic reticulum lectin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003008400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998421	.	.	.
+tr|A0A5M3YVC4|A0A5M3YVC4_ASPTE superoxide dismutase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003035400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981886	.	.	.
+tr|A0A5M3YVE9|A0A5M3YVE9_ASPTE Probable beta-glucosidase G OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002099000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998438	.	.	.
+tr|A0A5M3YVI7|A0A5M3YVI7_ASPTE glucan 1,3-beta-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003033200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981326	.	.	.
+tr|A0A5M3YVN9|A0A5M3YVN9_ASPTE CFEM domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003048400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99976385	.	.	.
+tr|A0A5M3YVP3|A0A5M3YVP3_ASPTE Glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003019400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.999819	.	.	.
+tr|A0A5M3YVQ7|A0A5M3YVQ7_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002092600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99986506	.	.	.
+tr|A0A5M3YVV1|A0A5M3YVV1_ASPTE Endo-chitosanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006009000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997988	.	.	.
+tr|A0A5M3YVW1|A0A5M3YVW1_ASPTE non-reducing end alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006009100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998582	.	.	.
+tr|A0A5M3YVW3|A0A5M3YVW3_ASPTE Alpha-galactosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002025700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998194	.	.	.
+tr|A0A5M3YW11|A0A5M3YW11_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002030700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984366	.	.	.
+tr|A0A5M3YW29|A0A5M3YW29_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002032700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983764	.	.	.
+tr|A0A5M3YWC2|A0A5M3YWC2_ASPTE protein disulfide-isomerase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002065400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997058	.	.	.
+tr|A0A5M3YWG7|A0A5M3YWG7_ASPTE Translocon-associated protein, alpha subunit OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002042800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99979925	.	.	.
+tr|A0A5M3YWI6|A0A5M3YWI6_ASPTE Alpha-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003071300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.99951637	.	.	.
+tr|A0A5M3YWI9|A0A5M3YWI9_ASPTE GPI anchor transamidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003079400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99985516	.	.	.
+tr|A0A5M3YWK7|A0A5M3YWK7_ASPTE Acid phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006032800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997935	.	.	.
+tr|A0A5M3YWT1|A0A5M3YWT1_ASPTE Autophagy-related protein 27 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003081200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985826	.	.	.
+tr|A0A5M3YX13|A0A5M3YX13_ASPTE xyloglucan-specific endo-beta-1,4-glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003094400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998035	.	.	.
+tr|A0A5M3YX21|A0A5M3YX21_ASPTE D-arabinono-1,4-lactone oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006048800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999798	.	.	.
+tr|A0A5M3YX53|A0A5M3YX53_ASPTE 1,3-beta-glucanosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006051100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99967843	.	.	.
+tr|A0A5M3YX93|A0A5M3YX93_ASPTE DUF907 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006044600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998405	.	.	.
+tr|A0A5M3YXA8|A0A5M3YXA8_ASPTE mannan endo-1,4-beta-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002094700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998423	.	.	.
+tr|A0A5M3YXF2|A0A5M3YXF2_ASPTE Transmembrane 9 superfamily member OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006061900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998306	.	.	.
+tr|A0A5M3YXH6|A0A5M3YXH6_ASPTE Beta-xylanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006063900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997638	.	.	.
+tr|A0A5M3YXR4|A0A5M3YXR4_ASPTE Lysophospholipase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006074800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998095	.	.	.
+tr|A0A5M3YXU3|A0A5M3YXU3_ASPTE non-reducing end alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006076600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998295	.	.	.
+tr|A0A5M3YY54|A0A5M3YY54_ASPTE Purple acid phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002013200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981475	.	.	.
+tr|A0A5M3YY71|A0A5M3YY71_ASPTE Post-GPI attachment to proteins factor 3 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006020700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998533	.	.	.
+tr|A0A5M3YY94|A0A5M3YY94_ASPTE Glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011011800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998196	.	.	.
+tr|A0A5M3YYB9|A0A5M3YYB9_ASPTE xyloglucan-specific endo-beta-1,4-glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011014800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.99980885	.	.	.
+tr|A0A5M3YYE0|A0A5M3YYE0_ASPTE Cutinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002023200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998182	.	.	.
+tr|A0A5M3YYF5|A0A5M3YYF5_ASPTE alpha-1,3-glucan synthase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011000400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998421	.	.	.
+tr|A0A5M3YYK0|A0A5M3YYK0_ASPTE cellulase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011006400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998363	.	.	.
+tr|A0A5M3YYM7|A0A5M3YYM7_ASPTE Aspergillopepsin-1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002044400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998166	.	.	.
+tr|A0A5M3YYN5|A0A5M3YYN5_ASPTE Calnexin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006039700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99974287	.	.	.
+tr|A0A5M3YYT5|A0A5M3YYT5_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002051400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985385	.	.	.
+tr|A0A5M3YZ05|A0A5M3YZ05_ASPTE Chitin deacetylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002058400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998367	.	.	.
+tr|A0A5M3YZ28|A0A5M3YZ28_ASPTE Alpha-amylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002061400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998717	.	.	.
+tr|A0A5M3YZ41|A0A5M3YZ41_ASPTE CFEM-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002046300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997752	.	.	.
+tr|A0A5M3YZ69|A0A5M3YZ69_ASPTE Arylsulfatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002048300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984914	.	.	.
+tr|A0A5M3YZ90|A0A5M3YZ90_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006060500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998283	.	.	.
+tr|A0A5M3YZM6|A0A5M3YZM6_ASPTE endo-1,3(4)-beta-glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002065700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998374	.	.	.
+tr|A0A5M3YZT2|A0A5M3YZT2_ASPTE alpha-amylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011000500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998618	.	.	.
+tr|A0A5M3YZX3|A0A5M3YZX3_ASPTE Arabinogalactan endo-beta-1,4-galactanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006014500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.99982965	.	.	.
+tr|A0A5M3YZY3|A0A5M3YZY3_ASPTE glycerophosphodiester phosphodiesterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005000900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99987155	.	.	.
+tr|A0A5M3Z014|A0A5M3Z014_ASPTE Integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002096200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998503	.	.	.
+tr|A0A5M3Z020|A0A5M3Z020_ASPTE endo-polygalacturonase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005004500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	31	0.99981314	.	.	.
+tr|A0A5M3Z028|A0A5M3Z028_ASPTE Endo-1,4-beta-xylanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005001200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998065	.	.	.
+tr|A0A5M3Z037|A0A5M3Z037_ASPTE Dipeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005006500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998602	.	.	.
+tr|A0A5M3Z0I0|A0A5M3Z0I0_ASPTE ribonuclease T2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005021000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.999814	.	.	.
+tr|A0A5M3Z0I8|A0A5M3Z0I8_ASPTE Carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006008200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998216	.	.	.
+tr|A0A5M3Z112|A0A5M3Z112_ASPTE dipeptidyl-peptidase IV OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005033400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998378	.	.	.
+tr|A0A5M3Z169|A0A5M3Z169_ASPTE Peptide hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005043600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.99984115	.	.	.
+tr|A0A5M3Z1E2|A0A5M3Z1E2_ASPTE Peptidyl-prolyl cis-trans isomerase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005067300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998058	.	.	.
+tr|A0A5M3Z1H1|A0A5M3Z1H1_ASPTE Probable pectate lyase C OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005070000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.924367	.	.	.
+tr|A0A5M3Z1K7|A0A5M3Z1K7_ASPTE Arabinan endo-1,5-alpha-L-arabinosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006074300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99973994	.	.	.
+tr|A0A5M3Z1U3|A0A5M3Z1U3_ASPTE exo-alpha-sialidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005000400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99983937	.	.	.
+tr|A0A5M3Z1V7|A0A5M3Z1V7_ASPTE Cutinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011002300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998141	.	.	.
+tr|A0A5M3Z209|A0A5M3Z209_ASPTE Arabinan endo-1,5-alpha-L-arabinosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011007300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998247	.	.	.
+tr|A0A5M3Z266|A0A5M3Z266_ASPTE Transporter, ABC superfamily OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011009100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998525	.	.	.
+tr|A0A5M3Z294|A0A5M3Z294_ASPTE UDP-glucose OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005056900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998494	.	.	.
+tr|A0A5M3Z2S4|A0A5M3Z2S4_ASPTE Probable guanine deaminase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014010300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.999838	.	.	.
+tr|A0A5M3Z2T2|A0A5M3Z2T2_ASPTE Alkaline protease 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011031300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.999739	.	.	.
+tr|A0A5M3Z328|A0A5M3Z328_ASPTE glucan 1,3-beta-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011026000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982435	.	.	.
+tr|A0A5M3Z360|A0A5M3Z360_ASPTE Carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005071700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.6290025	.	.	.
+tr|A0A5M3Z3G0|A0A5M3Z3G0_ASPTE 1,3-beta-glucanosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011038900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998623	.	.	.
+tr|A0A5M3Z3H1|A0A5M3Z3H1_ASPTE Mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014031500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998592	.	.	.
+tr|A0A5M3Z3K4|A0A5M3Z3K4_ASPTE Carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014034500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998346	.	.	.
+tr|A0A5M3Z3Q7|A0A5M3Z3Q7_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014034100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998246	.	.	.
+tr|A0A5M3Z3S5|A0A5M3Z3S5_ASPTE Store-operated calcium entry-associated regulatory factor OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005050800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998556	.	.	.
+tr|A0A5M3Z3W1|A0A5M3Z3W1_ASPTE Mannosyl-oligosaccharide glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014003400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99983245	.	.	.
+tr|A0A5M3Z477|A0A5M3Z477_ASPTE Alpha-1,6-mannosyltransferase subunit OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007016700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.89524245	.	.	.
+tr|A0A5M3Z482|A0A5M3Z482_ASPTE cellulase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005005800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998306	.	.	.
+tr|A0A5M3Z4D6|A0A5M3Z4D6_ASPTE galacturonan 1,4-alpha-galacturonidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014013600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.999581	.	.	.
+tr|A0A5M3Z4H1|A0A5M3Z4H1_ASPTE Beta-xylanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014017600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99982834	.	.	.
+tr|A0A5M3Z4I7|A0A5M3Z4I7_ASPTE Glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005005700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99988574	.	.	.
+tr|A0A5M3Z4L3|A0A5M3Z4L3_ASPTE 1,3-beta-glucanosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005008700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998356	.	.	.
+tr|A0A5M3Z4V0|A0A5M3Z4V0_ASPTE Endoplasmic reticulum chaperone BIP OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007042400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	39	0.901239	.	.	.
+tr|A0A5M3Z4X5|A0A5M3Z4X5_ASPTE Lysophospholipase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005039100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	33	0.99982	.	.	.
+tr|A0A5M3Z4X8|A0A5M3Z4X8_ASPTE beta-galactosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005019800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998677	.	.	.
+tr|A0A5M3Z4Z8|A0A5M3Z4Z8_ASPTE glucan 1,4-alpha-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007036200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998062	.	.	.
+tr|A0A5M3Z583|A0A5M3Z583_ASPTE N,O-diacetylmuramidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007052700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99981815	.	.	.
+tr|A0A5M3Z588|A0A5M3Z588_ASPTE Aspergillopepsin-1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007056600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998098	.	.	.
+tr|A0A5M3Z5A5|A0A5M3Z5A5_ASPTE lytic cellulose monooxygenase (C4-dehydrogenating) OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007046200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998502	.	.	.
+tr|A0A5M3Z630|A0A5M3Z630_ASPTE Hydrophobin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008024300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997898	.	.	.
+tr|A0A5M3Z6C4|A0A5M3Z6C4_ASPTE Carbonic anhydrase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007049300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998675	.	.	.
+tr|A0A5M3Z6D5|A0A5M3Z6D5_ASPTE Putative Zn(II)2Cys6 transcription factor OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008036900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998395	.	.	.
+tr|A0A5M3Z6H7|A0A5M3Z6H7_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008040900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998447	.	.	.
+tr|A0A5M3Z6I1|A0A5M3Z6I1_ASPTE MICOS complex subunit OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008035000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	34	0.83306307	.	.	.
+tr|A0A5M3Z6J9|A0A5M3Z6J9_ASPTE agmatinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007057300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998595	.	.	.
+tr|A0A5M3Z6N3|A0A5M3Z6N3_ASPTE beta-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008036300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998176	.	.	.
+tr|A0A5M3Z6S5|A0A5M3Z6S5_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007059500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998231	.	.	.
+tr|A0A5M3Z709|A0A5M3Z709_ASPTE agmatinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008050300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998308	.	.	.
+tr|A0A5M3Z740|A0A5M3Z740_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009004600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99985194	.	.	.
+tr|A0A5M3Z774|A0A5M3Z774_ASPTE Probable beta-galactosidase C OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009004800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99984276	.	.	.
+tr|A0A5M3Z791|A0A5M3Z791_ASPTE Glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009009600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99953276	.	.	.
+tr|A0A5M3Z7A0|A0A5M3Z7A0_ASPTE SUN domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008013800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998124	.	.	.
+tr|A0A5M3Z7A6|A0A5M3Z7A6_ASPTE Probable beta-glucosidase L OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009002200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99982375	.	.	.
+tr|A0A5M3Z7F5|A0A5M3Z7F5_ASPTE Probable aspartic-type endopeptidase OPSB OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007000100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998332	.	.	.
+tr|A0A5M3Z7I3|A0A5M3Z7I3_ASPTE Carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009011200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998518	.	.	.
+tr|A0A5M3Z7N4|A0A5M3Z7N4_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014027000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99985933	.	.	.
+tr|A0A5M3Z7T7|A0A5M3Z7T7_ASPTE Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008031800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984914	.	.	.
+tr|A0A5M3Z7U8|A0A5M3Z7U8_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009027600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985	.	.	.
+tr|A0A5M3Z7W5|A0A5M3Z7W5_ASPTE Mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009026200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99981976	.	.	.
+tr|A0A5M3Z7Y6|A0A5M3Z7Y6_ASPTE Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008050600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997829	.	.	.
+tr|A0A5M3Z7Y8|A0A5M3Z7Y8_ASPTE Probable exo-1,4-beta-xylosidase bxlB OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009025800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998337	.	.	.
+tr|A0A5M3Z814|A0A5M3Z814_ASPTE pectin lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009018400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99979997	.	.	.
+tr|A0A5M3Z849|A0A5M3Z849_ASPTE endo-polygalacturonase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009037200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	34	0.99980044	.	.	.
+tr|A0A5M3Z8B1|A0A5M3Z8B1_ASPTE Crh-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007018800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982566	.	.	.
+tr|A0A5M3Z8H8|A0A5M3Z8H8_ASPTE D-arabinono-1,4-lactone oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009046400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998307	.	.	.
+tr|A0A5M3Z8L0|A0A5M3Z8L0_ASPTE glucose oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009046500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.8331633	.	.	.
+tr|A0A5M3Z8N4|A0A5M3Z8N4_ASPTE Alpha-glucuronidase OS=Aspergillus terreus OX=33178 GN=aguA PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998494	.	.	.
+tr|A0A5M3Z8U2|A0A5M3Z8U2_ASPTE glucose oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009011700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997584	.	.	.
+tr|A0A5M3Z8Y5|A0A5M3Z8Y5_ASPTE pectin lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009016700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999792	.	.	.
+tr|A0A5M3Z948|A0A5M3Z948_ASPTE Pectate lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008003400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.999781	.	.	.
+tr|A0A5M3Z950|A0A5M3Z950_ASPTE rhamnogalacturonan endolyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010013300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998546	.	.	.
+tr|A0A5M3Z9E5|A0A5M3Z9E5_ASPTE Glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010022900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9999151	.	.	.
+tr|A0A5M3Z9H2|A0A5M3Z9H2_ASPTE Glucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010023600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998222	.	.	.
+tr|A0A5M3Z9I1|A0A5M3Z9I1_ASPTE UPF0016-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010024600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997936	.	.	.
+tr|A0A5M3Z9Q0|A0A5M3Z9Q0_ASPTE Cutinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009043300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998311	.	.	.
+tr|A0A5M3Z9U4|A0A5M3Z9U4_ASPTE pectate lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010036500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998022	.	.	.
+tr|A0A5M3Z9V3|A0A5M3Z9V3_ASPTE non-reducing end alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009049300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998803	.	.	.
+tr|A0A5M3ZA08|A0A5M3ZA08_ASPTE feruloyl esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010042300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998439	.	.	.
+tr|A0A5M3ZA13|A0A5M3ZA13_ASPTE Beta-xylanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010042200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99989563	.	.	.
+tr|A0A5M3ZA25|A0A5M3ZA25_ASPTE adenosine deaminase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010046000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99982876	.	.	.
+tr|A0A5M3ZA74|A0A5M3ZA74_ASPTE Pectate lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010015200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998746	.	.	.
+tr|A0A5M3ZAF9|A0A5M3ZAF9_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010012400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998433	.	.	.
+tr|A0A5M3ZAK7|A0A5M3ZAK7_ASPTE DUF907 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008054400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998184	.	.	.
+tr|A0A5M3ZAL9|A0A5M3ZAL9_ASPTE alpha-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012010200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998296	.	.	.
+tr|A0A5M3ZAR5|A0A5M3ZAR5_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012015200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998774	.	.	.
+tr|A0A5M3ZAU7|A0A5M3ZAU7_ASPTE Endo-1,4-beta-xylanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009006300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998247	.	.	.
+tr|A0A5M3ZAV7|A0A5M3ZAV7_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012009700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997691	.	.	.
+tr|A0A5M3ZAX2|A0A5M3ZAX2_ASPTE Feruloyl esterase C OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012015100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982846	.	.	.
+tr|A0A5M3ZB30|A0A5M3ZB30_ASPTE Extracellular metalloproteinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009014300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998	.	.	.
+tr|A0A5M3ZBK3|A0A5M3ZBK3_ASPTE Tetratricopeptide repeat and J domain-containing co-chaperone DNJ1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010051100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998084	.	.	.
+tr|A0A5M3ZBL8|A0A5M3ZBL8_ASPTE alpha,alpha-trehalase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009008000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998198	.	.	.
+tr|A0A5M3ZBN2|A0A5M3ZBN2_ASPTE Carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013004500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99974304	.	.	.
+tr|A0A5M3ZBX9|A0A5M3ZBX9_ASPTE glucose oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012026800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997138	.	.	.
+tr|A0A5M3ZC08|A0A5M3ZC08_ASPTE alpha-L-fucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012015000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998224	.	.	.
+tr|A0A5M3ZCC5|A0A5M3ZCC5_ASPTE Probable beta-glucosidase L OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009055900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.8336389	.	.	.
+tr|A0A5M3ZCG3|A0A5M3ZCG3_ASPTE TM7S3/TM198-like domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012031000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997992	.	.	.
+tr|A0A5M3ZCP4|A0A5M3ZCP4_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009054700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998334	.	.	.
+tr|A0A5M3ZCP5|A0A5M3ZCP5_ASPTE Probable glucan endo-1,6-beta-glucosidase B OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013035300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985915	.	.	.
+tr|A0A5M3ZCT9|A0A5M3ZCT9_ASPTE mannan endo-1,4-beta-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010018000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	30	0.9997925	.	.	.
+tr|A0A5M3ZD93|A0A5M3ZD93_ASPTE Peptide hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015015200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99980974	.	.	.
+tr|A0A5M3ZD97|A0A5M3ZD97_ASPTE alpha-amylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015014000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998553	.	.	.
+tr|A0A5M3ZD98|A0A5M3ZD98_ASPTE Transcription factor, fungi OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010036000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983	.	.	.
+tr|A0A5M3ZDH0|A0A5M3ZDH0_ASPTE AA9 family lytic polysaccharide monooxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015022000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998253	.	.	.
+tr|A0A5M3ZDI2|A0A5M3ZDI2_ASPTE mannan endo-1,6-alpha-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010017700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998219	.	.	.
+tr|A0A5M3ZDJ5|A0A5M3ZDJ5_ASPTE lytic cellulose monooxygenase (C4-dehydrogenating) OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010045700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998318	.	.	.
+tr|A0A5M3ZDZ3|A0A5M3ZDZ3_ASPTE galacturonan 1,4-alpha-galacturonidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016011500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997771	.	.	.
+tr|A0A5M3ZDZ4|A0A5M3ZDZ4_ASPTE Alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016013800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99894893	.	.	.
+tr|A0A5M3ZE09|A0A5M3ZE09_ASPTE Alpha-L-arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015011100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99989444	.	.	.
+tr|A0A5M3ZEH1|A0A5M3ZEH1_ASPTE beta-N-acetylhexosaminidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012015400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998254	.	.	.
+tr|A0A5M3ZEI4|A0A5M3ZEI4_ASPTE beta-glucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012006300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99992347	.	.	.
+tr|A0A5M3ZEU8|A0A5M3ZEU8_ASPTE Cutinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012040500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998432	.	.	.
+tr|A0A5M3ZG18|A0A5M3ZG18_ASPTE mannan endo-1,4-beta-mannosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015002900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998487	.	.	.
+tr|A0A5M3ZGH9|A0A5M3ZGH9_ASPTE Alpha-galactosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013033900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998501	.	.	.
+tr|A0A5M3ZGR1|A0A5M3ZGR1_ASPTE Alpha-glucuronidase OS=Aspergillus terreus OX=33178 GN=aguA PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998341	.	.	.
+tr|A0A5M3ZGW6|A0A5M3ZGW6_ASPTE feruloyl esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015001700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998572	.	.	.
+tr|A0A5M3ZH45|A0A5M3ZH45_ASPTE Lectin family integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015009700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99987423	.	.	.
+tr|A0A5M3ZH56|A0A5M3ZH56_ASPTE Probable beta-glucosidase M OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016007200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997504	.	.	.
+tr|A0A5M3ZH79|A0A5M3ZH79_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016010200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997994	.	.	.
+tr|A0A5M3ZHU0|A0A5M3ZHU0_ASPTE rhamnogalacturonan endolyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016008000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998361	.	.	.
+tr|A0A5M3ZHY3|A0A5M3ZHY3_ASPTE Mannosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004006700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99972177	.	.	.
+tr|A0A5M3ZHZ6|A0A5M3ZHZ6_ASPTE alpha-1,3-glucan synthase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016013000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997885	.	.	.
+tr|A0A8H3MWE3|A0A8H3MWE3_ASPTE GMC oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013000400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.83305067	.	.	.
+tr|A0A5M3YKP0|A0A5M3YKP0_ASPTE Extracellular proline-rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001002500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997852	.	.	.
+tr|A0A5M3YKW4|A0A5M3YKW4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001008100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	38	0.999758	.	.	.
+tr|A0A5M3YKX9|A0A5M3YKX9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001010100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99981487	.	.	.
+tr|A0A5M3YKY7|A0A5M3YKY7_ASPTE Alpha-1,3-glucanase/mutanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001011100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983454	.	.	.
+tr|A0A5M3YKZ8|A0A5M3YKZ8_ASPTE Hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001004300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997587	.	.	.
+tr|A0A5M3YL34|A0A5M3YL34_ASPTE Triacylglycerol lipase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003003600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99980533	.	.	.
+tr|A0A5M3YL41|A0A5M3YL41_ASPTE Glycoside hydrolase family 39 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001010300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.999779	.	.	.
+tr|A0A5M3YL42|A0A5M3YL42_ASPTE Cellobiose dehydrogenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001028700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983644	.	.	.
+tr|A0A5M3YL44|A0A5M3YL44_ASPTE PEBP-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001029000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999833	.	.	.
+tr|A0A5M3YL53|A0A5M3YL53_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003005600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998203	.	.	.
+tr|A0A5M3YL55|A0A5M3YL55_ASPTE Extracelular proline-glycine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001030600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999769	.	.	.
+tr|A0A5M3YL61|A0A5M3YL61_ASPTE Beta-fructofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001028200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997923	.	.	.
+tr|A0A5M3YL63|A0A5M3YL63_ASPTE Purine nucleoside permease OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001031700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998416	.	.	.
+tr|A0A5M3YL73|A0A5M3YL73_ASPTE Extracellular GDSL-like lipase/acylhydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001031600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985176	.	.	.
+tr|A0A5M3YLB8|A0A5M3YLB8_ASPTE Tyrosinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001039000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99978083	.	.	.
+tr|A0A5M3YLJ9|A0A5M3YLJ9_ASPTE Allergenic cerato-platanin Asp F13 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001044200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982905	.	.	.
+tr|A0A5M3YLK3|A0A5M3YLK3_ASPTE FIK kinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001049600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997816	.	.	.
+tr|A0A5M3YLQ2|A0A5M3YLQ2_ASPTE Xylosidase: arabinofuranosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001049200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9666796	.	.	.
+tr|A0A5M3YLR1|A0A5M3YLR1_ASPTE FAD-binding-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001057800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998143	.	.	.
+tr|A0A5M3YLW8|A0A5M3YLW8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001005400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998151	.	.	.
+tr|A0A5M3YLX5|A0A5M3YLX5_ASPTE Malate dehydrogenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001056500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998651	.	.	.
+tr|A0A5M3YLZ1|A0A5M3YLZ1_ASPTE Lipase, secreted OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001008400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998001	.	.	.
+tr|A0A5M3YLZ8|A0A5M3YLZ8_ASPTE Cytochrome P450 oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001009400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99980044	.	.	.
+tr|A0A5M3YM20|A0A5M3YM20_ASPTE Lysophospholipase A OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001070700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99987125	.	.	.
+tr|A0A5M3YM24|A0A5M3YM24_ASPTE Phosphatidylglycerol/phosphatidylinositol transfer protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001064500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99980855	.	.	.
+tr|A0A5M3YM29|A0A5M3YM29_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001071100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998379	.	.	.
+tr|A0A5M3YM70|A0A5M3YM70_ASPTE Integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001073500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985486	.	.	.
+tr|A0A5M3YMB8|A0A5M3YMB8_ASPTE Cell surface protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001078500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997845	.	.	.
+tr|A0A5M3YMC3|A0A5M3YMC3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001079700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99965644	.	.	.
+tr|A0A5M3YMD2|A0A5M3YMD2_ASPTE Thioredoxin-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001072300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998053	.	.	.
+tr|A0A5M3YMF2|A0A5M3YMF2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001083700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998577	.	.	.
+tr|A0A5M3YMG3|A0A5M3YMG3_ASPTE Glycosyl hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001076300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998458	.	.	.
+tr|A0A5M3YMI3|A0A5M3YMI3_ASPTE GMC oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001087800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998292	.	.	.
+tr|A0A5M3YMI9|A0A5M3YMI9_ASPTE Peptidase M35 deuterolysin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001079300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998382	.	.	.
+tr|A0A5M3YMJ0|A0A5M3YMJ0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001088800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999824	.	.	.
+tr|A0A5M3YML2|A0A5M3YML2_ASPTE Extracellular serine-rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001089600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.8329167	.	.	.
+tr|A0A5M3YML5|A0A5M3YML5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001096900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997918	.	.	.
+tr|A0A5M3YML7|A0A5M3YML7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001011200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998276	.	.	.
+tr|A0A5M3YMN8|A0A5M3YMN8_ASPTE FAD dependent oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001099900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99983203	.	.	.
+tr|A0A5M3YMP0|A0A5M3YMP0_ASPTE Vacuolar sorting protein Vps3844 C-terminal domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003000700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9997259	.	.	.
+tr|A0A5M3YMP6|A0A5M3YMP6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001096800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997776	.	.	.
+tr|A0A5M3YMR9|A0A5M3YMR9_ASPTE Cellulose-binding protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001099200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.999823	.	.	.
+tr|A0A5M3YMT6|A0A5M3YMT6_ASPTE Restculine oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001098600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979603	.	.	.
+tr|A0A5M3YMW1|A0A5M3YMW1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001109900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997222	.	.	.
+tr|A0A5M3YMX1|A0A5M3YMX1_ASPTE NIMA-interacting protein tinc OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001110900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998152	.	.	.
+tr|A0A5M3YMX5|A0A5M3YMX5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001094400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998512	.	.	.
+tr|A0A5M3YN01|A0A5M3YN01_ASPTE Conserved glycine-rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001109800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997765	.	.	.
+tr|A0A5M3YN59|A0A5M3YN59_ASPTE NlpC/P60 family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002081500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984986	.	.	.
+tr|A0A5M3YN61|A0A5M3YN61_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002079800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981666	.	.	.
+tr|A0A5M3YN91|A0A5M3YN91_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001111400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998302	.	.	.
+tr|A0A5M3YNE1|A0A5M3YNE1_ASPTE Adhesin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004003600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982107	.	.	.
+tr|A0A5M3YNJ3|A0A5M3YNJ3_ASPTE N-acetylglucosaminylphosphatidylinositol deacetylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001001000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99972105	.	.	.
+tr|A0A5M3YNN3|A0A5M3YNN3_ASPTE FAD binding domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001005000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.999845	.	.	.
+tr|A0A5M3YNP0|A0A5M3YNP0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004022100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998249	.	.	.
+tr|A0A5M3YNP1|A0A5M3YNP1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001088700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998302	.	.	.
+tr|A0A5M3YNX7|A0A5M3YNX7_ASPTE WSC-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004022600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99979514	.	.	.
+tr|A0A5M3YNZ1|A0A5M3YNZ1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001099700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99984497	.	.	.
+tr|A0A5M3YP20|A0A5M3YP20_ASPTE Allergen Asp F4-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004037100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99983686	.	.	.
+tr|A0A5M3YP29|A0A5M3YP29_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001029100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998549	.	.	.
+tr|A0A5M3YP34|A0A5M3YP34_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001007800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985075	.	.	.
+tr|A0A5M3YP38|A0A5M3YP38_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004039100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99984646	.	.	.
+tr|A0A5M3YP40|A0A5M3YP40_ASPTE Ricin B lectin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004039000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998307	.	.	.
+tr|A0A5M3YP42|A0A5M3YP42_ASPTE Putative six-hairpin glycosidase-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004034400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998823	.	.	.
+tr|A0A5M3YPB2|A0A5M3YPB2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004037600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99974626	.	.	.
+tr|A0A5M3YPG9|A0A5M3YPG9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004054100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997909	.	.	.
+tr|A0A5M3YPH6|A0A5M3YPH6_ASPTE Stress response protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004055100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99977756	.	.	.
+tr|A0A5M3YPI2|A0A5M3YPI2_ASPTE WD-40 repeat-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001093500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99983746	.	.	.
+tr|A0A5M3YPJ1|A0A5M3YPJ1_ASPTE pH-response regulator protein palI/RIM9 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001094500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.99819946	.	.	.
+tr|A0A5M3YPJ9|A0A5M3YPJ9_ASPTE Isoamyl alcohol oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001047100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998233	.	.	.
+tr|A0A5M3YPT8|A0A5M3YPT8_ASPTE Cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004059800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997568	.	.	.
+tr|A0A5M3YPZ0|A0A5M3YPZ0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001044900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998264	.	.	.
+tr|A0A5M3YQ03|A0A5M3YQ03_ASPTE Avicelase III OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004069400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.99983865	.	.	.
+tr|A0A5M3YQ47|A0A5M3YQ47_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004024900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998424	.	.	.
+tr|A0A5M3YQ59|A0A5M3YQ59_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001067200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983037	.	.	.
+tr|A0A5M3YQ64|A0A5M3YQ64_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001010700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998292	.	.	.
+tr|A0A5M3YQ97|A0A5M3YQ97_ASPTE GDSL-like lipase/acylhydrolase domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004069600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998324	.	.	.
+tr|A0A5M3YQH8|A0A5M3YQH8_ASPTE Extracellular matrix protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004076600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997889	.	.	.
+tr|A0A5M3YQJ4|A0A5M3YQJ4_ASPTE Regulatory P-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004078600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998274	.	.	.
+tr|A0A5M3YQN9|A0A5M3YQN9_ASPTE Glycosyl hydrolase family 43 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001038800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985516	.	.	.
+tr|A0A5M3YQP7|A0A5M3YQP7_ASPTE Integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004091800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998684	.	.	.
+tr|A0A5M3YQP8|A0A5M3YQP8_ASPTE GPI anchored glycoprotein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003011300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998289	.	.	.
+tr|A0A5M3YQQ7|A0A5M3YQQ7_ASPTE 1-alkyl-2-acetylglycerophosphocholine esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004045900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9999003	.	.	.
+tr|A0A5M3YQU4|A0A5M3YQU4_ASPTE Prenylcysteine lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001076000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99966055	.	.	.
+tr|A0A5M3YQW0|A0A5M3YQW0_ASPTE L-ascorbate oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003014600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998731	.	.	.
+tr|A0A5M3YQX7|A0A5M3YQX7_ASPTE VOC family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003014000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.999791	.	.	.
+tr|A0A5M3YQZ3|A0A5M3YQZ3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003018600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998073	.	.	.
+tr|A0A5M3YQZ4|A0A5M3YQZ4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003021300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981564	.	.	.
+tr|A0A5M3YR08|A0A5M3YR08_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004028700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983245	.	.	.
+tr|A0A5M3YR31|A0A5M3YR31_ASPTE Glutaminase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004058900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981225	.	.	.
+tr|A0A5M3YR53|A0A5M3YR53_ASPTE Putative secreted lipase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001058900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981964	.	.	.
+tr|A0A5M3YR70|A0A5M3YR70_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004063900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998298	.	.	.
+tr|A0A5M3YR75|A0A5M3YR75_ASPTE Cholinesterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001101300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999827	.	.	.
+tr|A0A5M3YRC6|A0A5M3YRC6_ASPTE Suppressor/enhancer of lin-12 protein 9 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003033300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998349	.	.	.
+tr|A0A5M3YRG1|A0A5M3YRG1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003031700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997792	.	.	.
+tr|A0A5M3YRG3|A0A5M3YRG3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003021800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.999791	.	.	.
+tr|A0A5M3YRI8|A0A5M3YRI8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001098100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	13	0.9997245	.	.	.
+tr|A0A5M3YRL1|A0A5M3YRL1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003042000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998299	.	.	.
+tr|A0A5M3YRL3|A0A5M3YRL3_ASPTE Chondroitin AC/alginate lyase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004077900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983394	.	.	.
+tr|A0A5M3YRL6|A0A5M3YRL6_ASPTE Extracellular proline-glycine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001076900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997253	.	.	.
+tr|A0A5M3YRL7|A0A5M3YRL7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002077900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998167	.	.	.
+tr|A0A5M3YRM6|A0A5M3YRM6_ASPTE Carboxylesterase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001077900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998518	.	.	.
+tr|A0A5M3YRR6|A0A5M3YRR6_ASPTE Aromatic peroxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003048300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996335	.	.	.
+tr|A0A5M3YRR8|A0A5M3YRR8_ASPTE Beta-lactamase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004082900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	13	0.9998444	.	.	.
+tr|A0A5M3YRX0|A0A5M3YRX0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001110100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998042	.	.	.
+tr|A0A5M3YRY1|A0A5M3YRY1_ASPTE IgE-binding protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004088900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996735	.	.	.
+tr|A0A5M3YRY2|A0A5M3YRY2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004059700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998144	.	.	.
+tr|A0A5M3YRY4|A0A5M3YRY4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003056400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998207	.	.	.
+tr|A0A5M3YRY9|A0A5M3YRY9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002076700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983716	.	.	.
+tr|A0A5M3YS11|A0A5M3YS11_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001095000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997951	.	.	.
+tr|A0A5M3YS22|A0A5M3YS22_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002080700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9997777	.	.	.
+tr|A0A5M3YS36|A0A5M3YS36_ASPTE Fasciclin domain family OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003062100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998604	.	.	.
+tr|A0A5M3YS44|A0A5M3YS44_ASPTE Altered inheritance of mitochondria protein 9, mitochondrial OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003060000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998613	.	.	.
+tr|A0A5M3YS51|A0A5M3YS51_ASPTE Endoglucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003044500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	1.0	.	.	.
+tr|A0A5M3YS59|A0A5M3YS59_ASPTE RING finger domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002084700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	41	0.9997891	.	.	.
+tr|A0A5M3YS82|A0A5M3YS82_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001103000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998138	.	.	.
+tr|A0A5M3YS88|A0A5M3YS88_ASPTE Uncharacterized secreted protein ARB_00595; Flags OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004001800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99988043	.	.	.
+tr|A0A5M3YS96|A0A5M3YS96_ASPTE Glucose-methanol-choline oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003048500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997471	.	.	.
+tr|A0A5M3YSA7|A0A5M3YSA7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003068000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99984634	.	.	.
+tr|A0A5M3YSB8|A0A5M3YSB8_ASPTE MFS general substrate transporter OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003058800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	39	0.9998479	.	.	.
+tr|A0A5M3YSC4|A0A5M3YSC4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004004800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998301	.	.	.
+tr|A0A5M3YSC9|A0A5M3YSC9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003070100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99984175	.	.	.
+tr|A0A5M3YSD3|A0A5M3YSD3_ASPTE Cellobiose dehydrogenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003071000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996283	.	.	.
+tr|A0A5M3YSG3|A0A5M3YSG3_ASPTE FAD-dependent pyridine nucleotide-disulfide oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003070400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997475	.	.	.
+tr|A0A5M3YSK4|A0A5M3YSK4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003078900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998403	.	.	.
+tr|A0A5M3YSN9|A0A5M3YSN9_ASPTE Aminopeptidase Y OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004036500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99984264	.	.	.
+tr|A0A5M3YST4|A0A5M3YST4_ASPTE NPP1 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003086000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985737	.	.	.
+tr|A0A5M3YST5|A0A5M3YST5_ASPTE Putative Podospora anserina S mat genomic DNA chromosome 2, supercontig 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003085900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99985343	.	.	.
+tr|A0A5M3YSV6|A0A5M3YSV6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003087900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99978447	.	.	.
+tr|A0A5M3YSW4|A0A5M3YSW4_ASPTE Major allergen Asp f 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003077700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998348	.	.	.
+tr|A0A5M3YSY3|A0A5M3YSY3_ASPTE DUF7707 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003011900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998758	.	.	.
+tr|A0A5M3YSY9|A0A5M3YSY9_ASPTE 3-phytase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003080700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99980503	.	.	.
+tr|A0A5M3YSZ0|A0A5M3YSZ0_ASPTE Carbohydrate-binding module family 1 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004034300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998196	.	.	.
+tr|A0A5M3YT05|A0A5M3YT05_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003092900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998928	.	.	.
+tr|A0A5M3YT20|A0A5M3YT20_ASPTE Alpha/beta-hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003075500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99979	.	.	.
+tr|A0A5M3YT41|A0A5M3YT41_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004051500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998444	.	.	.
+tr|A0A5M3YT66|A0A5M3YT66_ASPTE DUF7872 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003020900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9996151	.	.	.
+tr|A0A5M3YT82|A0A5M3YT82_ASPTE Extracellular thaumatin domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004045300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997542	.	.	.
+tr|A0A5M3YTA5|A0A5M3YTA5_ASPTE Hydroxyneurosporene synthase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004025200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99979895	.	.	.
+tr|A0A5M3YTC0|A0A5M3YTC0_ASPTE asparaginase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002004100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997996	.	.	.
+tr|A0A5M3YTE5|A0A5M3YTE5_ASPTE LIP-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003088500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.96031165	.	.	.
+tr|A0A5M3YTL5|A0A5M3YTL5_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003094500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998369	.	.	.
+tr|A0A5M3YTN2|A0A5M3YTN2_ASPTE Putative hydrolase Mb2248c OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004067500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998288	.	.	.
+tr|A0A5M3YTQ0|A0A5M3YTQ0_ASPTE Acetylxylan esterase 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004069500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998252	.	.	.
+tr|A0A5M3YTQ5|A0A5M3YTQ5_ASPTE Secreted lipase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004041200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99978775	.	.	.
+tr|A0A5M3YTR8|A0A5M3YTR8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004043200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99986684	.	.	.
+tr|A0A5M3YTX0|A0A5M3YTX0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002011600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998275	.	.	.
+tr|A0A5M3YTY8|A0A5M3YTY8_ASPTE Acid phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002027100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998238	.	.	.
+tr|A0A5M3YU13|A0A5M3YU13_ASPTE Serine peptidase, family S28 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002029100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99982417	.	.	.
+tr|A0A5M3YU28|A0A5M3YU28_ASPTE ZIP Zinc transporter OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003077800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998059	.	.	.
+tr|A0A5M3YU57|A0A5M3YU57_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002020600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983776	.	.	.
+tr|A0A5M3YU69|A0A5M3YU69_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002035100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99985087	.	.	.
+tr|A0A5M3YU84|A0A5M3YU84_ASPTE Serine-type carboxypeptidase F OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004078300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983674	.	.	.
+tr|A0A5M3YU97|A0A5M3YU97_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002024600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998468	.	.	.
+tr|A0A5M3YU98|A0A5M3YU98_ASPTE Exo-beta-1,3-glucanase Exg0 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003063700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99982804	.	.	.
+tr|A0A5M3YUA1|A0A5M3YUA1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004089500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998598	.	.	.
+tr|A0A5M3YUA3|A0A5M3YUA3_ASPTE Ricin B lectin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002037400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997884	.	.	.
+tr|A0A5M3YUA6|A0A5M3YUA6_ASPTE Kievitone hydratase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004063200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983484	.	.	.
+tr|A0A5M3YUB3|A0A5M3YUB3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004081300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997693	.	.	.
+tr|A0A5M3YUC6|A0A5M3YUC6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003087800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998154	.	.	.
+tr|A0A5M3YUD5|A0A5M3YUD5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004083300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998466	.	.	.
+tr|A0A5M3YUE5|A0A5M3YUE5_ASPTE DUF7907 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002029600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.999845	.	.	.
+tr|A0A5M3YUE8|A0A5M3YUE8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002042100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998185	.	.	.
+tr|A0A5M3YUF2|A0A5M3YUF2_ASPTE Rhamnosidase B OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004069200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999832	.	.	.
+tr|A0A5M3YUI3|A0A5M3YUI3_ASPTE Chitin deacetylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003073600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981713	.	.	.
+tr|A0A5M3YUL8|A0A5M3YUL8_ASPTE FAS1-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004076200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997515	.	.	.
+tr|A0A5M3YUL9|A0A5M3YUL9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004090300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997693	.	.	.
+tr|A0A5M3YUM2|A0A5M3YUM2_ASPTE L-amino acid oxidase LaoA OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002002900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99971914	.	.	.
+tr|A0A5M3YUM5|A0A5M3YUM5_ASPTE NlpC/P60-like cell-wall peptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002049500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998013	.	.	.
+tr|A0A5M3YUM7|A0A5M3YUM7_ASPTE Putative MFS sugar transporter OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002050200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	13	0.99982417	.	.	.
+tr|A0A5M3YUQ0|A0A5M3YUQ0_ASPTE Glucose-methanol-choline (Gmc) oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003078600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998029	.	.	.
+tr|A0A5M3YUQ7|A0A5M3YUQ7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003016700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998171	.	.	.
+tr|A0A5M3YUR5|A0A5M3YUR5_ASPTE GPI anchored serine-threonine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002039700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998382	.	.	.
+tr|A0A5M3YUT4|A0A5M3YUT4_ASPTE HET-C domain protein HetC OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002055900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998547	.	.	.
+tr|A0A5M3YUX5|A0A5M3YUX5_ASPTE DUF7729 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002061500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.99974906	.	.	.
+tr|A0A5M3YUX9|A0A5M3YUX9_ASPTE BNR/Asp-box repeat domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003086600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982274	.	.	.
+tr|A0A5M3YV08|A0A5M3YV08_ASPTE PLC-like phosphodiesterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002065900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.99979943	.	.	.
+tr|A0A5M3YV26|A0A5M3YV26_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002067900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998293	.	.	.
+tr|A0A5M3YV28|A0A5M3YV28_ASPTE Endonuclease/exonuclease/phosphatase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004091200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99977946	.	.	.
+tr|A0A5M3YV30|A0A5M3YV30_ASPTE Lysozyme OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003018500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99979806	.	.	.
+tr|A0A5M3YV38|A0A5M3YV38_ASPTE Cysteine-rich secreted protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002086000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998012	.	.	.
+tr|A0A5M3YV51|A0A5M3YV51_ASPTE Glycoside hydrolase family 79 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003094600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984443	.	.	.
+tr|A0A5M3YV61|A0A5M3YV61_ASPTE Nucleotide-sugar transporter OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002000700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.55143803	.	.	.
+tr|A0A5M3YV67|A0A5M3YV67_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002087800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99977225	.	.	.
+tr|A0A5M3YVA9|A0A5M3YVA9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002094000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998434	.	.	.
+tr|A0A5M3YVB3|A0A5M3YVB3_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002094400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998301	.	.	.
+tr|A0A5M3YVB7|A0A5M3YVB7_ASPTE Putative Spore-associated protein A OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002059700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99981976	.	.	.
+tr|A0A5M3YVC3|A0A5M3YVC3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002060700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.99253225	.	.	.
+tr|A0A5M3YVC7|A0A5M3YVC7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002096000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998207	.	.	.
+tr|A0A5M3YVD2|A0A5M3YVD2_ASPTE Glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002093800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99979717	.	.	.
+tr|A0A5M3YVD4|A0A5M3YVD4_ASPTE FAD/NAD(P)-binding-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002096400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99979734	.	.	.
+tr|A0A5M3YVH9|A0A5M3YVH9_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002011700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99986315	.	.	.
+tr|A0A5M3YVI6|A0A5M3YVI6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002099800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998274	.	.	.
+tr|A0A5M3YVM1|A0A5M3YVM1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003037200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998119	.	.	.
+tr|A0A5M3YVP0|A0A5M3YVP0_ASPTE Glycoside hydrolase, superfamily OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006002400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99983376	.	.	.
+tr|A0A5M3YVP9|A0A5M3YVP9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002038900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998434	.	.	.
+tr|A0A5M3YVR2|A0A5M3YVR2_ASPTE EF hand-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002020700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99972034	.	.	.
+tr|A0A5M3YVR9|A0A5M3YVR9_ASPTE Cellobiose dehydrogenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002094600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99987733	.	.	.
+tr|A0A5M3YVS0|A0A5M3YVS0_ASPTE SCP-like extracellular protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003043200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997604	.	.	.
+tr|A0A5M3YVT5|A0A5M3YVT5_ASPTE Mannosylphosphate transferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003045200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998521	.	.	.
+tr|A0A5M3YVU6|A0A5M3YVU6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002023700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99827576	.	.	.
+tr|A0A5M3YVV2|A0A5M3YVV2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003056500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998597	.	.	.
+tr|A0A5M3YVW7|A0A5M3YVW7_ASPTE Glycosyl transferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006009400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	33	0.69245183	.	.	.
+tr|A0A5M3YVX3|A0A5M3YVX3_ASPTE SUN domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003058500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998345	.	.	.
+tr|A0A5M3YVX8|A0A5M3YVX8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003023400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998328	.	.	.
+tr|A0A5M3YVY4|A0A5M3YVY4_ASPTE Peptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006011400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99974597	.	.	.
+tr|A0A5M3YVY6|A0A5M3YVY6_ASPTE LysM-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006009800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998554	.	.	.
+tr|A0A5M3YVZ6|A0A5M3YVZ6_ASPTE Conserved fungal protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003061500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983156	.	.	.
+tr|A0A5M3YW55|A0A5M3YW55_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006005600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982387	.	.	.
+tr|A0A5M3YW63|A0A5M3YW63_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006006600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99983937	.	.	.
+tr|A0A5M3YW89|A0A5M3YW89_ASPTE Endoglucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006008600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985033	.	.	.
+tr|A0A5M3YW96|A0A5M3YW96_ASPTE Extracellular serine-rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006021400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997997	.	.	.
+tr|A0A5M3YWB4|A0A5M3YWB4_ASPTE Integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006024100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.59340954	.	.	.
+tr|A0A5M3YWB7|A0A5M3YWB7_ASPTE Putative chitin binding protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003063300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99986494	.	.	.
+tr|A0A5M3YWD4|A0A5M3YWD4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006026000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983114	.	.	.
+tr|A0A5M3YWE1|A0A5M3YWE1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006027100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997967	.	.	.
+tr|A0A5M3YWH9|A0A5M3YWH9_ASPTE Cystein rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003070300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984574	.	.	.
+tr|A0A5M3YWK3|A0A5M3YWK3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006021600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998214	.	.	.
+tr|A0A5M3YWK6|A0A5M3YWK6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002092900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998125	.	.	.
+tr|A0A5M3YWK9|A0A5M3YWK9_ASPTE PLC-like phosphodiesterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003074200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998696	.	.	.
+tr|A0A5M3YWL8|A0A5M3YWL8_ASPTE Six-hairpin glycosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006023600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998529	.	.	.
+tr|A0A5M3YWS2|A0A5M3YWS2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006035400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99982464	.	.	.
+tr|A0A5M3YWS5|A0A5M3YWS5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002100900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998174	.	.	.
+tr|A0A5M3YWV1|A0A5M3YWV1_ASPTE Cell wall anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003057200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.83493346	.	.	.
+tr|A0A5M3YWW4|A0A5M3YWW4_ASPTE COPII-coated vesicle membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006043100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998723	.	.	.
+tr|A0A5M3YWY6|A0A5M3YWY6_ASPTE Carbohydrate esterase family 3 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006001900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982625	.	.	.
+tr|A0A5M3YX14|A0A5M3YX14_ASPTE Acid protease OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003089200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99984616	.	.	.
+tr|A0A5M3YX43|A0A5M3YX43_ASPTE (4-O-methyl)-D-glucuronate--lignin esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003092200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998392	.	.	.
+tr|A0A5M3YX57|A0A5M3YX57_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006008900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99986285	.	.	.
+tr|A0A5M3YX84|A0A5M3YX84_ASPTE Glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006051400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999863	.	.	.
+tr|A0A5M3YXB9|A0A5M3YXB9_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003077100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998189	.	.	.
+tr|A0A5M3YXD7|A0A5M3YXD7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002005300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99981433	.	.	.
+tr|A0A5M3YXE7|A0A5M3YXE7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002013500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99983746	.	.	.
+tr|A0A5M3YXL3|A0A5M3YXL3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006065200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997393	.	.	.
+tr|A0A5M3YXM0|A0A5M3YXM0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006068600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981153	.	.	.
+tr|A0A5M3YXN8|A0A5M3YXN8_ASPTE Alpha-1,2-mannosidase subfamily OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006068200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983567	.	.	.
+tr|A0A5M3YXQ3|A0A5M3YXQ3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006069200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.83312666	.	.	.
+tr|A0A5M3YXR2|A0A5M3YXR2_ASPTE Vacuolar sorting receptor OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006027900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997812	.	.	.
+tr|A0A5M3YXR9|A0A5M3YXR9_ASPTE Histidine acid phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006073900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.8470366	.	.	.
+tr|A0A5M3YXT1|A0A5M3YXT1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003094100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998129	.	.	.
+tr|A0A5M3YXU4|A0A5M3YXU4_ASPTE DUF7137 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002029500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997732	.	.	.
+tr|A0A5M3YXV0|A0A5M3YXV0_ASPTE LIP-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006077600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998596	.	.	.
+tr|A0A5M3YXX3|A0A5M3YXX3_ASPTE Teichoic acid biosynthesis protein C OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006076200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99980795	.	.	.
+tr|A0A5M3YXZ1|A0A5M3YXZ1_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002025300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99980515	.	.	.
+tr|A0A5M3YXZ5|A0A5M3YXZ5_ASPTE Carboxylesterase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002033500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99978954	.	.	.
+tr|A0A5M3YXZ6|A0A5M3YXZ6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011001900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998206	.	.	.
+tr|A0A5M3YXZ7|A0A5M3YXZ7_ASPTE Cell wall mannoprotein 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002006200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997907	.	.	.
+tr|A0A5M3YY00|A0A5M3YY00_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002026300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997775	.	.	.
+tr|A0A5M3YY18|A0A5M3YY18_ASPTE Deoxyribonuclease NucA/NucB domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002028300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983233	.	.	.
+tr|A0A5M3YY29|A0A5M3YY29_ASPTE Extracellular dihydrogeodin oxidase/laccase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011002200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998654	.	.	.
+tr|A0A5M3YY45|A0A5M3YY45_ASPTE Protein rds1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002012200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99979025	.	.	.
+tr|A0A5M3YY49|A0A5M3YY49_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011007800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99870044	.	.	.
+tr|A0A5M3YY78|A0A5M3YY78_ASPTE Non-hemolytic phospholipase C OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006021700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997703	.	.	.
+tr|A0A5M3YY98|A0A5M3YY98_ASPTE Putative WSC domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006047900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984795	.	.	.
+tr|A0A5M3YYA7|A0A5M3YYA7_ASPTE Sterigmatocystin biosynthesis peroxidase stcc OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006074400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.998594	.	.	.
+tr|A0A5M3YYE3|A0A5M3YYE3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006028700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99975264	.	.	.
+tr|A0A5M3YYE7|A0A5M3YYE7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006078400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99984074	.	.	.
+tr|A0A5M3YYE9|A0A5M3YYE9_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002024200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99980605	.	.	.
+tr|A0A5M3YYF2|A0A5M3YYF2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006079400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998127	.	.	.
+tr|A0A5M3YYK2|A0A5M3YYK2_ASPTE Glycosyl hydrolase family 92-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002050600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998126	.	.	.
+tr|A0A5M3YYL0|A0A5M3YYL0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006036700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998528	.	.	.
+tr|A0A5M3YYR7|A0A5M3YYR7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002049400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997078	.	.	.
+tr|A0A5M3YYS0|A0A5M3YYS0_ASPTE Alkaline serine protease AorO OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002059600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99980706	.	.	.
+tr|A0A5M3YYZ2|A0A5M3YYZ2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006068700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998384	.	.	.
+tr|A0A5M3YYZ7|A0A5M3YYZ7_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002057400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998645	.	.	.
+tr|A0A5M3YZ55|A0A5M3YZ55_ASPTE Mannosylphosphorylation protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011024400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982554	.	.	.
+tr|A0A5M3YZ58|A0A5M3YZ58_ASPTE Peptidase family S41 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006076700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998053	.	.	.
+tr|A0A5M3YZ75|A0A5M3YZ75_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006078700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998563	.	.	.
+tr|A0A5M3YZC8|A0A5M3YZC8_ASPTE Palmitoyl-protein thioesterase 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001016700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998315	.	.	.
+tr|A0A5M3YZF5|A0A5M3YZF5_ASPTE Glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002093300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998231	.	.	.
+tr|A0A5M3YZH5|A0A5M3YZH5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011037400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	49	0.7388722	.	.	.
+tr|A0A5M3YZJ9|A0A5M3YZJ9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011040400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	44	0.99937046	.	.	.
+tr|A0A5M3YZL3|A0A5M3YZL3_ASPTE Disintegrin and metalloproteinase-domain-containing protein B OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001022900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99981725	.	.	.
+tr|A0A5M3YZM1|A0A5M3YZM1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006002500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998425	.	.	.
+tr|A0A5M3YZR0|A0A5M3YZR0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002104300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998333	.	.	.
+tr|A0A5M3YZR1|A0A5M3YZR1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011048600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99979794	.	.	.
+tr|A0A5M3YZR3|A0A5M3YZR3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006078500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984825	.	.	.
+tr|A0A5M3YZR9|A0A5M3YZR9_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010005100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99982995	.	.	.
+tr|A0A5M3YZS9|A0A5M3YZS9_ASPTE LPS glycosyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006009500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	34	0.66839343	.	.	.
+tr|A0A5M3YZT8|A0A5M3YZT8_ASPTE Putative allergen OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006010500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.999834	.	.	.
+tr|A0A5M3YZU0|A0A5M3YZU0_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001014900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998217	.	.	.
+tr|A0A5M3YZW6|A0A5M3YZW6_ASPTE Extracellular protein 58-1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011023700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985147	.	.	.
+tr|A0A5M3YZY9|A0A5M3YZY9_ASPTE GPI anchored serine-threonine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011025700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99974686	.	.	.
+tr|A0A5M3YZZ1|A0A5M3YZZ1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002094200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997398	.	.	.
+tr|A0A5M3Z031|A0A5M3Z031_ASPTE Glycoside hydrolase, family 32 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005004900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985325	.	.	.
+tr|A0A5M3Z032|A0A5M3Z032_ASPTE Galactose oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006014300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.99938625	.	.	.
+tr|A0A5M3Z046|A0A5M3Z046_ASPTE Cellobiose dehydrogenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006021500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984604	.	.	.
+tr|A0A5M3Z047|A0A5M3Z047_ASPTE DUF7732 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005007500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997659	.	.	.
+tr|A0A5M3Z048|A0A5M3Z048_ASPTE DUF605 multi-domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002099200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997964	.	.	.
+tr|A0A5M3Z072|A0A5M3Z072_ASPTE Phosphoglycerate mutase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006018300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982935	.	.	.
+tr|A0A5M3Z078|A0A5M3Z078_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006025500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998348	.	.	.
+tr|A0A5M3Z079|A0A5M3Z079_ASPTE 3-phytase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005009600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997894	.	.	.
+tr|A0A5M3Z083|A0A5M3Z083_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006019300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998303	.	.	.
+tr|A0A5M3Z086|A0A5M3Z086_ASPTE GPI anchored serine-rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006026500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9996005	.	.	.
+tr|A0A5M3Z0D3|A0A5M3Z0D3_ASPTE Alpha-L-rhamnosidase C OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005015500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981135	.	.	.
+tr|A0A5M3Z0F0|A0A5M3Z0F0_ASPTE Glycosyl hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005000500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9649942	.	.	.
+tr|A0A5M3Z0J9|A0A5M3Z0J9_ASPTE N-acetylglucosaminylphosphatidylinositol deacetylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006009200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9993929	.	.	.
+tr|A0A5M3Z0N8|A0A5M3Z0N8_ASPTE Acetylxylan esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011035500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99984634	.	.	.
+tr|A0A5M3Z0P0|A0A5M3Z0P0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006035300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984276	.	.	.
+tr|A0A5M3Z0P7|A0A5M3Z0P7_ASPTE Extracellular protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005013100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99986935	.	.	.
+tr|A0A5M3Z0R8|A0A5M3Z0R8_ASPTE Galactose mutarotase-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011038500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998314	.	.	.
+tr|A0A5M3Z0U1|A0A5M3Z0U1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005024400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.999842	.	.	.
+tr|A0A5M3Z0U3|A0A5M3Z0U3_ASPTE Arginase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001025800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998438	.	.	.
+tr|A0A5M3Z138|A0A5M3Z138_ASPTE Alpha/beta-hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006057300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998062	.	.	.
+tr|A0A5M3Z152|A0A5M3Z152_ASPTE GPI anchored cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005038400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997484	.	.	.
+tr|A0A5M3Z155|A0A5M3Z155_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005042600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.9998649	.	.	.
+tr|A0A5M3Z185|A0A5M3Z185_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005002100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997974	.	.	.
+tr|A0A5M3Z187|A0A5M3Z187_ASPTE Cell surface protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011037300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998367	.	.	.
+tr|A0A5M3Z1C3|A0A5M3Z1C3_ASPTE Extracellular serine-threonine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011039300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998623	.	.	.
+tr|A0A5M3Z1G5|A0A5M3Z1G5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005049400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999821	.	.	.
+tr|A0A5M3Z1H7|A0A5M3Z1H7_ASPTE Apple domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005071100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981433	.	.	.
+tr|A0A5M3Z1J1|A0A5M3Z1J1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005068800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998532	.	.	.
+tr|A0A5M3Z1J3|A0A5M3Z1J3_ASPTE Rhamnogalacturonan acetylesterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006073300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	1.0	.	.	.
+tr|A0A5M3Z1K6|A0A5M3Z1K6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005071400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997495	.	.	.
+tr|A0A5M3Z1K8|A0A5M3Z1K8_ASPTE Aspartic-type endopeptidase ctsD OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005074100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997961	.	.	.
+tr|A0A5M3Z1L5|A0A5M3Z1L5_ASPTE Endoglucanase A OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005075000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998142	.	.	.
+tr|A0A5M3Z1M3|A0A5M3Z1M3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005076100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997521	.	.	.
+tr|A0A5M3Z1P0|A0A5M3Z1P0_ASPTE GPI-anchored cell wall organization protein Ecm33 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005078000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997802	.	.	.
+tr|A0A5M3Z1P7|A0A5M3Z1P7_ASPTE Allergen Asp f 7 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005079100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9996321	.	.	.
+tr|A0A5M3Z1R7|A0A5M3Z1R7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005076400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997957	.	.	.
+tr|A0A5M3Z1T2|A0A5M3Z1T2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006076100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99985975	.	.	.
+tr|A0A5M3Z1U8|A0A5M3Z1U8_ASPTE Oligosaccharyl transferase subunit OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005085000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981505	.	.	.
+tr|A0A5M3Z1X7|A0A5M3Z1X7_ASPTE Beta-1,6-glucan boisynthesis protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005064500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9994371	.	.	.
+tr|A0A5M3Z1X9|A0A5M3Z1X9_ASPTE Alpha-1,3-glucanase/mutanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011004300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998222	.	.	.
+tr|A0A5M3Z1Y8|A0A5M3Z1Y8_ASPTE Phosphoesterase superfamily protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005063600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997866	.	.	.
+tr|A0A5M3Z201|A0A5M3Z201_ASPTE Cellulose-binding GDSL lipase/acylhydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011006300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981546	.	.	.
+tr|A0A5M3Z204|A0A5M3Z204_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005009200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983215	.	.	.
+tr|A0A5M3Z227|A0A5M3Z227_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005081600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99978125	.	.	.
+tr|A0A5M3Z251|A0A5M3Z251_ASPTE L-ascorbate oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005031500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99984324	.	.	.
+tr|A0A5M3Z259|A0A5M3Z259_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005057700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997321	.	.	.
+tr|A0A5M3Z262|A0A5M3Z262_ASPTE FAD binding domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0006067000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.99984324	.	.	.
+tr|A0A5M3Z2A0|A0A5M3Z2A0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011016300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99981767	.	.	.
+tr|A0A5M3Z2A2|A0A5M3Z2A2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005020300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997983	.	.	.
+tr|A0A5M3Z2C5|A0A5M3Z2C5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005053900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	37	0.99351424	.	.	.
+tr|A0A5M3Z2G1|A0A5M3Z2G1_ASPTE Chitin binding domain protein Peritrophin-A OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005026300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997928	.	.	.
+tr|A0A5M3Z2P1|A0A5M3Z2P1_ASPTE IgE-binding protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014010600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998181	.	.	.
+tr|A0A5M3Z2P4|A0A5M3Z2P4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014001100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99972594	.	.	.
+tr|A0A5M3Z2S1|A0A5M3Z2S1_ASPTE FAD/FMN-containing isoamyl alcohol oxidase MreA OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014008900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998409	.	.	.
+tr|A0A5M3Z2W6|A0A5M3Z2W6_ASPTE Putative aromatic-amino-acid aminotransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011019000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983984	.	.	.
+tr|A0A5M3Z310|A0A5M3Z310_ASPTE Saponin hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014012500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	1.0	.	.	.
+tr|A0A5M3Z362|A0A5M3Z362_ASPTE GPI anchored cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005078900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983436	.	.	.
+tr|A0A5M3Z372|A0A5M3Z372_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005079900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998201	.	.	.
+tr|A0A5M3Z3D6|A0A5M3Z3D6_ASPTE ASST-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014028700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997857	.	.	.
+tr|A0A5M3Z3E1|A0A5M3Z3E1_ASPTE Putative alkaline D-peptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001025300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984694	.	.	.
+tr|A0A5M3Z3G3|A0A5M3Z3G3_ASPTE Glycosyl hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014031800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998408	.	.	.
+tr|A0A5M3Z3J0|A0A5M3Z3J0_ASPTE Extracellular thaumatin domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014033500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.999767	.	.	.
+tr|A0A5M3Z3K2|A0A5M3Z3K2_ASPTE Beta-lactamase-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014035700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985564	.	.	.
+tr|A0A5M3Z3K8|A0A5M3Z3K8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014027100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	14	0.9998563	.	.	.
+tr|A0A5M3Z3N6|A0A5M3Z3N6_ASPTE Extracellular phytase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0001016300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998536	.	.	.
+tr|A0A5M3Z3Q8|A0A5M3Z3Q8_ASPTE Esterase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014027300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99961275	.	.	.
+tr|A0A5M3Z3T0|A0A5M3Z3T0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014029300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99978715	.	.	.
+tr|A0A5M3Z3T9|A0A5M3Z3T9_ASPTE alpha-L-fucosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007007600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998259	.	.	.
+tr|A0A5M3Z3U3|A0A5M3Z3U3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011050900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.6468045	.	.	.
+tr|A0A5M3Z3W8|A0A5M3Z3W8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014034300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998168	.	.	.
+tr|A0A5M3Z3X4|A0A5M3Z3X4_ASPTE Lysozyme-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005000600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99979824	.	.	.
+tr|A0A5M3Z3X7|A0A5M3Z3X7_ASPTE MhpC, hydrolases or acyltransferase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014035300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998338	.	.	.
+tr|A0A5M3Z3Y2|A0A5M3Z3Y2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007008000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998327	.	.	.
+tr|A0A5M3Z434|A0A5M3Z434_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007010700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998141	.	.	.
+tr|A0A5M3Z436|A0A5M3Z436_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007014000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998053	.	.	.
+tr|A0A5M3Z450|A0A5M3Z450_ASPTE Ser/Thr protein phosphatase family OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002069800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	14	0.9998384	.	.	.
+tr|A0A5M3Z457|A0A5M3Z457_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0011046800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983263	.	.	.
+tr|A0A5M3Z493|A0A5M3Z493_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007011200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99988693	.	.	.
+tr|A0A5M3Z4E9|A0A5M3Z4E9_ASPTE Conserved threonine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007026000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9997453	.	.	.
+tr|A0A5M3Z4G5|A0A5M3Z4G5_ASPTE DUF7707 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002071600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99982864	.	.	.
+tr|A0A5M3Z4G6|A0A5M3Z4G6_ASPTE GPI anchored cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005003700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998295	.	.	.
+tr|A0A5M3Z4K9|A0A5M3Z4K9_ASPTE Transcription factor C6 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005020900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998093	.	.	.
+tr|A0A5M3Z4M1|A0A5M3Z4M1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014012400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99980605	.	.	.
+tr|A0A5M3Z4N9|A0A5M3Z4N9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007035000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979746	.	.	.
+tr|A0A5M3Z4W6|A0A5M3Z4W6_ASPTE CREG-like beta-barrel domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014024400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996449	.	.	.
+tr|A0A5M3Z4X3|A0A5M3Z4X3_ASPTE Putative BNR repeat protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007043000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998116	.	.	.
+tr|A0A5M3Z4X9|A0A5M3Z4X9_ASPTE Patched sphingolipid transporter OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007034200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99981195	.	.	.
+tr|A0A5M3Z4Y2|A0A5M3Z4Y2_ASPTE Bys1 family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007044000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9997431	.	.	.
+tr|A0A5M3Z4Y8|A0A5M3Z4Y8_ASPTE GPI anchored dioxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007046600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99978673	.	.	.
+tr|A0A5M3Z516|A0A5M3Z516_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005024800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984294	.	.	.
+tr|A0A5M3Z528|A0A5M3Z528_ASPTE Putative glycosyl hydrolases family 43 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007050600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982476	.	.	.
+tr|A0A5M3Z547|A0A5M3Z547_ASPTE Peptidase S33 tripeptidyl aminopeptidase-like C-terminal domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007052600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99987245	.	.	.
+tr|A0A5M3Z570|A0A5M3Z570_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007053000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999818	.	.	.
+tr|A0A5M3Z573|A0A5M3Z573_ASPTE Putative glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007051700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998455	.	.	.
+tr|A0A5M3Z5E2|A0A5M3Z5E2_ASPTE Oligosaccharyltransferase subunit ribophorin II OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005039800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998371	.	.	.
+tr|A0A5M3Z5E7|A0A5M3Z5E7_ASPTE Trypsin-like serine protease OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007013500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982595	.	.	.
+tr|A0A5M3Z5F3|A0A5M3Z5F3_ASPTE Deoxyribonuclease NucA/NucB domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008000900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99982065	.	.	.
+tr|A0A5M3Z5F4|A0A5M3Z5F4_ASPTE Endoglucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005048900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99985147	.	.	.
+tr|A0A5M3Z5H3|A0A5M3Z5H3_ASPTE Amidase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007051200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997823	.	.	.
+tr|A0A5M3Z5I0|A0A5M3Z5I0_ASPTE Glycoside hydrolase family 88 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008003900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998126	.	.	.
+tr|A0A5M3Z5I1|A0A5M3Z5I1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007060400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99984235	.	.	.
+tr|A0A5M3Z5J8|A0A5M3Z5J8_ASPTE Inosine/uridine-preferring nucleoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008004000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998461	.	.	.
+tr|A0A5M3Z5L8|A0A5M3Z5L8_ASPTE Alkali-sensitive linkage protein 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007020300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998261	.	.	.
+tr|A0A5M3Z5M2|A0A5M3Z5M2_ASPTE N-acetylmuramoyl-L-alanine amidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007019500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99981725	.	.	.
+tr|A0A5M3Z5N9|A0A5M3Z5N9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008004700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99982005	.	.	.
+tr|A0A5M3Z5Q3|A0A5M3Z5Q3_ASPTE Six-hairpin glycosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007058200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9997687	.	.	.
+tr|A0A5M3Z5Q8|A0A5M3Z5Q8_ASPTE Endosomal cargo receptor OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0005070200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.999837	.	.	.
+tr|A0A5M3Z5S3|A0A5M3Z5S3_ASPTE Protein fmp52 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008012900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	14	0.99983674	.	.	.
+tr|A0A5M3Z5V7|A0A5M3Z5V7_ASPTE 16 kDa allergen OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008001500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997961	.	.	.
+tr|A0A5M3Z5W3|A0A5M3Z5W3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008018300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998447	.	.	.
+tr|A0A5M3Z5Y7|A0A5M3Z5Y7_ASPTE FAD/FMN-containing isoamyl alcohol oxidase MreA-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008013700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99983126	.	.	.
+tr|A0A5M3Z625|A0A5M3Z625_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008021000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99986947	.	.	.
+tr|A0A5M3Z634|A0A5M3Z634_ASPTE Altered inheritance of mitochondria protein 6 homolog ARB_06966 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008024900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998644	.	.	.
+tr|A0A5M3Z637|A0A5M3Z637_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007034500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99976873	.	.	.
+tr|A0A5M3Z672|A0A5M3Z672_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007037500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998649	.	.	.
+tr|A0A5M3Z675|A0A5M3Z675_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008029900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.999691	.	.	.
+tr|A0A5M3Z6D6|A0A5M3Z6D6_ASPTE Xylanase D OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007044500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.99984723	.	.	.
+tr|A0A5M3Z6E8|A0A5M3Z6E8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007046500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998319	.	.	.
+tr|A0A5M3Z6F2|A0A5M3Z6F2_ASPTE ER membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008031000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983144	.	.	.
+tr|A0A5M3Z6G8|A0A5M3Z6G8_ASPTE ER membrane protein complex subunit 1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008028300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998314	.	.	.
+tr|A0A5M3Z6H4|A0A5M3Z6H4_ASPTE Xylosidase/glycosyl hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008038700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99958277	.	.	.
+tr|A0A5M3Z6I4|A0A5M3Z6I4_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007049500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998386	.	.	.
+tr|A0A5M3Z6J0|A0A5M3Z6J0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008023500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99980295	.	.	.
+tr|A0A5M3Z6N5|A0A5M3Z6N5_ASPTE Nuclear membrane fusion protein Kar5 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008041000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.99985206	.	.	.
+tr|A0A5M3Z6S1|A0A5M3Z6S1_ASPTE O-methylsterigmatocystin oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007058500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.8740401	.	.	.
+tr|A0A5M3Z6S3|A0A5M3Z6S3_ASPTE Protein BIG1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002074400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998307	.	.	.
+tr|A0A5M3Z6T7|A0A5M3Z6T7_ASPTE Copper acquisition factor BIM1-like domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008033500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99986017	.	.	.
+tr|A0A5M3Z706|A0A5M3Z706_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008039500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999843	.	.	.
+tr|A0A5M3Z712|A0A5M3Z712_ASPTE GPI transamidase component Gpi16 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008040500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998049	.	.	.
+tr|A0A5M3Z719|A0A5M3Z719_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002072100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998447	.	.	.
+tr|A0A5M3Z728|A0A5M3Z728_ASPTE Glucosidase 2 subunit beta OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002073100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998192	.	.	.
+tr|A0A5M3Z729|A0A5M3Z729_ASPTE Protein disulfide isomerase Pdi1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014023200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996389	.	.	.
+tr|A0A5M3Z734|A0A5M3Z734_ASPTE Lipase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0002072200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998231	.	.	.
+tr|A0A5M3Z769|A0A5M3Z769_ASPTE Extracellular dioxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014012900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997484	.	.	.
+tr|A0A5M3Z773|A0A5M3Z773_ASPTE Putative muramidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014027200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99977666	.	.	.
+tr|A0A5M3Z789|A0A5M3Z789_ASPTE Arginase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014029200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.9998286	.	.	.
+tr|A0A5M3Z796|A0A5M3Z796_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014015900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99982154	.	.	.
+tr|A0A5M3Z7A1|A0A5M3Z7A1_ASPTE DnaJ domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009003900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997854	.	.	.
+tr|A0A5M3Z7D4|A0A5M3Z7D4_ASPTE Signal peptide-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008026600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.9998474	.	.	.
+tr|A0A5M3Z7E4|A0A5M3Z7E4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009007200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998053	.	.	.
+tr|A0A5M3Z7G7|A0A5M3Z7G7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008029600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984926	.	.	.
+tr|A0A5M3Z7I8|A0A5M3Z7I8_ASPTE Glycoside hydrolase family 43 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009011800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998782	.	.	.
+tr|A0A5M3Z7K0|A0A5M3Z7K0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008033600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981016	.	.	.
+tr|A0A5M3Z7L3|A0A5M3Z7L3_ASPTE Amine oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009014200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.999854	.	.	.
+tr|A0A5M3Z7N1|A0A5M3Z7N1_ASPTE FAD-binding-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009021600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998619	.	.	.
+tr|A0A5M3Z7P6|A0A5M3Z7P6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009006400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99983805	.	.	.
+tr|A0A5M3Z7Q4|A0A5M3Z7Q4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009019200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998353	.	.	.
+tr|A0A5M3Z7R3|A0A5M3Z7R3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007011100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998675	.	.	.
+tr|A0A5M3Z7S8|A0A5M3Z7S8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009019800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99983114	.	.	.
+tr|A0A5M3Z7T2|A0A5M3Z7T2_ASPTE FAD-binding-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014032000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999882	.	.	.
+tr|A0A5M3Z7T9|A0A5M3Z7T9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008044600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9997913	.	.	.
+tr|A0A5M3Z7V4|A0A5M3Z7V4_ASPTE Glutamate carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007001800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.99983144	.	.	.
+tr|A0A5M3Z854|A0A5M3Z854_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008043800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.81409264	.	.	.
+tr|A0A5M3Z867|A0A5M3Z867_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007026100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99977463	.	.	.
+tr|A0A5M3Z884|A0A5M3Z884_ASPTE Putative arabinan-endo 1,5-alpha-L-arabinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009041200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99978685	.	.	.
+tr|A0A5M3Z887|A0A5M3Z887_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009037400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982077	.	.	.
+tr|A0A5M3Z8A0|A0A5M3Z8A0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009027400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997884	.	.	.
+tr|A0A5M3Z8A9|A0A5M3Z8A9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009039400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998014	.	.	.
+tr|A0A5M3Z8B6|A0A5M3Z8B6_ASPTE Phosphatidylserine decarboxylase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009042800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985063	.	.	.
+tr|A0A5M3Z8D4|A0A5M3Z8D4_ASPTE Vacuolar protein sorting protein 62 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008052800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	39	0.99671745	.	.	.
+tr|A0A5M3Z8G3|A0A5M3Z8G3_ASPTE Glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009040500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983984	.	.	.
+tr|A0A5M3Z8I9|A0A5M3Z8I9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009008500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998465	.	.	.
+tr|A0A5M3Z8J6|A0A5M3Z8J6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009009500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998457	.	.	.
+tr|A0A5M3Z8M1|A0A5M3Z8M1_ASPTE AB hydrolase-1 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009013500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998287	.	.	.
+tr|A0A5M3Z8M2|A0A5M3Z8M2_ASPTE NPP1 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009054800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979466	.	.	.
+tr|A0A5M3Z8M8|A0A5M3Z8M8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009043000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997799	.	.	.
+tr|A0A5M3Z8N7|A0A5M3Z8N7_ASPTE Endo-arabinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009044000 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9998394	.	.	.
+tr|A0A5M3Z8P0|A0A5M3Z8P0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009051200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998332	.	.	.
+tr|A0A5M3Z8R3|A0A5M3Z8R3_ASPTE Cell wall protein phiA OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009008700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998028	.	.	.
+tr|A0A5M3Z8R5|A0A5M3Z8R5_ASPTE LsdA family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009018500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998227	.	.	.
+tr|A0A5M3Z8T3|A0A5M3Z8T3_ASPTE Putative alpha-1,3-glucanase/mutanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007035900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.99974614	.	.	.
+tr|A0A5M3Z8T5|A0A5M3Z8T5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009010700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.999727	.	.	.
+tr|A0A5M3Z8W1|A0A5M3Z8W1_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009056500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982005	.	.	.
+tr|A0A5M3Z8Y4|A0A5M3Z8Y4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009050000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.999826	.	.	.
+tr|A0A5M3Z8Y8|A0A5M3Z8Y8_ASPTE Meiotically up-regulated gene family-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010000500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998348	.	.	.
+tr|A0A5M3Z8Z4|A0A5M3Z8Z4_ASPTE Aspartic protease OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010006300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998754	.	.	.
+tr|A0A5M3Z8Z6|A0A5M3Z8Z6_ASPTE ASST-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007043900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99981314	.	.	.
+tr|A0A5M3Z913|A0A5M3Z913_ASPTE Glycosyl hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009019700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998376	.	.	.
+tr|A0A5M3Z920|A0A5M3Z920_ASPTE Lactonohydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010006500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998344	.	.	.
+tr|A0A5M3Z928|A0A5M3Z928_ASPTE Glycosyl hydrolase family 43 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008001400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99978805	.	.	.
+tr|A0A5M3Z961|A0A5M3Z961_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010015900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998494	.	.	.
+tr|A0A5M3Z963|A0A5M3Z963_ASPTE Acetylxylan esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010015300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99982345	.	.	.
+tr|A0A5M3Z971|A0A5M3Z971_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009058000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99975634	.	.	.
+tr|A0A5M3Z991|A0A5M3Z991_ASPTE Protein kinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009027700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998381	.	.	.
+tr|A0A5M3Z994|A0A5M3Z994_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0007053900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998241	.	.	.
+tr|A0A5M3Z9A1|A0A5M3Z9A1_ASPTE Carboxylic ester hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010016600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99979156	.	.	.
+tr|A0A5M3Z9D5|A0A5M3Z9D5_ASPTE 6-hydroxy-D-nicotine oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009031700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	26	0.99985313	.	.	.
+tr|A0A5M3Z9G2|A0A5M3Z9G2_ASPTE Carboxypeptidase S OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010024900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998266	.	.	.
+tr|A0A5M3Z9G3|A0A5M3Z9G3_ASPTE Hydrophobin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009043100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.99980503	.	.	.
+tr|A0A5M3Z9H0|A0A5M3Z9H0_ASPTE ASST-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010011100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99984026	.	.	.
+tr|A0A5M3Z9I5|A0A5M3Z9I5_ASPTE Related to O-methylsterigmatocystin oxidoreductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010012100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983525	.	.	.
+tr|A0A5M3Z9P2|A0A5M3Z9P2_ASPTE chitinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008021400 PE=3 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998224	.	.	.
+tr|A0A5M3Z9P7|A0A5M3Z9P7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010034900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9998241	.	.	.
+tr|A0A5M3Z9Q9|A0A5M3Z9Q9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009044300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981636	.	.	.
+tr|A0A5M3Z9S8|A0A5M3Z9S8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009046300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99982995	.	.	.
+tr|A0A5M3Z9V0|A0A5M3Z9V0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008027400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982595	.	.	.
+tr|A0A5M3Z9V1|A0A5M3Z9V1_ASPTE Ser/Thr protein phosphatase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009057100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997754	.	.	.
+tr|A0A5M3Z9V5|A0A5M3Z9V5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009058100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99980146	.	.	.
+tr|A0A5M3Z9Y2|A0A5M3Z9Y2_ASPTE Galactose oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008001100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	15	0.99992967	.	.	.
+tr|A0A5M3ZA16|A0A5M3ZA16_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010043600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998379	.	.	.
+tr|A0A5M3ZA42|A0A5M3ZA42_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010045600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998498	.	.	.
+tr|A0A5M3ZA49|A0A5M3ZA49_ASPTE MBL2-like secreted peptide OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010012200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	36	0.999828	.	.	.
+tr|A0A5M3ZA54|A0A5M3ZA54_ASPTE Protein ROT1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008008100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99928564	.	.	.
+tr|A0A5M3ZA56|A0A5M3ZA56_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009058300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99980885	.	.	.
+tr|A0A5M3ZA90|A0A5M3ZA90_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010016200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998115	.	.	.
+tr|A0A5M3ZAB4|A0A5M3ZAB4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010041800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99983495	.	.	.
+tr|A0A5M3ZAC0|A0A5M3ZAC0_ASPTE Serine proteinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008029200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998219	.	.	.
+tr|A0A5M3ZAE0|A0A5M3ZAE0_ASPTE Protein sym1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010022200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.50726444	.	.	.
+tr|A0A5M3ZAG6|A0A5M3ZAG6_ASPTE MBL2-like secreted peptide OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008020100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99983144	.	.	.
+tr|A0A5M3ZAH9|A0A5M3ZAH9_ASPTE DUF1080-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012006500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998404	.	.	.
+tr|A0A5M3ZAI2|A0A5M3ZAI2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010015400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.83302337	.	.	.
+tr|A0A5M3ZAI6|A0A5M3ZAI6_ASPTE Vacuolar membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008052400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99976784	.	.	.
+tr|A0A5M3ZAK6|A0A5M3ZAK6_ASPTE Sulphydryl oxidase Sox OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012009500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.99850166	.	.	.
+tr|A0A5M3ZAM0|A0A5M3ZAM0_ASPTE DUF7136 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012011900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9991823	.	.	.
+tr|A0A5M3ZAM1|A0A5M3ZAM1_ASPTE Scramblase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012004100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982166	.	.	.
+tr|A0A5M3ZAN8|A0A5M3ZAN8_ASPTE Acid protease OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012006100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.999838	.	.	.
+tr|A0A5M3ZAQ1|A0A5M3ZAQ1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008043200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.73917997	.	.	.
+tr|A0A5M3ZAQ9|A0A5M3ZAQ9_ASPTE Endoglucanase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009002300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.999824	.	.	.
+tr|A0A5M3ZAR6|A0A5M3ZAR6_ASPTE Aldo/keto reductase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012005700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998423	.	.	.
+tr|A0A5M3ZAR9|A0A5M3ZAR9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009003300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99983877	.	.	.
+tr|A0A5M3ZAS0|A0A5M3ZAS0_ASPTE GDSL lipase/acylhydrolase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012015500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998587	.	.	.
+tr|A0A5M3ZAS8|A0A5M3ZAS8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012017900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99984735	.	.	.
+tr|A0A5M3ZAU8|A0A5M3ZAU8_ASPTE Putative cell wall glycoprotein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012019900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99986744	.	.	.
+tr|A0A5M3ZAV5|A0A5M3ZAV5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010024400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998124	.	.	.
+tr|A0A5M3ZAX1|A0A5M3ZAX1_ASPTE Glycoside hydrolase, family 32 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009008300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998227	.	.	.
+tr|A0A5M3ZAZ3|A0A5M3ZAZ3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012022500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983114	.	.	.
+tr|A0A5M3ZB04|A0A5M3ZB04_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012023500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997987	.	.	.
+tr|A0A5M3ZB27|A0A5M3ZB27_ASPTE AttH domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012021100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998505	.	.	.
+tr|A0A5M3ZB73|A0A5M3ZB73_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008049100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985254	.	.	.
+tr|A0A5M3ZB85|A0A5M3ZB85_ASPTE Amidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009019300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998466	.	.	.
+tr|A0A5M3ZB94|A0A5M3ZB94_ASPTE Cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012028100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998475	.	.	.
+tr|A0A5M3ZB98|A0A5M3ZB98_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008052100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9997226	.	.	.
+tr|A0A5M3ZBB5|A0A5M3ZBB5_ASPTE Putative CFEM domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009005100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99983746	.	.	.
+tr|A0A5M3ZBC8|A0A5M3ZBC8_ASPTE Putative alpha-xylosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012036500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99984115	.	.	.
+tr|A0A5M3ZBD3|A0A5M3ZBD3_ASPTE Arabinosidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012036200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	31	0.99982613	.	.	.
+tr|A0A5M3ZBE3|A0A5M3ZBE3_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012037100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998265	.	.	.
+tr|A0A5M3ZBE9|A0A5M3ZBE9_ASPTE Iron transport multicopper oxidase FET3 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012006800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.99982303	.	.	.
+tr|A0A5M3ZBG1|A0A5M3ZBG1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009026300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996946	.	.	.
+tr|A0A5M3ZBG4|A0A5M3ZBG4_ASPTE Mating alpha-pheromone PpgA OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009001000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998259	.	.	.
+tr|A0A5M3ZBG9|A0A5M3ZBG9_ASPTE Chitin binding domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009010100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99985904	.	.	.
+tr|A0A5M3ZBH0|A0A5M3ZBH0_ASPTE Extracellular conserved serine-rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009027300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997573	.	.	.
+tr|A0A5M3ZBH5|A0A5M3ZBH5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012036100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981946	.	.	.
+tr|A0A5M3ZBI0|A0A5M3ZBI0_ASPTE Extracellular cellulase CelA/allergen Asp F7-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012029700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.9992377	.	.	.
+tr|A0A5M3ZBI2|A0A5M3ZBI2_ASPTE AB hydrolase-1 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012041400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9997864	.	.	.
+tr|A0A5M3ZBI3|A0A5M3ZBI3_ASPTE FAD binding domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009028300 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.9998062	.	.	.
+tr|A0A5M3ZBI6|A0A5M3ZBI6_ASPTE WSC-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013000500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99981797	.	.	.
+tr|A0A5M3ZBK2|A0A5M3ZBK2_ASPTE peptidylprolyl isomerase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013000800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998046	.	.	.
+tr|A0A5M3ZBK6|A0A5M3ZBK6_ASPTE Endosomal cargo receptor OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012012800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998304	.	.	.
+tr|A0A5M3ZBP7|A0A5M3ZBP7_ASPTE Amidase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012036700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998508	.	.	.
+tr|A0A5M3ZBP9|A0A5M3ZBP9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012016800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998263	.	.	.
+tr|A0A5M3ZBQ8|A0A5M3ZBQ8_ASPTE WD-like domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012037600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998319	.	.	.
+tr|A0A5M3ZBS2|A0A5M3ZBS2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012018800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998471	.	.	.
+tr|A0A5M3ZBU9|A0A5M3ZBU9_ASPTE Inosine/uridine preferring nucleoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012021800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998379	.	.	.
+tr|A0A5M3ZBX4|A0A5M3ZBX4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009027100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99988264	.	.	.
+tr|A0A5M3ZC06|A0A5M3ZC06_ASPTE Glycosyl hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013007300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9997178	.	.	.
+tr|A0A5M3ZC13|A0A5M3ZC13_ASPTE ZIP Zinc transporter OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012016000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	28	0.9997893	.	.	.
+tr|A0A5M3ZC20|A0A5M3ZC20_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009021000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99982774	.	.	.
+tr|A0A5M3ZC23|A0A5M3ZC23_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009045900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99984133	.	.	.
+tr|A0A5M3ZC35|A0A5M3ZC35_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013012700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99981856	.	.	.
+tr|A0A5M3ZC55|A0A5M3ZC55_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009049900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99966586	.	.	.
+tr|A0A5M3ZC66|A0A5M3ZC66_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013022800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99982107	.	.	.
+tr|A0A5M3ZC67|A0A5M3ZC67_ASPTE DUF7728 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012035800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9243284	.	.	.
+tr|A0A5M3ZC73|A0A5M3ZC73_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009026000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998534	.	.	.
+tr|A0A5M3ZCB0|A0A5M3ZCB0_ASPTE Oxalate decarboxylase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009042700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.9998108	.	.	.
+tr|A0A5M3ZCB5|A0A5M3ZCB5_ASPTE Sure-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009054900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	14	0.9998367	.	.	.
+tr|A0A5M3ZCF0|A0A5M3ZCF0_ASPTE NlpC/P60-like cell-wall peptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009057900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99977255	.	.	.
+tr|A0A5M3ZCF3|A0A5M3ZCF3_ASPTE Histidine acid phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013031500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998191	.	.	.
+tr|A0A5M3ZCF8|A0A5M3ZCF8_ASPTE Alpha-L-fucosidase 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013025100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998604	.	.	.
+tr|A0A5M3ZCH6|A0A5M3ZCH6_ASPTE Glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0009037600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99984735	.	.	.
+tr|A0A5M3ZCN3|A0A5M3ZCN3_ASPTE Cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013034100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.8330967	.	.	.
+tr|A0A5M3ZCN6|A0A5M3ZCN6_ASPTE Subtilisin-like protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013039500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.999851	.	.	.
+tr|A0A5M3ZCN9|A0A5M3ZCN9_ASPTE GPI anchored serine-threonine rich protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010011000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983454	.	.	.
+tr|A0A5M3ZCS5|A0A5M3ZCS5_ASPTE S1/P1 nuclease OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012036900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.999859	.	.	.
+tr|A0A5M3ZCT1|A0A5M3ZCT1_ASPTE Glycoside hydrolase superfamily OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012037900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	16	0.99982435	.	.	.
+tr|A0A5M3ZCX0|A0A5M3ZCX0_ASPTE Extracellular serine carboxypeptidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015005200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	16	0.9998496	.	.	.
+tr|A0A5M3ZCY0|A0A5M3ZCY0_ASPTE LysM domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015003800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998281	.	.	.
+tr|A0A5M3ZCY4|A0A5M3ZCY4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015001500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998286	.	.	.
+tr|A0A5M3ZCZ7|A0A5M3ZCZ7_ASPTE Glutaminase GtaA OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010025000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99974436	.	.	.
+tr|A0A5M3ZD14|A0A5M3ZD14_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015005500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.99981356	.	.	.
+tr|A0A5M3ZD34|A0A5M3ZD34_ASPTE DUF1237 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015010400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.99984396	.	.	.
+tr|A0A5M3ZD48|A0A5M3ZD48_ASPTE Carbohydrate-binding module family 6 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015011200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	27	0.9997475	.	.	.
+tr|A0A5M3ZD83|A0A5M3ZD83_ASPTE Aspergillopepsin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010019800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9998035	.	.	.
+tr|A0A5M3ZD96|A0A5M3ZD96_ASPTE Isochorismatase family hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015012500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.9997932	.	.	.
+tr|A0A5M3ZDA7|A0A5M3ZDA7_ASPTE GmrSD restriction endonucleases C-terminal domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013026400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99977684	.	.	.
+tr|A0A5M3ZDB8|A0A5M3ZDB8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010023800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99974835	.	.	.
+tr|A0A5M3ZDC7|A0A5M3ZDC7_ASPTE WSC-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010024800 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.99985284	.	.	.
+tr|A0A5M3ZDE8|A0A5M3ZDE8_ASPTE Endonuclease/exonuclease/phosphatase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010014700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.8370033	.	.	.
+tr|A0A5M3ZDL2|A0A5M3ZDL2_ASPTE Glycoside hydrolase family 32 protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016001200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985254	.	.	.
+tr|A0A5M3ZDN0|A0A5M3ZDN0_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016003500 PE=4 SV=1	SignalP-6.0	signal_peptide	1	39	0.9997554	.	.	.
+tr|A0A5M3ZDN5|A0A5M3ZDN5_ASPTE Endoglycoceramidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016004100 PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.99982154	.	.	.
+tr|A0A5M3ZDS1|A0A5M3ZDS1_ASPTE ER membrane protein complex subunit 7 homolog OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012001600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9997241	.	.	.
+tr|A0A5M3ZDT4|A0A5M3ZDT4_ASPTE BYS1 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013032600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9996685	.	.	.
+tr|A0A5M3ZDU7|A0A5M3ZDU7_ASPTE UPF0047 domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013033600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998273	.	.	.
+tr|A0A5M3ZDW2|A0A5M3ZDW2_ASPTE Hydrophobin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016007500 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99978787	.	.	.
+tr|A0A5M3ZDY6|A0A5M3ZDY6_ASPTE Spherulin OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010036700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998211	.	.	.
+tr|A0A5M3ZDZ8|A0A5M3ZDZ8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010037700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998226	.	.	.
+tr|A0A5M3ZE29|A0A5M3ZE29_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012012600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998257	.	.	.
+tr|A0A5M3ZE86|A0A5M3ZE86_ASPTE Serum paraoxonase/arylesterase family protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010047400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998179	.	.	.
+tr|A0A5M3ZE90|A0A5M3ZE90_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012018600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.999862	.	.	.
+tr|A0A5M3ZEA3|A0A5M3ZEA3_ASPTE Integral membrane protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004007100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.7377624	.	.	.
+tr|A0A5M3ZEA9|A0A5M3ZEA9_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012020600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998643	.	.	.
+tr|A0A5M3ZEB1|A0A5M3ZEB1_ASPTE Sad1/UNC domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004011300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.99987787	.	.	.
+tr|A0A5M3ZEC3|A0A5M3ZEC3_ASPTE Glycoside hydrolase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015021900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	18	0.99974877	.	.	.
+tr|A0A5M3ZEC5|A0A5M3ZEC5_ASPTE Phosphoesterase-domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012022600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.9998312	.	.	.
+tr|A0A5M3ZED5|A0A5M3ZED5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012023600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99982435	.	.	.
+tr|A0A5M3ZED8|A0A5M3ZED8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012012400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99983394	.	.	.
+tr|A0A5M3ZEI0|A0A5M3ZEI0_ASPTE FAD binding domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012027600 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998209	.	.	.
+tr|A0A5M3ZEL1|A0A5M3ZEL1_ASPTE FRE family ferric-chelate reductase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016007400 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99985856	.	.	.
+tr|A0A5M3ZFE8|A0A5M3ZFE8_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012037200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.9996355	.	.	.
+tr|A0A5M3ZFG5|A0A5M3ZFG5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013022200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998135	.	.	.
+tr|A0A5M3ZFH7|A0A5M3ZFH7_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012040200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996474	.	.	.
+tr|A0A5M3ZFI1|A0A5M3ZFI1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012041300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998537	.	.	.
+tr|A0A5M3ZFI2|A0A5M3ZFI2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0017006000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.9998	.	.	.
+tr|A0A5M3ZFJ1|A0A5M3ZFJ1_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0012041200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99982274	.	.	.
+tr|A0A5M3ZFM8|A0A5M3ZFM8_ASPTE DUF7492 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013003000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	25	0.9998467	.	.	.
+tr|A0A5M3ZFV5|A0A5M3ZFV5_ASPTE Dipeptidyl-peptidase V OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013038200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998138	.	.	.
+tr|A0A5M3ZFW6|A0A5M3ZFW6_ASPTE Amidase signature enzyme OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013011900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	26	0.99926394	.	.	.
+tr|A0A5M3ZG00|A0A5M3ZG00_ASPTE Esterase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015000900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.9998104	.	.	.
+tr|A0A5M3ZG03|A0A5M3ZG03_ASPTE GPI anchored cell wall protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013012000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.99974203	.	.	.
+tr|A0A5M3ZG50|A0A5M3ZG50_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013020900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	23	0.99983263	.	.	.
+tr|A0A5M3ZG53|A0A5M3ZG53_ASPTE DnaJ domain protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013016000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9996282	.	.	.
+tr|A0A5M3ZGC2|A0A5M3ZGC2_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013021000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	22	0.99979025	.	.	.
+tr|A0A5M3ZGE8|A0A5M3ZGE8_ASPTE Endoglucanase B OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013030900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998591	.	.	.
+tr|A0A5M3ZGK5|A0A5M3ZGK5_ASPTE GPI anchored protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013032000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.999845	.	.	.
+tr|A0A5M3ZGL0|A0A5M3ZGL0_ASPTE Lipase, class 3 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013033000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998286	.	.	.
+tr|A0A5M3ZGM8|A0A5M3ZGM8_ASPTE DUF7136 domain-containing protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013035000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	18	0.99939907	.	.	.
+tr|A0A5M3ZGM9|A0A5M3ZGM9_ASPTE Endoglucanase I OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0013039900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	15	0.99984944	.	.	.
+tr|A0A5M3ZGT6|A0A5M3ZGT6_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015022700 PE=3 SV=1	SignalP-6.0	signal_peptide	1	17	0.9998371	.	.	.
+tr|A0A5M3ZGY8|A0A5M3ZGY8_ASPTE Sequence orphan OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015003700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.99979204	.	.	.
+tr|A0A5M3ZH06|A0A5M3ZH06_ASPTE Tyrosinase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015012600 PE=4 SV=1	SignalP-6.0	signal_peptide	1	21	0.9998262	.	.	.
+tr|A0A5M3ZH39|A0A5M3ZH39_ASPTE Proactivator polypeptide-like OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016005200 PE=4 SV=1	SignalP-6.0	signal_peptide	1	20	0.99985576	.	.	.
+tr|A0A5M3ZHC4|A0A5M3ZHC4_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016003300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998405	.	.	.
+tr|A0A5M3ZHH8|A0A5M3ZHH8_ASPTE Carboxypeptidase 2 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016007900 PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998114	.	.	.
+tr|A0A5M3ZHM1|A0A5M3ZHM1_ASPTE Cellobiose dehydrogenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016012900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998286	.	.	.
+tr|A0A5M3ZI13|A0A5M3ZI13_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0016014000 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.8269348	.	.	.
+tr|A0A8H3MMD5|A0A8H3MMD5_ASPTE Uncharacterized protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0003052700 PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9997909	.	.	.
+tr|A0A8H3MTR9|A0A8H3MTR9_ASPTE Aromatic compound dioxygenase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0008000100 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998242	.	.	.
+tr|A0A8H3MXG9|A0A8H3MXG9_ASPTE Metalloprotease MEP1 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0015025200 PE=3 SV=1	SignalP-6.0	signal_peptide	1	22	0.99978656	.	.	.
+tr|A0A8H3MXN9|A0A8H3MXN9_ASPTE Lactobacillus up-regulated protein OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010003900 PE=4 SV=1	SignalP-6.0	signal_peptide	1	24	0.9998282	.	.	.
+tr|A0A8H3MZI7|A0A8H3MZI7_ASPTE Alkaline phosphatase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0014011300 PE=4 SV=1	SignalP-6.0	signal_peptide	1	19	0.9998036	.	.	.
+tr|A0A8H3N0N9|A0A8H3N0N9_ASPTE Altered inheritance of mitochondria protein 6 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010003800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	23	0.83311796	.	.	.
+tr|B1NJ41|B1NJ41_ASPTE Atesin-3 OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0010031800 PE=3 SV=1	SignalP-6.0	signal_peptide	1	29	0.9998316	.	.	.
