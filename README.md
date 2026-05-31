@@ -285,3 +285,139 @@ https://pro.unl.edu/dbCAN2/browse_download.php
 
 - Zhang et al., 2023
 https://academic.oup.com/nar/article/51/W1/W115/7147496
+
+
+# Results: Discovery of Multidomain Biomass-Degrading Enzymes
+
+## Objective
+
+The goal of this stage was to identify multidomain carbohydrate-active enzymes (CAZymes) across fungal secretomes and prioritize architectures potentially relevant to lignocellulose degradation.
+
+While many fungal enzymes consist of a single catalytic domain, multidomain enzymes may combine catalytic and substrate-binding functions within a single protein. Such architectures are particularly attractive for industrial enzyme discovery because carbohydrate-binding modules (CBMs) can improve substrate targeting and activity on insoluble biomass.
+
+---
+
+## Domain Annotation
+
+Validated secretomes from 30 fungal species were scanned against the dbCAN CAZyme HMM database using HMMER.
+
+Raw domain predictions were filtered using:
+
+- domain E-value threshold
+- HMM coverage threshold
+- overlap filtering to remove redundant hits
+- merging of adjacent hits belonging to the same CAZyme family
+
+This reduced:
+
+| Stage | Domain Hits |
+|---------|---------:|
+| Raw dbCAN predictions | 19,264 |
+| After filtering | 7,096 |
+| After domain merging | 7,042 |
+
+A total of **6,362 secreted CAZyme proteins** were identified.
+
+---
+
+## Multidomain Architecture Reconstruction
+
+Filtered domains were assembled into protein architectures.
+
+Results:
+
+| Metric | Value |
+|---------|---------:|
+| CAZyme proteins | 6,362 |
+| Multidomain proteins | 410 |
+| Distinct multidomain architectures | 60 |
+| Distinct heterogeneous architectures | 51 |
+
+Architectures consisting solely of repeated copies of the same domain were excluded from further analysis to focus on combinations of different functional modules.
+
+---
+
+## Most Common Architectures
+
+The most abundant multidomain architectures identified across fungal secretomes were:
+
+| Architecture | Proteins | Species |
+|---------|---------:|---------:|
+| GH72 + CBM43 | 49 | 23 |
+| GH71 + CBM24 | 34 | 19 |
+| GH54 + CBM42 | 31 | 20 |
+| GH7 + CBM1 | 11 | 7 |
+| GH10 + CBM1 | 7 | 7 |
+
+![Most common multidomain architectures](results/figures/multidomain_architecture_frequency.png)
+
+---
+
+## Architecture Distribution Across Species
+
+Some multidomain architectures occur repeatedly within a small number of species, whereas others are conserved across diverse fungal lineages. To distinguish between abundance and evolutionary distribution, architectures were ranked by the number of species in which they were detected.
+
+![Architecture distribution across species](results/figures/multidomain_architecture_species_distribution.png)
+
+---
+
+## Biomass-Relevant Architectures
+
+Several architectures associated with plant biomass degradation were identified:
+
+| Architecture | Proteins | Species |
+|---------|---------:|---------:|
+| GH7 + CBM1 | 11 | 7 |
+| GH10 + CBM1 | 7 | 7 |
+| GH5_4 + CBM46 | 5 | 5 |
+| GH11 + CBM1 | 2 | 2 |
+| AA9 + CBM1 | 1 | 1 |
+| GH45_2 + CBM1 | 1 | 1 |
+| GH74 + GH74 + CBM1 | 1 | 1 |
+
+These architectures combine catalytic CAZyme domains with carbohydrate-binding modules and represent promising candidates for biomass conversion applications.
+
+---
+
+## Thermophilic Fungi
+
+Three thermophilic fungi were included in the dataset:
+
+- *Myceliophthora thermophila*
+- *Thielavia terrestris*
+- *Chaetomium thermophilum*
+
+Most multidomain architectures found in thermophiles were also present in mesophilic fungi, suggesting that adaptation to elevated temperatures may occur primarily through sequence-level evolution rather than through acquisition of unique domain architectures.
+
+---
+
+## Architecture Landscape
+
+The distribution of architectures across proteins and species revealed a small number of highly conserved solutions alongside numerous rare architectures.
+
+![Architecture landscape](results/figures/multidomain_architecture_landscape.png)
+
+Several rare architectures were identified, including:
+
+- AA9 + CBM1
+- GH45_2 + CBM1
+- GH74 + GH74 + CBM1
+- GH79 + CBM67 + GH78
+
+These architectures may represent specialized biomass-degradation strategies and were selected for further investigation.
+
+---
+
+## Conclusion
+
+Analysis of 30 fungal secretomes identified a diverse repertoire of multidomain CAZymes involved in plant biomass degradation.
+
+The study revealed:
+
+- 6,362 secreted CAZyme proteins
+- 410 multidomain enzymes
+- 51 heterogeneous domain architectures
+- multiple conserved cellulase-associated architectures
+- several rare architectures potentially relevant to industrial enzyme discovery
+
+The resulting candidate set provides a foundation for comparative sequence analysis and prioritization of enzymes for future engineering and experimental validation.
