@@ -276,27 +276,7 @@ results/            Generated tables, figures and intermediate files
 ```
 ---
 
-# References
 
-SignalP 6:
-Teufel et al., 2022
-https://www.nature.com/articles/s41587-021-01156-3
-
-DeepTMHMM:
-- Hallgren et al., 2022
-https://doi.org/10.1101/2022.04.08.487609
-
-dbCAN:
-
-- dbCAN-HMMdb-V14.txt
-https://pro.unl.edu/dbCAN2/browse_download.php
-
-- Zhang et al., 2023
-https://academic.oup.com/nar/article/51/W1/W115/7147496
-
-cd-hit-v4.8.1-2019-0228:
--Fu, Limin, et al., 2012
-https://academic.oup.com/bioinformatics/article/28/23/3150/192160
 
 # Results: Discovery of Multidomain Biomass-Degrading Enzymes
 
@@ -602,3 +582,25 @@ Potential future developments include:
 - expansion to newly sequenced fungal genomes and additional microbial taxa
 
 Because each analysis stage is modular, these extensions can be incorporated without substantial modification of the overall workflow.
+
+---
+
+# References
+
+SignalP 6:
+Teufel et al., 2022
+https://www.nature.com/articles/s41587-021-01156-3
+
+DeepTMHMM:
+- Hallgren et al., 2022
+https://doi.org/10.1101/2022.04.08.487609
+
+dbCAN:
+- dbCAN-HMMdb-V14.txt
+https://pro.unl.edu/dbCAN2/browse_download.php
+- Zhang et al., 2023
+https://academic.oup.com/nar/article/51/W1/W115/7147496
+
+cd-hit-v4.8.1-2019-0228:
+-Fu, Limin, et al., 2012
+https://academic.oup.com/bioinformatics/article/28/23/3150/192160
