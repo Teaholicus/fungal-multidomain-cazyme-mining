@@ -235,3 +235,13 @@ __pycache__/
 *.log
 .DS_Store
 
+# Archived development files
+
+notebooks/old_versions/
+scripts/old_versions/
+
+# DeepTMHMM intermediate files
+results/deeptmhmm/full_run/embeddings/
+results/deeptmhmm/full_run/tmp/
+
+results/dbcan_hits/hmmscan.log

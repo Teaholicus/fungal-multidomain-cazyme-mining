@@ -4,33 +4,25 @@ mkdir -p ../results/dbcan_hits
 
 DBCAN_DB="../tools/dbcan/dbCAN-HMMdb-V14.txt"
 
-for species_dir in ../results/signalp_fast_slow/*; do
+INPUT_FASTA="../results/deeptmhmm/validated_secretome.fasta"
 
-    species=$(basename "$species_dir")
+OUTPUT_FILE="../results/dbcan_hits/dbcan_hits.txt"
 
-    echo "======================================="
-    echo "$(date) Processing: $species"
-    echo "======================================="
+echo "======================================="
+echo "$(date) Running dbCAN HMM scan"
+echo "======================================="
 
-    fasta="$species_dir/validated_secretome.fasta"
+echo "Input FASTA:"
+echo "$INPUT_FASTA"
 
-    output_dir="../results/dbcan_hits/$species"
+echo "Output:"
+echo "$OUTPUT_FILE"
 
-    mkdir -p "$output_dir"
+hmmscan \
+    --domtblout "$OUTPUT_FILE" \
+    --cpu 8 \
+    "$DBCAN_DB" \
+    "$INPUT_FASTA" \
+    > ../results/dbcan_hits/hmmscan.log
 
-    output_file="$output_dir/dbcan_hits.txt"
-
-    # skip completed runs
-    if [ -s "$output_file" ]; then
-        echo "Skipping completed"
-        continue
-    fi
-
-    hmmscan \
-        --domtblout "$output_file" \
-        --cpu 8 \
-        "$DBCAN_DB" \
-        "$fasta" \
-        > /dev/null
-
-done
+echo "Done"
