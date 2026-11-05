@@ -1,1 +1,2 @@
-results/** linguist-generated=true
+results/** linguist-generated linguist-vendored
+*.3line linguist-detectable=false
