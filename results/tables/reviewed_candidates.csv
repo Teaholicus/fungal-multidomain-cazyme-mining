@@ -1,8 +1,8 @@
-architecture,cluster,protein,species,length,cluster_size,species_in_cluster,species_fraction,thermophile,reviewed,architecture_proteins,architecture_species,architecture_thermophiles,has_cbm,has_cellulase,cluster_fraction
-GH54_CBM42,2,sp|O74288|ABFB_EMENI,aspergillus_nidulans,510,5,5,0.2631578947368421,False,True,28,19,1,True,True,0.17857142857142858
-CBM35_GH26,0,sp|G2Q4H7|MA26A_THET4,myceliophthora_thermophila,482,4,4,1.0,True,True,4,4,2,True,False,1.0
-GH72_CBM43,1,sp|B0XVI5|GEL4_ASPFC,aspergillus_fumigatus,548,4,4,0.17391304347826086,False,True,48,23,1,True,True,0.08333333333333333
-AA13_CBM20,1,sp|Q7SCE9|AA13_NEUCR,neurospora_crassa,385,2,2,0.4,False,True,5,5,0,True,False,0.4
-GH72_CBM43,2,sp|B0XT09|GEL3_ASPFC,aspergillus_fumigatus,547,2,2,0.08695652173913043,False,True,48,23,1,True,True,0.041666666666666664
-AA9_CBM1,0,sp|B2B629|LP9A_PODAN,podospora_anserina,351,1,1,1.0,False,True,1,1,0,True,True,1.0
-GH15_CBM20,10,sp|P14804|AMYG_NEUCR,neurospora_crassa,626,1,1,0.05,False,True,30,20,2,True,False,0.03333333333333333
+architecture,cluster,protein,species,length,cluster_size,species_in_cluster,species_fraction,thermophile,reviewed,architecture_proteins,architecture_species,architecture_thermophiles,has_cbm,has_cellulase,cluster_fraction,functional_group,plant_cell_wall
+GH54_CBM42,2,sp|O74288|ABFB_EMENI,aspergillus_nidulans,510,5,5,0.2631578947368421,False,True,28,19,1,True,False,0.17857142857142858,Hemicellulose,True
+CBM35_GH26,0,sp|G2Q4H7|MA26A_THET4,myceliophthora_thermophila,482,4,4,1.0,True,True,4,4,2,True,False,1.0,Hemicellulose,True
+GH72_CBM43,1,sp|B0XVI5|GEL4_ASPFC,aspergillus_fumigatus,548,4,4,0.17391304347826086,False,True,48,23,1,True,False,0.08333333333333333,Fungal cell wall & chitin,False
+AA13_CBM20,1,sp|Q7SCE9|AA13_NEUCR,neurospora_crassa,385,2,2,0.4,False,True,5,5,0,True,False,0.4,Oxidative (AA),False
+GH72_CBM43,2,sp|B0XT09|GEL3_ASPFC,aspergillus_fumigatus,547,2,2,0.08695652173913043,False,True,48,23,1,True,False,0.041666666666666664,Fungal cell wall & chitin,False
+AA9_CBM1,0,sp|B2B629|LP9A_PODAN,podospora_anserina,351,1,1,1.0,False,True,1,1,0,True,True,1.0,Cellulose,True
+GH15_CBM20,10,sp|P14804|AMYG_NEUCR,neurospora_crassa,626,1,1,0.05,False,True,30,20,2,True,False,0.03333333333333333,"Starch, fructan & other",False

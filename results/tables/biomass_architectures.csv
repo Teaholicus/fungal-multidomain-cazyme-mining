@@ -1,20 +1,25 @@
-domain_architecture,proteins,species,thermophile_species,has_cbm,has_cellulase
-GH72 + CBM43,48,23,1,True,True
-GH71 + CBM24,34,19,1,True,True
-GH54 + CBM42,28,19,1,True,True
-GH7 + CBM1,11,7,2,True,True
-GH10 + CBM1,6,6,2,True,True
-GH5_4 + CBM46,5,5,0,True,True
-GH5_5 + CBM1,4,3,0,True,True
-GH76 + CBM13,2,2,0,True,True
-AA9 + CBM1,1,1,0,True,True
-CBM1 + GH10,1,1,0,True,True
-CBM1 + GH45_1,1,1,0,True,True
-GH11 + CBM1,1,1,0,True,True
-GH128 + GH16_4,1,1,0,False,True
-GH45_2 + CBM1,1,1,0,True,True
-GH55 + GH55_2,1,1,0,False,True
-GH71 + CBM24 + CBM24,1,1,0,True,True
-GH74 + GH74 + CBM1,1,1,1,True,True
-GH79 + CBM67 + GH78,1,1,0,True,True
-GH79 + GH29,1,1,0,False,True
+domain_architecture,proteins,species,thermophile_species,has_cbm,functional_group,has_cellulase,plant_cell_wall
+GH54 + CBM42,28,19,1,True,Hemicellulose,False,True
+GH43_14 + CBM91,19,14,2,True,Hemicellulose,False,True
+GH43_36 + CBM91,13,9,2,True,Hemicellulose,False,True
+GH7 + CBM1,11,7,2,True,Cellulose,True,True
+GH43_29 + CBM6,9,8,0,True,Hemicellulose,False,True
+GH10 + CBM1,6,6,2,True,Hemicellulose,False,True
+GH43_13 + CBM91,6,6,0,True,Hemicellulose,False,True
+GH5_4 + CBM46,5,5,0,True,Cellulose,True,True
+CBM35 + GH26,4,4,2,True,Hemicellulose,False,True
+CE8 + GH28,4,4,1,False,Pectin,False,True
+GH5_5 + CBM1,4,3,0,True,Cellulose,True,True
+GH43_34 + CBM66,3,3,0,True,Hemicellulose,False,True
+AA9 + CBM1,1,1,0,True,Cellulose,True,True
+CBM1 + GH10,1,1,0,True,Hemicellulose,False,True
+CBM1 + GH45_1,1,1,0,True,Cellulose,True,True
+CE1 + CBM1,1,1,0,True,Hemicellulose,False,True
+GH11 + CBM1,1,1,0,True,Hemicellulose,False,True
+GH27 + GH28,1,1,0,False,Hemicellulose,False,True
+GH43_26 + CBM42,1,1,0,True,Hemicellulose,False,True
+GH45_2 + CBM1,1,1,0,True,Cellulose,True,True
+GH74 + GH74 + CBM1,1,1,1,True,Hemicellulose,False,True
+GH79 + CBM67 + GH78,1,1,0,True,Pectin,False,True
+GH79 + GH29,1,1,0,False,Pectin,False,True
+GH93 + CBM66,1,1,0,True,Pectin,False,True

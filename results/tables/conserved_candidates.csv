@@ -1,28 +1,28 @@
-architecture,cluster,protein,species,length,cluster_size,species_in_cluster,species_fraction,thermophile,reviewed,architecture_proteins,architecture_species,architecture_thermophiles,has_cbm,has_cellulase,cluster_fraction
-GH54_CBM42,1,tr|G9NYH4|G9NYH4_HYPAI,trichoderma_atroviride,511,20,13,0.6842105263157895,False,False,28,19,1,True,True,0.7142857142857143
-AA8_AA3_1,4,tr|G0S434|G0S434_CHATD,chaetomium_thermophilum,832,5,5,0.3333333333333333,True,False,27,15,3,False,False,0.18518518518518517
-GH15_CBM20,5,tr|A0A364L476|A0A364L476_TALAM,talaromyces_amestolkiae,638,5,5,0.25,False,False,30,20,2,True,False,0.16666666666666666
-GH54_CBM42,2,sp|O74288|ABFB_EMENI,aspergillus_nidulans,510,5,5,0.2631578947368421,False,True,28,19,1,True,True,0.17857142857142858
-GH5_4_CBM46,0,tr|S7ZX22|S7ZX22_PENO1,penicillium_oxalicum,655,5,5,1.0,False,False,5,5,0,True,True,1.0
-CBM35_GH26,0,sp|G2Q4H7|MA26A_THET4,myceliophthora_thermophila,482,4,4,1.0,True,True,4,4,2,True,False,1.0
-GH15_CBM20,7,tr|G0R866|G0R866_HYPJQ,trichoderma_reesei,632,4,4,0.2,False,False,30,20,2,True,False,0.13333333333333333
-GH71_CBM24,23,tr|G9NRY6|G9NRY6_HYPAI,trichoderma_atroviride,634,4,4,0.21052631578947367,False,False,34,19,1,True,True,0.11764705882352941
-GH72_CBM43,1,sp|B0XVI5|GEL4_ASPFC,aspergillus_fumigatus,548,4,4,0.17391304347826086,False,True,48,23,1,True,True,0.08333333333333333
-GH72_CBM43,3,tr|G9NIE1|G9NIE1_HYPAI,trichoderma_atroviride,544,4,4,0.17391304347826086,False,False,48,23,1,True,True,0.08333333333333333
-GH72_CBM43,5,tr|Q5B6V0|Q5B6V0_EMENI,aspergillus_nidulans,542,4,4,0.17391304347826086,False,False,48,23,1,True,True,0.08333333333333333
-GH72_CBM43,20,tr|G0RXH1|G0RXH1_HYPJQ,trichoderma_reesei,525,4,4,0.17391304347826086,False,False,48,23,1,True,True,0.08333333333333333
-AA13_CBM20,0,tr|S8AKS0|S8AKS0_PENO1,penicillium_oxalicum,403,3,3,0.6,False,False,5,5,0,True,False,0.6
-GH10_CBM1,0,tr|B2AFS1|B2AFS1_PODAN,podospora_anserina,418,3,3,0.5,False,False,6,6,2,True,True,0.5
-GH13_1_CBM20,1,tr|A0A1L9V187|A0A1L9V187_ASPBC,aspergillus_brasiliensis,636,3,3,0.21428571428571427,False,False,16,14,2,True,False,0.1875
-GH13_1_CBM20,2,tr|A1CIW4|A1CIW4_ASPCL,aspergillus_clavatus,636,3,3,0.21428571428571427,False,False,16,14,2,True,False,0.1875
-GH15_CBM20,3,tr|A0A1L9U2T6|A0A1L9U2T6_ASPBC,aspergillus_brasiliensis,645,3,3,0.15,False,False,30,20,2,True,False,0.1
-GH43_14_CBM91,2,tr|B2ARI1|B2ARI1_PODAN,podospora_anserina,601,3,3,0.21428571428571427,False,False,19,14,2,True,False,0.15789473684210525
-GH43_29_CBM6,1,tr|A0A6V8H5W8|A0A6V8H5W8_TALPI,talaromyces_pinophilus,457,3,3,0.375,False,False,9,8,0,True,False,0.3333333333333333
-GH43_29_CBM6,2,tr|A0A5M3ZD48|A0A5M3ZD48_ASPTE,aspergillus_terreus,454,3,3,0.375,False,False,9,8,0,True,False,0.3333333333333333
-GH43_34_CBM66,0,tr|A0A2T4ACV6|A0A2T4ACV6_TRIHA,trichoderma_harzianum,500,3,3,1.0,False,False,3,3,0,True,False,1.0
-GH43_36_CBM91,0,tr|S7Z4P2|S7Z4P2_PENO1,penicillium_oxalicum,582,3,3,0.3333333333333333,False,False,13,9,2,True,False,0.23076923076923078
-GH5_5_CBM1,1,tr|A0A8T8XHZ1|A0A8T8XHZ1_ASPJA,aspergillus_japonicus,410,3,3,1.0,False,False,4,3,0,True,True,0.75
-GH72_CBM43,4,tr|W6QIM7|W6QIM7_PENRF,penicillium_roqueforti,543,3,3,0.13043478260869565,False,False,48,23,1,True,True,0.0625
-GH72_CBM43,10,tr|B0YAF4|B0YAF4_ASPFC,aspergillus_fumigatus,537,3,3,0.13043478260869565,False,False,48,23,1,True,True,0.0625
-GH72_CBM43,16,tr|K9FPG7|K9FPG7_PEND2,penicillium_digitatum,533,3,3,0.13043478260869565,False,False,48,23,1,True,True,0.0625
-GH7_CBM1,2,tr|G2Q665|G2Q665_THET4,myceliophthora_thermophila,526,3,3,0.42857142857142855,True,False,11,7,2,True,True,0.2727272727272727
+architecture,cluster,protein,species,length,cluster_size,species_in_cluster,species_fraction,thermophile,reviewed,architecture_proteins,architecture_species,architecture_thermophiles,has_cbm,has_cellulase,cluster_fraction,functional_group,plant_cell_wall
+GH54_CBM42,1,tr|G9NYH4|G9NYH4_HYPAI,trichoderma_atroviride,511,20,13,0.6842105263157895,False,False,28,19,1,True,False,0.7142857142857143,Hemicellulose,True
+AA8_AA3_1,4,tr|G0S434|G0S434_CHATD,chaetomium_thermophilum,832,5,5,0.3333333333333333,True,False,27,15,3,False,False,0.18518518518518517,Oxidative (AA),False
+GH15_CBM20,5,tr|A0A364L476|A0A364L476_TALAM,talaromyces_amestolkiae,638,5,5,0.25,False,False,30,20,2,True,False,0.16666666666666666,"Starch, fructan & other",False
+GH54_CBM42,2,sp|O74288|ABFB_EMENI,aspergillus_nidulans,510,5,5,0.2631578947368421,False,True,28,19,1,True,False,0.17857142857142858,Hemicellulose,True
+GH5_4_CBM46,0,tr|S7ZX22|S7ZX22_PENO1,penicillium_oxalicum,655,5,5,1.0,False,False,5,5,0,True,True,1.0,Cellulose,True
+CBM35_GH26,0,sp|G2Q4H7|MA26A_THET4,myceliophthora_thermophila,482,4,4,1.0,True,True,4,4,2,True,False,1.0,Hemicellulose,True
+GH15_CBM20,7,tr|G0R866|G0R866_HYPJQ,trichoderma_reesei,632,4,4,0.2,False,False,30,20,2,True,False,0.13333333333333333,"Starch, fructan & other",False
+GH71_CBM24,23,tr|G9NRY6|G9NRY6_HYPAI,trichoderma_atroviride,634,4,4,0.21052631578947367,False,False,34,19,1,True,False,0.11764705882352941,Fungal cell wall & chitin,False
+GH72_CBM43,1,sp|B0XVI5|GEL4_ASPFC,aspergillus_fumigatus,548,4,4,0.17391304347826086,False,True,48,23,1,True,False,0.08333333333333333,Fungal cell wall & chitin,False
+GH72_CBM43,3,tr|G9NIE1|G9NIE1_HYPAI,trichoderma_atroviride,544,4,4,0.17391304347826086,False,False,48,23,1,True,False,0.08333333333333333,Fungal cell wall & chitin,False
+GH72_CBM43,5,tr|Q5B6V0|Q5B6V0_EMENI,aspergillus_nidulans,542,4,4,0.17391304347826086,False,False,48,23,1,True,False,0.08333333333333333,Fungal cell wall & chitin,False
+GH72_CBM43,20,tr|G0RXH1|G0RXH1_HYPJQ,trichoderma_reesei,525,4,4,0.17391304347826086,False,False,48,23,1,True,False,0.08333333333333333,Fungal cell wall & chitin,False
+AA13_CBM20,0,tr|S8AKS0|S8AKS0_PENO1,penicillium_oxalicum,403,3,3,0.6,False,False,5,5,0,True,False,0.6,Oxidative (AA),False
+GH10_CBM1,0,tr|B2AFS1|B2AFS1_PODAN,podospora_anserina,418,3,3,0.5,False,False,6,6,2,True,False,0.5,Hemicellulose,True
+GH13_1_CBM20,1,tr|A0A1L9V187|A0A1L9V187_ASPBC,aspergillus_brasiliensis,636,3,3,0.21428571428571427,False,False,16,14,2,True,False,0.1875,"Starch, fructan & other",False
+GH13_1_CBM20,2,tr|A1CIW4|A1CIW4_ASPCL,aspergillus_clavatus,636,3,3,0.21428571428571427,False,False,16,14,2,True,False,0.1875,"Starch, fructan & other",False
+GH15_CBM20,3,tr|A0A1L9U2T6|A0A1L9U2T6_ASPBC,aspergillus_brasiliensis,645,3,3,0.15,False,False,30,20,2,True,False,0.1,"Starch, fructan & other",False
+GH43_14_CBM91,2,tr|B2ARI1|B2ARI1_PODAN,podospora_anserina,601,3,3,0.21428571428571427,False,False,19,14,2,True,False,0.15789473684210525,Hemicellulose,True
+GH43_29_CBM6,1,tr|A0A6V8H5W8|A0A6V8H5W8_TALPI,talaromyces_pinophilus,457,3,3,0.375,False,False,9,8,0,True,False,0.3333333333333333,Hemicellulose,True
+GH43_29_CBM6,2,tr|A0A5M3ZD48|A0A5M3ZD48_ASPTE,aspergillus_terreus,454,3,3,0.375,False,False,9,8,0,True,False,0.3333333333333333,Hemicellulose,True
+GH43_34_CBM66,0,tr|A0A2T4ACV6|A0A2T4ACV6_TRIHA,trichoderma_harzianum,500,3,3,1.0,False,False,3,3,0,True,False,1.0,Hemicellulose,True
+GH43_36_CBM91,0,tr|S7Z4P2|S7Z4P2_PENO1,penicillium_oxalicum,582,3,3,0.3333333333333333,False,False,13,9,2,True,False,0.23076923076923078,Hemicellulose,True
+GH5_5_CBM1,1,tr|A0A8T8XHZ1|A0A8T8XHZ1_ASPJA,aspergillus_japonicus,410,3,3,1.0,False,False,4,3,0,True,True,0.75,Cellulose,True
+GH72_CBM43,4,tr|W6QIM7|W6QIM7_PENRF,penicillium_roqueforti,543,3,3,0.13043478260869565,False,False,48,23,1,True,False,0.0625,Fungal cell wall & chitin,False
+GH72_CBM43,10,tr|B0YAF4|B0YAF4_ASPFC,aspergillus_fumigatus,537,3,3,0.13043478260869565,False,False,48,23,1,True,False,0.0625,Fungal cell wall & chitin,False
+GH72_CBM43,16,tr|K9FPG7|K9FPG7_PEND2,penicillium_digitatum,533,3,3,0.13043478260869565,False,False,48,23,1,True,False,0.0625,Fungal cell wall & chitin,False
+GH7_CBM1,2,tr|G2Q665|G2Q665_THET4,myceliophthora_thermophila,526,3,3,0.42857142857142855,True,False,11,7,2,True,True,0.2727272727272727,Cellulose,True

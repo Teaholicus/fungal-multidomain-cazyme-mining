@@ -1,205 +1,144 @@
 # Comparative Genome Mining of Multidomain Fungal CAZymes
 
-Comparative genome-mining project focused on discovering secreted fungal carbohydrate-active enzymes (CAZymes) and multidomain enzyme architectures associated with plant biomass degradation.
+A reproducible pipeline that mines the predicted secretomes of 29 fungi for multidomain carbohydrate-active enzymes (CAZymes) and reduces them to a compact, non-redundant set of candidates for enzyme discovery and engineering.
+
+## At a glance
+
+| Analysis stage | Proteins remaining |
+|----------------|------------------:|
+| Complete fungal proteomes (29 species) | 336,213 |
+| SignalP 6 Fast predictions | 24,258 |
+| SignalP 6 Slow-sequential validation | 23,417 |
+| DeepTMHMM-filtered secretome | 19,631 |
+| Secreted CAZyme proteins (dbCAN) | 5,971 |
+| Multidomain CAZymes | 312 |
+| Non-redundant representative candidates | **191** |
+
+**Key findings**
+
+- The two most abundant multidomain architectures, GH72 + CBM43 and GH71 + CBM24 (82 of 312 proteins), remodel the fungus's *own* cell wall rather than plant biomass.
+- Plant cell-wall architectures are more diverse (24 of 47 architectures) but each is individually rarer.
+- Cellulose-active multidomain enzymes form a small, well-defined set: 12 representatives in 6 architectures, all GH5, GH7, GH45 or AA9 joined to a CBM.
+- One candidate from this set, the GH54 + CBM42 α-L-arabinofuranosidase AbfB from *Aspergillus clavatus*, is taken forward in [rational-enzyme-engineering](https://github.com/Teaholicus/rational-enzyme-engineering).
 
 ---
 
-# Project Goals
+## Why multidomain CAZymes
 
-Industrial biomass conversion relies heavily on fungal carbohydrate-active enzymes (CAZymes), particularly secreted cellulases and oxidative accessory enzymes involved in plant cell wall deconstruction.
+Industrial biomass conversion relies heavily on secreted fungal CAZymes: cellulases, hemicellulases and oxidative accessory enzymes that deconstruct plant cell walls. Many of the most useful ones combine a catalytic domain with one or more carbohydrate-binding modules (CBMs), which improve substrate targeting, processivity and activity on insoluble substrates.
 
-While many industrial enzymes have already been characterized, genome mining across diverse fungal species remains a powerful strategy for discovering:
+Genome mining across diverse fungi remains a practical way to find:
 
-- novel cellulases
-- unusual multidomain architectures
-- improved thermostability
-- enhanced substrate binding
-- synergistic catalytic combinations
-- potentially patentable enzyme candidates
+- new variants of known enzyme classes
+- unusual domain combinations
+- candidates from thermophilic species with potentially higher stability
+- starting points for protein engineering
 
-This project aims to build a reproducible comparative fungal secretome-mining pipeline capable of:
+The pipeline:
 
-1. collecting fungal reference proteomes automatically from UniProt
-2. predicting secreted proteins using SignalP 6
-3. removing membrane-associated proteins using DeepTMHMM
-4. annotating CAZyme domains using HMMER + dbCAN
-5. reconstructing multidomain enzyme architectures
-6. identifying rare or industrially relevant multidomain CAZyme architectures across fungi
+1. collects fungal reference proteomes automatically from UniProt
+2. predicts secreted proteins with SignalP 6
+3. removes membrane-associated proteins with DeepTMHMM
+4. annotates CAZyme domains with HMMER and dbCAN
+5. reconstructs multidomain architectures
+6. clusters sequences within each architecture and selects representatives
+7. sorts representatives into subsets for different downstream questions
 
-The workflow combines complementary protein localization predictors to generate a high-confidence fungal secretome prior to CAZyme annotation. Rather than relying solely on signal peptide prediction, membrane-associated proteins are removed before downstream analysis, improving the biological realism of the predicted extracellular fungal secretome.
-
-The workflow combines classical bioinformatics tools with large-scale comparative analysis and focuses on biologically interpretable results rather than black-box predictions.
+The emphasis is on biologically interpretable, traceable results rather than black-box predictions.
 
 ---
 
-# Biological Background
+## Species
 
-Filamentous fungi are among the most efficient degraders of lignocellulosic biomass in nature. Species such as *Trichoderma*, *Aspergillus*, *Penicillium*, and thermophilic fungi secrete large extracellular enzyme repertoires specialized for decomposition of cellulose, hemicellulose, and lignin-rich substrates.
+29 species were selected for known cellulolytic capability, industrial enzyme production, ecological diversity, thermophilic adaptation and coverage of the major filamentous fungal groups:
 
-Particularly important enzyme classes include:
+- *Trichoderma* (4 species), *Aspergillus* (8), *Penicillium* (4), *Talaromyces* (2), *Fusarium* (2)
+- *Neurospora crassa*, *Podospora anserina*, *Chaetomium globosum*, *Pleurotus ostreatus*, *Rhizopus oryzae*, *Yarrowia lipolytica*
+- thermophiles: *Myceliophthora thermophila* (syn. *Thermothelomyces thermophilus*), *Thielavia terrestris*, *Chaetomium thermophilum*
 
-- Glycoside Hydrolases (GH)
-- Auxiliary Activities (AA)
-- Carbohydrate Binding Modules (CBM)
-- Polysaccharide Lyases (PL)
-- Carbohydrate Esterases (CE)
-
-Many industrially valuable enzymes contain multidomain architectures such as:
-
-- catalytic GH + CBM combinations
-- oxidative AA modules
-- tandem substrate-binding domains
-
-These architectures may improve:
-- substrate accessibility
-- catalytic efficiency
-- processivity
-- thermostability
-- enzyme synergy on insoluble biomass
-
-Because multidomain organization often determines substrate recognition, catalytic efficiency and enzyme synergy, identifying conserved and unusual domain combinations may reveal promising targets for enzyme engineering and industrial biotechnology.
+Mesophiles and thermophiles were combined to increase the chance of finding unusual architectures and potentially thermostable candidates.
 
 ---
 
-# Species Selection
+## Methods
 
-The dataset includes 29 fungal species selected based on:
+### 1. Proteome retrieval
 
-- known cellulolytic capability
-- industrial enzyme production
-- ecological diversity
-- thermophilic adaptation
-- representation of major filamentous fungal groups
+Reference proteomes were retrieved through the UniProt REST API. Reference proteomes were preferred, viral entries filtered out, and proteomes with implausible protein counts rejected; taxonomy-based retrieval served as a fallback. The step writes one FASTA file per species and a metadata report.
 
-The collection includes:
+### 2. Two-stage SignalP 6 secretome prediction
 
-- *Trichoderma*
-- *Aspergillus*
-- *Penicillium*
-- *Fusarium*
-- *Neurospora*
-- *Pleurotus*
-- thermophilic fungi such as:
-  - *Chaetomium thermophilum*
-  - *Thermothelomyces thermophilus*
-  - *Thielavia terrestris*
+Running the SignalP 6 `slow-sequential` model on all 29 proteomes would take about a week on a desktop workstation. A two-stage workflow was therefore used:
 
-Both mesophilic and thermophilic fungi were included to increase the likelihood of identifying unusual enzyme architectures and potentially thermostable candidates.
+1. **Fast screening** of complete proteomes with the SignalP 6 Fast model
+2. **Slow validation** of Fast-positive proteins with `slow-sequential`
 
----
+The approach was benchmarked against a full `slow-sequential` run on the *Trichoderma reesei* proteome. The two models disagreed on ~0.7% of all proteins and ~9% of secretome-related predictions (Fast-only plus Slow-only calls). Slow validation removed ~3.6% of Fast-positive *T. reesei* proteins, within that expected disagreement range.
 
-# Pipeline Overview
+Across all 29 species, Slow validation retained 96.4% of Fast-positive proteins on average (range 95.4–98.1%). The hybrid workflow reduced total runtime about 4.3-fold; Fast mode alone is about 6× faster than `slow-sequential`.
 
-## 1. Automatic Proteome Retrieval
+The conclusion is that SignalP Fast performs very well for fungal secretome screening, and Slow validation mainly removes marginal predictions.
 
-Reference fungal proteomes were automatically retrieved from UniProt using the REST API.
+### 3. DeepTMHMM filtering
 
-Selection logic:
-- prioritize reference proteomes
-- filter out viral entries
-- prefer proteomes with realistic fungal protein counts
-- fallback taxonomy-based retrieval when reference proteomes were unavailable
+Many membrane proteins also carry an N-terminal signal peptide, so a SignalP-positive protein is not necessarily secreted. All 23,417 SignalP-validated proteins were therefore analysed with DeepTMHMM, and only the **SP** class (signal peptide, no transmembrane helices) was kept:
 
-The download pipeline automatically generated:
-- FASTA proteomes
-- metadata report tables
-- reproducible species annotations
+| DeepTMHMM class | Proteins | Action |
+|---|---:|---|
+| SP | 19,631 | retained |
+| SP+TM | 3,192 | removed |
+| GLOB (no signal peptide called) | 391 | removed |
+| TM | 203 | removed |
 
----
+DeepTMHMM removed 3,786 proteins (16.2%). Together with Slow validation, the initial SignalP-positive set was reduced by ~19%.
 
-## 2. Secretome Prediction with SignalP 6
+### 4. CAZyme annotation
 
-Secreted proteins were predicted using a two-stage workflow:
+The filtered secretome was scanned with HMMER3 (`hmmscan`) against the dbCAN HMM database v14. Annotating only after secretome filtering avoids false-positive "secreted" CAZymes that are really intracellular or membrane-bound.
 
-### Fast Screening
-SignalP 6 Fast model was first applied to complete fungal proteomes.
+The 59,372 raw HMM matches (across 7,449 proteins) included overlapping, partial and redundant hits. They were filtered in four steps:
 
-### Slow Validation
-Proteins predicted as secreted by the Fast model were re-analyzed using the more computationally expensive `slow-sequential` model.
+| Stage | Domain hits |
+|---|---:|
+| Raw HMM matches | 59,372 |
+| E-value < 1×10⁻¹⁵ and HMM coverage ≥ 35% | 17,662 |
+| Overlap filtering | 6,363 |
+| Merging of adjacent hits from the same family | 6,315 |
 
-This approach is meant to:
-- dramatically reduced runtime
-- preserved high sensitivity
-- removed low-confidence predictions
+The final 6,315 domain assignments cover 5,971 unique secreted proteins.
 
-The workflow was benchmarked against full `slow-sequential` SignalP 6 predictions using the *Trichoderma reesei* proteome.
+### 5. Architecture reconstruction
 
-Comparison between Fast and Slow models showed:
-- ~0.7% disagreement at the full proteome level
-- ~9% disagreement within secretome-related predictions (including both Fast-only and Slow-only classifications)
+Filtered domains were assembled, in sequence order, into one architecture per protein.
 
-To balance computational efficiency and prediction confidence, a two-stage Fast → Slow validation workflow was implemented:
+| Metric | Value |
+|---|---:|
+| CAZyme proteins | 5,971 |
+| Multidomain proteins | 312 |
+| Distinct multidomain architectures | 55 |
+| Distinct architectures, excluding pure repeats of one domain | 47 |
 
-1. Fast model screening on complete proteomes
-2. Slow-sequential validation of Fast-positive secreted proteins
+Architectures made only of repeated copies of one domain were excluded, to focus on combinations of different functional modules.
 
-For *T. reesei*, this approach removed ~3.6% of Fast-predicted secreted proteins, which falls within the expected disagreement range between models.
+### 6. Clustering within architectures
 
-Across all 29 fungal species:
-- average Fast → Slow retention was ~96.5%
-- only ~3.5% of Fast-positive proteins were rejected during Slow validation
+Proteins were clustered separately within each architecture using CD-HIT at 70% sequence identity. Clustering within, not across, architectures avoids merging proteins with different domain organisations. The 70% threshold collapses near-identical orthologs while keeping potentially distinct functional variants. One representative was kept per cluster, with links to all cluster members.
 
-This demonstrated that:
-- SignalP Fast performs extremely well for fungal secretome screening
-- Slow validation primarily removes marginal predictions
-- the hybrid workflow preserves biological realism while dramatically reducing runtime
+### 7. Candidate subsets
 
-Performance benchmarking showed:
-- Fast mode is ~6× faster than Slow-sequential
-- full Slow-sequential analysis of 29 genomes would require approximately one week of continuous runtime on a typical desktop workstation
-- the Fast → Slow strategy reduced total runtime by approximately 4.3× while preserving high-confidence predictions
-
-
-### DeepTMHMM Filtering
-
-Although SignalP accurately predicts N-terminal signal peptides, many membrane proteins also contain signal peptides required for entry into the secretory pathway. Such proteins are not truly secreted and are therefore unsuitable targets for extracellular enzyme discovery.
-
-To improve secretome quality, all SignalP-validated proteins were analysed using DeepTMHMM. Only proteins classified as **SP (secreted proteins without transmembrane helices)** were retained for downstream CAZyme annotation.
-
-Proteins classified as:
-
-- **SP** — retained
-- **SP+TM** — removed
-- **TM** — removed
-- **GLOB** — removed
-
-This additional filtering step eliminated membrane-associated proteins before domain annotation, resulting in a biologically more accurate fungal secretome.
-
-
-# Secretome Statistics
-
-Across the 29 analysed fungal species:
-
-- proteome sizes ranged from ~6,400 to ~15,500 proteins
-- SignalP-predicted secretomes typically represented ~5–10% of each proteome
-- Fast → Slow SignalP retention remained consistently high (~95–98%)
-- DeepTMHMM retained approximately 84% of SignalP-validated proteins
-
-Overall filtering results:
-
-| Stage | Proteins |
-|---------|---------:|
-| SignalP Fast | 24,258 |
-| SignalP Slow validation | 23,417 |
-| DeepTMHMM final secretome | 19,631 |
-
-DeepTMHMM removed 3,786 proteins (16.2%) that were predicted to contain transmembrane helices or lacked convincing evidence of secretion.
-
-Overall, the pipeline reduced the initial set of SignalP-positive proteins by approximately **19%**, producing a conservative, high-confidence extracellular fungal secretome suitable for downstream CAZyme discovery.
-
-This demonstrated that:
-
-- SignalP Fast performs remarkably well for fungal secretome screening
-- Slow validation primarily removes marginal signal peptide predictions
-- DeepTMHMM eliminates membrane-associated proteins that would otherwise inflate the predicted secretome
-- the resulting dataset represents a high-confidence extracellular fungal secretome suitable for downstream CAZyme discovery
-
+Representatives were annotated with a functional group, assigned from their CAZyme families by exact family match (subfamily numbers ignored), and flagged as conserved, thermophile-derived, Swiss-Prot reviewed, or rare.
 
 ---
 
-# Example Secretome Refinement
+## Results
 
-| Species | Proteome | SignalP Fast | SignalP Slow | DeepTMHMM Final | Final Secretome | DeepTMHMM Retention |
+### Secretome size across species
+
+Proteomes ranged from 6,454 to 15,531 proteins. SignalP-validated secretomes made up 3.9–9.5% of each proteome (mean 7.2%). After DeepTMHMM filtering the final secretome was 3.2–8.2% (mean 6.0%), with DeepTMHMM retaining 77–90% of SignalP-validated proteins per species.
+
+*Podospora anserina* and *Pleurotus ostreatus* had the largest final secretome fractions; *Rhizopus oryzae* had the smallest. These differences likely reflect ecological specialisation and different strategies for extracellular biomass degradation.
+
+| Species | Proteome | SignalP Fast | SignalP Slow | DeepTMHMM final | Final secretome | DeepTMHMM retention |
 |---|---:|---:|---:|---:|---:|---:|
 | *Fusarium graminearum* | 14,147 | 1,298 | 1,259 | 1,075 | 7.60% | 85.39% |
 | *Chaetomium globosum* | 11,038 | 1,009 | 974 | 808 | 7.32% | 82.96% |
@@ -207,241 +146,57 @@ This demonstrated that:
 | *Trichoderma reesei* | 9,115 | 666 | 642 | 535 | 5.87% | 83.33% |
 | *Penicillium oxalicum* | 9,977 | 660 | 630 | 515 | 5.16% | 81.75% |
 
----
-
-## Secretome Fraction Across Fungal Species
-
-The proportion of predicted secreted proteins varied substantially across fungal species, ranging from ~3% to ~8% of total proteomes.
-
-Notable differences were observed between fungal groups:
-- *Podospora anserina* and *Pleurotus ostreatus* showed the largest predicted secretomes
-- *Rhizopus oryzae* exhibited a comparatively small secretome fraction
-
-These differences likely reflect ecological specialization and distinct strategies of extracellular biomass degradation.
-
 ![Secretome fraction across species](results/figures/secretome_fraction_across_species.png)
 
----
+### Most common multidomain architectures
 
-# CAZyme Annotation
+| Architecture | Proteins | Species | Typical function |
+|---|---:|---:|---|
+| GH72 + CBM43 | 48 | 23 | β-1,3-glucanosyltransferase; fungal cell wall |
+| GH71 + CBM24 | 34 | 19 | α-1,3-glucanase; fungal cell wall |
+| GH15 + CBM20 | 30 | 20 | glucoamylase; starch |
+| GH54 + CBM42 | 28 | 19 | α-L-arabinofuranosidase; hemicellulose |
+| AA8 + AA3_1 | 27 | 15 | cellobiose dehydrogenase; oxidative cellulose degradation |
+| GH43_14 + CBM91 | 19 | 14 | GH43 hemicellulase |
+| GH13_1 + CBM20 | 16 | 14 | α-amylase; starch |
+| GH43_36 + CBM91 | 13 | 9 | GH43 hemicellulase |
 
-Validated secretomes were annotated using:
+The two most abundant architectures act on the fungal cell wall, not on plant biomass. GH72 enzymes are typically GPI-anchored at the cell surface. Because DeepTMHMM does not predict GPI anchors, some of these proteins are probably cell-surface-bound rather than truly secreted (see Limitations).
 
-- HMMER3
-- dbCAN HMM database (v14)
-
-Domain annotation was performed only after SignalP validation and DeepTMHMM filtering, ensuring that membrane-associated proteins were excluded before functional annotation.
-
-This substantially reduces false-positive CAZyme predictions originating from intracellular or membrane-bound carbohydrate-active proteins.
-
-The workflow identifies:
-
-- CAZyme families
-- catalytic domains
-- carbohydrate-binding modules
-- multidomain architectures
-
-Additional filtering stages were implemented to:
-
-- remove overlapping domain artifacts
-- merge fragmented domain predictions
-- reconstruct biologically realistic multidomain architectures
-
-
----
-
-# Tools Used
-
-- Python
-- Pandas
-- Biopython
-- SignalP 6
-- DeepTMHMM - 1.0
-- HMMER3
-- dbCAN v14
-- UniProt REST API
-- Jupyter Notebook
-- WSL / Ubuntu
-
----
-
-# Repository Structure
-
-```text
-data/               Input fungal proteomes
-notebooks/          Analysis workflow
-scripts/            Command-line helper scripts
-tools/              Third-party software
-results/            Generated tables, figures and intermediate files
-```
----
-
-
-
-# Results: Discovery of Multidomain Biomass-Degrading Enzymes
-
-## Objective
-
-The goal of this stage was to identify multidomain carbohydrate-active enzymes (CAZymes) across fungal secretomes and prioritize architectures potentially relevant to lignocellulose degradation.
-
-While many fungal enzymes consist of a single catalytic domain, multidomain enzymes may combine catalytic and substrate-binding functions within a single protein. Such architectures are particularly attractive for industrial enzyme discovery because carbohydrate-binding modules (CBMs) can improve substrate targeting and activity on insoluble biomass.
-
----
-
-## Domain Annotation
-
-DeepTMHMM-filtered fungal secretomes from 29 species were scanned against the dbCAN CAZyme HMM database using HMMER.
-
-The initial search produced **59,372 raw HMM matches** across **7,449 proteins**. These represent all statistically significant matches reported by HMMER, including multiple overlapping hits, partial matches, and redundant domain assignments.
-
-To obtain a high-confidence CAZyme dataset, several filtering steps were applied:
-
-* domain E-value threshold (**E-value < 1×10⁻¹⁵**)
-* HMM coverage threshold (**≥35%** of the model length)
-* overlap filtering to remove redundant domain predictions
-* merging of adjacent hits belonging to the same CAZyme family
-
-This progressively refined the dataset:
-
-| Stage                              | Domain Hits |
-| ---------------------------------- | ----------: |
-| Raw HMM matches                    |      59,372 |
-| After E-value & coverage filtering |      17,662 |
-| After overlap filtering            |       6,363 |
-| After domain merging               |       6,315 |
-
-The final dataset contained **6,315 high-confidence CAZyme domain assignments** distributed across **5,971 unique secreted proteins**.
-
-These filtered domain annotations formed the basis for multidomain architecture reconstruction and downstream comparative analyses.
-
-
----
-
-## Multidomain Architecture Reconstruction
-
-Filtered domains were assembled into protein architectures.
-
-Results:
-
-| Metric | Value |
-|---------|---------:|
-| CAZyme proteins | 5,971 |
-| Multidomain proteins | 312 |
-| Distinct multidomain architectures | 55 |
-| Distinct multidomain architectures (excluding homomeric repeats) | 47 |
-
-Architectures consisting solely of repeated copies of the same domain were excluded from further analysis to focus on combinations of different functional modules.
-
----
-
-## Most Common Architectures
-
-The most abundant multidomain architectures identified across fungal secretomes were:
-
-| Architecture | Proteins | Species |
-|---------|---------:|---------:|
-| GH72 + CBM43 | 48 | 23 |
-| GH71 + CBM24 | 34 | 19 |
-| GH54 + CBM42 | 28 | 19 |
-| GH7 + CBM1 | 11 | 7 |
-| GH10 + CBM1 | 6 | 6 |
-
-Interestingly, these top architectures combine catalytic CAZyme domains with carbohydrate-binding modules and represent promising candidates for biomass conversion applications.
+The classic plant-biomass architectures are much less abundant: GH7 + CBM1 (cellobiohydrolase) occurs in 11 proteins from 7 species, and GH10 + CBM1 (xylanase) in 6 proteins from 6 species.
 
 ![Most common multidomain architectures](results/figures/multidomain_architecture_frequency.png)
 
----
+### Distribution across species
 
-## Architecture Distribution Across Species
-
-Some multidomain architectures occur repeatedly within a small number of species, whereas others are conserved across diverse fungal lineages. To distinguish between abundance and evolutionary distribution, architectures were ranked by the number of species in which they were detected.
+Some architectures recur within a few species, while others are conserved across diverse lineages. To separate abundance from evolutionary distribution, architectures were also ranked by the number of species in which they occur.
 
 ![Architecture distribution across species](results/figures/multidomain_architecture_species_distribution.png)
 
-
----
-
-## Thermophilic Fungi
-
-Three thermophilic fungi were included in the dataset:
-
-- *Myceliophthora thermophila*
-- *Thielavia terrestris*
-- *Chaetomium thermophilum*
-
-Most multidomain architectures found in thermophiles were also present in mesophilic fungi, suggesting that adaptation to elevated temperatures may occur primarily through sequence-level evolution rather than through acquisition of unique domain architectures.
-
----
-
-## Architecture Landscape
-
-The distribution of architectures across proteins and species revealed a small number of highly conserved solutions alongside numerous rare architectures.
+The overall landscape shows a small number of widely conserved architectures alongside many rare ones.
 
 ![Architecture landscape](results/figures/multidomain_architecture_landscape.png)
 
+### Thermophilic fungi
 
----
+Most multidomain architectures found in the three thermophiles also occur in mesophiles. This suggests that thermal adaptation acts mainly at the sequence level rather than through unique domain combinations.
 
-## Protein Length Analysis
+### Protein length within architectures
 
-Proteins sharing the same multidomain architecture were exported into architecture-specific FASTA files prior to sequence clustering.
+Most architectures have fairly uniform protein lengths, but several vary widely because of long linkers or additional accessory regions:
 
-Protein lengths were summarized to assess structural variability within each architecture.
-
-Although many architectures exhibited relatively uniform protein sizes, several displayed substantial variation caused by long linker regions or additional accessory domains.
-
-Examples include:
-
-- **GH71 + CBM24**, ranging from approximately **570 to 1,740 amino acids**
-- **GH18 + CBM24**, containing unusually large secreted chitinases exceeding **2,000 amino acids**
-
-These observations illustrate that proteins sharing the same domain architecture may still differ considerably in overall sequence organization.
+- **GH71 + CBM24**: about 570 to 1,740 amino acids
+- **GH18 + CBM24**: secreted chitinases exceeding 2,000 amino acids
 
 ![Architecture lengths](results/figures/multidomain_CAZyme_architectures.png)
 
+### Sequence diversity and conservation
 
----
-
-## Homology Clustering
-
-To reduce redundancy while preserving functional diversity, proteins were clustered independently within each multidomain architecture using **CD-HIT** at a **70% sequence identity threshold**.
-
-Clustering within architectures avoids merging proteins with different domain organizations while collapsing highly similar homologous proteins into representative sequence groups.
-
-The **70% identity threshold** was selected to:
-
-- reduce redundancy among closely related proteins
-- preserve sequence diversity within each architecture
-- retain representatives of potentially distinct functional variants
-
-One representative sequence was retained from each cluster while preserving links to all cluster members.
-
-Across the dataset:
-
-- **47** multidomain architectures were analysed
-- **191** representative proteins were identified
-- representatives covered **all 29 fungal species**
-
-Architectures displayed markedly different levels of sequence conservation.
-
-Some formed only a few large sequence clusters, whereas others fragmented into many smaller groups despite sharing identical domain architectures.
+Clustering produced **191 representatives** from **47 architectures**, covering **all 29 species**. Some architectures form a few large clusters, while others fragment into many small groups despite sharing identical domain organisation.
 
 ![Sequence diversity](results/figures/Sequence_diversity_of_multidomain_architectures.png)
 
-
----
-
-## Conservation across fungal species
-
-Cluster membership frequently reflected fungal phylogeny.
-
-Some multidomain architectures contained one broadly conserved sequence cluster distributed across multiple genera, whereas others consisted primarily of lineage-specific variants.
-
-For example, **GH72 + CBM43** and **GH71 + CBM24** exhibit multiple conserved sequence groups that recur across independent fungal lineages.
-
-These patterns suggest repeated conservation of function together with lineage-specific diversification.
-
-Example cluster distributions:
+Cluster membership often follows fungal phylogeny. GH72 + CBM43 and GH71 + CBM24, for example, each contain several conserved sequence groups that recur across independent lineages, consistent with conserved function plus lineage-specific diversification.
 
 GH72 + CBM43
 
@@ -451,156 +206,131 @@ GH71 + CBM24
 
 ![GH71](results/figures/GH71_CBM24_cluster_presence.png)
 
+### Candidate subsets
 
-# Final Candidate Selection
+**By functional group** (assigned from CAZyme families):
 
-The final representative dataset was organized into several biologically relevant subsets to facilitate downstream enzyme discovery.
+| Functional group | Architectures | Proteins | Representatives |
+|---|---:|---:|---:|
+| Cellulose (GH5, GH6, GH7, GH12, GH45, AA9) | 6 | 23 | 12 |
+| Hemicellulose (e.g. GH10, GH11, GH43, GH54, GH74) | 14 | 94 | 50 |
+| Pectin (e.g. GH28, GH78, GH93, CE8) | 4 | 7 | 5 |
+| Oxidative auxiliary activities (AA) | 4 | 34 | 19 |
+| Fungal cell wall & chitin (GH16, GH18, GH71, GH72, GH76) | 9 | 93 | 62 |
+| Starch, fructan & other | 10 | 61 | 43 |
+| **Total** | **47** | **312** | **191** |
 
-Representative proteins were classified into several biologically relevant subsets.
+The three plant cell-wall groups together give **67 representatives** in 24 architectures.
 
-These subsets are intended to support different downstream objectives, ranging from comparative genomics and evolutionary analyses to enzyme engineering and experimental characterization.
+**By selection criterion** (these overlap with each other and with the functional groups):
 
-Representative proteins were classified into:
+| Subset | Representatives |
+|---|---:|
+| Conserved (cluster spans ≥ 3 species) | 27 |
+| Rare (architecture found in a single protein) | 22 |
+| Thermophile-derived | 18 |
+| Swiss-Prot reviewed | 7 |
 
-- conserved multidomain families
-- Cellulose-degrading architectures
-- thermophile-derived candidates
-- experimentally reviewed proteins
-- rare multidomain architectures
-
-This strategy allows users to prioritize candidates according to different research objectives without repeating the complete analysis pipeline.
-
-Final representative dataset:
-
-- **191 representative proteins**
-- **47 multidomain architectures**
-- **29 fungal species**
-
-Representative subsets:
-
-| Category | Representatives |
-|-----------|---------------:|
-| All representatives | 191 |
-| Cellulose-degrading | 82 |
-| Conserved families | 27 |
-| Rare architectures | 22 |
-| Thermophile candidates | 18 |
-| Reviewed proteins | 7 |
+These subsets let a user prioritise candidates for a given question without rerunning the pipeline.
 
 ![Candidate subsets](results/figures/candidate_subsets.png)
 
+### Representative cluster coverage
 
-## Representative cluster coverage
-
-Representative proteins were selected from sequence clusters rather than individual proteins.
-
-Each representative therefore captures a homologous sequence group while preserving links to all proteins belonging to that cluster.
-
-Architectures with points near the upper-right corner are dominated by a single conserved sequence group.
-
-Architectures near the lower-left corner contain many distinct homologous groups and therefore represent richer sources of sequence diversity.
+Each representative stands for a homologous sequence group. In the plot below, architectures near the upper right are dominated by a single conserved group; those near the lower left contain many distinct groups and are therefore richer sources of sequence diversity.
 
 ![Representative coverage](results/figures/cluster_coverage.png)
 
+---
 
-# Pipeline Outputs
+## Pipeline outputs
 
-The pipeline produces several reusable datasets for downstream comparative analyses.
-
-Main outputs include:
-
-| File | Description |
+| File (`results/tables/`) | Description |
 |------|-------------|
-| representative_candidates.csv | Final non-redundant representative proteins |
-| cluster_members.csv | Mapping between representatives and cluster members |
-| architecture_summary.csv | Architecture-level statistics |
-| architecture_fasta_summary.csv | FASTA datasets used for clustering |
-| conserved_candidates.csv | Representatives from conserved sequence groups |
-| cellulase_candidates.csv | Cellulose-degrading representatives |
-| thermophile_candidates.csv | Representatives from thermophilic fungi |
-| reviewed_candidates.csv | Experimentally reviewed representatives |
-| rare_architectures.csv | Representatives of unique multidomain architectures |
-
-Together, these datasets reduce thousands of predicted secreted proteins to a compact collection of representative multidomain enzymes while preserving the observed sequence and architectural diversity.
-
-They provide a practical starting point for comparative genomics, enzyme engineering, experimental validation and industrial enzyme discovery.
-
-# Pipeline Summary
-
-| Analysis stage | Proteins remaining |
-|----------------|------------------:|
-| Complete fungal proteomes | 336,213 |
-| SignalP Fast predictions | 24,258 |
-| SignalP Slow validation | 23,417 |
-| DeepTMHMM-filtered secretome | 19,631 |
-| Secreted CAZyme proteins | 5,971 |
-| Multidomain CAZymes | 312 |
-| Representative candidates | **191** |
-
-The workflow progressively reduces large fungal proteomes to a compact, biologically meaningful collection of representative multidomain CAZymes suitable for downstream comparative analysis and enzyme discovery.
-
-# Conclusion
-
-A reproducible comparative fungal secretome-mining pipeline was developed for the discovery and prioritization of multidomain carbohydrate-active enzymes.
-
-Starting from complete fungal proteomes, the workflow combines:
-
-- automated proteome retrieval
-- two-stage SignalP 6 secretome prediction
-- DeepTMHMM transmembrane filtering
-- dbCAN HMM annotation
-- multidomain architecture reconstruction
-- sequence clustering
-- representative candidate selection
-
-Application to **29 fungal species** identified:
-
-- **5,971 secreted CAZyme proteins**
-- **312 multidomain enzymes**
-- **47 distinct multidomain architectures**
-- **191 representative proteins** spanning all identified sequence clusters
-
-The resulting representative dataset substantially reduces redundancy while preserving the diversity of multidomain CAZyme architectures, providing a practical collection of candidates for comparative analysis, protein engineering and experimental characterization.
-
-Rather than producing a single "best enzyme", the workflow generates a structured, biologically interpretable candidate space that can be explored according to different research questions and industrial objectives.
-
-The complete workflow is fully reproducible and can be readily extended to newly sequenced fungal genomes or adapted to other classes of secreted enzymes.
-
-# Outlook
-
-Several extensions could further improve the pipeline and broaden its applications for industrial enzyme discovery.
-
-Potential future developments include:
-
-- integration of AlphaFold structural models for representative proteins
-- automated prediction of thermostability and protein stability
-- identification of catalytic residues and substrate-binding sites
-- incorporation of protein language model embeddings for sequence similarity analysis
-- automated comparison against experimentally characterized CAZymes
-- taxonomic conservation analysis of multidomain architectures
-- novelty assessment against public patent sequence databases
-- expansion to newly sequenced fungal genomes and additional microbial taxa
-
-Because each analysis stage is modular, these extensions can be incorporated without substantial modification of the overall workflow.
+| `representative_candidates.csv` | All 191 non-redundant representatives, with functional group and flags |
+| `cluster_members.csv` | Mapping between representatives and cluster members |
+| `architecture_summary.csv` | Architecture-level statistics |
+| `architecture_fasta_summary.csv` | FASTA datasets used for clustering |
+| `plant_cell_wall_candidates.csv` | Cellulose, hemicellulose and pectin representatives |
+| `cellulase_candidates.csv` | Cellulose-active representatives |
+| `conserved_candidates.csv` | Representatives of clusters spanning ≥ 3 species |
+| `thermophile_candidates.csv` | Representatives from thermophilic fungi |
+| `reviewed_candidates.csv` | Swiss-Prot reviewed representatives |
+| `rare_architectures.csv` | Representatives of single-protein architectures |
 
 ---
 
-# References
+## How to run
 
-SignalP 6:
-Teufel et al., 2022
-https://www.nature.com/articles/s41587-021-01156-3
+### Requirements
 
-DeepTMHMM:
-- Hallgren et al., 2022
-https://doi.org/10.1101/2022.04.08.487609
+```bash
+conda env create -f environment.yml
+conda activate enzyme_mining
+```
 
-dbCAN:
-- dbCAN-HMMdb-V14.txt
-https://pro.unl.edu/dbCAN2/browse_download.php
-- Zhang et al., 2023
-https://academic.oup.com/nar/article/51/W1/W115/7147496
+The environment provides Python, Biopython, pandas, plotting libraries, HMMER and CD-HIT. Three components cannot be redistributed and are installed separately:
 
-cd-hit-v4.8.1-2019-0228:
--Fu, Limin, et al., 2012
-https://academic.oup.com/bioinformatics/article/28/23/3150/192160
+- **SignalP 6.0** (academic licence from DTU Health Tech), installed into the same environment. The `slow-sequential` model weights are expected in `tools/signalp6_slow_sequential/models/`.
+- **DeepTMHMM 1.0**, run through the DTU web service or BioLib rather than locally.
+- **dbCAN HMM database v14** (`dbCAN-HMMdb-V14.txt`) in `tools/dbcan/`, indexed once with `hmmpress tools/dbcan/dbCAN-HMMdb-V14.txt`.
+
+`data/proteomes/` and `tools/` are not tracked in git, because of their size and licences. Scripts use paths relative to `scripts/`, and notebooks relative to `notebooks/`, so run each from its own folder. The project was developed under WSL / Ubuntu.
+
+### Running order
+
+| # | Step | Produces |
+|---|------|----------|
+| 1 | `notebooks/1_Proteomes_loader.ipynb` | `data/proteomes/*.fasta`, `reference_proteomes_report.csv` |
+| 2 | `scripts/run_signalp_fast.py` | SignalP Fast predictions per species, `results/signalp_fast/` |
+| 3 | `scripts/run_signalp_fast_slow.py` | Slow-sequential validation of Fast-positive proteins, `results/signalp_fast_slow/` |
+| 4 | `notebooks/2_SignalP_predictions_prep.ipynb` | Combined `all_signalp_predictions.fasta` and `protein_species_map.csv` |
+| 5 | DeepTMHMM (external) on `all_signalp_predictions.fasta` | Unpacked output in `results/deeptmhmm/full_run/` |
+| 6 | `notebooks/4_DeepTMHMM_filter.ipynb` | `validated_secretome.fasta`, DeepTMHMM classification tables |
+| 7 | `notebooks/3_Proteome statistics.ipynb` | Per-species secretome statistics and figures (needs step 6) |
+| 8 | `scripts/run_dbcan.sh` | `results/dbcan_hits/dbcan_hits.txt` |
+| 9 | `notebooks/5_CAZymes_parser.ipynb` | Filtered domains, architectures, `candidate_proteins.csv` |
+| 10 | `notebooks/6_Clustering_data_prep.ipynb` | One FASTA per architecture, `results/architecture_fastas/` |
+| 11 | `scripts/run_cdhit70.sh` | CD-HIT clusters at 70% identity, `results/cdhit70/` |
+| 12 | `notebooks/7_Parse_Clusters.ipynb` | Cluster statistics, `architecture_representatives.csv`, `cluster_members.csv` |
+| 13 | `notebooks/8_Final_Candidate_Selection.ipynb` | Candidate subsets and summary figures |
+
+---
+
+## Limitations
+
+- **GPI-anchored proteins are not filtered.** DeepTMHMM detects transmembrane helices, not GPI anchors, so some predicted "secreted" proteins (notably GH72 family members) are probably attached to the cell surface. Adding NetGPI is the obvious next filter.
+- **Domains are called by HMMER alone.** The standard dbCAN workflow also uses DIAMOND and dbCAN-sub and takes a consensus. Strict E-value and coverage thresholds compensate partly, but borderline domains may be missed or mis-assigned.
+- **Functional groups are inferred from family membership.** Several CAZyme families contain more than one activity, so a family label is a hypothesis about function, not a measurement.
+- **Predicted secretomes, not expressed ones.** The pipeline reports what a genome can secrete, not what is produced under industrial conditions.
+
+---
+
+## Outlook
+
+- NetGPI filtering of the secretome
+- AlphaFold models for representatives
+- identification of catalytic residues and substrate-binding sites (implemented for one candidate in [rational-enzyme-engineering](https://github.com/Teaholicus/rational-enzyme-engineering))
+- prediction of thermostability
+- protein language model embeddings for sequence comparison
+- automated comparison against experimentally characterised CAZymes
+- novelty assessment against patent sequence databases
+- extension to newly sequenced fungal genomes and other microbial taxa
+
+Because each stage is modular, these can be added without restructuring the workflow.
+
+---
+
+## A note on authorship
+
+The pipeline design, the choice of methods, and the interpretation of the results are mine. An LLM was used as a coding and writing assistant throughout, most visibly in code annotation and other documentation.
+
+---
+
+## References
+
+- **SignalP 6.0:** Teufel F, et al. (2022) *Nat Biotechnol* 40:1023–1025. [doi:10.1038/s41587-021-01156-3](https://www.nature.com/articles/s41587-021-01156-3)
+- **DeepTMHMM:** Hallgren J, et al. (2022) *bioRxiv*. [doi:10.1101/2022.04.08.487609](https://doi.org/10.1101/2022.04.08.487609)
+- **dbCAN3:** Zheng J, et al. (2023) *Nucleic Acids Res* 51(W1):W115–W121. [Article](https://academic.oup.com/nar/article/51/W1/W115/7147496). HMM database v14: [dbCAN2 downloads](https://pro.unl.edu/dbCAN2/browse_download.php)
+- **CD-HIT 4.8.1:** Fu L, et al. (2012) *Bioinformatics* 28:3150–3152. [doi:10.1093/bioinformatics/bts565](https://academic.oup.com/bioinformatics/article/28/23/3150/192160)
+- **HMMER:** Eddy SR (2011) *PLoS Comput Biol* 7:e1002195. [doi:10.1371/journal.pcbi.1002195](https://doi.org/10.1371/journal.pcbi.1002195)

@@ -1,0 +1,25 @@
+name: enzyme_mining
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.11
+  - pip
+  - biopython
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - requests
+  - tqdm
+  - jupyterlab
+  - ipykernel
+  - hmmer          # hmmscan / hmmpress for dbCAN
+  - cd-hit         # 70% identity clustering
+
+# Installed separately (licences / not on conda):
+#   SignalP 6.0   - academic download from DTU Health Tech, pip-install into this env
+#   DeepTMHMM 1.0 - run through the DTU web service or BioLib
+#   dbCAN HMM database v14 - download to tools/dbcan/ and run hmmpress once
